@@ -10,11 +10,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 本 repo 旨在容器化管理集群之前为分布式 IoTDB 伪分布式和分布式的部署测试提供方便。 (today)
+- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [LebronAl/raft-thesis-zh_cn](https://github.com/LebronAl/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (6 days ago)
 - [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解 (1 week ago)
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) -  (1 week ago)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 week ago)
 
 #### 🌱 Check out my latest projects
 
