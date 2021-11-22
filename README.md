@@ -1,18 +1,15 @@
-### Hi there 👋
+### About me
 
-[![Xinyu Tan's github stats](https://github-readme-stats.vercel.app/api?username=LebronAl&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats/)
+**🎓 Second-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)**
 
-<!--
-**LebronAl/LebronAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Interested in distributed system, consensus algorithm and time-series database**
 
-Here are some ideas to get you started:
+**📫 Email: tanxinyu@apache.org**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 1dasdas...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💬 Wechat: [click here](https://github.com/LebronAl/LebronAl/issues/1)**
+
+### Recent Activities
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
