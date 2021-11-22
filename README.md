@@ -10,19 +10,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) -  (today)
+- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 本 repo 旨在容器化管理集群之前为分布式 IoTDB 伪分布式和分布式的部署测试提供方便。 (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [LebronAl/raft-thesis-zh_cn](https://github.com/LebronAl/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (6 days ago)
 - [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) -  (1 week ago)
-
-#### 🔨 Check out my latest pull requests
-
-- [[IOTDB-1865]【Cluster】Compaction is blocking when removing old files ](https://github.com/apache/iotdb/pull/4365) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel.0.12][IoTDB-1865]【Cluster】Compaction is blocking when removing old files](https://github.com/apache/iotdb/pull/4363) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[Test] Use debug logs to explore the cause of e2E test case failure](https://github.com/apache/iotdb/pull/4342) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[IoTDB-1966] Tool for separating e2E test logs from different nodes](https://github.com/apache/iotdb/pull/4341) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[IOTDB-1857] Remove useless handle logic for CountPlan in executeNonQuery in cluster module](https://github.com/apache/iotdb/pull/4174) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 🌱 Check out my latest projects
 
@@ -31,14 +23,6 @@
 - [LebronAl/FilesConnector](https://github.com/LebronAl/FilesConnector) - Using Github as a network disk
 - [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解
 - [LebronAl/try-githug](https://github.com/LebronAl/try-githug) - An interesting game for learning git.
-
-#### 📜 Check out my recent blog posts
-
-- [15-445 数据库课程学习总结](http://yoursite.com/15-445/) (2 months ago)
-- [Awesome 学习资料分享](http://yoursite.com/awesome-blog/) (3 months ago)
-- [6.824 分布式系统课程学习总结](http://yoursite.com/6-824/) (4 months ago)
-- [COPS 论文阅读](http://yoursite.com/cops-thesis/) (5 months ago)
-- [Facebook 的 Memcached 系统扩展论文阅读](http://yoursite.com/scaling-memcached-thesis/) (5 months ago)
 
 #### ⭐ Check out my recent stars
 
@@ -55,3 +39,19 @@
 - [THUMarkLau](https://github.com/THUMarkLau)
 - [OldAtaraxia](https://github.com/OldAtaraxia)
 - [66RING](https://github.com/66RING)
+
+#### 🔨 Check out my latest pull requests
+
+- [[IOTDB-1865]【Cluster】Compaction is blocking when removing old files ](https://github.com/apache/iotdb/pull/4365) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[To rel.0.12][IoTDB-1865]【Cluster】Compaction is blocking when removing old files](https://github.com/apache/iotdb/pull/4363) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[Test] Use debug logs to explore the cause of e2E test case failure](https://github.com/apache/iotdb/pull/4342) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [[IoTDB-1966] Tool for separating e2E test logs from different nodes](https://github.com/apache/iotdb/pull/4341) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [[IOTDB-1857] Remove useless handle logic for CountPlan in executeNonQuery in cluster module](https://github.com/apache/iotdb/pull/4174) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
+
+#### 📜 Check out my recent blog posts
+
+- [15-445 数据库课程学习总结](http://yoursite.com/15-445/) (2 months ago)
+- [Awesome 学习资料分享](http://yoursite.com/awesome-blog/) (3 months ago)
+- [6.824 分布式系统课程学习总结](http://yoursite.com/6-824/) (4 months ago)
+- [COPS 论文阅读](http://yoursite.com/cops-thesis/) (5 months ago)
+- [Facebook 的 Memcached 系统扩展论文阅读](http://yoursite.com/scaling-memcached-thesis/) (5 months ago)
