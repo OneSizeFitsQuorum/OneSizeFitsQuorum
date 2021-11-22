@@ -1,8 +1,6 @@
-#### About me
-
 🎓 Second-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)
 
-💻 Interested in distributed system, consensus algorithm and time-series database
+💻 Interested in distributed system, time-series database and consensus algorithm
 
 📫 Email: tanxinyu@apache.org
 
