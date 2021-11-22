@@ -14,7 +14,7 @@
 - [LebronAl/raft-thesis-zh_cn](https://github.com/LebronAl/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (6 days ago)
 - [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 
-#### 🌱 Check out my latest projects
+#### 🌱 Check out my recent projects
 
 - [LebronAl/MIT6.824-2021](https://github.com/LebronAl/MIT6.824-2021) - 4 labs &#43; 2 challenges &#43; 4 docs
 - [LebronAl/Async-Kafka-Producer](https://github.com/LebronAl/Async-Kafka-Producer) - A high performance async and safe kafka producer
@@ -30,7 +30,7 @@
 - [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source database particularly designed to efficiently provide consistent data for machine learning driven applications.  (today)
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) (today)
 
-#### 👯 Check out some of my recent followers
+#### 👯 Check out my recent followers
 
 - [MoyunF](https://github.com/MoyunF)
 - [Xuguozong](https://github.com/Xuguozong)
@@ -38,7 +38,7 @@
 - [OldAtaraxia](https://github.com/OldAtaraxia)
 - [66RING](https://github.com/66RING)
 
-#### 🔨 Check out my latest pull requests
+#### 🔨 Check out my recent pull requests
 
 - [[IOTDB-1865]【Cluster】Compaction is blocking when removing old files ](https://github.com/apache/iotdb/pull/4365) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel.0.12][IoTDB-1865]【Cluster】Compaction is blocking when removing old files](https://github.com/apache/iotdb/pull/4363) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
