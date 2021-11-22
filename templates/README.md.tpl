@@ -11,7 +11,7 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 Check out my latest projects
+#### 🌱 Check out my recent projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
@@ -21,12 +21,12 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 👯 Check out some of my recent followers
+#### 👯 Check out my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 🔨 Check out my latest pull requests
+#### 🔨 Check out my recent pull requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
