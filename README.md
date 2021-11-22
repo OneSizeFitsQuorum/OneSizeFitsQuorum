@@ -1,8 +1,6 @@
-#### About me
-
 🎓 Second-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)
 
-💻 Interested in distributed system, consensus algorithm and time-series database
+💻 Interested in distributed system, time-series database and consensus algorithm
 
 📫 Email: tanxinyu@apache.org
 
@@ -10,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (today)
 - [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [LebronAl/raft-thesis-zh_cn](https://github.com/LebronAl/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (6 days ago)
 - [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解 (1 week ago)
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 week ago)
 
 #### 🌱 Check out my latest projects
 
@@ -50,8 +48,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [15-445 数据库课程学习总结](http://yoursite.com/15-445/) (2 months ago)
-- [Awesome 学习资料分享](http://yoursite.com/awesome-blog/) (3 months ago)
-- [6.824 分布式系统课程学习总结](http://yoursite.com/6-824/) (4 months ago)
-- [COPS 论文阅读](http://yoursite.com/cops-thesis/) (5 months ago)
-- [Facebook 的 Memcached 系统扩展论文阅读](http://yoursite.com/scaling-memcached-thesis/) (5 months ago)
+- [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (2 months ago)
+- [Awesome 学习资料分享](https://tanxinyu.work/awesome-blog/) (3 months ago)
+- [6.824 分布式系统课程学习总结](https://tanxinyu.work/6-824/) (4 months ago)
+- [COPS 论文阅读](https://tanxinyu.work/cops-thesis/) (5 months ago)
+- [Facebook 的 Memcached 系统扩展论文阅读](https://tanxinyu.work/scaling-memcached-thesis/) (5 months ago)
