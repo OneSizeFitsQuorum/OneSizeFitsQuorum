@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
-- [benbjohnson/thesecretlivesofdata](https://github.com/benbjohnson/thesecretlivesofdata) - Understanding what your bits do when you&#39;re not looking. (1 day ago)
-- [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source database particularly designed to efficiently provide consistent data for machine learning driven applications.  (1 day ago)
-- [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) (1 day ago)
+- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (today)
+- [tikv/deep-dive-tikv](https://github.com/tikv/deep-dive-tikv) - How do we build a distributed, transactional key-value database - TiKV? (today)
+- [wsdjeg/Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) -  (today)
+- [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (today)
+- [Tencent/phxqueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm. (today)
 
 #### 👯 Check out my recent followers
 
+- [wu-champion](https://github.com/wu-champion)
 - [MoyunF](https://github.com/MoyunF)
 - [Xuguozong](https://github.com/Xuguozong)
 - [THUMarkLau](https://github.com/THUMarkLau)
 - [OldAtaraxia](https://github.com/OldAtaraxia)
-- [66RING](https://github.com/66RING)
 
 #### 🔨 Check out my recent pull requests
 
