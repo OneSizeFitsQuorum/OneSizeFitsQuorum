@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 day ago)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (today)
 - [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (2 days ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (3 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools (today)
+- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段 (today)
+- [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。 (today)
+- [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表 (today)
 - [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable &amp; unreliable messages over UDP.  Robust message fragmentation &amp; reassembly.  P2P networking / NAT traversal.  Encryption. (today)
-- [freetsdb/freetsdb](https://github.com/freetsdb/freetsdb) - An Open-Source Distributed Time Series Database, and the BEST Open-Source replacement for InfluxDB Enterprise. (today)
-- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (today)
-- [cfelde/BinaryOffheapHashMap](https://github.com/cfelde/BinaryOffheapHashMap) - A hashmap implementation for Java that stores map entries off-heap (today)
-- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -48,8 +48,8 @@
 
 #### 📜 Check out my recent blog posts
 
+- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (today)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (2 months ago)
 - [Awesome 学习资料分享](https://tanxinyu.work/awesome-blog/) (3 months ago)
 - [6.824 分布式系统课程学习总结](https://tanxinyu.work/6-824/) (4 months ago)
 - [COPS 论文阅读](https://tanxinyu.work/cops-thesis/) (5 months ago)
-- [Facebook 的 Memcached 系统扩展论文阅读](https://tanxinyu.work/scaling-memcached-thesis/) (5 months ago)
