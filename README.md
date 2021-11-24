@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable &amp; unreliable messages over UDP.  Robust message fragmentation &amp; reassembly.  P2P networking / NAT traversal.  Encryption. (today)
+- [freetsdb/freetsdb](https://github.com/freetsdb/freetsdb) - An Open-Source Distributed Time Series Database, and the BEST Open-Source replacement for InfluxDB Enterprise. (today)
+- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (today)
+- [cfelde/BinaryOffheapHashMap](https://github.com/cfelde/BinaryOffheapHashMap) - A hashmap implementation for Java that stores map entries off-heap (today)
 - [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (1 day ago)
-- [tikv/deep-dive-tikv](https://github.com/tikv/deep-dive-tikv) - How do we build a distributed, transactional key-value database - TiKV? (1 day ago)
-- [wsdjeg/Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) -  (1 day ago)
-- [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (1 day ago)
-- [Tencent/phxqueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm. (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [JiahangOK](https://github.com/JiahangOK)
 - [wu-champion](https://github.com/wu-champion)
 - [MoyunF](https://github.com/MoyunF)
 - [Xuguozong](https://github.com/Xuguozong)
 - [THUMarkLau](https://github.com/THUMarkLau)
-- [OldAtaraxia](https://github.com/OldAtaraxia)
 
 #### 🔨 Check out my recent pull requests
 
