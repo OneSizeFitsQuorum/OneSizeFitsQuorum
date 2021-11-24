@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (today)
-- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (1 day ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 day ago)
+- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (2 days ago)
+- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [LebronAl/raft-thesis-zh_cn](https://github.com/LebronAl/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 week ago)
-- [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解 (2 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (today)
-- [tikv/deep-dive-tikv](https://github.com/tikv/deep-dive-tikv) - How do we build a distributed, transactional key-value database - TiKV? (today)
-- [wsdjeg/Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) -  (today)
-- [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (today)
-- [Tencent/phxqueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm. (today)
+- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (1 day ago)
+- [tikv/deep-dive-tikv](https://github.com/tikv/deep-dive-tikv) - How do we build a distributed, transactional key-value database - TiKV? (1 day ago)
+- [wsdjeg/Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) -  (1 day ago)
+- [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (1 day ago)
+- [Tencent/phxqueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm. (1 day ago)
 
 #### 👯 Check out my recent followers
 
