@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (today)
-- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (2 days ago)
-- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (3 days ago)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 day ago)
+- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (3 days ago)
+- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (4 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [LebronAl/raft-thesis-zh_cn](https://github.com/LebronAl/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 week ago)
 
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools (today)
-- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段 (today)
-- [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。 (today)
-- [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表 (today)
-- [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable &amp; unreliable messages over UDP.  Robust message fragmentation &amp; reassembly.  P2P networking / NAT traversal.  Encryption. (today)
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools (1 day ago)
+- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段 (1 day ago)
+- [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。 (1 day ago)
+- [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表 (1 day ago)
+- [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable &amp; unreliable messages over UDP.  Robust message fragmentation &amp; reassembly.  P2P networking / NAT traversal.  Encryption. (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -48,7 +48,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (today)
+- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (1 day ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (2 months ago)
 - [Awesome 学习资料分享](https://tanxinyu.work/awesome-blog/) (3 months ago)
 - [6.824 分布式系统课程学习总结](https://tanxinyu.work/6-824/) (4 months ago)
