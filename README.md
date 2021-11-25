@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects (today)
+- [google/eng-practices](https://github.com/google/eng-practices) - Google&#39;s Engineering Practices documentation (today)
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools (1 day ago)
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段 (1 day ago)
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。 (1 day ago)
-- [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表 (1 day ago)
-- [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable &amp; unreliable messages over UDP.  Robust message fragmentation &amp; reassembly.  P2P networking / NAT traversal.  Encryption. (1 day ago)
 
 #### 👯 Check out my recent followers
 
