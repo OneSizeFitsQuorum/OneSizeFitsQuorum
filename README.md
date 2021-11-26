@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go. (today)
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (today)
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects (1 day ago)
 - [google/eng-practices](https://github.com/google/eng-practices) - Google&#39;s Engineering Practices documentation (1 day ago)
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools (2 days ago)
-- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段 (2 days ago)
-- [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。 (2 days ago)
 
 #### 👯 Check out my recent followers
 
