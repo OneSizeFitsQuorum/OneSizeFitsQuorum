@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (2 days ago)
-- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (4 days ago)
-- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (5 days ago)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (3 days ago)
+- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (5 days ago)
+- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (6 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [LebronAl/raft-thesis-zh_cn](https://github.com/LebronAl/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 week ago)
 
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go. (today)
-- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (today)
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects (1 day ago)
-- [google/eng-practices](https://github.com/google/eng-practices) - Google&#39;s Engineering Practices documentation (1 day ago)
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools (2 days ago)
+- [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go. (1 day ago)
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (1 day ago)
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects (2 days ago)
+- [google/eng-practices](https://github.com/google/eng-practices) - Google&#39;s Engineering Practices documentation (2 days ago)
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -48,8 +48,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (2 days ago)
+- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (3 days ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (2 months ago)
-- [Awesome 学习资料分享](https://tanxinyu.work/awesome-blog/) (3 months ago)
-- [6.824 分布式系统课程学习总结](https://tanxinyu.work/6-824/) (4 months ago)
+- [Awesome 学习资料分享](https://tanxinyu.work/awesome-blog/) (4 months ago)
+- [6.824 分布式系统课程学习总结](https://tanxinyu.work/6-824/) (5 months ago)
 - [COPS 论文阅读](https://tanxinyu.work/cops-thesis/) (5 months ago)
