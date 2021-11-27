@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [LucasHe0](https://github.com/LucasHe0)
 - [JiahangOK](https://github.com/JiahangOK)
 - [wu-champion](https://github.com/wu-champion)
 - [MoyunF](https://github.com/MoyunF)
 - [Xuguozong](https://github.com/Xuguozong)
-- [THUMarkLau](https://github.com/THUMarkLau)
 
 #### 🔨 Check out my recent pull requests
 
