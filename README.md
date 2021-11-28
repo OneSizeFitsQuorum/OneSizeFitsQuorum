@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures. (today)
+- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps. (today)
 - [clxering/Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - Effective Java（第3版）各章节的中英文学习参考（已完成） (today)
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go. (2 days ago)
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (2 days ago)
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects (3 days ago)
-- [google/eng-practices](https://github.com/google/eng-practices) - Google&#39;s Engineering Practices documentation (3 days ago)
 
 #### 👯 Check out my recent followers
 
