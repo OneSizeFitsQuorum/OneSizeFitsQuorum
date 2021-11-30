@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [SwordHarry](https://github.com/SwordHarry)
+- [wxing2008666](https://github.com/wxing2008666)
+- [jun0315](https://github.com/jun0315)
 - [xpzgg](https://github.com/xpzgg)
-- [LucasHe0](https://github.com/LucasHe0)
-- [JiahangOK](https://github.com/JiahangOK)
-- [wu-champion](https://github.com/wu-champion)
-- [MoyunF](https://github.com/MoyunF)
+- [BlockchainHe](https://github.com/BlockchainHe)
 
 #### 🔨 Check out my recent pull requests
 
