@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ohroffen](https://github.com/ohroffen)
 - [Wongony](https://github.com/Wongony)
 - [Jackeeen](https://github.com/Jackeeen)
 - [Davis1995](https://github.com/Davis1995)
 - [xiaochengzjc](https://github.com/xiaochengzjc)
-- [zhaoalpha](https://github.com/zhaoalpha)
 
 #### 🔨 Check out my recent pull requests
 
