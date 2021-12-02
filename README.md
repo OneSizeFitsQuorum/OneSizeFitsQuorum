@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。 (today)
-- [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。 (today)
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (2 days ago)
-- [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures. (3 days ago)
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps. (3 days ago)
+- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。 (1 day ago)
+- [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。 (1 day ago)
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (3 days ago)
+- [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures. (4 days ago)
+- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps. (4 days ago)
 
 #### 👯 Check out my recent followers
 
