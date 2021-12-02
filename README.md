@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [engula/engula](https://github.com/engula/engula) - Engula empowers engineers to build reliable and cost-effective databases. (today)
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (today)
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。 (1 day ago)
 - [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。 (1 day ago)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It&#39;s born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. (3 days ago)
-- [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures. (4 days ago)
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps. (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [betterA](https://github.com/betterA)
+- [liukun4515](https://github.com/liukun4515)
 - [ohroffen](https://github.com/ohroffen)
 - [Wongony](https://github.com/Wongony)
 - [Jackeeen](https://github.com/Jackeeen)
-- [Davis1995](https://github.com/Davis1995)
-- [xiaochengzjc](https://github.com/xiaochengzjc)
 
 #### 🔨 Check out my recent pull requests
 
