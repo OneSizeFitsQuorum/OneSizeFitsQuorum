@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files. (today)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 day ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 day ago)
 - [engula/engula](https://github.com/engula/engula) - Engula empowers engineers to build reliable and cost-effective databases. (2 days ago)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (2 days ago)
-- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。 (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [ppdog0](https://github.com/ppdog0)
 - [betterA](https://github.com/betterA)
 - [liukun4515](https://github.com/liukun4515)
 - [ohroffen](https://github.com/ohroffen)
 - [Wongony](https://github.com/Wongony)
-- [Jackeeen](https://github.com/Jackeeen)
 
 #### 🔨 Check out my recent pull requests
 
