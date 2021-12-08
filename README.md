@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021 (today)
+- [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS. (today)
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go (1 day ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (1 day ago)
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities &amp; Notifications - Web, Mobile &amp; Desktop with 99% code sharing between them (1 day ago)
-- [bxcodec/faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct (2 days ago)
-- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读 (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [william-wang-stu](https://github.com/william-wang-stu)
 - [Chiro11](https://github.com/Chiro11)
 - [ppdog0](https://github.com/ppdog0)
 - [betterA](https://github.com/betterA)
 - [liukun4515](https://github.com/liukun4515)
-- [ohroffen](https://github.com/ohroffen)
 
 #### 🔨 Check out my recent pull requests
 
