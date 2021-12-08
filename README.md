@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps. Set breakpoints and test your functions locally. (today)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021 (today)
 - [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS. (today)
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go (1 day ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (1 day ago)
-- [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities &amp; Notifications - Web, Mobile &amp; Desktop with 99% code sharing between them (1 day ago)
 
 #### 👯 Check out my recent followers
 
