@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation (today)
+- [0voice/computer_expert_paper](https://github.com/0voice/computer_expert_paper) - 1000&#43;份计算机paper，卡耐基梅隆大学，哈佛，斯坦福，芝加哥大学，MIT，facebook，google，微软，Amazon，twitter等大牛一作，持续更新中 (today)
 - [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps. Set breakpoints and test your functions locally. (1 day ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021 (1 day ago)
 - [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS. (1 day ago)
-- [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go (2 days ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) (2 days ago)
 
 #### 👯 Check out my recent followers
 
