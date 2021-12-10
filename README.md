@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [iamazy](https://github.com/iamazy)
 - [william-wang-stu](https://github.com/william-wang-stu)
 - [Chiro11](https://github.com/Chiro11)
 - [ppdog0](https://github.com/ppdog0)
 - [betterA](https://github.com/betterA)
-- [liukun4515](https://github.com/liukun4515)
 
 #### 🔨 Check out my recent pull requests
 
