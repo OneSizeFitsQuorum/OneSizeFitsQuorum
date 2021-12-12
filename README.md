@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [PKUFlyingPig/pku-cs-self-learning](https://github.com/PKUFlyingPig/pku-cs-self-learning) - 计算机自学指南 (today)
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain (today)
+- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行 (today)
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (today)
 - [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000&#43; instances and thousands kinds of services. &#34;brpc&#34; means &#34;better RPC&#34;. (1 day ago)
-- [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go (1 day ago)
-- [treehollow/install-doc](https://github.com/treehollow/install-doc) - 如何搭建一个树洞 (1 day ago)
-- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization. (3 days ago)
-- [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo Filter: Practically Better Than Bloom (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [hiyoungshen](https://github.com/hiyoungshen)
 - [blastbao](https://github.com/blastbao)
 - [cza2000](https://github.com/cza2000)
 - [iamazy](https://github.com/iamazy)
 - [william-wang-stu](https://github.com/william-wang-stu)
-- [Chiro11](https://github.com/Chiro11)
 
 #### 🔨 Check out my recent pull requests
 
