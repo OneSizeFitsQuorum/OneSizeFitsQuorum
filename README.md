@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines (today)
+- [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations. (today)
 - [apache/logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback&#39;s architecture. (today)
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping &amp; OSINT tool written in Python that doesn&#39;t use Twitter&#39;s API, allowing you to scrape a user&#39;s followers, following, Tweets and more while evading most API limitations. (today)
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion and Ballista query engines (today)
-- [PKUFlyingPig/pku-cs-self-learning](https://github.com/PKUFlyingPig/pku-cs-self-learning) - 计算机自学指南 (1 day ago)
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain (1 day ago)
 
 #### 👯 Check out my recent followers
 
