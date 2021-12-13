@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (6 days ago)
+- [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 week ago)
 - [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (2 weeks ago)
-- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (2 weeks ago)
+- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (3 weeks ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (3 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 weeks ago)
 
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [PKUFlyingPig/pku-cs-self-learning](https://github.com/PKUFlyingPig/pku-cs-self-learning) - 计算机自学指南 (today)
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain (today)
-- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行 (today)
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (today)
-- [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000&#43; instances and thousands kinds of services. &#34;brpc&#34; means &#34;better RPC&#34;. (1 day ago)
+- [PKUFlyingPig/pku-cs-self-learning](https://github.com/PKUFlyingPig/pku-cs-self-learning) - 计算机自学指南 (1 day ago)
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain (1 day ago)
+- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行 (1 day ago)
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 day ago)
+- [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000&#43; instances and thousands kinds of services. &#34;brpc&#34; means &#34;better RPC&#34;. (2 days ago)
 
 #### 👯 Check out my recent followers
 
