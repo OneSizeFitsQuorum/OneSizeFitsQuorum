@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book &#34;Performance Analysis and Tuning on Modern CPU&#34; (today)
+- [BedirT/ACM-ICPC-Preparation](https://github.com/BedirT/ACM-ICPC-Preparation) - ACM-ICPC Preparation Guide (today)
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) - BaikalDB, A Distributed HTAP Database. (today)
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager  (today)
 - [forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide) - 「InterviewGuide」一个收录优质计算机校招、社招面试常见面试题的仓库🔥🔥，以前叫做《逆袭进大厂》。目前已收录 C/C&#43;&#43; 、操作系统、数据结构、计算机网络、MySQL、Redis等面试资料,未来打算继续收录Java、Python、Go等面试常见问题，坚持将此仓库维护下去。 (today)
-- [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C&#43;&#43;、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~ (today)
-- [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim (today)
 
 #### 👯 Check out my recent followers
 
+- [vjudge24](https://github.com/vjudge24)
+- [lingtoshigure](https://github.com/lingtoshigure)
 - [hiyoungshen](https://github.com/hiyoungshen)
 - [blastbao](https://github.com/blastbao)
 - [cza2000](https://github.com/cza2000)
-- [iamazy](https://github.com/iamazy)
-- [william-wang-stu](https://github.com/william-wang-stu)
 
 #### 🔨 Check out my recent pull requests
 
