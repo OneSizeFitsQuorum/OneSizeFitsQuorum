@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines (1 day ago)
-- [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations. (1 day ago)
-- [apache/logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback&#39;s architecture. (1 day ago)
-- [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping &amp; OSINT tool written in Python that doesn&#39;t use Twitter&#39;s API, allowing you to scrape a user&#39;s followers, following, Tweets and more while evading most API limitations. (1 day ago)
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion and Ballista query engines (1 day ago)
+- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) - BaikalDB, A Distributed HTAP Database. (today)
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager  (today)
+- [forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide) - 「InterviewGuide」一个收录优质计算机校招、社招面试常见面试题的仓库🔥🔥，以前叫做《逆袭进大厂》。目前已收录 C/C&#43;&#43; 、操作系统、数据结构、计算机网络、MySQL、Redis等面试资料,未来打算继续收录Java、Python、Go等面试常见问题，坚持将此仓库维护下去。 (today)
+- [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C&#43;&#43;、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~ (today)
+- [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim (today)
 
 #### 👯 Check out my recent followers
 
