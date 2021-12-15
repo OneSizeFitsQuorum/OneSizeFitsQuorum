@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux. (today)
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book &#34;Performance Analysis and Tuning on Modern CPU&#34; (1 day ago)
 - [BedirT/ACM-ICPC-Preparation](https://github.com/BedirT/ACM-ICPC-Preparation) - ACM-ICPC Preparation Guide (1 day ago)
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) - BaikalDB, A Distributed HTAP Database. (1 day ago)
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager  (1 day ago)
-- [forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide) - 「InterviewGuide」一个收录优质计算机校招、社招面试常见面试题的仓库🔥🔥，以前叫做《逆袭进大厂》。目前已收录 C/C&#43;&#43; 、操作系统、数据结构、计算机网络、MySQL、Redis等面试资料,未来打算继续收录Java、Python、Go等面试常见问题，坚持将此仓库维护下去。 (1 day ago)
 
 #### 👯 Check out my recent followers
 
