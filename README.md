@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [NLP-LOVE/Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP) - HanLP作者的新书《自然语言处理入门》详细笔记！业界良心之作，书中不是枯燥无味的公式罗列，而是用白话阐述的通俗易懂的算法模型。从基本概念出发，逐步介绍中文分词、词性标注、命名实体识别、信息抽取、文本聚类、文本分类、句法分析这几个热门问题的算法原理与工程实现。 (today)
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.  (today)
-- [Developer-Y/technical-interviews](https://github.com/Developer-Y/technical-interviews) -  (today)
-- [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design. (today)
-- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (today)
+- [NLP-LOVE/Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP) - HanLP作者的新书《自然语言处理入门》详细笔记！业界良心之作，书中不是枯燥无味的公式罗列，而是用白话阐述的通俗易懂的算法模型。从基本概念出发，逐步介绍中文分词、词性标注、命名实体识别、信息抽取、文本聚类、文本分类、句法分析这几个热门问题的算法原理与工程实现。 (1 day ago)
+- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.  (1 day ago)
+- [Developer-Y/technical-interviews](https://github.com/Developer-Y/technical-interviews) -  (1 day ago)
+- [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design. (1 day ago)
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures. (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -40,8 +40,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-1865]【Cluster】Compaction is blocking when removing old files ](https://github.com/apache/iotdb/pull/4365) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[To rel.0.12][IoTDB-1865]【Cluster】Compaction is blocking when removing old files](https://github.com/apache/iotdb/pull/4363) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[Test] Use debug logs to explore the cause of e2E test case failure](https://github.com/apache/iotdb/pull/4342) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
