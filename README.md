@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems) - 2018年春季课程学习资料汇总 (today)
+- [shibobo/happybirthday](https://github.com/shibobo/happybirthday) - 帮基友做的，祝福她女朋友生日快乐 (today)
+- [google/automl](https://github.com/google/automl) - Google Brain AutoML (today)
+- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖 (today)
 - [stormbroken/SpriCoder-Notes](https://github.com/stormbroken/SpriCoder-Notes) - 南京大学软件学院课程相关笔记 (today)
-- [NLP-LOVE/Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP) - HanLP作者的新书《自然语言处理入门》详细笔记！业界良心之作，书中不是枯燥无味的公式罗列，而是用白话阐述的通俗易懂的算法模型。从基本概念出发，逐步介绍中文分词、词性标注、命名实体识别、信息抽取、文本聚类、文本分类、句法分析这几个热门问题的算法原理与工程实现。 (1 day ago)
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.  (1 day ago)
-- [Developer-Y/technical-interviews](https://github.com/Developer-Y/technical-interviews) -  (1 day ago)
-- [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design. (1 day ago)
 
 #### 👯 Check out my recent followers
 
