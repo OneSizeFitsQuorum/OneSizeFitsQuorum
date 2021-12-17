@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world&#39;s most popular open source database, and MySQL Cluster, a real-time, open source transactional database. (today)
+- [lmk123/crx-selection-translate](https://github.com/lmk123/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展。 (today)
 - [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems) - 2018年春季课程学习资料汇总 (1 day ago)
 - [shibobo/happybirthday](https://github.com/shibobo/happybirthday) - 帮基友做的，祝福她女朋友生日快乐 (1 day ago)
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML (1 day ago)
-- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖 (1 day ago)
-- [stormbroken/SpriCoder-Notes](https://github.com/stormbroken/SpriCoder-Notes) - 南京大学软件学院课程相关笔记 (1 day ago)
 
 #### 👯 Check out my recent followers
 
