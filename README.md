@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [n15847](https://github.com/n15847)
+- [lucky-sinx](https://github.com/lucky-sinx)
 - [vjudge24](https://github.com/vjudge24)
 - [lingtoshigure](https://github.com/lingtoshigure)
 - [hiyoungshen](https://github.com/hiyoungshen)
-- [blastbao](https://github.com/blastbao)
-- [cza2000](https://github.com/cza2000)
 
 #### 🔨 Check out my recent pull requests
 
