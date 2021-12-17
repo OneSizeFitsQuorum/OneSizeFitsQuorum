@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 week ago)
 - [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (3 weeks ago)
 - [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (3 weeks ago)
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems) - 2018年春季课程学习资料汇总 (today)
-- [shibobo/happybirthday](https://github.com/shibobo/happybirthday) - 帮基友做的，祝福她女朋友生日快乐 (today)
-- [google/automl](https://github.com/google/automl) - Google Brain AutoML (today)
-- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖 (today)
-- [stormbroken/SpriCoder-Notes](https://github.com/stormbroken/SpriCoder-Notes) - 南京大学软件学院课程相关笔记 (today)
+- [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems) - 2018年春季课程学习资料汇总 (1 day ago)
+- [shibobo/happybirthday](https://github.com/shibobo/happybirthday) - 帮基友做的，祝福她女朋友生日快乐 (1 day ago)
+- [google/automl](https://github.com/google/automl) - Google Brain AutoML (1 day ago)
+- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖 (1 day ago)
+- [stormbroken/SpriCoder-Notes](https://github.com/stormbroken/SpriCoder-Notes) - 南京大学软件学院课程相关笔记 (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -40,8 +40,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-1865]【Cluster】Compaction is blocking when removing old files ](https://github.com/apache/iotdb/pull/4365) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[To rel.0.12][IoTDB-1865]【Cluster】Compaction is blocking when removing old files](https://github.com/apache/iotdb/pull/4363) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[Test] Use debug logs to explore the cause of e2E test case failure](https://github.com/apache/iotdb/pull/4342) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
