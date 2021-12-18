@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (today)
 - [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen) - 骚话生成器生成器 (today)
 - [vectorengine/vectorsql](https://github.com/vectorengine/vectorsql) - VectorSQL is a free analytics DBMS for IoT &amp; Big Data, compatible with ClickHouse. (today)
 - [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world&#39;s most popular open source database, and MySQL Cluster, a real-time, open source transactional database. (1 day ago)
 - [lmk123/crx-selection-translate](https://github.com/lmk123/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展。 (1 day ago)
-- [aQuaYi/MIT-6.824-Distributed-Systems](https://github.com/aQuaYi/MIT-6.824-Distributed-Systems) - 2018年春季课程学习资料汇总 (2 days ago)
 
 #### 👯 Check out my recent followers
 
