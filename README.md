@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard. (today)
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model (today)
+- [ideawu/ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis (today)
 - [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - ShenYu is High-Performance Java API Gateway. (today)
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs. (1 day ago)
-- [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository. (1 day ago)
-- [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines (2 days ago)
-- [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don&#39;t work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [legend91325](https://github.com/legend91325)
+- [daifengxin](https://github.com/daifengxin)
 - [tsunho12](https://github.com/tsunho12)
 - [Anna1532](https://github.com/Anna1532)
 - [n15847](https://github.com/n15847)
-- [lucky-sinx](https://github.com/lucky-sinx)
-- [vjudge24](https://github.com/vjudge24)
 
 #### 🔨 Check out my recent pull requests
 
