@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World&#39;s fastest and most advanced password recovery utility (today)
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (today)
 - [JaredTan95/skywalking-handbook](https://github.com/JaredTan95/skywalking-handbook) - skywalking-handbook 中文指南 (today)
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) - A RocksDB compatible KV storage engine with better performance (1 day ago)
 - [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) - Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。 (1 day ago)
-- [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger&#39;s source tree (1 day ago)
-- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [lou-lan](https://github.com/lou-lan)
 - [Joker-5](https://github.com/Joker-5)
 - [legend91325](https://github.com/legend91325)
 - [daifengxin](https://github.com/daifengxin)
 - [tsunho12](https://github.com/tsunho12)
-- [Anna1532](https://github.com/Anna1532)
 
 #### 🔨 Check out my recent pull requests
 
