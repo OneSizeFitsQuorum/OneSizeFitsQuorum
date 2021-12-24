@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通 (today)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. (today)
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines (today)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (today)
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World&#39;s fastest and most advanced password recovery utility (1 day ago)
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (1 day ago)
 
 #### 👯 Check out my recent followers
 
