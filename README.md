@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git (today)
+- [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - An advanced guide to learn English that might benefit you a lot  可能是让你受益匪浅的英语进阶指南。 (today)
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通 (2 days ago)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. (2 days ago)
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines (2 days ago)
-- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (2 days ago)
-- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World&#39;s fastest and most advanced password recovery utility (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [jgrajewsky](https://github.com/jgrajewsky)
 - [lou-lan](https://github.com/lou-lan)
 - [Joker-5](https://github.com/Joker-5)
 - [legend91325](https://github.com/legend91325)
 - [daifengxin](https://github.com/daifengxin)
-- [tsunho12](https://github.com/tsunho12)
 
 #### 🔨 Check out my recent pull requests
 
