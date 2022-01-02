@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework (today)
+- [eedalong/Apache-IoTDB-Client-CSharp](https://github.com/eedalong/Apache-IoTDB-Client-CSharp) - C# client for Apache IoTDB (today)
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (today)
 - [smacke/jaydio](https://github.com/smacke/jaydio) - A Java library to perform direct I/O in Linux, bypassing file page cache. (today)
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language. (today)
-- [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm (3 days ago)
-- [sunface/rust-course](https://github.com/sunface/rust-course) - &lt;&lt;Rust语言圣经(Rust Course)&gt;&gt;，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。 这既是一本厚重的书籍，也是一门全面的课程，希望读者朋友能喜欢。 (4 days ago)
-- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more (4 days ago)
 
 #### 👯 Check out my recent followers
 
-- [superxiaolan](https://github.com/superxiaolan)
-- [jgrajewsky](https://github.com/jgrajewsky)
-- [lou-lan](https://github.com/lou-lan)
-- [Joker-5](https://github.com/Joker-5)
-- [legend91325](https://github.com/legend91325)
+- [Mhunter132](https://github.com/Mhunter132)
+- [Howie59](https://github.com/Howie59)
+- [cheese0205](https://github.com/cheese0205)
+- [yvr1037](https://github.com/yvr1037)
+- [haotianmichael](https://github.com/haotianmichael)
 
 #### 🔨 Check out my recent pull requests
 
