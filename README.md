@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend (today)
+- [ongmanibaimihong/book](https://github.com/ongmanibaimihong/book) - 个人认为对技术提升很不错的书 (today)
+- [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (today)
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程 (today)
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C&#43;&#43; 学习资料，含C&#43;&#43; 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等 (1 day ago)
-- [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework (1 day ago)
-- [eedalong/Apache-IoTDB-Client-CSharp](https://github.com/eedalong/Apache-IoTDB-Client-CSharp) - C# client for Apache IoTDB (1 day ago)
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (1 day ago)
 
 #### 👯 Check out my recent followers
 
