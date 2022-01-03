@@ -9,7 +9,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
-- [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (3 weeks ago)
+- [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (4 weeks ago)
 - [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 month ago)
 - [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (1 month ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (1 month ago)
@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework (today)
-- [eedalong/Apache-IoTDB-Client-CSharp](https://github.com/eedalong/Apache-IoTDB-Client-CSharp) - C# client for Apache IoTDB (today)
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (today)
-- [smacke/jaydio](https://github.com/smacke/jaydio) - A Java library to perform direct I/O in Linux, bypassing file page cache. (today)
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language. (today)
+- [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C&#43;&#43; 学习资料，含C&#43;&#43; 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等 (1 day ago)
+- [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework (1 day ago)
+- [eedalong/Apache-IoTDB-Client-CSharp](https://github.com/eedalong/Apache-IoTDB-Client-CSharp) - C# client for Apache IoTDB (1 day ago)
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (1 day ago)
+- [smacke/jaydio](https://github.com/smacke/jaydio) - A Java library to perform direct I/O in Linux, bypassing file page cache. (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [xzhangxian1008](https://github.com/xzhangxian1008)
 - [Mhunter132](https://github.com/Mhunter132)
 - [Howie59](https://github.com/Howie59)
 - [cheese0205](https://github.com/cheese0205)
 - [yvr1037](https://github.com/yvr1037)
-- [haotianmichael](https://github.com/haotianmichael)
 
 #### 🔨 Check out my recent pull requests
 
