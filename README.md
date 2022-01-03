@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程 (today)
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C&#43;&#43; 学习资料，含C&#43;&#43; 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等 (1 day ago)
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework (1 day ago)
 - [eedalong/Apache-IoTDB-Client-CSharp](https://github.com/eedalong/Apache-IoTDB-Client-CSharp) - C# client for Apache IoTDB (1 day ago)
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting &amp; reporting metrics. (1 day ago)
-- [smacke/jaydio](https://github.com/smacke/jaydio) - A Java library to perform direct I/O in Linux, bypassing file page cache. (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [Aiemu](https://github.com/Aiemu)
 - [xzhangxian1008](https://github.com/xzhangxian1008)
 - [Mhunter132](https://github.com/Mhunter132)
 - [Howie59](https://github.com/Howie59)
 - [cheese0205](https://github.com/cheese0205)
-- [yvr1037](https://github.com/yvr1037)
 
 #### 🔨 Check out my recent pull requests
 
