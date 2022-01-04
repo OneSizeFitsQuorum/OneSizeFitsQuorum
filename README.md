@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (today)
+- [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本 (today)
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (today)
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (today)
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (today)
-- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (today)
-- [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C&#43;&#43;11 Thread Pool implementation (today)
-- [TPC-TiKV/rfc](https://github.com/TPC-TiKV/rfc) -  (today)
-- [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [wenxuan-hao](https://github.com/wenxuan-hao)
 - [Aiemu](https://github.com/Aiemu)
 - [xzhangxian1008](https://github.com/xzhangxian1008)
 - [Mhunter132](https://github.com/Mhunter132)
 - [Howie59](https://github.com/Howie59)
-- [cheese0205](https://github.com/cheese0205)
 
 #### 🔨 Check out my recent pull requests
 
