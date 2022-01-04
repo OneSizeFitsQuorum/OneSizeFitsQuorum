@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (today)
+- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements (today)
+- [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C&#43;&#43;11 Thread Pool implementation (today)
+- [TPC-TiKV/rfc](https://github.com/TPC-TiKV/rfc) -  (today)
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code (1 day ago)
-- [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend (1 day ago)
-- [ongmanibaimihong/book](https://github.com/ongmanibaimihong/book) - 个人认为对技术提升很不错的书 (1 day ago)
-- [Clivern/Scalability](https://github.com/Clivern/Scalability) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems. (1 day ago)
-- [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程 (1 day ago)
 
 #### 👯 Check out my recent followers
 
