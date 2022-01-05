@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic &#34;Basic Computer Games&#34; book, with well-written examples in a variety of common programming languages (today)
+- [aclements/go-perf](https://github.com/aclements/go-perf) - Go packages and tools for Linux perf (today)
+- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (today)
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (1 day ago)
 - [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本 (1 day ago)
-- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (1 day ago)
-- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn&#39;t ever lose your work if you&#39;re using Git (1 day ago)
-- [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [rexi-ctrl](https://github.com/rexi-ctrl)
+- [sandro262](https://github.com/sandro262)
+- [Fikenzi](https://github.com/Fikenzi)
+- [Crypto77Hunterz](https://github.com/Crypto77Hunterz)
 - [wenxuan-hao](https://github.com/wenxuan-hao)
-- [Aiemu](https://github.com/Aiemu)
-- [xzhangxian1008](https://github.com/xzhangxian1008)
-- [Mhunter132](https://github.com/Mhunter132)
-- [Howie59](https://github.com/Howie59)
 
 #### 🔨 Check out my recent pull requests
 
