@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic &#34;Basic Computer Games&#34; book, with well-written examples in a variety of common programming languages (1 day ago)
-- [aclements/go-perf](https://github.com/aclements/go-perf) - Go packages and tools for Linux perf (1 day ago)
-- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (1 day ago)
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (2 days ago)
-- [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本 (2 days ago)
+- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (today)
+- [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？ (today)
+- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances (today)
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (today)
+- [chenyahui/AnnotatedCode](https://github.com/chenyahui/AnnotatedCode) - 知名开源代码库的注释版：C&#43;&#43;、Golang等 (today)
 
 #### 👯 Check out my recent followers
 
