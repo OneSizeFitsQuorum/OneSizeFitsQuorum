@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [SwordHarry/mit_6.824_2021_note](https://github.com/SwordHarry/mit_6.824_2021_note) - mit_6.824_2021 中文笔记(lab&#43;paper) (today)
+- [xianlubird/mydocker](https://github.com/xianlubird/mydocker) - &lt;&lt;自己动手写docker&gt;&gt; 源码 (today)
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (today)
 - [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？ (today)
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances (today)
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux (today)
-- [chenyahui/AnnotatedCode](https://github.com/chenyahui/AnnotatedCode) - 知名开源代码库的注释版：C&#43;&#43;、Golang等 (today)
 
 #### 👯 Check out my recent followers
 
+- [dbhuo](https://github.com/dbhuo)
 - [rexi-ctrl](https://github.com/rexi-ctrl)
 - [sandro262](https://github.com/sandro262)
 - [Fikenzi](https://github.com/Fikenzi)
 - [Crypto77Hunterz](https://github.com/Crypto77Hunterz)
-- [wenxuan-hao](https://github.com/wenxuan-hao)
 
 #### 🔨 Check out my recent pull requests
 
