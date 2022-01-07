@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [dwangxxx](https://github.com/dwangxxx)
+- [EldinZhou](https://github.com/EldinZhou)
 - [dbhuo](https://github.com/dbhuo)
 - [rexi-ctrl](https://github.com/rexi-ctrl)
 - [sandro262](https://github.com/sandro262)
-- [Fikenzi](https://github.com/Fikenzi)
-- [Crypto77Hunterz](https://github.com/Crypto77Hunterz)
 
 #### 🔨 Check out my recent pull requests
 
