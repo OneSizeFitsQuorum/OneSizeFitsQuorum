@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (today)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 day ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 weeks ago)
 - [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 month ago)
 - [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (1 month ago)
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (today)
-- [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues. (today)
-- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (today)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (today)
-- [SwordHarry/mit_6.824_2021_note](https://github.com/SwordHarry/mit_6.824_2021_note) - mit_6.824_2021 中文笔记(lab&#43;paper) (1 day ago)
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (1 day ago)
+- [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues. (1 day ago)
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (1 day ago)
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 day ago)
+- [SwordHarry/mit_6.824_2021_note](https://github.com/SwordHarry/mit_6.824_2021_note) - mit_6.824_2021 中文笔记(lab&#43;paper) (2 days ago)
 
 #### 👯 Check out my recent followers
 
