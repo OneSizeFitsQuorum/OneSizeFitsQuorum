@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (today)
+- [apache/maven](https://github.com/apache/maven) - Apache Maven core (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. (today)
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (3 days ago)
-- [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues. (3 days ago)
-- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (3 days ago)
 
 #### 👯 Check out my recent followers
 
