@@ -24,27 +24,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. (today)
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (3 days ago)
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues. (3 days ago)
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (3 days ago)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (3 days ago)
-- [SwordHarry/mit_6.824_2021_note](https://github.com/SwordHarry/mit_6.824_2021_note) - mit_6.824_2021 中文笔记(lab&#43;paper) (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [whileskies](https://github.com/whileskies)
 - [dwangxxx](https://github.com/dwangxxx)
 - [EldinZhou](https://github.com/EldinZhou)
 - [dbhuo](https://github.com/dbhuo)
 - [rexi-ctrl](https://github.com/rexi-ctrl)
-- [sandro262](https://github.com/sandro262)
 
 #### 🔨 Check out my recent pull requests
 
+- [Test](https://github.com/LebronAl/tinykv/pull/3) on [LebronAl/tinykv](https://github.com/LebronAl/tinykv) (today)
 - [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-1865]【Cluster】Compaction is blocking when removing old files ](https://github.com/apache/iotdb/pull/4365) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[To rel.0.12][IoTDB-1865]【Cluster】Compaction is blocking when removing old files](https://github.com/apache/iotdb/pull/4363) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [[Test] Use debug logs to explore the cause of e2E test case failure](https://github.com/apache/iotdb/pull/4342) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
