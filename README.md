@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database) - A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain (today)
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (today)
+- [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (today)
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (1 day ago)
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core (1 day ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
-- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. (1 day ago)
-- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [likeaxa](https://github.com/likeaxa)
+- [Vendredimatin](https://github.com/Vendredimatin)
 - [Wenzha0Wu](https://github.com/Wenzha0Wu)
 - [whileskies](https://github.com/whileskies)
 - [dwangxxx](https://github.com/dwangxxx)
-- [EldinZhou](https://github.com/EldinZhou)
-- [dbhuo](https://github.com/dbhuo)
 
 #### 🔨 Check out my recent pull requests
 
