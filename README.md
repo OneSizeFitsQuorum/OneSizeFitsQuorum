@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (4 days ago)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (5 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 weeks ago)
 - [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 month ago)
 - [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (1 month ago)
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database) - A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain (today)
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (today)
-- [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (today)
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (1 day ago)
-- [apache/maven](https://github.com/apache/maven) - Apache Maven core (1 day ago)
+- [jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database) - A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain (1 day ago)
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (1 day ago)
+- [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (1 day ago)
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (2 days ago)
+- [apache/maven](https://github.com/apache/maven) - Apache Maven core (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -40,9 +40,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Test](https://github.com/LebronAl/tinykv/pull/3) on [LebronAl/tinykv](https://github.com/LebronAl/tinykv) (1 day ago)
-- [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [Test](https://github.com/LebronAl/tinykv/pull/3) on [LebronAl/tinykv](https://github.com/LebronAl/tinykv) (2 days ago)
+- [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
+- [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 - [[IOTDB-1865]【Cluster】Compaction is blocking when removing old files ](https://github.com/apache/iotdb/pull/4365) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 - [[To rel.0.12][IoTDB-1865]【Cluster】Compaction is blocking when removing old files](https://github.com/apache/iotdb/pull/4363) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 
