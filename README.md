@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (today)
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正 (today)
+- [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization (today)
 - [jiqizhixin/Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database) - A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain (1 day ago)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! (1 day ago)
-- [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (1 day ago)
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (2 days ago)
-- [apache/maven](https://github.com/apache/maven) - Apache Maven core (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [irvine0109](https://github.com/irvine0109)
+- [Ldtenacity](https://github.com/Ldtenacity)
 - [ms116](https://github.com/ms116)
 - [likeaxa](https://github.com/likeaxa)
 - [Vendredimatin](https://github.com/Vendredimatin)
-- [Wenzha0Wu](https://github.com/Wenzha0Wu)
-- [whileskies](https://github.com/whileskies)
 
 #### 🔨 Check out my recent pull requests
 
