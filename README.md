@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (5 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 weeks ago)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (6 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 weeks ago)
 - [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 month ago)
 - [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (1 month ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (1 month ago)
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [wuba/WPaxos](https://github.com/wuba/WPaxos) - A production-grade java implementation of paxos consensus algorithm (today)
-- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy (today)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (today)
-- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正 (today)
-- [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization (today)
+- [wuba/WPaxos](https://github.com/wuba/WPaxos) - A production-grade java implementation of paxos consensus algorithm (1 day ago)
+- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy (1 day ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 day ago)
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正 (1 day ago)
+- [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -40,7 +40,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Test](https://github.com/LebronAl/tinykv/pull/3) on [LebronAl/tinykv](https://github.com/LebronAl/tinykv) (2 days ago)
+- [Test](https://github.com/LebronAl/tinykv/pull/3) on [LebronAl/tinykv](https://github.com/LebronAl/tinykv) (3 days ago)
 - [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 - [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 - [[IOTDB-1865]【Cluster】Compaction is blocking when removing old files ](https://github.com/apache/iotdb/pull/4365) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
