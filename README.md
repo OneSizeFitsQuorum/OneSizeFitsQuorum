@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (6 days ago)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 weeks ago)
 - [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 month ago)
 - [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (1 month ago)
@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 (today)
+- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Detecting Logic Bugs in DBMS (today)
 - [wuba/WPaxos](https://github.com/wuba/WPaxos) - A production-grade java implementation of paxos consensus algorithm (1 day ago)
 - [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy (1 day ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 day ago)
-- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正 (1 day ago)
-- [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [lxc656](https://github.com/lxc656)
 - [irvine0109](https://github.com/irvine0109)
 - [Ldtenacity](https://github.com/Ldtenacity)
 - [ms116](https://github.com/ms116)
 - [likeaxa](https://github.com/likeaxa)
-- [Vendredimatin](https://github.com/Vendredimatin)
 
 #### 🔨 Check out my recent pull requests
 
