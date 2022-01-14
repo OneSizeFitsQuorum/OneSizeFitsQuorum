@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (today)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 day ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 weeks ago)
 - [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 month ago)
 - [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (1 month ago)
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 (today)
-- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Detecting Logic Bugs in DBMS (today)
-- [wuba/WPaxos](https://github.com/wuba/WPaxos) - A production-grade java implementation of paxos consensus algorithm (1 day ago)
-- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy (1 day ago)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 day ago)
+- [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 (1 day ago)
+- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Detecting Logic Bugs in DBMS (1 day ago)
+- [wuba/WPaxos](https://github.com/wuba/WPaxos) - A production-grade java implementation of paxos consensus algorithm (2 days ago)
+- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy (2 days ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -40,9 +40,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Test](https://github.com/LebronAl/tinykv/pull/3) on [LebronAl/tinykv](https://github.com/LebronAl/tinykv) (3 days ago)
-- [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
-- [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
+- [Test](https://github.com/LebronAl/tinykv/pull/3) on [LebronAl/tinykv](https://github.com/LebronAl/tinykv) (4 days ago)
+- [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
+- [[IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4582) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[IOTDB-1865]【Cluster】Compaction is blocking when removing old files ](https://github.com/apache/iotdb/pull/4365) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 - [[To rel.0.12][IoTDB-1865]【Cluster】Compaction is blocking when removing old files](https://github.com/apache/iotdb/pull/4363) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 
