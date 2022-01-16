@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (today)
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄 (1 day ago)
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid (1 day ago)
 - [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 (3 days ago)
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Detecting Logic Bugs in DBMS (3 days ago)
-- [wuba/WPaxos](https://github.com/wuba/WPaxos) - A production-grade java implementation of paxos consensus algorithm (4 days ago)
 
 #### 👯 Check out my recent followers
 
