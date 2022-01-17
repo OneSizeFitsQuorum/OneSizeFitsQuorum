@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics. (today)
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (1 day ago)
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄 (2 days ago)
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid (2 days ago)
 - [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 (4 days ago)
-- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Detecting Logic Bugs in DBMS (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [wavezhu](https://github.com/wavezhu)
+- [HuGanghui](https://github.com/HuGanghui)
 - [charstal](https://github.com/charstal)
 - [lxc656](https://github.com/lxc656)
 - [irvine0109](https://github.com/irvine0109)
-- [Ldtenacity](https://github.com/Ldtenacity)
-- [ms116](https://github.com/ms116)
 
 #### 🔨 Check out my recent pull requests
 
