@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [hawkingrei](https://github.com/hawkingrei)
+- [ispobock](https://github.com/ispobock)
 - [pxlsdz](https://github.com/pxlsdz)
 - [wavezhu](https://github.com/wavezhu)
 - [HuGanghui](https://github.com/HuGanghui)
-- [charstal](https://github.com/charstal)
-- [lxc656](https://github.com/lxc656)
 
 #### 🔨 Check out my recent pull requests
 
