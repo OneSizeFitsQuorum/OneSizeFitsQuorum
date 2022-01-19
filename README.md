@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [InasaXia](https://github.com/InasaXia)
+- [you06](https://github.com/you06)
 - [xuyi33333](https://github.com/xuyi33333)
 - [Leekeey](https://github.com/Leekeey)
 - [jackwener](https://github.com/jackwener)
-- [famasoon](https://github.com/famasoon)
-- [repos-cl](https://github.com/repos-cl)
 
 #### 🔨 Check out my recent pull requests
 
