@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions. (today)
+- [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出程序 (today)
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (1 day ago)
 - [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses) - 计算机的优秀课程 (1 day ago)
 - [rapiz1/DungeonRush](https://github.com/rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL (1 day ago)
-- [canonical/raft](https://github.com/canonical/raft) - C implementation of the Raft consensus protocol (1 day ago)
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine. (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [xuxian73](https://github.com/xuxian73)
 - [InasaXia](https://github.com/InasaXia)
 - [you06](https://github.com/you06)
 - [xuyi33333](https://github.com/xuyi33333)
 - [Leekeey](https://github.com/Leekeey)
-- [jackwener](https://github.com/jackwener)
 
 #### 🔨 Check out my recent pull requests
 
