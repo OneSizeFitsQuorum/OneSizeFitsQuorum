@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [couchbase/forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B&#43;-Tree Trie (today)
+- [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档 (today)
 - [cmu-db/ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool (today)
 - [kilim/kilim](https://github.com/kilim/kilim) - Lightweight threads for Java, with message passing, nio, http and scheduling support. (1 day ago)
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions. (1 day ago)
-- [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出程序 (1 day ago)
-- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [xwzy](https://github.com/xwzy)
+- [Lj1ang](https://github.com/Lj1ang)
+- [DayChan](https://github.com/DayChan)
 - [aniaan](https://github.com/aniaan)
 - [wangzhenyuan2012](https://github.com/wangzhenyuan2012)
-- [paragonxza](https://github.com/paragonxza)
-- [xuxian73](https://github.com/xuxian73)
-- [InasaXia](https://github.com/InasaXia)
 
 #### 🔨 Check out my recent pull requests
 
