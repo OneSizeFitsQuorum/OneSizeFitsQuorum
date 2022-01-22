@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime. (today)
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions. (today)
 - [couchbase/forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B&#43;-Tree Trie (1 day ago)
 - [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档 (1 day ago)
 - [cmu-db/ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool (1 day ago)
-- [kilim/kilim](https://github.com/kilim/kilim) - Lightweight threads for Java, with message passing, nio, http and scheduling support. (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [ckxkexing](https://github.com/ckxkexing)
 - [freeeaaa](https://github.com/freeeaaa)
 - [xwzy](https://github.com/xwzy)
 - [Lj1ang](https://github.com/Lj1ang)
 - [DayChan](https://github.com/DayChan)
-- [aniaan](https://github.com/aniaan)
 
 #### 🔨 Check out my recent pull requests
 
