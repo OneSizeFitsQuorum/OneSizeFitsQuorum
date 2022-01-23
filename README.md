@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (today)
 - [vldbss-2021/tinyup](https://github.com/vldbss-2021/tinyup) -  (1 day ago)
 - [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime. (1 day ago)
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions. (1 day ago)
 - [couchbase/forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B&#43;-Tree Trie (2 days ago)
-- [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档 (2 days ago)
 
 #### 👯 Check out my recent followers
 
