@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (3 days ago)
+- [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (4 days ago)
 - [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 month ago)
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime. (today)
-- [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions. (today)
-- [couchbase/forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B&#43;-Tree Trie (1 day ago)
-- [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档 (1 day ago)
-- [cmu-db/ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool (1 day ago)
+- [vldbss-2021/tinyup](https://github.com/vldbss-2021/tinyup) -  (1 day ago)
+- [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime. (1 day ago)
+- [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions. (1 day ago)
+- [couchbase/forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B&#43;-Tree Trie (2 days ago)
+- [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档 (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -40,8 +40,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (3 days ago)
-- [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (4 days ago)
+- [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (4 days ago)
+- [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (5 days ago)
 - [[IOTDB-2394] Fixed temporary network unavailability caused by frequent closed connections](https://github.com/apache/iotdb/pull/4815) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Test](https://github.com/LebronAl/tinykv/pull/3) on [LebronAl/tinykv](https://github.com/LebronAl/tinykv) (1 week ago)
 - [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
@@ -49,7 +49,7 @@
 #### 📜 Check out my recent blog posts
 
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (1 week ago)
-- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (1 month ago)
+- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (2 months ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (4 months ago)
 - [Awesome 学习资料分享](https://tanxinyu.work/awesome-blog/) (5 months ago)
 - [6.824 分布式系统课程学习总结](https://tanxinyu.work/6-824/) (6 months ago)
