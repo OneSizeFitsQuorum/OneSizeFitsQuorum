@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解 (today)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (5 days ago)
 - [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 month ago)
-- [LebronAl/QuickDeployForIoTDBTesting](https://github.com/LebronAl/QuickDeployForIoTDBTesting) - 分布式 IoTDB 一键部署工具 (2 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Ru7z](https://github.com/Ru7z)
 - [ckxkexing](https://github.com/ckxkexing)
 - [freeeaaa](https://github.com/freeeaaa)
 - [xwzy](https://github.com/xwzy)
 - [Lj1ang](https://github.com/Lj1ang)
-- [DayChan](https://github.com/DayChan)
 
 #### 🔨 Check out my recent pull requests
 
