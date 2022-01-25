@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers (today)
+- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) (today)
+- [efficient/libcuckoo](https://github.com/efficient/libcuckoo) - A high-performance, concurrent hash table (today)
 - [aceld/golang](https://github.com/aceld/golang) - 《Golang修养之路》本书针对Golang专题性热门技术深入理解，修养在Golang领域深入话题，脱胎换骨。 (today)
 - [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark) - Measure Amazon S3&#39;s performance from any location. (1 day ago)
-- [tikv/yatp](https://github.com/tikv/yatp) - Yet another thread pool in rust for both callbacks or futures. (1 day ago)
-- [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite &#43; Little Raft = 🚀 (1 day ago)
-- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (2 days ago)
 
 #### 👯 Check out my recent followers
 
