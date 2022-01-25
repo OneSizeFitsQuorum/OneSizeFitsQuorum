@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [aceld/golang](https://github.com/aceld/golang) - 《Golang修养之路》本书针对Golang专题性热门技术深入理解，修养在Golang领域深入话题，脱胎换骨。 (today)
 - [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark) - Measure Amazon S3&#39;s performance from any location. (1 day ago)
 - [tikv/yatp](https://github.com/tikv/yatp) - Yet another thread pool in rust for both callbacks or futures. (1 day ago)
 - [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite &#43; Little Raft = 🚀 (1 day ago)
 - [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (2 days ago)
-- [vldbss-2021/tinyup](https://github.com/vldbss-2021/tinyup) -  (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [RichardHJC](https://github.com/RichardHJC)
 - [Ru7z](https://github.com/Ru7z)
 - [ckxkexing](https://github.com/ckxkexing)
 - [freeeaaa](https://github.com/freeeaaa)
 - [xwzy](https://github.com/xwzy)
-- [Lj1ang](https://github.com/Lj1ang)
 
 #### 🔨 Check out my recent pull requests
 
