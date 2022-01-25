@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (today)
-- [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解 (today)
-- [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (5 days ago)
+- [LebronAl/LebronAl.github.io](https://github.com/LebronAl/LebronAl.github.io) - 个人主页 (1 day ago)
+- [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解 (1 day ago)
+- [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (6 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [LebronAl/TPCx-IoT-IoTDB](https://github.com/LebronAl/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 month ago)
 
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark) - Measure Amazon S3&#39;s performance from any location. (today)
-- [tikv/yatp](https://github.com/tikv/yatp) - Yet another thread pool in rust for both callbacks or futures. (today)
-- [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite &#43; Little Raft = 🚀 (today)
-- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (1 day ago)
-- [vldbss-2021/tinyup](https://github.com/vldbss-2021/tinyup) -  (2 days ago)
+- [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark) - Measure Amazon S3&#39;s performance from any location. (1 day ago)
+- [tikv/yatp](https://github.com/tikv/yatp) - Yet another thread pool in rust for both callbacks or futures. (1 day ago)
+- [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite &#43; Little Raft = 🚀 (1 day ago)
+- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (2 days ago)
+- [vldbss-2021/tinyup](https://github.com/vldbss-2021/tinyup) -  (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -40,8 +40,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (5 days ago)
-- [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (6 days ago)
+- [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (6 days ago)
+- [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (1 week ago)
 - [[IOTDB-2394] Fixed temporary network unavailability caused by frequent closed connections](https://github.com/apache/iotdb/pull/4815) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Test](https://github.com/LebronAl/tinykv/pull/3) on [LebronAl/tinykv](https://github.com/LebronAl/tinykv) (2 weeks ago)
 - [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
