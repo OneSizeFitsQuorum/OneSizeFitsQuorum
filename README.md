@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Coder-stars](https://github.com/Coder-stars)
+- [Dejia2017](https://github.com/Dejia2017)
 - [RichardHJC](https://github.com/RichardHJC)
 - [Ru7z](https://github.com/Ru7z)
 - [ckxkexing](https://github.com/ckxkexing)
-- [freeeaaa](https://github.com/freeeaaa)
-- [xwzy](https://github.com/xwzy)
 
 #### 🔨 Check out my recent pull requests
 
