@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks&#39; Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 (today)
+- [qichengzx/gopher-reading-list-zh_CN](https://github.com/qichengzx/gopher-reading-list-zh_CN) - Golang中文博客文章阅读列表 (today)
 - [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses) - 名校公开课程评价网 (today)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (1 day ago)
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers (2 days ago)
-- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) (2 days ago)
-- [efficient/libcuckoo](https://github.com/efficient/libcuckoo) - A high-performance, concurrent hash table (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -36,7 +36,7 @@
 - [qqIsAProgrammer](https://github.com/qqIsAProgrammer)
 - [zach030](https://github.com/zach030)
 - [czhWellOptimized](https://github.com/czhWellOptimized)
-- [Coder-stars](https://github.com/Coder-stars)
+- [Troublefriend](https://github.com/Troublefriend)
 
 #### 🔨 Check out my recent pull requests
 
