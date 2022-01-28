@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [xuchen86](https://github.com/xuchen86)
 - [Jack-Kin](https://github.com/Jack-Kin)
 - [sunbuhui](https://github.com/sunbuhui)
 - [qqIsAProgrammer](https://github.com/qqIsAProgrammer)
 - [zach030](https://github.com/zach030)
-- [czhWellOptimized](https://github.com/czhWellOptimized)
 
 #### 🔨 Check out my recent pull requests
 
@@ -48,8 +48,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [一个分布式系统爱好者的 2021 年终总结](https://tanxinyu.work/2021-annual-summary/) (4 days ago)
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (2 weeks ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (2 months ago)
 - [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (4 months ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (4 months ago)
+- [Awesome 学习资料分享](https://tanxinyu.work/awesome-blog/) (6 months ago)
