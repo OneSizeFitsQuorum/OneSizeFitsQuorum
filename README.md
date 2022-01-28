@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (4 days ago)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (today)
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks&#39; Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 (1 day ago)
 - [qichengzx/gopher-reading-list-zh_CN](https://github.com/qichengzx/gopher-reading-list-zh_CN) - Golang中文博客文章阅读列表 (1 day ago)
 - [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses) - 名校公开课程评价网 (1 day ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (2 days ago)
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -48,8 +48,8 @@
 
 #### 📜 Check out my recent blog posts
 
+- [一个分布式系统爱好者的 2021 年终总结](https://tanxinyu.work/2021-annual-summary/) (4 days ago)
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (2 weeks ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (2 months ago)
 - [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (4 months ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (4 months ago)
-- [Awesome 学习资料分享](https://tanxinyu.work/awesome-blog/) (6 months ago)
