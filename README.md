@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (5 days ago)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
-- [OneSizeFitsQuorum/TPCx-IoT-IoTDB](https://github.com/OneSizeFitsQuorum/TPCx-IoT-IoTDB) - A benchmark for IoT scenario. (1 month ago)
 
 #### 🌱 Check out my recent projects
 
@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [DCRcoder](https://github.com/DCRcoder)
 - [xuchen86](https://github.com/xuchen86)
 - [Jack-Kin](https://github.com/Jack-Kin)
 - [sunbuhui](https://github.com/sunbuhui)
 - [qqIsAProgrammer](https://github.com/qqIsAProgrammer)
-- [zach030](https://github.com/zach030)
 
 #### 🔨 Check out my recent pull requests
 
