@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (today)
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (2 days ago)
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks&#39; Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 (3 days ago)
 - [qichengzx/gopher-reading-list-zh_CN](https://github.com/qichengzx/gopher-reading-list-zh_CN) - Golang中文博客文章阅读列表 (3 days ago)
 - [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses) - 名校公开课程评价网 (3 days ago)
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [xuyifangreeneyes](https://github.com/xuyifangreeneyes)
+- [Bert-Z](https://github.com/Bert-Z)
+- [zyiwei](https://github.com/zyiwei)
 - [ZhangJiaQ](https://github.com/ZhangJiaQ)
 - [DCRcoder](https://github.com/DCRcoder)
-- [xuchen86](https://github.com/xuchen86)
-- [Jack-Kin](https://github.com/Jack-Kin)
-- [sunbuhui](https://github.com/sunbuhui)
 
 #### 🔨 Check out my recent pull requests
 
@@ -48,8 +48,8 @@
 
 #### 📜 Check out my recent blog posts
 
+- [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (6 days ago)
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (2 weeks ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (2 months ago)
 - [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (4 months ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (4 months ago)
-- [Awesome 学习资料分享](https://tanxinyu.work/awesome-blog/) (6 months ago)
