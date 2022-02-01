@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
-- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (2 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (3 days ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
@@ -24,24 +24,24 @@
 
 #### ⭐ Check out my recent stars
 
-- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (today)
-- [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc (today)
-- [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (1 day ago)
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (3 days ago)
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks&#39; Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 (4 days ago)
+- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (1 day ago)
+- [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc (1 day ago)
+- [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (2 days ago)
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (4 days ago)
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks&#39; Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [randxie](https://github.com/randxie)
 - [QR1126](https://github.com/QR1126)
 - [xuyifangreeneyes](https://github.com/xuyifangreeneyes)
 - [Bert-Z](https://github.com/Bert-Z)
 - [zyiwei](https://github.com/zyiwei)
-- [ZhangJiaQ](https://github.com/ZhangJiaQ)
 
 #### 🔨 Check out my recent pull requests
 
 - [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (1 week ago)
-- [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (1 week ago)
+- [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (2 weeks ago)
 - [[IOTDB-2394] Fixed temporary network unavailability caused by frequent closed connections](https://github.com/apache/iotdb/pull/4815) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Test](https://github.com/OneSizeFitsQuorum/tinykv/pull/3) on [OneSizeFitsQuorum/tinykv](https://github.com/OneSizeFitsQuorum/tinykv) (3 weeks ago)
 - [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
