@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [longwei](https://github.com/longwei)
 - [randxie](https://github.com/randxie)
 - [QR1126](https://github.com/QR1126)
 - [xuyifangreeneyes](https://github.com/xuyifangreeneyes)
 - [Bert-Z](https://github.com/Bert-Z)
-- [zyiwei](https://github.com/zyiwei)
 
 #### 🔨 Check out my recent pull requests
 
