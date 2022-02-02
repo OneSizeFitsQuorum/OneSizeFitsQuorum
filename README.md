@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C&#43;&#43; (today)
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (today)
 - [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka (today)
 - [ept/hermitage](https://github.com/ept/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels. (today)
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications” (today)
-- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (2 days ago)
-- [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Ting-xin](https://github.com/Ting-xin)
 - [xchanmolx](https://github.com/xchanmolx)
 - [wangzeping722](https://github.com/wangzeping722)
 - [williamgrt](https://github.com/williamgrt)
 - [1234589996](https://github.com/1234589996)
-- [myccccccc](https://github.com/myccccccc)
 
 #### 🔨 Check out my recent pull requests
 
