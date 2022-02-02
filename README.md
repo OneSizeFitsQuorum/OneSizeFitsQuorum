@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (4 days ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (2 weeks ago)
@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka (today)
+- [ept/hermitage](https://github.com/ept/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels. (today)
+- [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications” (today)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (2 days ago)
 - [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc (2 days ago)
-- [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (3 days ago)
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (5 days ago)
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks&#39; Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [xchanmolx](https://github.com/xchanmolx)
+- [wangzeping722](https://github.com/wangzeping722)
 - [williamgrt](https://github.com/williamgrt)
 - [1234589996](https://github.com/1234589996)
 - [myccccccc](https://github.com/myccccccc)
-- [longwei](https://github.com/longwei)
-- [randxie](https://github.com/randxie)
 
 #### 🔨 Check out my recent pull requests
 
