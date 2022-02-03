@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
-- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (4 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (5 days ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (2 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C&#43;&#43; (today)
-- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (today)
-- [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka (today)
-- [ept/hermitage](https://github.com/ept/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels. (today)
-- [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications” (today)
+- [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C&#43;&#43; (1 day ago)
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (1 day ago)
+- [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka (1 day ago)
+- [ept/hermitage](https://github.com/ept/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels. (1 day ago)
+- [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications” (1 day ago)
 
 #### 👯 Check out my recent followers
 
