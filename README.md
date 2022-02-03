@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (today)
+- [Tencent/TBase](https://github.com/Tencent/TBase) - TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse services, a set of integrated enterprise-level solutions is formed. (today)
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js (today)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (today)
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C&#43;&#43; (1 day ago)
-- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (1 day ago)
-- [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [prathimacode-hub](https://github.com/prathimacode-hub)
+- [rc-chuah](https://github.com/rc-chuah)
 - [aplus-developer](https://github.com/aplus-developer)
 - [CodePromoter](https://github.com/CodePromoter)
 - [g1f1](https://github.com/g1f1)
-- [meehawk](https://github.com/meehawk)
-- [HeimingZ](https://github.com/HeimingZ)
 
 #### 🔨 Check out my recent pull requests
 
