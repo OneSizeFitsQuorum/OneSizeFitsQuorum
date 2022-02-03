@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (5 days ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (2 weeks ago)
@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js (today)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (today)
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C&#43;&#43; (1 day ago)
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (1 day ago)
 - [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka (1 day ago)
-- [ept/hermitage](https://github.com/ept/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels. (1 day ago)
-- [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications” (1 day ago)
 
 #### 👯 Check out my recent followers
 
-- [Ting-xin](https://github.com/Ting-xin)
-- [xchanmolx](https://github.com/xchanmolx)
-- [wangzeping722](https://github.com/wangzeping722)
-- [williamgrt](https://github.com/williamgrt)
-- [1234589996](https://github.com/1234589996)
+- [aplus-developer](https://github.com/aplus-developer)
+- [CodePromoter](https://github.com/CodePromoter)
+- [g1f1](https://github.com/g1f1)
+- [meehawk](https://github.com/meehawk)
+- [HeimingZ](https://github.com/HeimingZ)
 
 #### 🔨 Check out my recent pull requests
 
