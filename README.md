@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
-- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (5 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (6 days ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (2 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
@@ -24,32 +24,32 @@
 
 #### ⭐ Check out my recent stars
 
-- [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (today)
-- [Tencent/TBase](https://github.com/Tencent/TBase) - TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse services, a set of integrated enterprise-level solutions is formed. (today)
-- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js (today)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (today)
-- [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C&#43;&#43; (1 day ago)
+- [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (1 day ago)
+- [Tencent/TBase](https://github.com/Tencent/TBase) - TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse services, a set of integrated enterprise-level solutions is formed. (1 day ago)
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js (1 day ago)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 day ago)
+- [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C&#43;&#43; (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [jayzhan211](https://github.com/jayzhan211)
+- [BED-COM-19-19](https://github.com/BED-COM-19-19)
 - [prathimacode-hub](https://github.com/prathimacode-hub)
 - [rc-chuah](https://github.com/rc-chuah)
 - [aplus-developer](https://github.com/aplus-developer)
-- [CodePromoter](https://github.com/CodePromoter)
-- [g1f1](https://github.com/g1f1)
 
 #### 🔨 Check out my recent pull requests
 
 - [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (2 weeks ago)
 - [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (2 weeks ago)
-- [[IOTDB-2394] Fixed temporary network unavailability caused by frequent closed connections](https://github.com/apache/iotdb/pull/4815) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [[IOTDB-2394] Fixed temporary network unavailability caused by frequent closed connections](https://github.com/apache/iotdb/pull/4815) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Test](https://github.com/OneSizeFitsQuorum/tinykv/pull/3) on [OneSizeFitsQuorum/tinykv](https://github.com/OneSizeFitsQuorum/tinykv) (3 weeks ago)
 - [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
 - [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (1 week ago)
-- [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (2 weeks ago)
+- [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (3 weeks ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (2 months ago)
 - [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (4 months ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (4 months ago)
