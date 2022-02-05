@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zjchenn](https://github.com/zjchenn)
 - [khy69](https://github.com/khy69)
 - [jayzhan211](https://github.com/jayzhan211)
 - [BED-COM-19-19](https://github.com/BED-COM-19-19)
 - [prathimacode-hub](https://github.com/prathimacode-hub)
-- [rc-chuah](https://github.com/rc-chuah)
 
 #### 🔨 Check out my recent pull requests
 
