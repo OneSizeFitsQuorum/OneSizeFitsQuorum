@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
-- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (6 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 days ago)
+- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (1 week ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (2 weeks ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (today)
-- [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a dynamic event-driven application runtime used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks. (today)
-- [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (1 day ago)
-- [Tencent/TBase](https://github.com/Tencent/TBase) - TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse services, a set of integrated enterprise-level solutions is formed. (1 day ago)
-- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js (1 day ago)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 day ago)
+- [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a dynamic event-driven application runtime used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks. (1 day ago)
+- [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (2 days ago)
+- [Tencent/TBase](https://github.com/Tencent/TBase) - TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse services, a set of integrated enterprise-level solutions is formed. (2 days ago)
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js (2 days ago)
 
 #### 👯 Check out my recent followers
 
