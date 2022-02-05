@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [matrixorigin/matrixcube](https://github.com/matrixorigin/matrixcube) - Fundamental Building Block for Elastic Storage With Strong Consistency and Reliability (today)
+- [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings) - Streaming System 相关的论文读物 (today)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 day ago)
 - [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a dynamic event-driven application runtime used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks. (1 day ago)
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (2 days ago)
-- [Tencent/TBase](https://github.com/Tencent/TBase) - TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse services, a set of integrated enterprise-level solutions is formed. (2 days ago)
-- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [khy69](https://github.com/khy69)
 - [jayzhan211](https://github.com/jayzhan211)
 - [BED-COM-19-19](https://github.com/BED-COM-19-19)
 - [prathimacode-hub](https://github.com/prathimacode-hub)
 - [rc-chuah](https://github.com/rc-chuah)
-- [aplus-developer](https://github.com/aplus-developer)
 
 #### 🔨 Check out my recent pull requests
 
