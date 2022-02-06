@@ -24,11 +24,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [kelthuzadx/EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (today)
-- [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud (today)
-- [matrixorigin/matrixcube](https://github.com/matrixorigin/matrixcube) - Fundamental Building Block for Elastic Storage With Strong Consistency and Reliability (1 day ago)
-- [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings) - Streaming System 相关的论文读物 (1 day ago)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (2 days ago)
+- [hadyang/interview](https://github.com/hadyang/interview) - Java 笔试、面试 知识整理 (today)
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test (today)
+- [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 (today)
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers (today)
+- [nebgnahz/awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) - A Collection of Hacks in IoT Space so that we can address them (hopefully). (today)
 
 #### 👯 Check out my recent followers
 
@@ -40,11 +40,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix typo in ch8](https://github.com/Vonng/ddia/pull/183) on [Vonng/ddia](https://github.com/Vonng/ddia) (today)
 - [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (2 weeks ago)
 - [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (2 weeks ago)
 - [[IOTDB-2394] Fixed temporary network unavailability caused by frequent closed connections](https://github.com/apache/iotdb/pull/4815) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Test](https://github.com/OneSizeFitsQuorum/tinykv/pull/3) on [OneSizeFitsQuorum/tinykv](https://github.com/OneSizeFitsQuorum/tinykv) (3 weeks ago)
-- [[To rel/0.12][IOTDB-2160] Fix cluster groupby memory leak](https://github.com/apache/iotdb/pull/4583) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
