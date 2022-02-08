@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [jameszhangyukun](https://github.com/jameszhangyukun)
 - [hzh0425](https://github.com/hzh0425)
 - [xiajunhust](https://github.com/xiajunhust)
 - [funny1dog](https://github.com/funny1dog)
 - [day253](https://github.com/day253)
-- [zjchenn](https://github.com/zjchenn)
 
 #### 🔨 Check out my recent pull requests
 
