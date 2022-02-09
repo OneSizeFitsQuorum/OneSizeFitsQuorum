@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [sail-sg/envpool](https://github.com/sail-sg/envpool) - C&#43;&#43;-based high-performance parallel environment execution engine (vectorized env) for general RL environments. (today)
 - [hadyang/interview](https://github.com/hadyang/interview) - Java 笔试、面试 知识整理 (3 days ago)
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test (3 days ago)
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 (3 days ago)
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers (3 days ago)
-- [nebgnahz/awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) - A Collection of Hacks in IoT Space so that we can address them (hopefully). (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [fushaogao](https://github.com/fushaogao)
+- [superestos](https://github.com/superestos)
 - [jameszhangyukun](https://github.com/jameszhangyukun)
 - [hzh0425](https://github.com/hzh0425)
 - [xiajunhust](https://github.com/xiajunhust)
-- [funny1dog](https://github.com/funny1dog)
-- [day253](https://github.com/day253)
 
 #### 🔨 Check out my recent pull requests
 
