@@ -9,10 +9,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 days ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (4 days ago)
 - [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (1 week ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 weeks ago)
 - [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) - Labs on distributed transaction (3 weeks ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料 (today)
+- [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features (today)
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer&#39;s development branch (mirror of git.haproxy.org) (1 day ago)
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework (1 day ago)
 - [sail-sg/envpool](https://github.com/sail-sg/envpool) - C&#43;&#43;-based high-performance parallel environment execution engine (vectorized env) for general RL environments. (1 day ago)
-- [hadyang/interview](https://github.com/hadyang/interview) - Java 笔试、面试 知识整理 (4 days ago)
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Vonng](https://github.com/Vonng)
 - [Eric-Ceray](https://github.com/Eric-Ceray)
 - [FOREillusion](https://github.com/FOREillusion)
 - [jasineri](https://github.com/jasineri)
 - [fushaogao](https://github.com/fushaogao)
-- [superestos](https://github.com/superestos)
 
 #### 🔨 Check out my recent pull requests
 
