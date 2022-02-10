@@ -32,11 +32,11 @@
 
 #### 👯 Check out my recent followers
 
+- [chakkk309](https://github.com/chakkk309)
+- [liijunwei](https://github.com/liijunwei)
 - [Vonng](https://github.com/Vonng)
 - [Eric-Ceray](https://github.com/Eric-Ceray)
 - [FOREillusion](https://github.com/FOREillusion)
-- [jasineri](https://github.com/jasineri)
-- [fushaogao](https://github.com/fushaogao)
 
 #### 🔨 Check out my recent pull requests
 
