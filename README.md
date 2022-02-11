@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。 (today)
+- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads (today)
 - [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料 (1 day ago)
 - [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features (1 day ago)
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer&#39;s development branch (mirror of git.haproxy.org) (2 days ago)
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework (2 days ago)
-- [sail-sg/envpool](https://github.com/sail-sg/envpool) - C&#43;&#43;-based high-performance parallel environment execution engine (vectorized env) for general RL environments. (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [thw1021](https://github.com/thw1021)
 - [Ray-Eldath](https://github.com/Ray-Eldath)
 - [chakkk309](https://github.com/chakkk309)
 - [liijunwei](https://github.com/liijunwei)
 - [Vonng](https://github.com/Vonng)
-- [Eric-Ceray](https://github.com/Eric-Ceray)
 
 #### 🔨 Check out my recent pull requests
 
