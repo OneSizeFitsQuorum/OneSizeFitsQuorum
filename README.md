@@ -40,11 +40,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (today)
 - [Fix typo in ch8](https://github.com/Vonng/ddia/pull/183) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 week ago)
 - [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (3 weeks ago)
 - [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (3 weeks ago)
 - [[IOTDB-2394] Fixed temporary network unavailability caused by frequent closed connections](https://github.com/apache/iotdb/pull/4815) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [Test](https://github.com/OneSizeFitsQuorum/tinykv/pull/3) on [OneSizeFitsQuorum/tinykv](https://github.com/OneSizeFitsQuorum/tinykv) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
