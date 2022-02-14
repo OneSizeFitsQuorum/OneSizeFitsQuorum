@@ -24,19 +24,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (today)
 - [killme2008/aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM. (today)
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg (today)
 - [auxten/go-sqldb](https://github.com/auxten/go-sqldb) - A pure golang SQL database for database theory research (2 days ago)
 - [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage) - A vendor-neutral storage library for Golang: Write once, run on every storage service. (2 days ago)
-- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [El-even-11](https://github.com/El-even-11)
 - [ronnydillan](https://github.com/ronnydillan)
 - [thw1021](https://github.com/thw1021)
 - [Ray-Eldath](https://github.com/Ray-Eldath)
 - [chakkk309](https://github.com/chakkk309)
-- [liijunwei](https://github.com/liijunwei)
 
 #### 🔨 Check out my recent pull requests
 
