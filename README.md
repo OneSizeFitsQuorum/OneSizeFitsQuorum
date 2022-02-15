@@ -2,6 +2,10 @@
 
 💻 Interested in distributed system, time-series database and consensus algorithm
 
+🖋 Blog：[TXY](https://tanxinyu.work)
+
+💡 Zhihu：[tan-xin-yu](https://www.zhihu.com/people/tan-xin-yu-22)
+
 📫 Email: tanxinyu@apache.org
 
 💬 Wechat: [click here](https://github.com/LebronAl/LebronAl/issues/1)
@@ -32,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Snowfall99](https://github.com/Snowfall99)
+- [KuangjuX](https://github.com/KuangjuX)
 - [ysj1173886760](https://github.com/ysj1173886760)
 - [El-even-11](https://github.com/El-even-11)
-- [ronnydillan](https://github.com/ronnydillan)
 - [thw1021](https://github.com/thw1021)
-- [Ray-Eldath](https://github.com/Ray-Eldath)
 
 #### 🔨 Check out my recent pull requests
 
