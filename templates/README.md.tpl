@@ -2,6 +2,10 @@
 
 💻 Interested in distributed system, time-series database and consensus algorithm
 
+🖋 Blog：[TXY](https://tanxinyu.work)
+
+💡 Zhihu：[tan-xin-yu](https://www.zhihu.com/people/tan-xin-yu-22)
+
 📫 Email: tanxinyu@apache.org
 
 💬 Wechat: [click here](https://github.com/LebronAl/LebronAl/issues/1)
