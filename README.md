@@ -2,11 +2,11 @@
 
 💻 Interested in distributed system, time-series database and consensus algorithm
 
-🖋 Blog：[TXY](https://tanxinyu.work)
+🖋 Blog：[tanxinyu.work](https://tanxinyu.work)
 
 💡 Zhihu：[tan-xin-yu](https://www.zhihu.com/people/tan-xin-yu-22)
 
-📫 Email: tanxinyu@apache.org
+📫 Email: [tanxinyu@apache.org](mailto:tanxinyu@apache.org)
 
 💬 Wechat: [click here](https://github.com/LebronAl/LebronAl/issues/1)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (today)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
 - [eraft-io/eraft](https://github.com/eraft-io/eraft) - A generic raft library inspired etcd in C&#43;&#43; (today)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。 (today)
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (1 day ago)
-- [killme2008/aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM. (1 day ago)
 
 #### 👯 Check out my recent followers
 
