@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (today)
-- [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (2 days ago)
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 day ago)
+- [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (3 days ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (2 weeks ago)
@@ -28,26 +28,26 @@
 
 #### ⭐ Check out my recent stars
 
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (today)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
-- [eraft-io/eraft](https://github.com/eraft-io/eraft) - A generic raft library inspired etcd in C&#43;&#43; (today)
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。 (today)
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (1 day ago)
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 day ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 day ago)
+- [eraft-io/eraft](https://github.com/eraft-io/eraft) - A generic raft library inspired etcd in C&#43;&#43; (1 day ago)
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。 (1 day ago)
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Hooollin](https://github.com/Hooollin)
 - [Snowfall99](https://github.com/Snowfall99)
 - [KuangjuX](https://github.com/KuangjuX)
 - [ysj1173886760](https://github.com/ysj1173886760)
 - [El-even-11](https://github.com/El-even-11)
-- [thw1021](https://github.com/thw1021)
 
 #### 🔨 Check out my recent pull requests
 
-- [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (today)
-- [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (2 days ago)
+- [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (1 day ago)
+- [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (3 days ago)
 - [Fix typo in ch8](https://github.com/Vonng/ddia/pull/183) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 week ago)
-- [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (3 weeks ago)
+- [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (4 weeks ago)
 - [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
