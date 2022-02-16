@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新）。 (today)
+- [PikaLabs/floyd](https://github.com/PikaLabs/floyd) - A raft consensus implementation that is simply and understandable (today)
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh. (today)
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 day ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 day ago)
-- [eraft-io/eraft](https://github.com/eraft-io/eraft) - A generic raft library inspired etcd in C&#43;&#43; (1 day ago)
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。 (1 day ago)
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Allen1211](https://github.com/Allen1211)
 - [Hooollin](https://github.com/Hooollin)
 - [Snowfall99](https://github.com/Snowfall99)
 - [KuangjuX](https://github.com/KuangjuX)
 - [ysj1173886760](https://github.com/ysj1173886760)
-- [El-even-11](https://github.com/El-even-11)
 
 #### 🔨 Check out my recent pull requests
 
