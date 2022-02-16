@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [99xiewilliam](https://github.com/99xiewilliam)
+- [SteveYurongSu](https://github.com/SteveYurongSu)
 - [Allen1211](https://github.com/Allen1211)
 - [Hooollin](https://github.com/Hooollin)
 - [Snowfall99](https://github.com/Snowfall99)
-- [KuangjuX](https://github.com/KuangjuX)
-- [ysj1173886760](https://github.com/ysj1173886760)
 
 #### 🔨 Check out my recent pull requests
 
