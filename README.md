@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (today)
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database (today)
 - [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新）。 (1 day ago)
 - [PikaLabs/floyd](https://github.com/PikaLabs/floyd) - A raft consensus implementation that is simply and understandable (1 day ago)
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh. (1 day ago)
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (2 days ago)
 
 #### 👯 Check out my recent followers
 
