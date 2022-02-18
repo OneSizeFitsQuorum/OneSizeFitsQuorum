@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/ (today)
+- [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历 (today)
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (today)
 - [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating) (today)
 - [rockset/rocksdb-cloud](https://github.com/rockset/rocksdb-cloud) - A library that provides an embeddable, persistent key-value store for fast storage optimized for AWS (today)
-- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (1 day ago)
-- [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database (1 day ago)
 
 #### 👯 Check out my recent followers
 
