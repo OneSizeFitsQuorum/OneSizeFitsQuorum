@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (today)
+- [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating) (today)
+- [rockset/rocksdb-cloud](https://github.com/rockset/rocksdb-cloud) - A library that provides an embeddable, persistent key-value store for fast storage optimized for AWS (today)
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (1 day ago)
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database (1 day ago)
-- [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新）。 (2 days ago)
-- [PikaLabs/floyd](https://github.com/PikaLabs/floyd) - A raft consensus implementation that is simply and understandable (2 days ago)
-- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh. (2 days ago)
 
 #### 👯 Check out my recent followers
 
