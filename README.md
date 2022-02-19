@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex) - LaTeX mappings for Font Awesome, the icons font (today)
 - [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/ (1 day ago)
 - [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历 (1 day ago)
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (1 day ago)
 - [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating) (1 day ago)
-- [rockset/rocksdb-cloud](https://github.com/rockset/rocksdb-cloud) - A library that provides an embeddable, persistent key-value store for fast storage optimized for AWS (1 day ago)
 
 #### 👯 Check out my recent followers
 
