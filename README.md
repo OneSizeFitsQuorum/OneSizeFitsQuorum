@@ -12,10 +12,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (4 days ago)
-- [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (6 days ago)
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (1 week ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (5 days ago)
+- [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (1 week ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (2 weeks ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (3 weeks ago)
 
 #### 🌱 Check out my recent projects
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex) - LaTeX mappings for Font Awesome, the icons font (today)
-- [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/ (1 day ago)
-- [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历 (1 day ago)
-- [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (1 day ago)
-- [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating) (1 day ago)
+- [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex) - LaTeX mappings for Font Awesome, the icons font (1 day ago)
+- [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/ (2 days ago)
+- [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历 (2 days ago)
+- [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (2 days ago)
+- [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating) (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (4 days ago)
-- [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (6 days ago)
-- [Fix typo in ch8](https://github.com/Vonng/ddia/pull/183) on [Vonng/ddia](https://github.com/Vonng/ddia) (1 week ago)
+- [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (5 days ago)
+- [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (1 week ago)
+- [Fix typo in ch8](https://github.com/Vonng/ddia/pull/183) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 weeks ago)
 - [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (1 month ago)
 - [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (1 month ago)
 
