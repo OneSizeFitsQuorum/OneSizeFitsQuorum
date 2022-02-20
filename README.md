@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure (today)
 - [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex) - LaTeX mappings for Font Awesome, the icons font (1 day ago)
 - [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/ (2 days ago)
 - [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历 (2 days ago)
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (2 days ago)
-- [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating) (2 days ago)
 
 #### 👯 Check out my recent followers
 
