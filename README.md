@@ -1,6 +1,6 @@
 🎓 Second-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)
 
-💻 Interested in distributed system, time-series database and consensus algorithm
+💻 Interested in consensus algorithm, distributed storage system, time-series database and distributed transaction.
 
 🖋 Blog：[tanxinyu.work](https://tanxinyu.work)
 
