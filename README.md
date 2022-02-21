@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [DannyCuzzy-GitHub](https://github.com/DannyCuzzy-GitHub)
 - [leave8426](https://github.com/leave8426)
 - [yuhao-su](https://github.com/yuhao-su)
 - [OneMore14](https://github.com/OneMore14)
 - [SnailForce](https://github.com/SnailForce)
-- [99xiewilliam](https://github.com/99xiewilliam)
 
 #### 🔨 Check out my recent pull requests
 
