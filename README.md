@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (6 days ago)
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 week ago)
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (1 week ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure (1 day ago)
-- [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex) - LaTeX mappings for Font Awesome, the icons font (2 days ago)
-- [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/ (3 days ago)
-- [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历 (3 days ago)
-- [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (3 days ago)
+- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure (2 days ago)
+- [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex) - LaTeX mappings for Font Awesome, the icons font (3 days ago)
+- [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/ (4 days ago)
+- [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历 (4 days ago)
+- [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (6 days ago)
+- [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (1 week ago)
 - [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (1 week ago)
 - [Fix typo in ch8](https://github.com/Vonng/ddia/pull/183) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 weeks ago)
 - [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (1 month ago)
@@ -54,6 +54,6 @@
 
 - [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (4 weeks ago)
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (1 month ago)
-- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (2 months ago)
+- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (3 months ago)
 - [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (4 months ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (5 months ago)
