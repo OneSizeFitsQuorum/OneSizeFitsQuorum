@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. (today)
 - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure (2 days ago)
 - [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex) - LaTeX mappings for Font Awesome, the icons font (3 days ago)
 - [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/ (4 days ago)
 - [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历 (4 days ago)
-- [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [chenqwwq](https://github.com/chenqwwq)
 - [DannyCuzzy-GitHub](https://github.com/DannyCuzzy-GitHub)
 - [leave8426](https://github.com/leave8426)
 - [yuhao-su](https://github.com/yuhao-su)
 - [OneMore14](https://github.com/OneMore14)
-- [SnailForce](https://github.com/SnailForce)
 
 #### 🔨 Check out my recent pull requests
 
