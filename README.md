@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [zhedahht/CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2) - 《剑指Offer：名企面试官精讲典型编程面试题》第二版源代码 (today)
+- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. (today)
+- [ReproductionX/TsinghuaDailyReport](https://github.com/ReproductionX/TsinghuaDailyReport) - 清华大学学生进出校每日自动提交 (today)
+- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 (today)
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. (1 day ago)
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure (3 days ago)
-- [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex) - LaTeX mappings for Font Awesome, the icons font (4 days ago)
-- [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/ (5 days ago)
-- [ice1000/resume](https://github.com/ice1000/resume) - :space_invader: My resume / 我的简历 (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [yanguwan](https://github.com/yanguwan)
 - [chenqwwq](https://github.com/chenqwwq)
 - [DannyCuzzy-GitHub](https://github.com/DannyCuzzy-GitHub)
 - [leave8426](https://github.com/leave8426)
 - [yuhao-su](https://github.com/yuhao-su)
-- [OneMore14](https://github.com/OneMore14)
 
 #### 🔨 Check out my recent pull requests
 
