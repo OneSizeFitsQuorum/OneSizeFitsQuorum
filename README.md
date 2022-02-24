@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (1 week ago)
 - [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (1 week ago)
 - [Fix typo in ch8](https://github.com/Vonng/ddia/pull/183) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 weeks ago)
 - [Fix TestCommitConflictRollback4B](https://github.com/tidb-incubator/tinykv/pull/373) on [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) (1 month ago)
-- [Fix typo and grammer errors](https://github.com/vldbss-2021/vldb-2021-labs/pull/33) on [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
