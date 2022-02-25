@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 week ago)
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (1 week ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
-- [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model (3 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [zhedahht/CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2) - 《剑指Offer：名企面试官精讲典型编程面试题》第二版源代码 (1 day ago)
-- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. (1 day ago)
-- [ReproductionX/TsinghuaDailyReport](https://github.com/ReproductionX/TsinghuaDailyReport) - 清华大学学生进出校每日自动提交 (1 day ago)
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 (1 day ago)
-- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. (2 days ago)
+- [zhedahht/CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2) - 《剑指Offer：名企面试官精讲典型编程面试题》第二版源代码 (2 days ago)
+- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. (2 days ago)
+- [ReproductionX/TsinghuaDailyReport](https://github.com/ReproductionX/TsinghuaDailyReport) - 清华大学学生进出校每日自动提交 (2 days ago)
+- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 (2 days ago)
+- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (1 week ago)
 - [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (1 week ago)
 - [Fix typo in ch8](https://github.com/Vonng/ddia/pull/183) on [Vonng/ddia](https://github.com/Vonng/ddia) (2 weeks ago)
