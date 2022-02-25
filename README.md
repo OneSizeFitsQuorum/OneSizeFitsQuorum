@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [loloxwg](https://github.com/loloxwg)
 - [yangyueren](https://github.com/yangyueren)
 - [backhomeqz230](https://github.com/backhomeqz230)
 - [yanguwan](https://github.com/yanguwan)
 - [chenqwwq](https://github.com/chenqwwq)
-- [DannyCuzzy-GitHub](https://github.com/DannyCuzzy-GitHub)
 
 #### 🔨 Check out my recent pull requests
 
