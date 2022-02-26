@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Suffoquer-fang](https://github.com/Suffoquer-fang)
+- [DavidZyy](https://github.com/DavidZyy)
 - [loloxwg](https://github.com/loloxwg)
 - [yangyueren](https://github.com/yangyueren)
 - [backhomeqz230](https://github.com/backhomeqz230)
-- [yanguwan](https://github.com/yanguwan)
-- [chenqwwq](https://github.com/chenqwwq)
 
 #### 🔨 Check out my recent pull requests
 
