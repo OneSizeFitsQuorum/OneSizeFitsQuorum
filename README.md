@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [guozhengxuan](https://github.com/guozhengxuan)
+- [catherineruoxiwu](https://github.com/catherineruoxiwu)
+- [AveryHandsomeBoy](https://github.com/AveryHandsomeBoy)
 - [TheR1sing3un](https://github.com/TheR1sing3un)
 - [Suffoquer-fang](https://github.com/Suffoquer-fang)
-- [DavidZyy](https://github.com/DavidZyy)
-- [loloxwg](https://github.com/loloxwg)
-- [yangyueren](https://github.com/yangyueren)
 
 #### 🔨 Check out my recent pull requests
 
