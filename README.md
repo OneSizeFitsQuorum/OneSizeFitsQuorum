@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/cassandra-accord](https://github.com/apache/cassandra-accord) - Accord Distributed Consensus Protocol for Apache Cassandra (today)
 - [zhedahht/CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2) - 《剑指Offer：名企面试官精讲典型编程面试题》第二版源代码 (5 days ago)
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. (5 days ago)
 - [ReproductionX/TsinghuaDailyReport](https://github.com/ReproductionX/TsinghuaDailyReport) - 清华大学学生进出校每日自动提交 (5 days ago)
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 (5 days ago)
-- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [preethamb97](https://github.com/preethamb97)
 - [guozhengxuan](https://github.com/guozhengxuan)
 - [catherineruoxiwu](https://github.com/catherineruoxiwu)
 - [AveryHandsomeBoy](https://github.com/AveryHandsomeBoy)
 - [TheR1sing3un](https://github.com/TheR1sing3un)
-- [Suffoquer-fang](https://github.com/Suffoquer-fang)
 
 #### 🔨 Check out my recent pull requests
 
