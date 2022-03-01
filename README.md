@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 days ago)
+- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (2 weeks ago)
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (2 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [flower-corp/minidb](https://github.com/flower-corp/minidb) - rosedb 的 mini 版本，帮助理解 bitcask 存储模型以及 rosedb 项目。 (today)
+- [OpenSourceWin/hacking-force](https://github.com/OpenSourceWin/hacking-force) - Find the hacking heros of open source. (today)
+- [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器 (today)
 - [madsys-dev/MadRaft](https://github.com/madsys-dev/MadRaft) - The labs of Raft consensus algorithm based on MadSim. (today)
 - [madsys-dev/madsim](https://github.com/madsys-dev/madsim) - Magical Deterministic Simulator for distributed systems in Rust. (today)
-- [tokio-rs/simulation](https://github.com/tokio-rs/simulation) - Framework for simulating distributed applications (today)
-- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (today)
-- [OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny) - 腾讯物联网终端操作系统 (today)
 
 #### 👯 Check out my recent followers
 
