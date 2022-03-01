@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [belliottsmith/accord](https://github.com/belliottsmith/accord) -  (1 day ago)
-- [apache/cassandra-accord](https://github.com/apache/cassandra-accord) - Accord Distributed Consensus Protocol for Apache Cassandra (1 day ago)
-- [zhedahht/CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2) - 《剑指Offer：名企面试官精讲典型编程面试题》第二版源代码 (6 days ago)
-- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. (6 days ago)
-- [ReproductionX/TsinghuaDailyReport](https://github.com/ReproductionX/TsinghuaDailyReport) - 清华大学学生进出校每日自动提交 (6 days ago)
+- [madsys-dev/MadRaft](https://github.com/madsys-dev/MadRaft) - The labs of Raft consensus algorithm based on MadSim. (today)
+- [madsys-dev/madsim](https://github.com/madsys-dev/madsim) - Magical Deterministic Simulator for distributed systems in Rust. (today)
+- [tokio-rs/simulation](https://github.com/tokio-rs/simulation) - Framework for simulating distributed applications (today)
+- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (today)
+- [OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny) - 腾讯物联网终端操作系统 (today)
 
 #### 👯 Check out my recent followers
 
+- [Cantona2019](https://github.com/Cantona2019)
 - [Wind-Gone](https://github.com/Wind-Gone)
 - [huxiao64](https://github.com/huxiao64)
 - [cyferl](https://github.com/cyferl)
 - [dentiny](https://github.com/dentiny)
-- [preethamb97](https://github.com/preethamb97)
 
 #### 🔨 Check out my recent pull requests
 
