@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
+- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (6 days ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (2 weeks ago)
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (2 weeks ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (3 weeks ago)
@@ -28,23 +28,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [flower-corp/minidb](https://github.com/flower-corp/minidb) - rosedb 的 mini 版本，帮助理解 bitcask 存储模型以及 rosedb 项目。 (today)
-- [OpenSourceWin/hacking-force](https://github.com/OpenSourceWin/hacking-force) - Find the hacking heros of open source. (today)
-- [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器 (today)
-- [madsys-dev/MadRaft](https://github.com/madsys-dev/MadRaft) - The labs of Raft consensus algorithm based on MadSim. (today)
-- [madsys-dev/madsim](https://github.com/madsys-dev/madsim) - Magical Deterministic Simulator for distributed systems in Rust. (today)
+- [flower-corp/minidb](https://github.com/flower-corp/minidb) - rosedb 的 mini 版本，帮助理解 bitcask 存储模型以及 rosedb 项目。 (1 day ago)
+- [OpenSourceWin/hacking-force](https://github.com/OpenSourceWin/hacking-force) - Find the hacking heros of open source. (1 day ago)
+- [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器 (1 day ago)
+- [madsys-dev/MadRaft](https://github.com/madsys-dev/MadRaft) - The labs of Raft consensus algorithm based on MadSim. (1 day ago)
+- [madsys-dev/madsim](https://github.com/madsys-dev/madsim) - Magical Deterministic Simulator for distributed systems in Rust. (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [li5ch](https://github.com/li5ch)
 - [Cantona2019](https://github.com/Cantona2019)
 - [Wind-Gone](https://github.com/Wind-Gone)
 - [huxiao64](https://github.com/huxiao64)
 - [cyferl](https://github.com/cyferl)
-- [dentiny](https://github.com/dentiny)
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (2 weeks ago)
 - [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (2 weeks ago)
 - [Fix typo in ch8](https://github.com/Vonng/ddia/pull/183) on [Vonng/ddia](https://github.com/Vonng/ddia) (3 weeks ago)
