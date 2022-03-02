@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (today)
+- [yxymit/DBx1000](https://github.com/yxymit/DBx1000) -  (today)
+- [diennea/herddb](https://github.com/diennea/herddb) - A JVM-embeddable Distributed Database (today)
 - [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) (today)
 - [flower-corp/minidb](https://github.com/flower-corp/minidb) - rosedb 的 mini 版本，帮助理解 bitcask 存储模型以及 rosedb 项目。 (1 day ago)
-- [OpenSourceWin/hacking-force](https://github.com/OpenSourceWin/hacking-force) - Find the hacking heros of open source. (1 day ago)
-- [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器 (1 day ago)
-- [madsys-dev/MadRaft](https://github.com/madsys-dev/MadRaft) - The labs of Raft consensus algorithm based on MadSim. (1 day ago)
 
 #### 👯 Check out my recent followers
 
