@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
-- [li5ch](https://github.com/li5ch)
-- [Cantona2019](https://github.com/Cantona2019)
-- [Wind-Gone](https://github.com/Wind-Gone)
-- [huxiao64](https://github.com/huxiao64)
-- [cyferl](https://github.com/cyferl)
+- [zzl514](https://github.com/zzl514)
+- [AerysNan](https://github.com/AerysNan)
+- [sun-jacobi](https://github.com/sun-jacobi)
+- [PeterWrighten](https://github.com/PeterWrighten)
+- [RJBT21](https://github.com/RJBT21)
 
 #### 🔨 Check out my recent pull requests
 
