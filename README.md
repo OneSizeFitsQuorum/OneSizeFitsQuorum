@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [apple/llvm-project](https://github.com/apple/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project. (today)
+- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (today)
+- [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems (today)
 - [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (2 days ago)
 - [yxymit/DBx1000](https://github.com/yxymit/DBx1000) -  (2 days ago)
-- [diennea/herddb](https://github.com/diennea/herddb) - A JVM-embeddable Distributed Database (2 days ago)
-- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) (2 days ago)
-- [flower-corp/minidb](https://github.com/flower-corp/minidb) - rosedb 的 mini 版本，帮助理解 bitcask 存储模型以及 rosedb 项目。 (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Moonm3n](https://github.com/Moonm3n)
 - [zzl514](https://github.com/zzl514)
 - [AerysNan](https://github.com/AerysNan)
 - [sun-jacobi](https://github.com/sun-jacobi)
 - [PeterWrighten](https://github.com/PeterWrighten)
-- [RJBT21](https://github.com/RJBT21)
 
 #### 🔨 Check out my recent pull requests
 
