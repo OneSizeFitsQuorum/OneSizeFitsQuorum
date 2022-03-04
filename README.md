@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [tikv/tlaplus-specs](https://github.com/tikv/tlaplus-specs) - TiKV TLA&#43; specifications (today)
 - [apple/llvm-project](https://github.com/apple/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project. (today)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (today)
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems (today)
 - [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (2 days ago)
-- [yxymit/DBx1000](https://github.com/yxymit/DBx1000) -  (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Master-OAP](https://github.com/Master-OAP)
+- [wangjialiang1](https://github.com/wangjialiang1)
 - [Moonm3n](https://github.com/Moonm3n)
 - [zzl514](https://github.com/zzl514)
 - [AerysNan](https://github.com/AerysNan)
-- [sun-jacobi](https://github.com/sun-jacobi)
-- [PeterWrighten](https://github.com/PeterWrighten)
 
 #### 🔨 Check out my recent pull requests
 
