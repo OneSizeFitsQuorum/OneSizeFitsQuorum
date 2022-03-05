@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust. (today)
 - [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据 (today)
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (today)
 - [tikv/tlaplus-specs](https://github.com/tikv/tlaplus-specs) - TiKV TLA&#43; specifications (1 day ago)
 - [apple/llvm-project](https://github.com/apple/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project. (1 day ago)
-- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [yuoo655](https://github.com/yuoo655)
+- [Monster-007](https://github.com/Monster-007)
+- [BenNeighbour](https://github.com/BenNeighbour)
 - [wfly1998](https://github.com/wfly1998)
 - [mlpao500](https://github.com/mlpao500)
-- [minleminzui](https://github.com/minleminzui)
-- [LiuYuHui](https://github.com/LiuYuHui)
-- [SGZW](https://github.com/SGZW)
 
 #### 🔨 Check out my recent pull requests
 
