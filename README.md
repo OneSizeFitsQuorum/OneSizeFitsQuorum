@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (4 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (2 weeks ago)
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (2 weeks ago)
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (3 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据 (today)
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (today)
 - [tikv/tlaplus-specs](https://github.com/tikv/tlaplus-specs) - TiKV TLA&#43; specifications (1 day ago)
 - [apple/llvm-project](https://github.com/apple/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project. (1 day ago)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (1 day ago)
-- [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems (1 day ago)
-- [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (3 days ago)
 
 #### 👯 Check out my recent followers
 
-- [Master-OAP](https://github.com/Master-OAP)
-- [wangjialiang1](https://github.com/wangjialiang1)
-- [Moonm3n](https://github.com/Moonm3n)
-- [zzl514](https://github.com/zzl514)
-- [AerysNan](https://github.com/AerysNan)
+- [wfly1998](https://github.com/wfly1998)
+- [mlpao500](https://github.com/mlpao500)
+- [minleminzui](https://github.com/minleminzui)
+- [LiuYuHui](https://github.com/LiuYuHui)
+- [SGZW](https://github.com/SGZW)
 
 #### 🔨 Check out my recent pull requests
 
