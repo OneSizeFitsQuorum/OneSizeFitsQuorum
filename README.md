@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [yangsoon/talen-plan-report](https://github.com/yangsoon/talen-plan-report) - PingCAP Talent-Plan(TIDB)1.0  题解 成绩: Section1: 95分 Section2: 97分 Section3: 100分 Section4: 88分 (today)
 - [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust. (1 day ago)
 - [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据 (1 day ago)
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (1 day ago)
 - [tikv/tlaplus-specs](https://github.com/tikv/tlaplus-specs) - TiKV TLA&#43; specifications (2 days ago)
-- [apple/llvm-project](https://github.com/apple/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project. (2 days ago)
 
 #### 👯 Check out my recent followers
 
-- [victoryang00](https://github.com/victoryang00)
-- [XorSum](https://github.com/XorSum)
-- [LouisYZK](https://github.com/LouisYZK)
-- [yuoo655](https://github.com/yuoo655)
-- [Monster-007](https://github.com/Monster-007)
+- [WindowsXp-Beta](https://github.com/WindowsXp-Beta)
+- [KivenChen](https://github.com/KivenChen)
+- [yangsoon](https://github.com/yangsoon)
+- [c8ef](https://github.com/c8ef)
+- [HoniiTro19](https://github.com/HoniiTro19)
 
 #### 🔨 Check out my recent pull requests
 
