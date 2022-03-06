@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (5 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (2 weeks ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [victoryang00](https://github.com/victoryang00)
+- [XorSum](https://github.com/XorSum)
+- [LouisYZK](https://github.com/LouisYZK)
 - [yuoo655](https://github.com/yuoo655)
 - [Monster-007](https://github.com/Monster-007)
-- [BenNeighbour](https://github.com/BenNeighbour)
-- [wfly1998](https://github.com/wfly1998)
-- [mlpao500](https://github.com/mlpao500)
 
 #### 🔨 Check out my recent pull requests
 
