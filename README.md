@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
-- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (5 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (6 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (2 weeks ago)
 - [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) - A production-grade java implementation of RAFT consensus algorithm. (3 weeks ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [yangsoon/talen-plan-report](https://github.com/yangsoon/talen-plan-report) - PingCAP Talent-Plan(TIDB)1.0  题解 成绩: Section1: 95分 Section2: 97分 Section3: 100分 Section4: 88分 (today)
-- [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust. (1 day ago)
-- [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据 (1 day ago)
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (1 day ago)
-- [tikv/tlaplus-specs](https://github.com/tikv/tlaplus-specs) - TiKV TLA&#43; specifications (2 days ago)
+- [yangsoon/talen-plan-report](https://github.com/yangsoon/talen-plan-report) - PingCAP Talent-Plan(TIDB)1.0  题解 成绩: Section1: 95分 Section2: 97分 Section3: 100分 Section4: 88分 (1 day ago)
+- [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust. (2 days ago)
+- [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据 (2 days ago)
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (2 days ago)
+- [tikv/tlaplus-specs](https://github.com/tikv/tlaplus-specs) - TiKV TLA&#43; specifications (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [ZoeLiao](https://github.com/ZoeLiao)
+- [ArdxWe](https://github.com/ArdxWe)
 - [WindowsXp-Beta](https://github.com/WindowsXp-Beta)
 - [KivenChen](https://github.com/KivenChen)
 - [yangsoon](https://github.com/yangsoon)
-- [c8ef](https://github.com/c8ef)
-- [HoniiTro19](https://github.com/HoniiTro19)
 
 #### 🔨 Check out my recent pull requests
 
