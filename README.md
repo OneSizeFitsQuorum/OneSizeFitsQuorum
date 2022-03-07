@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [jestemAria](https://github.com/jestemAria)
 - [JiuRiend](https://github.com/JiuRiend)
 - [ZoeLiao](https://github.com/ZoeLiao)
 - [ArdxWe](https://github.com/ArdxWe)
 - [WindowsXp-Beta](https://github.com/WindowsXp-Beta)
-- [KivenChen](https://github.com/KivenChen)
 
 #### 🔨 Check out my recent pull requests
 
