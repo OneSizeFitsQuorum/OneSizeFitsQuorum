@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [frankfanslc](https://github.com/frankfanslc)
+- [sirinath](https://github.com/sirinath)
+- [GrapeBaBa](https://github.com/GrapeBaBa)
 - [jestemAria](https://github.com/jestemAria)
 - [JiuRiend](https://github.com/JiuRiend)
-- [ZoeLiao](https://github.com/ZoeLiao)
-- [ArdxWe](https://github.com/ArdxWe)
-- [WindowsXp-Beta](https://github.com/WindowsXp-Beta)
 
 #### 🔨 Check out my recent pull requests
 
