@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [milkmeowo](https://github.com/milkmeowo)
 - [kimberlyohq](https://github.com/kimberlyohq)
 - [frankfanslc](https://github.com/frankfanslc)
 - [sirinath](https://github.com/sirinath)
 - [GrapeBaBa](https://github.com/GrapeBaBa)
-- [jestemAria](https://github.com/jestemAria)
 
 #### 🔨 Check out my recent pull requests
 
