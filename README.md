@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [js00070](https://github.com/js00070)
 - [milkmeowo](https://github.com/milkmeowo)
 - [kimberlyohq](https://github.com/kimberlyohq)
 - [frankfanslc](https://github.com/frankfanslc)
 - [sirinath](https://github.com/sirinath)
-- [GrapeBaBa](https://github.com/GrapeBaBa)
 
 #### 🔨 Check out my recent pull requests
 
