@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 days ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [Ray-Eldath/MIT6.824](https://github.com/Ray-Eldath/MIT6.824) - MIT 6.824: Distributed Systems (Spring 2020) (3 days ago)
-- [yangsoon/talen-plan-report](https://github.com/yangsoon/talen-plan-report) - PingCAP Talent-Plan(TIDB)1.0  题解 成绩: Section1: 95分 Section2: 97分 Section3: 100分 Section4: 88分 (4 days ago)
-- [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust. (5 days ago)
-- [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据 (5 days ago)
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (5 days ago)
+- [Ray-Eldath/MIT6.824](https://github.com/Ray-Eldath/MIT6.824) - MIT 6.824: Distributed Systems (Spring 2020) (4 days ago)
+- [yangsoon/talen-plan-report](https://github.com/yangsoon/talen-plan-report) - PingCAP Talent-Plan(TIDB)1.0  题解 成绩: Section1: 95分 Section2: 97分 Section3: 100分 Section4: 88分 (5 days ago)
+- [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust. (6 days ago)
+- [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据 (6 days ago)
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -56,4 +56,4 @@
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (1 month ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (3 months ago)
 - [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (5 months ago)
-- [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (5 months ago)
+- [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (6 months ago)
