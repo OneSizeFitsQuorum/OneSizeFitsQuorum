@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ButterBright](https://github.com/ButterBright)
 - [js00070](https://github.com/js00070)
 - [milkmeowo](https://github.com/milkmeowo)
 - [kimberlyohq](https://github.com/kimberlyohq)
 - [frankfanslc](https://github.com/frankfanslc)
-- [sirinath](https://github.com/sirinath)
 
 #### 🔨 Check out my recent pull requests
 
