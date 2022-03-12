@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [etcd-io/dbtester](https://github.com/etcd-io/dbtester) - Distributed database benchmark tester (today)
 - [Ray-Eldath/MIT6.824](https://github.com/Ray-Eldath/MIT6.824) - MIT 6.824: Distributed Systems (Spring 2020) (5 days ago)
 - [yangsoon/talen-plan-report](https://github.com/yangsoon/talen-plan-report) - PingCAP Talent-Plan(TIDB)1.0  题解 成绩: Section1: 95分 Section2: 97分 Section3: 100分 Section4: 88分 (6 days ago)
 - [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust. (1 week ago)
 - [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据 (1 week ago)
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (1 week ago)
 
 #### 👯 Check out my recent followers
 
