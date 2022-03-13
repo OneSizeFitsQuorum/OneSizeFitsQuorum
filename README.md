@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (today)
 - [etcd-io/dbtester](https://github.com/etcd-io/dbtester) - Distributed database benchmark tester (1 day ago)
 - [Ray-Eldath/MIT6.824](https://github.com/Ray-Eldath/MIT6.824) - MIT 6.824: Distributed Systems (Spring 2020) (6 days ago)
 - [yangsoon/talen-plan-report](https://github.com/yangsoon/talen-plan-report) - PingCAP Talent-Plan(TIDB)1.0  题解 成绩: Section1: 95分 Section2: 97分 Section3: 100分 Section4: 88分 (1 week ago)
 - [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust. (1 week ago)
-- [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据 (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [gitsx](https://github.com/gitsx)
 - [ButterBright](https://github.com/ButterBright)
 - [js00070](https://github.com/js00070)
 - [milkmeowo](https://github.com/milkmeowo)
 - [kimberlyohq](https://github.com/kimberlyohq)
-- [frankfanslc](https://github.com/frankfanslc)
 
 #### 🔨 Check out my recent pull requests
 
