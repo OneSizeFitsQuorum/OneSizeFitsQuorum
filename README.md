@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (today)
-- [etcd-io/dbtester](https://github.com/etcd-io/dbtester) - Distributed database benchmark tester (1 day ago)
-- [Ray-Eldath/MIT6.824](https://github.com/Ray-Eldath/MIT6.824) - MIT 6.824: Distributed Systems (Spring 2020) (6 days ago)
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (1 day ago)
+- [etcd-io/dbtester](https://github.com/etcd-io/dbtester) - Distributed database benchmark tester (2 days ago)
+- [Ray-Eldath/MIT6.824](https://github.com/Ray-Eldath/MIT6.824) - MIT 6.824: Distributed Systems (Spring 2020) (1 week ago)
 - [yangsoon/talen-plan-report](https://github.com/yangsoon/talen-plan-report) - PingCAP Talent-Plan(TIDB)1.0  题解 成绩: Section1: 95分 Section2: 97分 Section3: 100分 Section4: 88分 (1 week ago)
 - [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust. (1 week ago)
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (3 weeks ago)
 - [Fix typo](https://github.com/sofastack/sofa-jraft/pull/763) on [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) (4 weeks ago)
