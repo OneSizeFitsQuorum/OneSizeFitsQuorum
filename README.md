@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software. (today)
 - [tangwz/LSM-Tree-CN](https://github.com/tangwz/LSM-Tree-CN) - LSM-Tree 论文的中文翻译 (1 day ago)
 - [Tencent/plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato (1 day ago)
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (2 days ago)
 - [etcd-io/dbtester](https://github.com/etcd-io/dbtester) - Distributed database benchmark tester (3 days ago)
-- [Ray-Eldath/MIT6.824](https://github.com/Ray-Eldath/MIT6.824) - MIT 6.824: Distributed Systems (Spring 2020) (1 week ago)
 
 #### 👯 Check out my recent followers
 
