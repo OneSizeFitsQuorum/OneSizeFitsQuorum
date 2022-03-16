@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [fjh1997/RuanWeiBible](https://github.com/fjh1997/RuanWeiBible) - 北大软微学子励志语录 (today)
 - [baidu/dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software. (1 day ago)
 - [tangwz/LSM-Tree-CN](https://github.com/tangwz/LSM-Tree-CN) - LSM-Tree 论文的中文翻译 (2 days ago)
 - [Tencent/plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato (2 days ago)
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (3 days ago)
-- [etcd-io/dbtester](https://github.com/etcd-io/dbtester) - Distributed database benchmark tester (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Lesliecheni](https://github.com/Lesliecheni)
 - [zbtzbtzbt](https://github.com/zbtzbtzbt)
 - [systemX1](https://github.com/systemX1)
 - [gitsx](https://github.com/gitsx)
 - [ButterBright](https://github.com/ButterBright)
-- [js00070](https://github.com/js00070)
 
 #### 🔨 Check out my recent pull requests
 
