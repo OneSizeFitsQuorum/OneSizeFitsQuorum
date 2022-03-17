@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics. (today)
 - [fjh1997/RuanWeiBible](https://github.com/fjh1997/RuanWeiBible) - 北大软微学子励志语录 (1 day ago)
 - [baidu/dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software. (2 days ago)
 - [tangwz/LSM-Tree-CN](https://github.com/tangwz/LSM-Tree-CN) - LSM-Tree 论文的中文翻译 (3 days ago)
 - [Tencent/plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato (3 days ago)
-- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (4 days ago)
 
 #### 👯 Check out my recent followers
 
