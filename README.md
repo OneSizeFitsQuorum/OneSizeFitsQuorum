@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [JayiceZ](https://github.com/JayiceZ)
 - [Baody12138](https://github.com/Baody12138)
 - [578077863](https://github.com/578077863)
 - [aluneed](https://github.com/aluneed)
 - [Lesliecheni](https://github.com/Lesliecheni)
-- [zbtzbtzbt](https://github.com/zbtzbtzbt)
 
 #### 🔨 Check out my recent pull requests
 
