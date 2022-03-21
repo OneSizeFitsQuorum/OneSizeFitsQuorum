@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
@@ -28,23 +28,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker (2 days ago)
-- [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics. (3 days ago)
-- [fjh1997/RuanWeiBible](https://github.com/fjh1997/RuanWeiBible) - 北大软微学子励志语录 (4 days ago)
-- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software. (5 days ago)
-- [tangwz/LSM-Tree-CN](https://github.com/tangwz/LSM-Tree-CN) - LSM-Tree 论文的中文翻译 (6 days ago)
+- [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker (3 days ago)
+- [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics. (4 days ago)
+- [fjh1997/RuanWeiBible](https://github.com/fjh1997/RuanWeiBible) - 北大软微学子励志语录 (5 days ago)
+- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software. (6 days ago)
+- [tangwz/LSM-Tree-CN](https://github.com/tangwz/LSM-Tree-CN) - LSM-Tree 论文的中文翻译 (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [sunznx](https://github.com/sunznx)
+- [FangYang970206](https://github.com/FangYang970206)
 - [JayiceZ](https://github.com/JayiceZ)
 - [Baody12138](https://github.com/Baody12138)
 - [578077863](https://github.com/578077863)
-- [aluneed](https://github.com/aluneed)
-- [Lesliecheni](https://github.com/Lesliecheni)
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (1 month ago)
