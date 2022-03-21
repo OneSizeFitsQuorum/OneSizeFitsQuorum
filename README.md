@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [dla-010609](https://github.com/dla-010609)
+- [NobeNobita](https://github.com/NobeNobita)
+- [CRZbulabula](https://github.com/CRZbulabula)
+- [Puisque](https://github.com/Puisque)
 - [sunznx](https://github.com/sunznx)
-- [FangYang970206](https://github.com/FangYang970206)
-- [JayiceZ](https://github.com/JayiceZ)
-- [Baody12138](https://github.com/Baody12138)
-- [578077863](https://github.com/578077863)
 
 #### 🔨 Check out my recent pull requests
 
