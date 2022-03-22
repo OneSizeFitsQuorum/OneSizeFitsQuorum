@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Jayyunghao](https://github.com/Jayyunghao)
+- [BEPb](https://github.com/BEPb)
+- [834810071](https://github.com/834810071)
+- [Snailclimb](https://github.com/Snailclimb)
 - [dla-010609](https://github.com/dla-010609)
-- [NobeNobita](https://github.com/NobeNobita)
-- [CRZbulabula](https://github.com/CRZbulabula)
-- [Puisque](https://github.com/Puisque)
-- [sunznx](https://github.com/sunznx)
 
 #### 🔨 Check out my recent pull requests
 
