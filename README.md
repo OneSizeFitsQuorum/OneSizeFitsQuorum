@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases (today)
+- [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现 (today)
+- [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册 (today)
+- [alibaba/Alink](https://github.com/alibaba/Alink) - Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.  (today)
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers (1 day ago)
-- [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker (4 days ago)
-- [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics. (5 days ago)
-- [fjh1997/RuanWeiBible](https://github.com/fjh1997/RuanWeiBible) - 北大软微学子励志语录 (6 days ago)
-- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [liuminghui233](https://github.com/liuminghui233)
+- [3Flos](https://github.com/3Flos)
+- [smiecj](https://github.com/smiecj)
+- [harryweiyongjie](https://github.com/harryweiyongjie)
 - [Jayyunghao](https://github.com/Jayyunghao)
-- [BEPb](https://github.com/BEPb)
-- [834810071](https://github.com/834810071)
-- [Snailclimb](https://github.com/Snailclimb)
-- [dla-010609](https://github.com/dla-010609)
 
 #### 🔨 Check out my recent pull requests
 
