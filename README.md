@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [superalsrk/hexo-pdf](https://github.com/superalsrk/hexo-pdf) - Hexo tag for embeded pdf (today)
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript (today)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. (today)
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases (1 day ago)
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现 (1 day ago)
-- [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册 (1 day ago)
-- [alibaba/Alink](https://github.com/alibaba/Alink) - Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.  (1 day ago)
 
 #### 👯 Check out my recent followers
 
-- [heroPKU](https://github.com/heroPKU)
 - [EveyWu](https://github.com/EveyWu)
 - [liuminghui233](https://github.com/liuminghui233)
 - [3Flos](https://github.com/3Flos)
 - [smiecj](https://github.com/smiecj)
+- [harryweiyongjie](https://github.com/harryweiyongjie)
 
 #### 🔨 Check out my recent pull requests
 
