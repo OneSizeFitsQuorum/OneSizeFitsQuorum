@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [SmallPond/MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) - MIT 6.828 Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html (today)
 - [superalsrk/hexo-pdf](https://github.com/superalsrk/hexo-pdf) - Hexo tag for embeded pdf (1 day ago)
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript (1 day ago)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. (1 day ago)
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases (2 days ago)
-- [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现 (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [heroPKU](https://github.com/heroPKU)
 - [EveyWu](https://github.com/EveyWu)
 - [liuminghui233](https://github.com/liuminghui233)
 - [3Flos](https://github.com/3Flos)
 - [smiecj](https://github.com/smiecj)
-- [harryweiyongjie](https://github.com/harryweiyongjie)
 
 #### 🔨 Check out my recent pull requests
 
