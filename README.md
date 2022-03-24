@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
-- [heroPKU](https://github.com/heroPKU)
 - [EveyWu](https://github.com/EveyWu)
 - [liuminghui233](https://github.com/liuminghui233)
 - [3Flos](https://github.com/3Flos)
 - [smiecj](https://github.com/smiecj)
+- [harryweiyongjie](https://github.com/harryweiyongjie)
 
 #### 🔨 Check out my recent pull requests
 
