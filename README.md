@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yxs](https://github.com/yxs)
+- [LA4AM12](https://github.com/LA4AM12)
 - [Beyyes](https://github.com/Beyyes)
 - [zll600](https://github.com/zll600)
 - [EveyWu](https://github.com/EveyWu)
-- [liuminghui233](https://github.com/liuminghui233)
-- [3Flos](https://github.com/3Flos)
 
 #### 🔨 Check out my recent pull requests
 
