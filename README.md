@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Microsoft-Distributed-System-Meetup/database-meetup](https://github.com/Microsoft-Distributed-System-Meetup/database-meetup) - The home page of database meetup (today)
 - [SmallPond/MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) - MIT 6.828 Operating System Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html (3 days ago)
 - [superalsrk/hexo-pdf](https://github.com/superalsrk/hexo-pdf) - Hexo tag for embeded pdf (4 days ago)
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript (4 days ago)
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. (4 days ago)
-- [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases (5 days ago)
 
 #### 👯 Check out my recent followers
 
