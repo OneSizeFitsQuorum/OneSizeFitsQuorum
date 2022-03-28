@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (today)
+- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (today)
 - [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司 (1 day ago)
 - [JD331/JD331](https://github.com/JD331/JD331) -  (1 day ago)
 - [Microsoft-Distributed-System-Meetup/database-meetup](https://github.com/Microsoft-Distributed-System-Meetup/database-meetup) - The home page of database meetup (1 day ago)
-- [SmallPond/MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) - MIT 6.828 Operating System Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html (4 days ago)
-- [superalsrk/hexo-pdf](https://github.com/superalsrk/hexo-pdf) - Hexo tag for embeded pdf (5 days ago)
 
 #### 👯 Check out my recent followers
 
