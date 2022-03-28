@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 month ago)
@@ -28,23 +28,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [Microsoft-Distributed-System-Meetup/database-meetup](https://github.com/Microsoft-Distributed-System-Meetup/database-meetup) - The home page of database meetup (today)
-- [SmallPond/MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) - MIT 6.828 Operating System Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html (3 days ago)
-- [superalsrk/hexo-pdf](https://github.com/superalsrk/hexo-pdf) - Hexo tag for embeded pdf (4 days ago)
-- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript (4 days ago)
-- [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. (4 days ago)
+- [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司 (1 day ago)
+- [JD331/JD331](https://github.com/JD331/JD331) -  (1 day ago)
+- [Microsoft-Distributed-System-Meetup/database-meetup](https://github.com/Microsoft-Distributed-System-Meetup/database-meetup) - The home page of database meetup (1 day ago)
+- [SmallPond/MIT6.828_OS](https://github.com/SmallPond/MIT6.828_OS) - MIT 6.828 Operating System Lab https://pdos.csail.mit.edu/6.828/2018/schedule.html (4 days ago)
+- [superalsrk/hexo-pdf](https://github.com/superalsrk/hexo-pdf) - Hexo tag for embeded pdf (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [yingfeng](https://github.com/yingfeng)
 - [zhaoning999](https://github.com/zhaoning999)
 - [yxs](https://github.com/yxs)
 - [LA4AM12](https://github.com/LA4AM12)
 - [Beyyes](https://github.com/Beyyes)
-- [zll600](https://github.com/zll600)
 
 #### 🔨 Check out my recent pull requests
 
-- [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
