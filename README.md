@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [thronbird](https://github.com/thronbird)
+- [Big-Wuu](https://github.com/Big-Wuu)
+- [NeonTongji](https://github.com/NeonTongji)
+- [planetInGalaxy](https://github.com/planetInGalaxy)
 - [yingfeng](https://github.com/yingfeng)
-- [zhaoning999](https://github.com/zhaoning999)
-- [yxs](https://github.com/yxs)
-- [LA4AM12](https://github.com/LA4AM12)
-- [Beyyes](https://github.com/Beyyes)
 
 #### 🔨 Check out my recent pull requests
 
