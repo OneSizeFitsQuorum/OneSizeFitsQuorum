@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [littlelittlehorse](https://github.com/littlelittlehorse)
 - [thronbird](https://github.com/thronbird)
 - [Big-Wuu](https://github.com/Big-Wuu)
 - [NeonTongji](https://github.com/NeonTongji)
 - [planetInGalaxy](https://github.com/planetInGalaxy)
-- [yingfeng](https://github.com/yingfeng)
 
 #### 🔨 Check out my recent pull requests
 
