@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [FrogDar](https://github.com/FrogDar)
+- [Paladinhanxiao](https://github.com/Paladinhanxiao)
 - [Akelio-zhang](https://github.com/Akelio-zhang)
 - [littlelittlehorse](https://github.com/littlelittlehorse)
 - [thronbird](https://github.com/thronbird)
-- [Big-Wuu](https://github.com/Big-Wuu)
-- [NeonTongji](https://github.com/NeonTongji)
 
 #### 🔨 Check out my recent pull requests
 
