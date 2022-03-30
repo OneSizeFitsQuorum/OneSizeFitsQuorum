@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记 (today)
 - [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (2 days ago)
 - [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (2 days ago)
 - [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司 (3 days ago)
 - [JD331/JD331](https://github.com/JD331/JD331) -  (3 days ago)
-- [Microsoft-Distributed-System-Meetup/database-meetup](https://github.com/Microsoft-Distributed-System-Meetup/database-meetup) - The home page of database meetup (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Akelio-zhang](https://github.com/Akelio-zhang)
 - [littlelittlehorse](https://github.com/littlelittlehorse)
 - [thronbird](https://github.com/thronbird)
 - [Big-Wuu](https://github.com/Big-Wuu)
 - [NeonTongji](https://github.com/NeonTongji)
-- [planetInGalaxy](https://github.com/planetInGalaxy)
 
 #### 🔨 Check out my recent pull requests
 
