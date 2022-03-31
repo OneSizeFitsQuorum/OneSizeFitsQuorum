@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Jasonysli/tiflash](https://github.com/Jasonysli/tiflash) - The analytical engine for TiDB (today)
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (today)
 - [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记 (1 day ago)
 - [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (3 days ago)
 - [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (3 days ago)
-- [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司 (4 days ago)
-- [JD331/JD331](https://github.com/JD331/JD331) -  (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [JavarisLyn](https://github.com/JavarisLyn)
 - [liuxiaocs7](https://github.com/liuxiaocs7)
 - [FrogDar](https://github.com/FrogDar)
 - [Paladinhanxiao](https://github.com/Paladinhanxiao)
 - [Akelio-zhang](https://github.com/Akelio-zhang)
-- [littlelittlehorse](https://github.com/littlelittlehorse)
 
 #### 🔨 Check out my recent pull requests
 
