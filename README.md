@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
-- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (4 weeks ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
+- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 month ago)
 
@@ -28,23 +28,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记 (today)
-- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (2 days ago)
-- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (2 days ago)
-- [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司 (3 days ago)
-- [JD331/JD331](https://github.com/JD331/JD331) -  (3 days ago)
+- [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记 (1 day ago)
+- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (3 days ago)
+- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (3 days ago)
+- [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司 (4 days ago)
+- [JD331/JD331](https://github.com/JD331/JD331) -  (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [liuxiaocs7](https://github.com/liuxiaocs7)
 - [FrogDar](https://github.com/FrogDar)
 - [Paladinhanxiao](https://github.com/Paladinhanxiao)
 - [Akelio-zhang](https://github.com/Akelio-zhang)
 - [littlelittlehorse](https://github.com/littlelittlehorse)
-- [thronbird](https://github.com/thronbird)
 
 #### 🔨 Check out my recent pull requests
 
-- [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
