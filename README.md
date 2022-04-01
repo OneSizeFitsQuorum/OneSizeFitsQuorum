@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [Jasonysli/tiflash](https://github.com/Jasonysli/tiflash) - The analytical engine for TiDB (today)
-- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (today)
-- [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记 (1 day ago)
-- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (3 days ago)
-- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (3 days ago)
+- [Jasonysli/tiflash](https://github.com/Jasonysli/tiflash) - The analytical engine for TiDB (1 day ago)
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (1 day ago)
+- [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记 (2 days ago)
+- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (4 days ago)
+- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos) - A consensus that unifies paxos, raft, 2pc, etc. (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [RATIS-1533 Fix typo in RaftClientImpl and RaftServerImpl](https://github.com/apache/ratis/pull/609) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [6.824 补充学习资料](https://github.com/PKUFlyingPig/cs-self-learning/pull/53) on [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (1 month ago)
 
