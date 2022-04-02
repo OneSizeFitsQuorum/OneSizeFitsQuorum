@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students (today)
-- [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB (today)
-- [Jasonysli/tiflash](https://github.com/Jasonysli/tiflash) - The analytical engine for TiDB (1 day ago)
-- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (1 day ago)
-- [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记 (2 days ago)
+- [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students (1 day ago)
+- [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB (1 day ago)
+- [Jasonysli/tiflash](https://github.com/Jasonysli/tiflash) - The analytical engine for TiDB (2 days ago)
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (2 days ago)
+- [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记 (3 days ago)
 
 #### 👯 Check out my recent followers
 
