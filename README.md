@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [platoneko](https://github.com/platoneko)
+- [OsrHu](https://github.com/OsrHu)
+- [cuijianzhuang](https://github.com/cuijianzhuang)
 - [youngzw](https://github.com/youngzw)
 - [fighterhit](https://github.com/fighterhit)
-- [JavarisLyn](https://github.com/JavarisLyn)
-- [liuxiaocs7](https://github.com/liuxiaocs7)
-- [FrogDar](https://github.com/FrogDar)
 
 #### 🔨 Check out my recent pull requests
 
