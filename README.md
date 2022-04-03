@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (today)
+- [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege  (today)
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com (today)
 - [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students (2 days ago)
 - [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB (2 days ago)
-- [Jasonysli/tiflash](https://github.com/Jasonysli/tiflash) - The analytical engine for TiDB (3 days ago)
-- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (3 days ago)
 
 #### 👯 Check out my recent followers
 
