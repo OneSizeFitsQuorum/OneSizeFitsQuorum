@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [softhuafei](https://github.com/softhuafei)
+- [Jo1ceLi](https://github.com/Jo1ceLi)
 - [platoneko](https://github.com/platoneko)
 - [OsrHu](https://github.com/OsrHu)
 - [cuijianzhuang](https://github.com/cuijianzhuang)
-- [youngzw](https://github.com/youngzw)
-- [fighterhit](https://github.com/fighterhit)
 
 #### 🔨 Check out my recent pull requests
 
