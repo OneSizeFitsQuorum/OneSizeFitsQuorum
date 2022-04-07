@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [gelaiwang](https://github.com/gelaiwang)
 - [softhuafei](https://github.com/softhuafei)
 - [Jo1ceLi](https://github.com/Jo1ceLi)
 - [platoneko](https://github.com/platoneko)
 - [OsrHu](https://github.com/OsrHu)
-- [cuijianzhuang](https://github.com/cuijianzhuang)
 
 #### 🔨 Check out my recent pull requests
 
