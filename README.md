@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [SpriCoder/IoTDB-Cluster-Benchmark](https://github.com/SpriCoder/IoTDB-Cluster-Benchmark) -  (today)
 - [hashicorp/raft-boltdb](https://github.com/hashicorp/raft-boltdb) - Raft backend implementation using BoltDB (today)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (4 days ago)
 - [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege  (4 days ago)
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com (4 days ago)
-- [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [chenshouao](https://github.com/chenshouao)
+- [my-vegatable-has-exploded](https://github.com/my-vegatable-has-exploded)
 - [gelaiwang](https://github.com/gelaiwang)
 - [softhuafei](https://github.com/softhuafei)
 - [Jo1ceLi](https://github.com/Jo1ceLi)
-- [platoneko](https://github.com/platoneko)
-- [OsrHu](https://github.com/OsrHu)
 
 #### 🔨 Check out my recent pull requests
 
