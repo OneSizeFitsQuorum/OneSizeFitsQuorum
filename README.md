@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mamougo](https://github.com/mamougo)
 - [Schenk75](https://github.com/Schenk75)
 - [cubicc](https://github.com/cubicc)
 - [WriteRaven](https://github.com/WriteRaven)
 - [chenshouao](https://github.com/chenshouao)
-- [my-vegatable-has-exploded](https://github.com/my-vegatable-has-exploded)
 
 #### 🔨 Check out my recent pull requests
 
