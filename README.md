@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (today)
-- [SpriCoder/IoTDB-Cluster-Benchmark](https://github.com/SpriCoder/IoTDB-Cluster-Benchmark) -  (1 day ago)
-- [hashicorp/raft-boltdb](https://github.com/hashicorp/raft-boltdb) - Raft backend implementation using BoltDB (1 day ago)
-- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (5 days ago)
-- [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege  (5 days ago)
+- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (1 day ago)
+- [SpriCoder/IoTDB-Cluster-Benchmark](https://github.com/SpriCoder/IoTDB-Cluster-Benchmark) -  (2 days ago)
+- [hashicorp/raft-boltdb](https://github.com/hashicorp/raft-boltdb) - Raft backend implementation using BoltDB (2 days ago)
+- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (6 days ago)
+- [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege  (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (today)
-- [[IOTDB-2832] Initialize the consensus layer of the Datanode](https://github.com/apache/iotdb/pull/5417) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (1 day ago)
+- [[IOTDB-2832] Initialize the consensus layer of the Datanode](https://github.com/apache/iotdb/pull/5417) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
