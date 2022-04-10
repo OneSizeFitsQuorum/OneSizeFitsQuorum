@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
-- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 day ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (1 day ago)
-- [SpriCoder/IoTDB-Cluster-Benchmark](https://github.com/SpriCoder/IoTDB-Cluster-Benchmark) -  (2 days ago)
-- [hashicorp/raft-boltdb](https://github.com/hashicorp/raft-boltdb) - Raft backend implementation using BoltDB (2 days ago)
-- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (6 days ago)
-- [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege  (6 days ago)
+- [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (1 day ago)
+- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (2 days ago)
+- [SpriCoder/IoTDB-Cluster-Benchmark](https://github.com/SpriCoder/IoTDB-Cluster-Benchmark) -  (3 days ago)
+- [hashicorp/raft-boltdb](https://github.com/hashicorp/raft-boltdb) - Raft backend implementation using BoltDB (3 days ago)
+- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (1 day ago)
-- [[IOTDB-2832] Initialize the consensus layer of the Datanode](https://github.com/apache/iotdb/pull/5417) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (2 days ago)
+- [[IOTDB-2832] Initialize the consensus layer of the Datanode](https://github.com/apache/iotdb/pull/5417) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
+- [[IOTDB-2673] Implement the consensus layer basic framework](https://github.com/apache/iotdb/pull/5204) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -56,4 +56,4 @@
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (2 months ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (4 months ago)
 - [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (6 months ago)
-- [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (6 months ago)
+- [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (7 months ago)
