@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) -  (today)
 - [Robin970822/WorkingTime](https://github.com/Robin970822/WorkingTime) - 向发起人致敬 https://github.com/WorkerLivesMatter/WorkingTime (today)
 - [google/tcmalloc](https://github.com/google/tcmalloc) -  (today)
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (2 days ago)
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (3 days ago)
-- [SpriCoder/IoTDB-Cluster-Benchmark](https://github.com/SpriCoder/IoTDB-Cluster-Benchmark) -  (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Seanlau01](https://github.com/Seanlau01)
+- [gitccl](https://github.com/gitccl)
 - [supergaga](https://github.com/supergaga)
 - [mamougo](https://github.com/mamougo)
 - [Schenk75](https://github.com/Schenk75)
-- [cubicc](https://github.com/cubicc)
-- [WriteRaven](https://github.com/WriteRaven)
 
 #### 🔨 Check out my recent pull requests
 
