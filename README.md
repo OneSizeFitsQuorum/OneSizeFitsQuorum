@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Robin970822/WorkingTime](https://github.com/Robin970822/WorkingTime) - 向发起人致敬 https://github.com/WorkerLivesMatter/WorkingTime (today)
+- [google/tcmalloc](https://github.com/google/tcmalloc) -  (today)
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (2 days ago)
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (3 days ago)
 - [SpriCoder/IoTDB-Cluster-Benchmark](https://github.com/SpriCoder/IoTDB-Cluster-Benchmark) -  (4 days ago)
-- [hashicorp/raft-boltdb](https://github.com/hashicorp/raft-boltdb) - Raft backend implementation using BoltDB (4 days ago)
-- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [supergaga](https://github.com/supergaga)
 - [mamougo](https://github.com/mamougo)
 - [Schenk75](https://github.com/Schenk75)
 - [cubicc](https://github.com/cubicc)
 - [WriteRaven](https://github.com/WriteRaven)
-- [chenshouao](https://github.com/chenshouao)
 
 #### 🔨 Check out my recent pull requests
 
