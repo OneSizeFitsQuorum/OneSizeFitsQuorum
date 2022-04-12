@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Yiyiyimu](https://github.com/Yiyiyimu)
+- [YukkiKaze](https://github.com/YukkiKaze)
 - [likzn](https://github.com/likzn)
 - [wlwilliamx](https://github.com/wlwilliamx)
 - [codeljs](https://github.com/codeljs)
-- [Seanlau01](https://github.com/Seanlau01)
-- [gitccl](https://github.com/gitccl)
 
 #### 🔨 Check out my recent pull requests
 
