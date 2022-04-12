@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [likzn](https://github.com/likzn)
+- [wlwilliamx](https://github.com/wlwilliamx)
 - [codeljs](https://github.com/codeljs)
 - [Seanlau01](https://github.com/Seanlau01)
 - [gitccl](https://github.com/gitccl)
-- [supergaga](https://github.com/supergaga)
-- [mamougo](https://github.com/mamougo)
 
 #### 🔨 Check out my recent pull requests
 
