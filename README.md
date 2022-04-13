@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例 (today)
 - [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) -  (2 days ago)
 - [Robin970822/WorkingTime](https://github.com/Robin970822/WorkingTime) - 向发起人致敬 https://github.com/WorkerLivesMatter/WorkingTime (2 days ago)
 - [google/tcmalloc](https://github.com/google/tcmalloc) -  (2 days ago)
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (4 days ago)
-- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [YaoveiD](https://github.com/YaoveiD)
+- [andream7](https://github.com/andream7)
 - [Yiyiyimu](https://github.com/Yiyiyimu)
 - [YukkiKaze](https://github.com/YukkiKaze)
 - [likzn](https://github.com/likzn)
-- [wlwilliamx](https://github.com/wlwilliamx)
-- [codeljs](https://github.com/codeljs)
 
 #### 🔨 Check out my recent pull requests
 
