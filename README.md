@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [SzyWilliam](https://github.com/SzyWilliam)
 - [YaoveiD](https://github.com/YaoveiD)
 - [andream7](https://github.com/andream7)
 - [Yiyiyimu](https://github.com/Yiyiyimu)
 - [YukkiKaze](https://github.com/YukkiKaze)
-- [likzn](https://github.com/likzn)
 
 #### 🔨 Check out my recent pull requests
 
