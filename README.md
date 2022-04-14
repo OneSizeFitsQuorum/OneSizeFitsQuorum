@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
-- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
+- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例 (today)
-- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) -  (2 days ago)
-- [Robin970822/WorkingTime](https://github.com/Robin970822/WorkingTime) - 向发起人致敬 https://github.com/WorkerLivesMatter/WorkingTime (2 days ago)
-- [google/tcmalloc](https://github.com/google/tcmalloc) -  (2 days ago)
-- [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (4 days ago)
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例 (1 day ago)
+- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) -  (3 days ago)
+- [Robin970822/WorkingTime](https://github.com/Robin970822/WorkingTime) - 向发起人致敬 https://github.com/WorkerLivesMatter/WorkingTime (3 days ago)
+- [google/tcmalloc](https://github.com/google/tcmalloc) -  (3 days ago)
+- [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (5 days ago)
+- [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (6 days ago)
 - [[IOTDB-2832] Initialize the consensus layer of the Datanode](https://github.com/apache/iotdb/pull/5417) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
@@ -53,7 +53,7 @@
 #### 📜 Check out my recent blog posts
 
 - [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (2 months ago)
-- [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (2 months ago)
+- [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (3 months ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (4 months ago)
 - [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (6 months ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (7 months ago)
