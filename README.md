@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题；成为新中国人的核心宗教，核心信念。 (2 days ago)
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (2 days ago)
 - [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) -  (4 days ago)
 - [Robin970822/WorkingTime](https://github.com/Robin970822/WorkingTime) - 向发起人致敬 https://github.com/WorkerLivesMatter/WorkingTime (4 days ago)
 - [google/tcmalloc](https://github.com/google/tcmalloc) -  (4 days ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [cherryhanminmin](https://github.com/cherryhanminmin)
 - [ZYFZYF](https://github.com/ZYFZYF)
 - [SzyWilliam](https://github.com/SzyWilliam)
 - [YaoveiD](https://github.com/YaoveiD)
 - [andream7](https://github.com/andream7)
-- [Yiyiyimu](https://github.com/Yiyiyimu)
 
 #### 🔨 Check out my recent pull requests
 
