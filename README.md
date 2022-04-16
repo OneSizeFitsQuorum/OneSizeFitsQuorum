@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (today)
+- [R-r-riddikulus/riddikulus-shanghai-2022](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022) - 上海2022封城实录 (today)
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (3 days ago)
 - [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) -  (5 days ago)
 - [Robin970822/WorkingTime](https://github.com/Robin970822/WorkingTime) - 向发起人致敬 https://github.com/WorkerLivesMatter/WorkingTime (5 days ago)
-- [google/tcmalloc](https://github.com/google/tcmalloc) -  (5 days ago)
-- [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (1 week ago)
 
 #### 👯 Check out my recent followers
 
