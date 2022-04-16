@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [R-s-bot](https://github.com/R-s-bot)
+- [BinyuHuang-nju](https://github.com/BinyuHuang-nju)
+- [wangzhuooooo](https://github.com/wangzhuooooo)
 - [cherryhanminmin](https://github.com/cherryhanminmin)
 - [ZYFZYF](https://github.com/ZYFZYF)
-- [SzyWilliam](https://github.com/SzyWilliam)
-- [YaoveiD](https://github.com/YaoveiD)
-- [andream7](https://github.com/andream7)
 
 #### 🔨 Check out my recent pull requests
 
