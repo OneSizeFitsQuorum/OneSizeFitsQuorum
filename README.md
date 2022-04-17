@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix repeated flip() &amp;&amp; Fix configNode&#39;s failure for addConsensusGroup &amp;&amp; Improve DataNode&#39;s joining ConfigNode](https://github.com/apache/iotdb/pull/5544) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-2941] Fix repeated flip() &amp;&amp; Fix configNode&#39;s failure for addConsensusGroup &amp;&amp; Improve DataNode&#39;s joining ConfigNode](https://github.com/apache/iotdb/pull/5544) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (1 week ago)
 - [[IOTDB-2832] Initialize the consensus layer of the Datanode](https://github.com/apache/iotdb/pull/5417) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
