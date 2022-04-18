@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [LiNY2-01](https://github.com/LiNY2-01)
+- [aloha-zzz](https://github.com/aloha-zzz)
 - [result17](https://github.com/result17)
 - [SuperQian666](https://github.com/SuperQian666)
 - [R-s-bot](https://github.com/R-s-bot)
-- [BinyuHuang-nju](https://github.com/BinyuHuang-nju)
-- [wangzhuooooo](https://github.com/wangzhuooooo)
 
 #### 🔨 Check out my recent pull requests
 
