@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang. (today)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (2 days ago)
 - [R-r-riddikulus/riddikulus-shanghai-2022](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022) - 上海2022封城实录 (2 days ago)
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (5 days ago)
 - [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) -  (1 week ago)
-- [Robin970822/WorkingTime](https://github.com/Robin970822/WorkingTime) - 向发起人致敬 https://github.com/WorkerLivesMatter/WorkingTime (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [IDJack](https://github.com/IDJack)
 - [LiNY2-01](https://github.com/LiNY2-01)
 - [aloha-zzz](https://github.com/aloha-zzz)
 - [result17](https://github.com/result17)
 - [SuperQian666](https://github.com/SuperQian666)
-- [R-s-bot](https://github.com/R-s-bot)
 
 #### 🔨 Check out my recent pull requests
 
