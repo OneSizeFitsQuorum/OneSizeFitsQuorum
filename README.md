@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (today)
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization (today)
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang. (1 day ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (3 days ago)
 - [R-r-riddikulus/riddikulus-shanghai-2022](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022) - 上海2022封城实录 (3 days ago)
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [alanskind](https://github.com/alanskind)
 - [baoqp](https://github.com/baoqp)
 - [IDJack](https://github.com/IDJack)
 - [LiNY2-01](https://github.com/LiNY2-01)
 - [aloha-zzz](https://github.com/aloha-zzz)
-- [result17](https://github.com/result17)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-2955] Design and implement ClientManager for thrift client&#39;s pooling management](https://github.com/apache/iotdb/pull/5595) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-2941] Fix repeated flip() &amp;&amp; Fix configNode&#39;s failure for addConsensusGroup &amp;&amp; Improve DataNode&#39;s joining ConfigNode](https://github.com/apache/iotdb/pull/5544) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (1 week ago)
 - [[IOTDB-2832] Initialize the consensus layer of the Datanode](https://github.com/apache/iotdb/pull/5417) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[IOTDB-2764] Refine the consensus layer framework and add examples](https://github.com/apache/iotdb/pull/5277) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
