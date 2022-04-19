@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization (today)
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang. (1 day ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (3 days ago)
 - [R-r-riddikulus/riddikulus-shanghai-2022](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022) - 上海2022封城实录 (3 days ago)
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (6 days ago)
-- [tiny-talent/distributed-txn](https://github.com/tiny-talent/distributed-txn) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [baoqp](https://github.com/baoqp)
 - [IDJack](https://github.com/IDJack)
 - [LiNY2-01](https://github.com/LiNY2-01)
 - [aloha-zzz](https://github.com/aloha-zzz)
 - [result17](https://github.com/result17)
-- [SuperQian666](https://github.com/SuperQian666)
 
 #### 🔨 Check out my recent pull requests
 
