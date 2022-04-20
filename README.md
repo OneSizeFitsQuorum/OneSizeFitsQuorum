@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (today)
-- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization (today)
-- [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang. (1 day ago)
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (3 days ago)
-- [R-r-riddikulus/riddikulus-shanghai-2022](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022) - 上海2022封城实录 (3 days ago)
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (1 day ago)
+- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization (1 day ago)
+- [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang. (2 days ago)
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (4 days ago)
+- [R-r-riddikulus/riddikulus-shanghai-2022](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022) - 上海2022封城实录 (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-2955] Design and implement ClientManager for thrift client&#39;s pooling management](https://github.com/apache/iotdb/pull/5595) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-2941] Fix repeated flip() &amp;&amp; Fix configNode&#39;s failure for addConsensusGroup &amp;&amp; Improve DataNode&#39;s joining ConfigNode](https://github.com/apache/iotdb/pull/5544) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[IOTDB-2955] Design and implement ClientManager for thrift client&#39;s pooling management](https://github.com/apache/iotdb/pull/5595) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-2941] Fix repeated flip() &amp;&amp; Fix configNode&#39;s failure for addConsensusGroup &amp;&amp; Improve DataNode&#39;s joining ConfigNode](https://github.com/apache/iotdb/pull/5544) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (1 week ago)
 - [[IOTDB-2832] Initialize the consensus layer of the Datanode](https://github.com/apache/iotdb/pull/5417) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Change ratis log level from error to info](https://github.com/apache/iotdb/pull/5346) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
