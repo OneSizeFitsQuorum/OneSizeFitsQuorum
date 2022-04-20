@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [carpediem2](https://github.com/carpediem2)
+- [VegetableDog118](https://github.com/VegetableDog118)
 - [alanskind](https://github.com/alanskind)
 - [baoqp](https://github.com/baoqp)
 - [IDJack](https://github.com/IDJack)
-- [LiNY2-01](https://github.com/LiNY2-01)
-- [aloha-zzz](https://github.com/aloha-zzz)
 
 #### 🔨 Check out my recent pull requests
 
