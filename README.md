@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library (today)
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (2 days ago)
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization (2 days ago)
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang. (3 days ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (5 days ago)
-- [R-r-riddikulus/riddikulus-shanghai-2022](https://github.com/R-r-riddikulus/riddikulus-shanghai-2022) - 上海2022封城实录 (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [JJJJJJerry](https://github.com/JJJJJJerry)
 - [carpediem2](https://github.com/carpediem2)
 - [VegetableDog118](https://github.com/VegetableDog118)
 - [alanskind](https://github.com/alanskind)
 - [baoqp](https://github.com/baoqp)
-- [IDJack](https://github.com/IDJack)
 
 #### 🔨 Check out my recent pull requests
 
