@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library (1 day ago)
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (3 days ago)
-- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization (3 days ago)
-- [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang. (4 days ago)
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (6 days ago)
+- [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library (2 days ago)
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (4 days ago)
+- [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - RowMajor sgemm optimization (4 days ago)
+- [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang. (5 days ago)
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-2955] Design and implement ClientManager for thrift client&#39;s pooling management](https://github.com/apache/iotdb/pull/5595) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-2955] Design and implement ClientManager for thrift client&#39;s pooling management](https://github.com/apache/iotdb/pull/5595) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[IOTDB-2941] Fix repeated flip() &amp;&amp; Fix configNode&#39;s failure for addConsensusGroup &amp;&amp; Improve DataNode&#39;s joining ConfigNode](https://github.com/apache/iotdb/pull/5544) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (2 weeks ago)
 - [[IOTDB-2832] Initialize the consensus layer of the Datanode](https://github.com/apache/iotdb/pull/5417) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
@@ -54,6 +54,6 @@
 
 - [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (2 months ago)
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (3 months ago)
-- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (4 months ago)
+- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (5 months ago)
 - [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (6 months ago)
 - [15-445 数据库课程学习总结](https://tanxinyu.work/15-445/) (7 months ago)
