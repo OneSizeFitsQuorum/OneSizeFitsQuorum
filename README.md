@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [kense-lab](https://github.com/kense-lab)
+- [xxxuuu](https://github.com/xxxuuu)
 - [2w1nd](https://github.com/2w1nd)
 - [JJJJJJerry](https://github.com/JJJJJJerry)
 - [carpediem2](https://github.com/carpediem2)
-- [VegetableDog118](https://github.com/VegetableDog118)
-- [alanskind](https://github.com/alanskind)
 
 #### 🔨 Check out my recent pull requests
 
