@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 weeks ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [pengpengSir](https://github.com/pengpengSir)
+- [GaryGky](https://github.com/GaryGky)
 - [xRay2016](https://github.com/xRay2016)
 - [kense-lab](https://github.com/kense-lab)
 - [xxxuuu](https://github.com/xxxuuu)
-- [2w1nd](https://github.com/2w1nd)
-- [JJJJJJerry](https://github.com/JJJJJJerry)
 
 #### 🔨 Check out my recent pull requests
 
