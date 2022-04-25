@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yuehan1996](https://github.com/yuehan1996)
+- [KenLoong](https://github.com/KenLoong)
+- [yanggl29](https://github.com/yanggl29)
+- [yanlei9595](https://github.com/yanlei9595)
 - [pengpengSir](https://github.com/pengpengSir)
-- [GaryGky](https://github.com/GaryGky)
-- [xRay2016](https://github.com/xRay2016)
-- [kense-lab](https://github.com/kense-lab)
-- [xxxuuu](https://github.com/xxxuuu)
 
 #### 🔨 Check out my recent pull requests
 
