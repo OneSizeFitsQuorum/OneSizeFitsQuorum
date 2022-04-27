@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Axtonsun](https://github.com/Axtonsun)
+- [QuenKar](https://github.com/QuenKar)
 - [LiefB](https://github.com/LiefB)
 - [attackoncs](https://github.com/attackoncs)
 - [mouweng](https://github.com/mouweng)
-- [wtxue](https://github.com/wtxue)
-- [yuehan1996](https://github.com/yuehan1996)
 
 #### 🔨 Check out my recent pull requests
 
@@ -52,8 +52,8 @@
 
 #### 📜 Check out my recent blog posts
 
+- [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (6 days ago)
 - [Raft 算法和对应代码框架介绍](https://tanxinyu.work/talent-plan-raft-talk/) (1 month ago)
 - [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (3 months ago)
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (3 months ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (5 months ago)
-- [2021 中科院开源之夏总结](https://tanxinyu.work/2021-summer-of-code/) (6 months ago)
