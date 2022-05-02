@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mind1949](https://github.com/mind1949)
 - [walterzhaoJR](https://github.com/walterzhaoJR)
 - [luolanmeet](https://github.com/luolanmeet)
 - [rainy-song](https://github.com/rainy-song)
 - [Axtonsun](https://github.com/Axtonsun)
-- [QuenKar](https://github.com/QuenKar)
 
 #### 🔨 Check out my recent pull requests
 
