@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [RockeyCoss](https://github.com/RockeyCoss)
 - [Sunt-ing](https://github.com/Sunt-ing)
 - [xiaoyong-z](https://github.com/xiaoyong-z)
 - [mind1949](https://github.com/mind1949)
 - [walterzhaoJR](https://github.com/walterzhaoJR)
-- [luolanmeet](https://github.com/luolanmeet)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-3090] Fix the exception of the newly initialized consensus group read function &amp;&amp; fix the recycle logic when RaftClient fails &amp;&amp; Added exception handling for RaftClientReply](https://github.com/apache/iotdb/pull/5784) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-3076]Optimize StandAloneConsensus read/write performance &amp;&amp; consensus modu…](https://github.com/apache/iotdb/pull/5768) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Use logical clock to fix clientManager test](https://github.com/apache/iotdb/pull/5671) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-2955] Design and implement ClientManager for thrift client&#39;s pooling management](https://github.com/apache/iotdb/pull/5595) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-2941] Fix repeated flip() &amp;&amp; Fix configNode&#39;s failure for addConsensusGroup &amp;&amp; Improve DataNode&#39;s joining ConfigNode](https://github.com/apache/iotdb/pull/5544) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[docs fix] 修复在线阅读 url](https://github.com/CodingDocs/awesome-idea/pull/3) on [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
