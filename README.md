@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Insights for Open Source Software (today)
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction (2 days ago)
 - [utsaslab/pebblesdb](https://github.com/utsaslab/pebblesdb) - The PebblesDB write-optimized key-value store (SOSP 17) (5 days ago)
 - [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) - lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号 (1 week ago)
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 &#43; 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   (1 week ago)
-- [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [little-Icey](https://github.com/little-Icey)
+- [rustzzh](https://github.com/rustzzh)
 - [honghong1012](https://github.com/honghong1012)
 - [fxrcode](https://github.com/fxrcode)
 - [RockeyCoss](https://github.com/RockeyCoss)
-- [Sunt-ing](https://github.com/Sunt-ing)
-- [xiaoyong-z](https://github.com/xiaoyong-z)
 
 #### 🔨 Check out my recent pull requests
 
