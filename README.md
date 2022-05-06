@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [smarty-prototypes/go-disruptor](https://github.com/smarty-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language. (today)
 - [longtai-cn/hippo4j](https://github.com/longtai-cn/hippo4j) - 🔥 强大的动态线程池，附带监控报警功能，内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function. (1 day ago)
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Insights for Open Source Software (1 day ago)
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction (3 days ago)
 - [utsaslab/pebblesdb](https://github.com/utsaslab/pebblesdb) - The PebblesDB write-optimized key-value store (SOSP 17) (6 days ago)
-- [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) - lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号 (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [caaatch22](https://github.com/caaatch22)
+- [zbs4017](https://github.com/zbs4017)
 - [luckyzahuo](https://github.com/luckyzahuo)
 - [pch9520](https://github.com/pch9520)
 - [MrQuansy](https://github.com/MrQuansy)
-- [Fontzs](https://github.com/Fontzs)
-- [little-Icey](https://github.com/little-Icey)
 
 #### 🔨 Check out my recent pull requests
 
