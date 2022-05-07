@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [sheny1if](https://github.com/sheny1if)
+- [JackTan25](https://github.com/JackTan25)
 - [cuiHL](https://github.com/cuiHL)
 - [KRCheung](https://github.com/KRCheung)
 - [caaatch22](https://github.com/caaatch22)
-- [zbs4017](https://github.com/zbs4017)
-- [luckyzahuo](https://github.com/luckyzahuo)
 
 #### 🔨 Check out my recent pull requests
 
