@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [cuiHL](https://github.com/cuiHL)
+- [KRCheung](https://github.com/KRCheung)
 - [caaatch22](https://github.com/caaatch22)
 - [zbs4017](https://github.com/zbs4017)
 - [luckyzahuo](https://github.com/luckyzahuo)
-- [pch9520](https://github.com/pch9520)
-- [MrQuansy](https://github.com/MrQuansy)
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-1570. add getCurrentLeader interface](https://github.com/apache/ratis/pull/640) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [[IOTDB-3104] Add Consensus Module StateMachine Event API](https://github.com/apache/iotdb/pull/5806) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-3090] Fix the exception of the newly initialized consensus group read function &amp;&amp; fix the recycle logic when RaftClient fails &amp;&amp; Added exception handling for RaftClientReply](https://github.com/apache/iotdb/pull/5784) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[IOTDB-3076]Optimize StandAloneConsensus read/write performance &amp;&amp; consensus modu…](https://github.com/apache/iotdb/pull/5768) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Use logical clock to fix clientManager test](https://github.com/apache/iotdb/pull/5671) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-2955] Design and implement ClientManager for thrift client&#39;s pooling management](https://github.com/apache/iotdb/pull/5595) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
