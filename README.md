@@ -36,15 +36,15 @@
 
 #### 👯 Check out my recent followers
 
+- [tiandankanfeng](https://github.com/tiandankanfeng)
+- [aucker](https://github.com/aucker)
+- [xiaoyang-sde](https://github.com/xiaoyang-sde)
+- [IoCing](https://github.com/IoCing)
 - [sheny1if](https://github.com/sheny1if)
-- [JackTan25](https://github.com/JackTan25)
-- [cuiHL](https://github.com/cuiHL)
-- [KRCheung](https://github.com/KRCheung)
-- [caaatch22](https://github.com/caaatch22)
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1570. add getCurrentLeader interface](https://github.com/apache/ratis/pull/640) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [RATIS-1570. Add getLeaderId method to DivisionInfo](https://github.com/apache/ratis/pull/640) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [[IOTDB-3104] Add Consensus Module StateMachine Event API](https://github.com/apache/iotdb/pull/5806) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-3090] Fix the exception of the newly initialized consensus group read function &amp;&amp; fix the recycle logic when RaftClient fails &amp;&amp; Added exception handling for RaftClientReply](https://github.com/apache/iotdb/pull/5784) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[IOTDB-3076]Optimize StandAloneConsensus read/write performance &amp;&amp; consensus modu…](https://github.com/apache/iotdb/pull/5768) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
