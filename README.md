@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 month ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 months ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [aphyr/distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series (today)
 - [smarty-prototypes/go-disruptor](https://github.com/smarty-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language. (3 days ago)
 - [longtai-cn/hippo4j](https://github.com/longtai-cn/hippo4j) - 🔥 强大的动态线程池，附带监控报警功能，内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function. (4 days ago)
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Insights for Open Source Software (4 days ago)
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction (6 days ago)
-- [utsaslab/pebblesdb](https://github.com/utsaslab/pebblesdb) - The PebblesDB write-optimized key-value store (SOSP 17) (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [erdengk](https://github.com/erdengk)
 - [tiandankanfeng](https://github.com/tiandankanfeng)
 - [aucker](https://github.com/aucker)
 - [xiaoyang-sde](https://github.com/xiaoyang-sde)
 - [IoCing](https://github.com/IoCing)
-- [sheny1if](https://github.com/sheny1if)
 
 #### 🔨 Check out my recent pull requests
 
