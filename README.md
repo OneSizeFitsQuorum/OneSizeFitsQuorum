@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [coderbruis/JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - Java流行框架源码分析：Spring源码、SpringBoot源码、SpringAOP源码、SpringSecurity源码、SpringSecurity OAuth2源码、JDK源码、Netty源码 (today)
+- [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ (today)
 - [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC (today)
 - [2ndQuadrant/bdr](https://github.com/2ndQuadrant/bdr) - Bi-Directional Multi-Master Replication (BDR) for PostgreSQL, deprecated, please visit 2ndQuadrant website for latest BDR3 (1 day ago)
 - [aphyr/distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series (1 day ago)
-- [smarty-prototypes/go-disruptor](https://github.com/smarty-prototypes/go-disruptor) - A port of the LMAX Disruptor to the Go language. (4 days ago)
-- [longtai-cn/hippo4j](https://github.com/longtai-cn/hippo4j) - 🔥 强大的动态线程池，附带监控报警功能，内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function. (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [terryzh0u](https://github.com/terryzh0u)
+- [Rity01](https://github.com/Rity01)
 - [husterL9](https://github.com/husterL9)
 - [erdengk](https://github.com/erdengk)
 - [tiandankanfeng](https://github.com/tiandankanfeng)
-- [aucker](https://github.com/aucker)
-- [xiaoyang-sde](https://github.com/xiaoyang-sde)
 
 #### 🔨 Check out my recent pull requests
 
