@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than 100&#43; billion data, high performance and scalability (Include OLTP Engine &amp; REST-API &amp; Backends) (today)
+- [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework (today)
 - [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (1 day ago)
 - [coderbruis/JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - Java流行框架源码分析：Spring源码、SpringBoot源码、SpringAOP源码、SpringSecurity源码、SpringSecurity OAuth2源码、JDK源码、Netty源码 (1 day ago)
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ (1 day ago)
-- [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC (1 day ago)
-- [2ndQuadrant/bdr](https://github.com/2ndQuadrant/bdr) - Bi-Directional Multi-Master Replication (BDR) for PostgreSQL, deprecated, please visit 2ndQuadrant website for latest BDR3 (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [chengjianyun](https://github.com/chengjianyun)
 - [Cunninghan](https://github.com/Cunninghan)
 - [terryzh0u](https://github.com/terryzh0u)
 - [Rity01](https://github.com/Rity01)
 - [husterL9](https://github.com/husterL9)
-- [erdengk](https://github.com/erdengk)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-3167] Add wait_leader_ready logic for RatisConsensus](https://github.com/apache/iotdb/pull/5869) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-1570. Add getLeaderId method to DivisionInfo](https://github.com/apache/ratis/pull/640) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
 - [[IOTDB-3104] Add Consensus Module StateMachine Event API](https://github.com/apache/iotdb/pull/5806) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-3090] Fix the exception of the newly initialized consensus group read function &amp;&amp; fix the recycle logic when RaftClient fails &amp;&amp; Added exception handling for RaftClientReply](https://github.com/apache/iotdb/pull/5784) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3076]Optimize StandAloneConsensus read/write performance &amp;&amp; consensus modu…](https://github.com/apache/iotdb/pull/5768) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Use logical clock to fix clientManager test](https://github.com/apache/iotdb/pull/5671) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
