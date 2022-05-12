@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zjs1224522500](https://github.com/zjs1224522500)
+- [muwenlin](https://github.com/muwenlin)
 - [hxu296](https://github.com/hxu296)
 - [chengjianyun](https://github.com/chengjianyun)
 - [Cunninghan](https://github.com/Cunninghan)
-- [terryzh0u](https://github.com/terryzh0u)
-- [Rity01](https://github.com/Rity01)
 
 #### 🔨 Check out my recent pull requests
 
