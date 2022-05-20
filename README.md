@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Maizehsu](https://github.com/Maizehsu)
+- [XuYingZJU](https://github.com/XuYingZJU)
 - [toum120](https://github.com/toum120)
 - [Ironmankiller](https://github.com/Ironmankiller)
 - [noleRise](https://github.com/noleRise)
-- [csbo98](https://github.com/csbo98)
-- [niuniuz](https://github.com/niuniuz)
 
 #### 🔨 Check out my recent pull requests
 
