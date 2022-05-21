@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars (today)
+- [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 (today)
 - [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 (1 day ago)
 - [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system. (2 days ago)
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns (3 days ago)
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐ (4 days ago)
-- [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [hongfz16](https://github.com/hongfz16)
 - [Maizehsu](https://github.com/Maizehsu)
 - [XuYingZJU](https://github.com/XuYingZJU)
 - [toum120](https://github.com/toum120)
 - [Ironmankiller](https://github.com/Ironmankiller)
-- [noleRise](https://github.com/noleRise)
 
 #### 🔨 Check out my recent pull requests
 
