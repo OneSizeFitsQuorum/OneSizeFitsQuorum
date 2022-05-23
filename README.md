@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zrl4836](https://github.com/zrl4836)
 - [wayblink](https://github.com/wayblink)
 - [DonaldY](https://github.com/DonaldY)
 - [hongfz16](https://github.com/hongfz16)
 - [Maizehsu](https://github.com/Maizehsu)
-- [XuYingZJU](https://github.com/XuYingZJU)
 
 #### 🔨 Check out my recent pull requests
 
