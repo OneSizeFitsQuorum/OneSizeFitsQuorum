@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [szg-mem](https://github.com/szg-mem)
 - [Hawthorn-1010](https://github.com/Hawthorn-1010)
 - [zrl4836](https://github.com/zrl4836)
 - [wayblink](https://github.com/wayblink)
 - [DonaldY](https://github.com/DonaldY)
-- [hongfz16](https://github.com/hongfz16)
 
 #### 🔨 Check out my recent pull requests
 
