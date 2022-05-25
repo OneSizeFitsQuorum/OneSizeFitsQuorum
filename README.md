@@ -14,7 +14,7 @@
 
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 weeks ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 month ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 months ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 (2 days ago)
-- [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars (3 days ago)
-- [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 (3 days ago)
-- [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 (4 days ago)
-- [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system. (5 days ago)
+- [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 (3 days ago)
+- [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars (4 days ago)
+- [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 (4 days ago)
+- [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 (5 days ago)
+- [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system. (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -45,7 +45,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [[IOTDB-3188 ] Multi leader consensus algorithm implementation](https://github.com/apache/iotdb/pull/5939) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-3167] Add wait_leader_ready logic for RatisConsensus](https://github.com/apache/iotdb/pull/5869) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-3167] Add wait_leader_ready logic for RatisConsensus](https://github.com/apache/iotdb/pull/5869) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-1570. Add getLeaderId method to DivisionInfo](https://github.com/apache/ratis/pull/640) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [[IOTDB-3104] Add Consensus Module StateMachine Event API](https://github.com/apache/iotdb/pull/5806) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-3090] Fix the exception of the newly initialized consensus group read function &amp;&amp; fix the recycle logic when RaftClient fails &amp;&amp; Added exception handling for RaftClientReply](https://github.com/apache/iotdb/pull/5784) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
