@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (today)
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 (4 days ago)
 - [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars (5 days ago)
 - [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 (5 days ago)
 - [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 (6 days ago)
-- [apache/avro](https://github.com/apache/avro) - Apache Avro is a data serialization system. (1 week ago)
 
 #### 👯 Check out my recent followers
 
