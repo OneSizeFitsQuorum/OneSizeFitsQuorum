@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zcjia](https://github.com/zcjia)
+- [paopaoofyjz](https://github.com/paopaoofyjz)
 - [bursonz](https://github.com/bursonz)
 - [COOLMingLL](https://github.com/COOLMingLL)
 - [szg-mem](https://github.com/szg-mem)
-- [Hawthorn-1010](https://github.com/Hawthorn-1010)
-- [zrl4836](https://github.com/zrl4836)
 
 #### 🔨 Check out my recent pull requests
 
