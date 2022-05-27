@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 month ago)
@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (today)
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (1 day ago)
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 (5 days ago)
 - [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars (6 days ago)
 - [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 (6 days ago)
-- [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [styleyipeng](https://github.com/styleyipeng)
+- [RamezesDong](https://github.com/RamezesDong)
 - [zcjia](https://github.com/zcjia)
 - [paopaoofyjz](https://github.com/paopaoofyjz)
 - [bursonz](https://github.com/bursonz)
-- [COOLMingLL](https://github.com/COOLMingLL)
-- [szg-mem](https://github.com/szg-mem)
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-3188 ] Multi leader consensus algorithm implementation](https://github.com/apache/iotdb/pull/5939) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6043) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-3188] Multi leader consensus algorithm implementation](https://github.com/apache/iotdb/pull/5939) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3167] Add wait_leader_ready logic for RatisConsensus](https://github.com/apache/iotdb/pull/5869) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-1570. Add getLeaderId method to DivisionInfo](https://github.com/apache/ratis/pull/640) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [[IOTDB-3104] Add Consensus Module StateMachine Event API](https://github.com/apache/iotdb/pull/5806) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[IOTDB-3090] Fix the exception of the newly initialized consensus group read function &amp;&amp; fix the recycle logic when RaftClient fails &amp;&amp; Added exception handling for RaftClientReply](https://github.com/apache/iotdb/pull/5784) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
