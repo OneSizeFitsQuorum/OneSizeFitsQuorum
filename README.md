@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [xjblszyy/JiuJia](https://github.com/xjblszyy/JiuJia) - 抢九价的脚本(技术无罪，请勿盈利)(抢购源:约苗，知苗易约，成都市金牛区妇幼保健院服务号) (today)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (today)
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (1 day ago)
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 (5 days ago)
 - [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars (6 days ago)
-- [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [SkyShen666](https://github.com/SkyShen666)
 - [styleyipeng](https://github.com/styleyipeng)
 - [RamezesDong](https://github.com/RamezesDong)
 - [zcjia](https://github.com/zcjia)
 - [paopaoofyjz](https://github.com/paopaoofyjz)
-- [bursonz](https://github.com/bursonz)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6049) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6043) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-3188] Multi leader consensus algorithm implementation](https://github.com/apache/iotdb/pull/5939) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3167] Add wait_leader_ready logic for RatisConsensus](https://github.com/apache/iotdb/pull/5869) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-1570. Add getLeaderId method to DivisionInfo](https://github.com/apache/ratis/pull/640) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
-- [[IOTDB-3104] Add Consensus Module StateMachine Event API](https://github.com/apache/iotdb/pull/5806) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
