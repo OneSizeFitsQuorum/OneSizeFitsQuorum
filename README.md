@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 month ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [NieXi](https://github.com/NieXi)
+- [xiedeacc](https://github.com/xiedeacc)
+- [hit-lance](https://github.com/hit-lance)
 - [SkyShen666](https://github.com/SkyShen666)
 - [styleyipeng](https://github.com/styleyipeng)
-- [RamezesDong](https://github.com/RamezesDong)
-- [zcjia](https://github.com/zcjia)
-- [paopaoofyjz](https://github.com/paopaoofyjz)
 
 #### 🔨 Check out my recent pull requests
 
