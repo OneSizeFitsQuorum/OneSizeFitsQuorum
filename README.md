@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [CS-Masters-Application/CS-Masters-Application.github.io](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io) - 计算机硕士出国申请 | CS Masters Application (today)
 - [xjblszyy/JiuJia](https://github.com/xjblszyy/JiuJia) - 抢九价的脚本(技术无罪，请勿盈利)(抢购源:约苗，知苗易约，成都市金牛区妇幼保健院服务号) (2 days ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (2 days ago)
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (3 days ago)
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 (1 week ago)
-- [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars (1 week ago)
 
 #### 👯 Check out my recent followers
 
