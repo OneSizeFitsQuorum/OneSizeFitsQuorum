@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 month ago)
-- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 months ago)
+- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (3 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [CS-Masters-Application/CS-Masters-Application.github.io](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io) - 计算机硕士出国申请 | CS Masters Application (today)
-- [xjblszyy/JiuJia](https://github.com/xjblszyy/JiuJia) - 抢九价的脚本(技术无罪，请勿盈利)(抢购源:约苗，知苗易约，成都市金牛区妇幼保健院服务号) (2 days ago)
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (2 days ago)
-- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (3 days ago)
-- [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 (1 week ago)
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world&#39;s simplest facial recognition api for Python and the command line (1 day ago)
+- [CS-Masters-Application/CS-Masters-Application.github.io](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io) - 计算机硕士出国申请 | CS Masters Application (1 day ago)
+- [xjblszyy/JiuJia](https://github.com/xjblszyy/JiuJia) - 抢九价的脚本(技术无罪，请勿盈利)(抢购源:约苗，知苗易约，成都市金牛区妇幼保健院服务号) (3 days ago)
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (3 days ago)
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6049) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6043) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6049) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6043) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-3188] Multi leader consensus algorithm implementation](https://github.com/apache/iotdb/pull/5939) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3167] Add wait_leader_ready logic for RatisConsensus](https://github.com/apache/iotdb/pull/5869) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-1570. Add getLeaderId method to DivisionInfo](https://github.com/apache/ratis/pull/640) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
