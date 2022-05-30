@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [AnimationFan](https://github.com/AnimationFan)
+- [Wxn-625](https://github.com/Wxn-625)
 - [NieXi](https://github.com/NieXi)
 - [xiedeacc](https://github.com/xiedeacc)
 - [hit-lance](https://github.com/hit-lance)
-- [SkyShen666](https://github.com/SkyShen666)
-- [styleyipeng](https://github.com/styleyipeng)
 
 #### 🔨 Check out my recent pull requests
 
