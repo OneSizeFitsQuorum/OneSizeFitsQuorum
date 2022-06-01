@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Abingcbc](https://github.com/Abingcbc)
+- [154544017](https://github.com/154544017)
 - [AYIDouble](https://github.com/AYIDouble)
 - [YuuinIH](https://github.com/YuuinIH)
 - [AnimationFan](https://github.com/AnimationFan)
-- [Wxn-625](https://github.com/Wxn-625)
-- [NieXi](https://github.com/NieXi)
 
 #### 🔨 Check out my recent pull requests
 
