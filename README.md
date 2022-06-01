@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached (today)
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device  (1 day ago)
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world&#39;s simplest facial recognition api for Python and the command line (3 days ago)
 - [CS-Masters-Application/CS-Masters-Application.github.io](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io) - 计算机硕士出国申请 | CS Masters Application (3 days ago)
 - [xjblszyy/JiuJia](https://github.com/xjblszyy/JiuJia) - 抢九价的脚本(技术无罪，请勿盈利)(抢购源:约苗，知苗易约，成都市金牛区妇幼保健院服务号) (5 days ago)
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (5 days ago)
 
 #### 👯 Check out my recent followers
 
