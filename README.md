@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [xsjlmzs](https://github.com/xsjlmzs)
+- [rustzzh](https://github.com/rustzzh)
 - [coderbruis](https://github.com/coderbruis)
 - [coolbeevip](https://github.com/coolbeevip)
 - [mrdmh](https://github.com/mrdmh)
-- [ruanliang-hualun](https://github.com/ruanliang-hualun)
-- [Abingcbc](https://github.com/Abingcbc)
 
 #### 🔨 Check out my recent pull requests
 
