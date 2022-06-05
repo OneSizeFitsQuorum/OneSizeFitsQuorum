@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ywqzzy](https://github.com/ywqzzy)
+- [hannlp](https://github.com/hannlp)
 - [FavorWen](https://github.com/FavorWen)
 - [faihtes](https://github.com/faihtes)
 - [xsjlmzs](https://github.com/xsjlmzs)
-- [rustzzh](https://github.com/rustzzh)
-- [coderbruis](https://github.com/coderbruis)
 
 #### 🔨 Check out my recent pull requests
 
