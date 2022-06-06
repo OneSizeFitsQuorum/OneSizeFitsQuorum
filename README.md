@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词 (today)
 - [pmem/pmemkv](https://github.com/pmem/pmemkv) - Key/Value Datastore for Persistent Memory (1 day ago)
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) (1 day ago)
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes (1 day ago)
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (1 day ago)
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-3395] Use thrift server to fix clientManagerTest &#34;bind address already used&#34; issue](https://github.com/apache/iotdb/pull/6163) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-3195] Added a configuration interface for the consensus layer](https://github.com/apache/iotdb/pull/6081) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6049) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6043) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3188] Multi leader consensus algorithm implementation](https://github.com/apache/iotdb/pull/5939) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[IOTDB-3167] Add wait_leader_ready logic for RatisConsensus](https://github.com/apache/iotdb/pull/5869) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
