@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程 (today)
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词 (today)
 - [pmem/pmemkv](https://github.com/pmem/pmemkv) - Key/Value Datastore for Persistent Memory (1 day ago)
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) (1 day ago)
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes (1 day ago)
-- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [milkguy](https://github.com/milkguy)
 - [ywqzzy](https://github.com/ywqzzy)
 - [hannlp](https://github.com/hannlp)
 - [FavorWen](https://github.com/FavorWen)
 - [faihtes](https://github.com/faihtes)
-- [xsjlmzs](https://github.com/xsjlmzs)
 
 #### 🔨 Check out my recent pull requests
 
