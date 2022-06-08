@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [YangchenYe323](https://github.com/YangchenYe323)
 - [milkguy](https://github.com/milkguy)
 - [ywqzzy](https://github.com/ywqzzy)
 - [hannlp](https://github.com/hannlp)
 - [FavorWen](https://github.com/FavorWen)
-- [faihtes](https://github.com/faihtes)
 
 #### 🔨 Check out my recent pull requests
 
