@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Xinlong-Chen](https://github.com/Xinlong-Chen)
 - [YangchenYe323](https://github.com/YangchenYe323)
 - [milkguy](https://github.com/milkguy)
 - [ywqzzy](https://github.com/ywqzzy)
 - [hannlp](https://github.com/hannlp)
-- [FavorWen](https://github.com/FavorWen)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-3385] Reduce the serialization size for the Datanode consensus layer](https://github.com/apache/iotdb/pull/6209) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-3359] Refactor the serialization interface for the consensus layer to avoid hard-coding size ByteBuffers](https://github.com/apache/iotdb/pull/6187) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-3395] Use thrift server to fix clientManagerTest &#34;bind address already used&#34; issue](https://github.com/apache/iotdb/pull/6163) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-3195] Added a configuration interface for the consensus layer](https://github.com/apache/iotdb/pull/6081) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6049) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-3240] [ErrorMSG]java.lang.IllegalStateException: Client has an error!Caused by: java.net.ConnectException: Connection refused](https://github.com/apache/iotdb/pull/6043) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
