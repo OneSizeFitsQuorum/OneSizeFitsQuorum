@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [weijiew](https://github.com/weijiew)
 - [attack204](https://github.com/attack204)
 - [Xinlong-Chen](https://github.com/Xinlong-Chen)
 - [YangchenYe323](https://github.com/YangchenYe323)
 - [milkguy](https://github.com/milkguy)
-- [ywqzzy](https://github.com/ywqzzy)
 
 #### 🔨 Check out my recent pull requests
 
