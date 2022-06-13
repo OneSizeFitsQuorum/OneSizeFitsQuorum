@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix clientManagerTest by combining all test](https://github.com/apache/iotdb/pull/6251) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-3448] Migrate the logic of deleteRegion onto the consensus module](https://github.com/apache/iotdb/pull/6216) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-3385] Reduce the serialization size for the Datanode consensus layer](https://github.com/apache/iotdb/pull/6209) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[IOTDB-3359] Refactor the serialization interface for the consensus layer to avoid hard-coding size ByteBuffers](https://github.com/apache/iotdb/pull/6187) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-3395] Use thrift server to fix clientManagerTest &#34;bind address already used&#34; issue](https://github.com/apache/iotdb/pull/6163) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-3195] Added a configuration interface for the consensus layer](https://github.com/apache/iotdb/pull/6081) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
