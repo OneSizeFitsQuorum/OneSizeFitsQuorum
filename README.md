@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (3 days ago)
-- [runshenzhu/palmtree](https://github.com/runshenzhu/palmtree) - An implementation of Intel&#39;s concurrent B&#43;Tree (Palm Tree) (3 days ago)
-- [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程 (6 days ago)
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词 (6 days ago)
+- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (4 days ago)
+- [runshenzhu/palmtree](https://github.com/runshenzhu/palmtree) - An implementation of Intel&#39;s concurrent B&#43;Tree (Palm Tree) (4 days ago)
+- [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程 (1 week ago)
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词 (1 week ago)
 - [pmem/pmemkv](https://github.com/pmem/pmemkv) - Key/Value Datastore for Persistent Memory (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,16 +44,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-3448] Migrate the logic of deleteRegion onto the consensus module](https://github.com/apache/iotdb/pull/6216) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[IOTDB-3385] Reduce the serialization size for the Datanode consensus layer](https://github.com/apache/iotdb/pull/6209) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[IOTDB-3359] Refactor the serialization interface for the consensus layer to avoid hard-coding size ByteBuffers](https://github.com/apache/iotdb/pull/6187) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[IOTDB-3395] Use thrift server to fix clientManagerTest &#34;bind address already used&#34; issue](https://github.com/apache/iotdb/pull/6163) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[IOTDB-3195] Added a configuration interface for the consensus layer](https://github.com/apache/iotdb/pull/6081) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-3448] Migrate the logic of deleteRegion onto the consensus module](https://github.com/apache/iotdb/pull/6216) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-3385] Reduce the serialization size for the Datanode consensus layer](https://github.com/apache/iotdb/pull/6209) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[IOTDB-3359] Refactor the serialization interface for the consensus layer to avoid hard-coding size ByteBuffers](https://github.com/apache/iotdb/pull/6187) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[IOTDB-3395] Use thrift server to fix clientManagerTest &#34;bind address already used&#34; issue](https://github.com/apache/iotdb/pull/6163) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-3195] Added a configuration interface for the consensus layer](https://github.com/apache/iotdb/pull/6081) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
 - [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (1 month ago)
 - [Raft 算法和对应代码框架介绍](https://tanxinyu.work/talent-plan-raft-talk/) (3 months ago)
 - [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (4 months ago)
-- [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (4 months ago)
+- [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (5 months ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (6 months ago)
