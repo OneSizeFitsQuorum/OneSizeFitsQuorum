@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [gnzlbg/jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend (today)
 - [Vanlightly/raft-tlaplus](https://github.com/Vanlightly/raft-tlaplus) - TLA&#43; specifications for Raft and variants (today)
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (5 days ago)
 - [runshenzhu/palmtree](https://github.com/runshenzhu/palmtree) - An implementation of Intel&#39;s concurrent B&#43;Tree (Palm Tree) (5 days ago)
 - [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程 (1 week ago)
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词 (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [142857why](https://github.com/142857why)
+- [TingtingDan](https://github.com/TingtingDan)
+- [zyc0868](https://github.com/zyc0868)
 - [Trailblazerss](https://github.com/Trailblazerss)
 - [Ginko-L](https://github.com/Ginko-L)
-- [thinkingear](https://github.com/thinkingear)
-- [weijiew](https://github.com/weijiew)
-- [attack204](https://github.com/attack204)
 
 #### 🔨 Check out my recent pull requests
 
