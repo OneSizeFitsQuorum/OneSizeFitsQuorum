@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Vanlightly/raft-tlaplus](https://github.com/Vanlightly/raft-tlaplus) - TLA&#43; specifications for Raft and variants (today)
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (5 days ago)
 - [runshenzhu/palmtree](https://github.com/runshenzhu/palmtree) - An implementation of Intel&#39;s concurrent B&#43;Tree (Palm Tree) (5 days ago)
 - [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程 (1 week ago)
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词 (1 week ago)
-- [pmem/pmemkv](https://github.com/pmem/pmemkv) - Key/Value Datastore for Persistent Memory (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [Trailblazerss](https://github.com/Trailblazerss)
 - [Ginko-L](https://github.com/Ginko-L)
 - [thinkingear](https://github.com/thinkingear)
 - [weijiew](https://github.com/weijiew)
 - [attack204](https://github.com/attack204)
-- [Xinlong-Chen](https://github.com/Xinlong-Chen)
 
 #### 🔨 Check out my recent pull requests
 
