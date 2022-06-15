@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. (today)
+- [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn) - PostgreSQL manual Chinese translation by China PostgreSQL Users Group (today)
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database. (today)
 - [apache/giraph](https://github.com/apache/giraph) - Mirror of Apache Giraph (today)
 - [gnzlbg/jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend (1 day ago)
-- [Vanlightly/raft-tlaplus](https://github.com/Vanlightly/raft-tlaplus) - TLA&#43; specifications for Raft and variants (1 day ago)
-- [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Maxaayang](https://github.com/Maxaayang)
+- [seriouszyx](https://github.com/seriouszyx)
 - [142857why](https://github.com/142857why)
 - [TingtingDan](https://github.com/TingtingDan)
 - [zyc0868](https://github.com/zyc0868)
-- [Trailblazerss](https://github.com/Trailblazerss)
-- [Ginko-L](https://github.com/Ginko-L)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-3505] The region dirs are not deleted when the storage group is deleted in MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6297) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fix clientManagerTest by combining all test](https://github.com/apache/iotdb/pull/6251) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-3448] Migrate the logic of deleteRegion onto the consensus module](https://github.com/apache/iotdb/pull/6216) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[IOTDB-3385] Reduce the serialization size for the Datanode consensus layer](https://github.com/apache/iotdb/pull/6209) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-3359] Refactor the serialization interface for the consensus layer to avoid hard-coding size ByteBuffers](https://github.com/apache/iotdb/pull/6187) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-3395] Use thrift server to fix clientManagerTest &#34;bind address already used&#34; issue](https://github.com/apache/iotdb/pull/6163) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
