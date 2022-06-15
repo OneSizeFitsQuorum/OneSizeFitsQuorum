@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database. (today)
+- [apache/giraph](https://github.com/apache/giraph) - Mirror of Apache Giraph (today)
 - [gnzlbg/jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend (1 day ago)
 - [Vanlightly/raft-tlaplus](https://github.com/Vanlightly/raft-tlaplus) - TLA&#43; specifications for Raft and variants (1 day ago)
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon (6 days ago)
-- [runshenzhu/palmtree](https://github.com/runshenzhu/palmtree) - An implementation of Intel&#39;s concurrent B&#43;Tree (Palm Tree) (6 days ago)
-- [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程 (1 week ago)
 
 #### 👯 Check out my recent followers
 
