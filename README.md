@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 months ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (today)
+- [topling/todis](https://github.com/topling/todis) - Todis is a massive, persistent Redis server developed by Topling Inc. (today)
 - [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. (1 day ago)
 - [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn) - PostgreSQL manual Chinese translation by China PostgreSQL Users Group (1 day ago)
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database. (1 day ago)
-- [apache/giraph](https://github.com/apache/giraph) - Mirror of Apache Giraph (1 day ago)
-- [gnzlbg/jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [ZYXerhe](https://github.com/ZYXerhe)
 - [Maxaayang](https://github.com/Maxaayang)
 - [seriouszyx](https://github.com/seriouszyx)
 - [142857why](https://github.com/142857why)
 - [TingtingDan](https://github.com/TingtingDan)
-- [zyc0868](https://github.com/zyc0868)
 
 #### 🔨 Check out my recent pull requests
 
