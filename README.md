@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-3512] Region leader during heartbeat](https://github.com/apache/iotdb/pull/6322) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-3505] The region dirs are not deleted when the storage group is deleted in MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6297) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Fix clientManagerTest by combining all test](https://github.com/apache/iotdb/pull/6251) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[IOTDB-3448] Migrate the logic of deleteRegion onto the consensus module](https://github.com/apache/iotdb/pull/6216) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3385] Reduce the serialization size for the Datanode consensus layer](https://github.com/apache/iotdb/pull/6209) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-3359] Refactor the serialization interface for the consensus layer to avoid hard-coding size ByteBuffers](https://github.com/apache/iotdb/pull/6187) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
