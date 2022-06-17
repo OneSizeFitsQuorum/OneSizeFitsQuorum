@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ming-ouo](https://github.com/ming-ouo)
 - [hellowyuan](https://github.com/hellowyuan)
 - [ZYXerhe](https://github.com/ZYXerhe)
 - [Maxaayang](https://github.com/Maxaayang)
 - [seriouszyx](https://github.com/seriouszyx)
-- [142857why](https://github.com/142857why)
 
 #### 🔨 Check out my recent pull requests
 
