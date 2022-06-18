@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [begeekmyfriend/bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B&#43; tree indexing structure demo for billions of key-value storage (today)
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (2 days ago)
 - [topling/todis](https://github.com/topling/todis) - Todis is a massive, persistent Redis server developed by Topling Inc. (2 days ago)
 - [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. (3 days ago)
 - [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn) - PostgreSQL manual Chinese translation by China PostgreSQL Users Group (3 days ago)
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database. (3 days ago)
 
 #### 👯 Check out my recent followers
 
