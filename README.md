@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (1 day ago)
-- [topling/todis](https://github.com/topling/todis) - Todis is a massive, persistent Redis server developed by Topling Inc. (1 day ago)
-- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. (2 days ago)
-- [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn) - PostgreSQL manual Chinese translation by China PostgreSQL Users Group (2 days ago)
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database. (2 days ago)
+- [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (2 days ago)
+- [topling/todis](https://github.com/topling/todis) - Todis is a massive, persistent Redis server developed by Topling Inc. (2 days ago)
+- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. (3 days ago)
+- [postgres-cn/pgdoc-cn](https://github.com/postgres-cn/pgdoc-cn) - PostgreSQL manual Chinese translation by China PostgreSQL Users Group (3 days ago)
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database. (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-3512] Region leader during heartbeat](https://github.com/apache/iotdb/pull/6322) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-3505] The region dirs are not deleted when the storage group is deleted in MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6297) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Fix clientManagerTest by combining all test](https://github.com/apache/iotdb/pull/6251) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[IOTDB-3512] Region leader during heartbeat](https://github.com/apache/iotdb/pull/6322) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-3505] The region dirs are not deleted when the storage group is deleted in MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6297) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Fix clientManagerTest by combining all test](https://github.com/apache/iotdb/pull/6251) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[IOTDB-3448] Migrate the logic of deleteRegion onto the consensus module](https://github.com/apache/iotdb/pull/6216) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3385] Reduce the serialization size for the Datanode consensus layer](https://github.com/apache/iotdb/pull/6209) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
