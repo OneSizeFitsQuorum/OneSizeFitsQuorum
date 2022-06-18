@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [CaiJi-bai](https://github.com/CaiJi-bai)
+- [lonless0](https://github.com/lonless0)
 - [ming-ouo](https://github.com/ming-ouo)
 - [hellowyuan](https://github.com/hellowyuan)
 - [ZYXerhe](https://github.com/ZYXerhe)
-- [Maxaayang](https://github.com/Maxaayang)
-- [seriouszyx](https://github.com/seriouszyx)
 
 #### 🔨 Check out my recent pull requests
 
