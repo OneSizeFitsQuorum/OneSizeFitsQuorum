@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [uivid64](https://github.com/uivid64)
 - [kevinnguyenai](https://github.com/kevinnguyenai)
 - [CaiJi-bai](https://github.com/CaiJi-bai)
 - [lonless0](https://github.com/lonless0)
 - [ming-ouo](https://github.com/ming-ouo)
-- [hellowyuan](https://github.com/hellowyuan)
 
 #### 🔨 Check out my recent pull requests
 
