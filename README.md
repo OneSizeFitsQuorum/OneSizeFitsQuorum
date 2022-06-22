@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →  (today)
-- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (today)
-- [singularity-data/risingwave-docs](https://github.com/singularity-data/risingwave-docs) - The official user documentation of RisingWave (today)
-- [coderQuad/New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023) - A collection of New Grad full time roles in SWE, Quant, and PM. (1 day ago)
-- [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. (1 day ago)
+- [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →  (1 day ago)
+- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (1 day ago)
+- [singularity-data/risingwave-docs](https://github.com/singularity-data/risingwave-docs) - The official user documentation of RisingWave (1 day ago)
+- [coderQuad/New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023) - A collection of New Grad full time roles in SWE, Quant, and PM. (2 days ago)
+- [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-3386] Avoid the double-write problem of raftlog and write-ahead log at the Datanode consensus layer](https://github.com/apache/iotdb/pull/6366) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Test C&#43;&#43;  thrift map hint](https://github.com/apache/iotdb/pull/6357) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-3554] Controls the number of rpc threads under the MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6349) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[IOTDB-3512] Region leader during heartbeat](https://github.com/apache/iotdb/pull/6322) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[IOTDB-3505] The region dirs are not deleted when the storage group is deleted in MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6297) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[IOTDB-3386] Avoid the double-write problem of raftlog and write-ahead log at the Datanode consensus layer](https://github.com/apache/iotdb/pull/6366) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Test C&#43;&#43;  thrift map hint](https://github.com/apache/iotdb/pull/6357) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-3554] Controls the number of rpc threads under the MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6349) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-3512] Region leader during heartbeat](https://github.com/apache/iotdb/pull/6322) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[IOTDB-3505] The region dirs are not deleted when the storage group is deleted in MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6297) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -56,4 +56,4 @@
 - [Raft 算法和对应代码框架介绍](https://tanxinyu.work/talent-plan-raft-talk/) (3 months ago)
 - [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (4 months ago)
 - [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (5 months ago)
-- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (6 months ago)
+- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (7 months ago)
