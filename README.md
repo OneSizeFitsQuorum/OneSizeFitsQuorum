@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-3386] Avoid the double-write problem of raftlog and write-ahead log at the Datanode consensus layer](https://github.com/apache/iotdb/pull/6366) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Test C&#43;&#43;  thrift map hint](https://github.com/apache/iotdb/pull/6357) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-3554] Controls the number of rpc threads under the MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6349) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[IOTDB-3512] Region leader during heartbeat](https://github.com/apache/iotdb/pull/6322) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-3505] The region dirs are not deleted when the storage group is deleted in MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6297) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
