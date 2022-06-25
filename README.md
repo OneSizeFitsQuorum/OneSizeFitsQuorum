@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [pyh4](https://github.com/pyh4)
+- [luochengang](https://github.com/luochengang)
 - [YueFei0403](https://github.com/YueFei0403)
 - [yujingda](https://github.com/yujingda)
 - [14long](https://github.com/14long)
-- [uivid64](https://github.com/uivid64)
-- [kevinnguyenai](https://github.com/kevinnguyenai)
 
 #### 🔨 Check out my recent pull requests
 
