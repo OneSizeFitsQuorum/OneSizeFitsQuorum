@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access. (3 days ago)
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。 (3 days ago)
-- [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →  (5 days ago)
-- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (5 days ago)
-- [singularity-data/risingwave-docs](https://github.com/singularity-data/risingwave-docs) - The official user documentation of RisingWave (5 days ago)
+- [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access. (4 days ago)
+- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。 (4 days ago)
+- [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →  (6 days ago)
+- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (6 days ago)
+- [singularity-data/risingwave-docs](https://github.com/singularity-data/risingwave-docs) - The official user documentation of RisingWave (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[IOTDB-3386] Avoid the double-write problem of raftlog and write-ahead log at the Datanode consensus layer](https://github.com/apache/iotdb/pull/6366) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Test C&#43;&#43;  thrift map hint](https://github.com/apache/iotdb/pull/6357) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[IOTDB-3554] Controls the number of rpc threads under the MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6349) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-3386] Avoid the double-write problem of raftlog and write-ahead log at the Datanode consensus layer](https://github.com/apache/iotdb/pull/6366) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Test C&#43;&#43;  thrift map hint](https://github.com/apache/iotdb/pull/6357) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[IOTDB-3554] Controls the number of rpc threads under the MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6349) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-3512] Region leader during heartbeat](https://github.com/apache/iotdb/pull/6322) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
