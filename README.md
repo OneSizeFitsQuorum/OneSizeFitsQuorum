@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (today)
 - [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access. (4 days ago)
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。 (4 days ago)
 - [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →  (6 days ago)
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (6 days ago)
-- [singularity-data/risingwave-docs](https://github.com/singularity-data/risingwave-docs) - The official user documentation of RisingWave (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Radeity](https://github.com/Radeity)
 - [yuessir](https://github.com/yuessir)
 - [Ableson-J](https://github.com/Ableson-J)
 - [frezcirno](https://github.com/frezcirno)
 - [Oliverwqcwrw](https://github.com/Oliverwqcwrw)
-- [pyh4](https://github.com/pyh4)
 
 #### 🔨 Check out my recent pull requests
 
