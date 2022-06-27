@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yuessir](https://github.com/yuessir)
 - [Ableson-J](https://github.com/Ableson-J)
 - [frezcirno](https://github.com/frezcirno)
 - [Oliverwqcwrw](https://github.com/Oliverwqcwrw)
 - [pyh4](https://github.com/pyh4)
-- [luochengang](https://github.com/luochengang)
 
 #### 🔨 Check out my recent pull requests
 
