@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [cycloidzzz](https://github.com/cycloidzzz)
+- [magic3007](https://github.com/magic3007)
 - [Leo-Guo](https://github.com/Leo-Guo)
 - [Radeity](https://github.com/Radeity)
 - [yuessir](https://github.com/yuessir)
-- [Ableson-J](https://github.com/Ableson-J)
-- [frezcirno](https://github.com/frezcirno)
 
 #### 🔨 Check out my recent pull requests
 
