@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [chinahappyking](https://github.com/chinahappyking)
 - [wenrui2000](https://github.com/wenrui2000)
 - [acCyz](https://github.com/acCyz)
 - [yifeis7](https://github.com/yifeis7)
 - [cycloidzzz](https://github.com/cycloidzzz)
-- [magic3007](https://github.com/magic3007)
 
 #### 🔨 Check out my recent pull requests
 
