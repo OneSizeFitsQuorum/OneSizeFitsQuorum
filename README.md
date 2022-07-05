@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (today)
+- [tikv/client-go](https://github.com/tikv/client-go) - Go client for TiKV (today)
+- [fuxuemingzhu/DDIA-Reading-Notes](https://github.com/fuxuemingzhu/DDIA-Reading-Notes) - 《数据密集型应用系统设计》精华整理，字数为原书的 1/5 左右。图文并茂，适合阅读。 (today)
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language. (1 day ago)
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws (1 day ago)
-- [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python and Ruby. (1 day ago)
-- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust (1 week ago)
-- [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [cswpy](https://github.com/cswpy)
 - [neighthorn](https://github.com/neighthorn)
 - [ck-567](https://github.com/ck-567)
 - [changyuang](https://github.com/changyuang)
 - [dayicklp](https://github.com/dayicklp)
-- [chinahappyking](https://github.com/chinahappyking)
 
 #### 🔨 Check out my recent pull requests
 
