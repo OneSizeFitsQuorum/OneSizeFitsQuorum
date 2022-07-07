@@ -15,7 +15,7 @@
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
-- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 months ago)
+- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (3 months ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (4 months ago)
 
 #### 🌱 Check out my recent projects
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (today)
-- [tikv/sig-transaction](https://github.com/tikv/sig-transaction) - Resources for the transaction SIG (1 day ago)
-- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (1 day ago)
-- [tikv/client-go](https://github.com/tikv/client-go) - Go client for TiKV (1 day ago)
-- [fuxuemingzhu/DDIA-Reading-Notes](https://github.com/fuxuemingzhu/DDIA-Reading-Notes) - 《数据密集型应用系统设计》精华整理，字数为原书的 1/5 左右。图文并茂，适合阅读。 (1 day ago)
+- [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (1 day ago)
+- [tikv/sig-transaction](https://github.com/tikv/sig-transaction) - Resources for the transaction SIG (2 days ago)
+- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 days ago)
+- [tikv/client-go](https://github.com/tikv/client-go) - Go client for TiKV (2 days ago)
+- [fuxuemingzhu/DDIA-Reading-Notes](https://github.com/fuxuemingzhu/DDIA-Reading-Notes) - 《数据密集型应用系统设计》精华整理，字数为原书的 1/5 左右。图文并茂，适合阅读。 (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [jake123wrj](https://github.com/jake123wrj)
 - [cswpy](https://github.com/cswpy)
 - [neighthorn](https://github.com/neighthorn)
 - [ck-567](https://github.com/ck-567)
 - [changyuang](https://github.com/changyuang)
-- [dayicklp](https://github.com/dayicklp)
 
 #### 🔨 Check out my recent pull requests
 
