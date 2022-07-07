@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (today)
 - [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (1 day ago)
 - [tikv/sig-transaction](https://github.com/tikv/sig-transaction) - Resources for the transaction SIG (2 days ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 days ago)
 - [tikv/client-go](https://github.com/tikv/client-go) - Go client for TiKV (2 days ago)
-- [fuxuemingzhu/DDIA-Reading-Notes](https://github.com/fuxuemingzhu/DDIA-Reading-Notes) - 《数据密集型应用系统设计》精华整理，字数为原书的 1/5 左右。图文并茂，适合阅读。 (2 days ago)
 
 #### 👯 Check out my recent followers
 
