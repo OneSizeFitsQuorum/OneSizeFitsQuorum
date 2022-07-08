@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (today)
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (1 day ago)
 - [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (2 days ago)
 - [tikv/sig-transaction](https://github.com/tikv/sig-transaction) - Resources for the transaction SIG (3 days ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (3 days ago)
-- [tikv/client-go](https://github.com/tikv/client-go) - Go client for TiKV (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [V2beach](https://github.com/V2beach)
 - [jake123wrj](https://github.com/jake123wrj)
 - [cswpy](https://github.com/cswpy)
 - [neighthorn](https://github.com/neighthorn)
 - [ck-567](https://github.com/ck-567)
-- [changyuang](https://github.com/changyuang)
 
 #### 🔨 Check out my recent pull requests
 
