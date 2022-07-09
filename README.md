@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yueneiqi](https://github.com/yueneiqi)
 - [LibraTang](https://github.com/LibraTang)
 - [V2beach](https://github.com/V2beach)
 - [jake123wrj](https://github.com/jake123wrj)
 - [cswpy](https://github.com/cswpy)
-- [neighthorn](https://github.com/neighthorn)
 
 #### 🔨 Check out my recent pull requests
 
