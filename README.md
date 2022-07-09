@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (today)
+- [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8 (today)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (1 day ago)
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (2 days ago)
 - [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (3 days ago)
-- [tikv/sig-transaction](https://github.com/tikv/sig-transaction) - Resources for the transaction SIG (4 days ago)
-- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (4 days ago)
 
 #### 👯 Check out my recent followers
 
