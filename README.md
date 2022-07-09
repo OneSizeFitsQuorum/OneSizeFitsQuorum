@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (3 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (today)
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (1 day ago)
-- [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (2 days ago)
-- [tikv/sig-transaction](https://github.com/tikv/sig-transaction) - Resources for the transaction SIG (3 days ago)
-- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (3 days ago)
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (1 day ago)
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (2 days ago)
+- [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (3 days ago)
+- [tikv/sig-transaction](https://github.com/tikv/sig-transaction) - Resources for the transaction SIG (4 days ago)
+- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (4 days ago)
 
 #### 👯 Check out my recent followers
 
