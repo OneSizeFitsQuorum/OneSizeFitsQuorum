@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (today)
-- [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8 (today)
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (1 day ago)
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (2 days ago)
-- [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (3 days ago)
+- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (1 day ago)
+- [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8 (1 day ago)
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (2 days ago)
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (3 days ago)
+- [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [yusong-yan](https://github.com/yusong-yan)
 - [yueneiqi](https://github.com/yueneiqi)
 - [LibraTang](https://github.com/LibraTang)
 - [V2beach](https://github.com/V2beach)
 - [jake123wrj](https://github.com/jake123wrj)
-- [cswpy](https://github.com/cswpy)
 
 #### 🔨 Check out my recent pull requests
 
