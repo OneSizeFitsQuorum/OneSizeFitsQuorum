@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [HT-Yuan](https://github.com/HT-Yuan)
 - [yusong-yan](https://github.com/yusong-yan)
 - [yueneiqi](https://github.com/yueneiqi)
 - [LibraTang](https://github.com/LibraTang)
 - [V2beach](https://github.com/V2beach)
-- [jake123wrj](https://github.com/jake123wrj)
 
 #### 🔨 Check out my recent pull requests
 
