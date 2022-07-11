@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems. (today)
+- [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (today)
+- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (today)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (2 days ago)
 - [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8 (2 days ago)
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (3 days ago)
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (4 days ago)
-- [basho/bitcask](https://github.com/basho/bitcask) - because you need another a key/value storage engine (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [freedomzzj](https://github.com/freedomzzj)
 - [Blogg9ggg](https://github.com/Blogg9ggg)
 - [HT-Yuan](https://github.com/HT-Yuan)
 - [yusong-yan](https://github.com/yusong-yan)
 - [yueneiqi](https://github.com/yueneiqi)
-- [LibraTang](https://github.com/LibraTang)
 
 #### 🔨 Check out my recent pull requests
 
