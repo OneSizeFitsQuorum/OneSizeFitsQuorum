@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage (today)
 - [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems. (today)
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (today)
 - [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (today)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (2 days ago)
-- [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8 (2 days ago)
 
 #### 👯 Check out my recent followers
 
