@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage (today)
-- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems. (today)
-- [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (today)
-- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (today)
-- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (2 days ago)
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage (1 day ago)
+- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems. (1 day ago)
+- [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (1 day ago)
+- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (1 day ago)
+- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -45,8 +45,8 @@
 #### 🔨 Check out my recent pull requests
 
 - [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[IOTDB-3386] Avoid the double-write problem of raftlog and write-ahead log at the Datanode consensus layer](https://github.com/apache/iotdb/pull/6366) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Test C&#43;&#43;  thrift map hint](https://github.com/apache/iotdb/pull/6357) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [[IOTDB-3386] Avoid the double-write problem of raftlog and write-ahead log at the Datanode consensus layer](https://github.com/apache/iotdb/pull/6366) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [Test C&#43;&#43;  thrift map hint](https://github.com/apache/iotdb/pull/6357) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-3554] Controls the number of rpc threads under the MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6349) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-3512] Region leader during heartbeat](https://github.com/apache/iotdb/pull/6322) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
