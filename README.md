@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [drmingdrmer/consensus-bugs](https://github.com/drmingdrmer/consensus-bugs) - Mistakes ever made in distributed consensus algorithms (today)
 - [HappyCS-Gu/Parallel-Raft-tla](https://github.com/HappyCS-Gu/Parallel-Raft-tla) - Specifying and Verfying concensus algorithms in PolarDB using TLA&#43; (today)
 - [goraft/raft](https://github.com/goraft/raft) - UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol. (today)
 - [scylladb/scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra (today)
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport (today)
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage (1 day ago)
 
 #### 👯 Check out my recent followers
 
