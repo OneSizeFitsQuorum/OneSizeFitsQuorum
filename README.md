@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [HappyCS-Gu/Parallel-Raft-tla](https://github.com/HappyCS-Gu/Parallel-Raft-tla) - Specifying and Verfying concensus algorithms in PolarDB using TLA&#43; (today)
+- [goraft/raft](https://github.com/goraft/raft) - UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol. (today)
+- [scylladb/scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra (today)
+- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport (today)
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage (1 day ago)
-- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems. (1 day ago)
-- [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (1 day ago)
-- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only (1 day ago)
-- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [plancer16](https://github.com/plancer16)
+- [wangdh15](https://github.com/wangdh15)
 - [freedomzzj](https://github.com/freedomzzj)
 - [Blogg9ggg](https://github.com/Blogg9ggg)
 - [HT-Yuan](https://github.com/HT-Yuan)
-- [yusong-yan](https://github.com/yusong-yan)
-- [yueneiqi](https://github.com/yueneiqi)
 
 #### 🔨 Check out my recent pull requests
 
