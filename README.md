@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [fslongjin/This-repo-has-34-stars](https://github.com/fslongjin/This-repo-has-34-stars) - 这个仓库有34个star，不信你试试 (today)
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code (today)
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (today)
 - [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch) - framework for evaluating (planet-scale) consensus protocols (today)
 - [drmingdrmer/consensus-bugs](https://github.com/drmingdrmer/consensus-bugs) - Mistakes ever made in distributed consensus algorithms (1 day ago)
-- [HappyCS-Gu/Parallel-Raft-tla](https://github.com/HappyCS-Gu/Parallel-Raft-tla) - Specifying and Verfying concensus algorithms in PolarDB using TLA&#43; (1 day ago)
-- [goraft/raft](https://github.com/goraft/raft) - UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol. (1 day ago)
 
 #### 👯 Check out my recent followers
 
