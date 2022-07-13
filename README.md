@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (today)
+- [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch) - framework for evaluating (planet-scale) consensus protocols (today)
 - [drmingdrmer/consensus-bugs](https://github.com/drmingdrmer/consensus-bugs) - Mistakes ever made in distributed consensus algorithms (1 day ago)
 - [HappyCS-Gu/Parallel-Raft-tla](https://github.com/HappyCS-Gu/Parallel-Raft-tla) - Specifying and Verfying concensus algorithms in PolarDB using TLA&#43; (1 day ago)
 - [goraft/raft](https://github.com/goraft/raft) - UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol. (1 day ago)
-- [scylladb/scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra (1 day ago)
-- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [mond77](https://github.com/mond77)
 - [plancer16](https://github.com/plancer16)
 - [wangdh15](https://github.com/wangdh15)
 - [freedomzzj](https://github.com/freedomzzj)
 - [Blogg9ggg](https://github.com/Blogg9ggg)
-- [HT-Yuan](https://github.com/HT-Yuan)
 
 #### 🔨 Check out my recent pull requests
 
