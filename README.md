@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (today)
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (today)
-- [fslongjin/This-repo-has-83-stars](https://github.com/fslongjin/This-repo-has-83-stars) - 这个仓库有83个star，不信你试试 (1 day ago)
+- [fslongjin/This-repo-has-115-stars](https://github.com/fslongjin/This-repo-has-115-stars) - 这个仓库有115个star，不信你试试 (1 day ago)
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/ (1 day ago)
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (1 day ago)
-- [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch) - framework for evaluating (planet-scale) consensus protocols (1 day ago)
 
 #### 👯 Check out my recent followers
 
