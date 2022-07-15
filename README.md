@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (3 months ago)
-- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (4 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -30,7 +30,7 @@
 
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (1 day ago)
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (1 day ago)
-- [fslongjin/This-repo-has-128-stars](https://github.com/fslongjin/This-repo-has-128-stars) - 这个仓库有128个star，不信你试试 (2 days ago)
+- [fslongjin/This-repo-has-148-stars](https://github.com/fslongjin/This-repo-has-148-stars) - 这个仓库有148个star，不信你试试 (2 days ago)
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/ (2 days ago)
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (2 days ago)
 
