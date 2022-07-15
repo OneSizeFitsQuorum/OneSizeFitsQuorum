@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (today)
-- [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (today)
-- [fslongjin/This-repo-has-115-stars](https://github.com/fslongjin/This-repo-has-115-stars) - 这个仓库有115个star，不信你试试 (1 day ago)
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/ (1 day ago)
-- [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (1 day ago)
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (1 day ago)
+- [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (1 day ago)
+- [fslongjin/This-repo-has-128-stars](https://github.com/fslongjin/This-repo-has-128-stars) - 这个仓库有128个star，不信你试试 (2 days ago)
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/ (2 days ago)
+- [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (today)
-- [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (1 day ago)
+- [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-3386] Avoid the double-write problem of raftlog and write-ahead log at the Datanode consensus layer](https://github.com/apache/iotdb/pull/6366) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Test C&#43;&#43;  thrift map hint](https://github.com/apache/iotdb/pull/6357) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-3554] Controls the number of rpc threads under the MultiLeaderConsensus](https://github.com/apache/iotdb/pull/6349) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
