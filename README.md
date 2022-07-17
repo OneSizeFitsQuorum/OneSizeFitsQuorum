@@ -30,17 +30,17 @@
 
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (3 days ago)
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (3 days ago)
-- [fslongjin/This-repo-has-260-stars](https://github.com/fslongjin/This-repo-has-260-stars) - 这个仓库有260个star，不信你试试 (4 days ago)
+- [fslongjin/This-repo-has-277-stars](https://github.com/fslongjin/This-repo-has-277-stars) - 这个仓库有277个star，不信你试试 (4 days ago)
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/ (4 days ago)
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [JiaoZan](https://github.com/JiaoZan)
 - [YfsBox](https://github.com/YfsBox)
 - [Francis-Tmac](https://github.com/Francis-Tmac)
 - [lancelly](https://github.com/lancelly)
 - [b1d-farewell](https://github.com/b1d-farewell)
-- [mond77](https://github.com/mond77)
 
 #### 🔨 Check out my recent pull requests
 
