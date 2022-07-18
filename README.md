@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [BurntSushi/advent-of-code](https://github.com/BurntSushi/advent-of-code) - Rust solutions to AoC 2018 (today)
+- [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。 (today)
+- [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/) (today)
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (4 days ago)
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust (4 days ago)
-- [fslongjin/This-repo-has-321-stars](https://github.com/fslongjin/This-repo-has-321-stars) - 这个仓库有321个star，不信你试试 (5 days ago)
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/ (5 days ago)
-- [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (5 days ago)
 
 #### 👯 Check out my recent followers
 
