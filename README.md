@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (today)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (4 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
-- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (3 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line (today)
+- [bestswifter/macbootstrap](https://github.com/bestswifter/macbootstrap) - A bootstrap script for new Mac (today)
 - [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。 (today)
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly (1 day ago)
 - [BurntSushi/advent-of-code](https://github.com/BurntSushi/advent-of-code) - Rust solutions to AoC 2018 (1 day ago)
-- [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。 (1 day ago)
-- [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/) (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [LLThomas](https://github.com/LLThomas)
 - [taofengliu](https://github.com/taofengliu)
 - [JiaoZan](https://github.com/JiaoZan)
 - [YfsBox](https://github.com/YfsBox)
 - [Francis-Tmac](https://github.com/Francis-Tmac)
-- [lancelly](https://github.com/lancelly)
 
 #### 🔨 Check out my recent pull requests
 
