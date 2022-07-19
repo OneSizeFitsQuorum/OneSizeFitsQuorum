@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。 (today)
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly (1 day ago)
 - [BurntSushi/advent-of-code](https://github.com/BurntSushi/advent-of-code) - Rust solutions to AoC 2018 (1 day ago)
 - [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。 (1 day ago)
 - [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/) (1 day ago)
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [taofengliu](https://github.com/taofengliu)
 - [JiaoZan](https://github.com/JiaoZan)
 - [YfsBox](https://github.com/YfsBox)
 - [Francis-Tmac](https://github.com/Francis-Tmac)
 - [lancelly](https://github.com/lancelly)
-- [b1d-farewell](https://github.com/b1d-farewell)
 
 #### 🔨 Check out my recent pull requests
 
