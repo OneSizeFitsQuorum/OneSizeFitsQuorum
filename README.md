@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。 (today)
+- [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker. (today)
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (2 days ago)
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages. (2 days ago)
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line (3 days ago)
-- [bestswifter/macbootstrap](https://github.com/bestswifter/macbootstrap) - A bootstrap script for new Mac (3 days ago)
-- [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。 (3 days ago)
 
 #### 👯 Check out my recent followers
 
