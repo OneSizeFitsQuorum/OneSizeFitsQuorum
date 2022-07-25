@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [KarhouTam](https://github.com/KarhouTam)
 - [nihadenes](https://github.com/nihadenes)
 - [Azathoth1729](https://github.com/Azathoth1729)
 - [LLThomas](https://github.com/LLThomas)
 - [taofengliu](https://github.com/taofengliu)
-- [JiaoZan](https://github.com/JiaoZan)
 
 #### 🔨 Check out my recent pull requests
 
