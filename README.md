@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (today)
 - [awesome-rust-cloud-native/awesome-rust-cloud-native](https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native) - A curated list of awesome Cloud Native Rust frameworks, libraries and software (1 day ago)
 - [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) - CDC Connectors for Apache Flink® (1 day ago)
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust (2 days ago)
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。 (4 days ago)
-- [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker. (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [qiuyuyin](https://github.com/qiuyuyin)
 - [bin4121](https://github.com/bin4121)
 - [wahaha22](https://github.com/wahaha22)
 - [KarhouTam](https://github.com/KarhouTam)
 - [nihadenes](https://github.com/nihadenes)
-- [Azathoth1729](https://github.com/Azathoth1729)
 
 #### 🔨 Check out my recent pull requests
 
+- [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (today)
 - [Finish all exercise](https://github.com/OneSizeFitsQuorum/rustlings/pull/1) on [OneSizeFitsQuorum/rustlings](https://github.com/OneSizeFitsQuorum/rustlings) (6 days ago)
 - [Wrong operation](https://github.com/rust-lang/rustlings/pull/1090) on [rust-lang/rustlings](https://github.com/rust-lang/rustlings) (6 days ago)
 - [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (1 week ago)
 - [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [[IOTDB-3386] Avoid the double-write problem of raftlog and write-ahead log at the Datanode consensus layer](https://github.com/apache/iotdb/pull/6366) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
