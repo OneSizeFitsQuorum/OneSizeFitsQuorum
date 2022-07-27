@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT (today)
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation (today)
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust (today)
 - [hstreamdb/hstream](https://github.com/hstreamdb/hstream) - HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications. (today)
 - [kubewharf/kubebrain](https://github.com/kubewharf/kubebrain) - A High Performance Metadata System for Kubernetes (today)
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [LKRCharon](https://github.com/LKRCharon)
 - [sirius-fan](https://github.com/sirius-fan)
 - [qiuyuyin](https://github.com/qiuyuyin)
 - [bin4121](https://github.com/bin4121)
 - [wahaha22](https://github.com/wahaha22)
-- [KarhouTam](https://github.com/KarhouTam)
 
 #### 🔨 Check out my recent pull requests
 
