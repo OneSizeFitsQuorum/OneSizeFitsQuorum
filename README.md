@@ -12,35 +12,35 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (1 week ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 
 #### 🌱 Check out my recent projects
 
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan
 - [OneSizeFitsQuorum/MIT6.824-2021](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) - 4 labs &#43; 2 challenges &#43; 4 docs
 - [OneSizeFitsQuorum/Async-Kafka-Producer](https://github.com/OneSizeFitsQuorum/Async-Kafka-Producer) - A high performance async and safe kafka producer
 - [OneSizeFitsQuorum/FilesConnector](https://github.com/OneSizeFitsQuorum/FilesConnector) - Using Github as a network disk
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解
-- [OneSizeFitsQuorum/try-githug](https://github.com/OneSizeFitsQuorum/try-githug) - An interesting game for learning git
 
 #### ⭐ Check out my recent stars
 
+- [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation (today)
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust (today)
+- [hstreamdb/hstream](https://github.com/hstreamdb/hstream) - HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications. (today)
+- [kubewharf/kubebrain](https://github.com/kubewharf/kubebrain) - A High Performance Metadata System for Kubernetes (today)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (1 day ago)
-- [awesome-rust-cloud-native/awesome-rust-cloud-native](https://github.com/awesome-rust-cloud-native/awesome-rust-cloud-native) - A curated list of awesome Cloud Native Rust frameworks, libraries and software (2 days ago)
-- [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) - CDC Connectors for Apache Flink® (2 days ago)
-- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust (3 days ago)
-- [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。 (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [sirius-fan](https://github.com/sirius-fan)
 - [qiuyuyin](https://github.com/qiuyuyin)
 - [bin4121](https://github.com/bin4121)
 - [wahaha22](https://github.com/wahaha22)
 - [KarhouTam](https://github.com/KarhouTam)
-- [nihadenes](https://github.com/nihadenes)
 
 #### 🔨 Check out my recent pull requests
 
