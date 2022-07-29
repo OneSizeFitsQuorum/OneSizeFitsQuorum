@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (today)
 - [netcan/asyncio](https://github.com/netcan/asyncio) - asyncio is a c&#43;&#43;20 library to write concurrent code using the async/await syntax. (1 day ago)
 - [spacejam/tla-rust](https://github.com/spacejam/tla-rust) - writing correct lock-free and distributed stateful systems in Rust, assisted by TLA&#43; (1 day ago)
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library (1 day ago)
 - [lichuang/storage-paper-reading-cn](https://github.com/lichuang/storage-paper-reading-cn) - 存储（分布式、存储引擎等）领域相关的论文阅读笔记 (1 day ago)
-- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Java-Echo](https://github.com/Java-Echo)
 - [LKRCharon](https://github.com/LKRCharon)
 - [sirius-fan](https://github.com/sirius-fan)
 - [qiuyuyin](https://github.com/qiuyuyin)
 - [bin4121](https://github.com/bin4121)
-- [wahaha22](https://github.com/wahaha22)
 
 #### 🔨 Check out my recent pull requests
 
