@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [PokIsemaine](https://github.com/PokIsemaine)
 - [lyh543](https://github.com/lyh543)
 - [Java-Echo](https://github.com/Java-Echo)
 - [LKRCharon](https://github.com/LKRCharon)
 - [sirius-fan](https://github.com/sirius-fan)
-- [qiuyuyin](https://github.com/qiuyuyin)
 
 #### 🔨 Check out my recent pull requests
 
