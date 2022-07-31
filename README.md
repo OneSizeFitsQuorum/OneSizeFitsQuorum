@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [AdoptOpenJDK/openjdk-jdk8u](https://github.com/AdoptOpenJDK/openjdk-jdk8u) - JDK8u mirror from mercurial (today)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (2 days ago)
 - [netcan/asyncio](https://github.com/netcan/asyncio) - asyncio is a c&#43;&#43;20 library to write concurrent code using the async/await syntax. (3 days ago)
 - [spacejam/tla-rust](https://github.com/spacejam/tla-rust) - writing correct lock-free and distributed stateful systems in Rust, assisted by TLA&#43; (3 days ago)
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library (3 days ago)
-- [lichuang/storage-paper-reading-cn](https://github.com/lichuang/storage-paper-reading-cn) - 存储（分布式、存储引擎等）领域相关的论文阅读笔记 (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [FanBB2333](https://github.com/FanBB2333)
 - [Tomclancysi](https://github.com/Tomclancysi)
 - [PokIsemaine](https://github.com/PokIsemaine)
 - [lyh543](https://github.com/lyh543)
 - [Java-Echo](https://github.com/Java-Echo)
-- [LKRCharon](https://github.com/LKRCharon)
 
 #### 🔨 Check out my recent pull requests
 
