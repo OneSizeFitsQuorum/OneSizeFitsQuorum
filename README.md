@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [protostuff/protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator (today)
+- [demikernel/demikernel](https://github.com/demikernel/demikernel) - Kernel-Bypass LibOS Architecture (today)
+- [slog-rs/slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust (today)
 - [AdoptOpenJDK/openjdk-jdk8u](https://github.com/AdoptOpenJDK/openjdk-jdk8u) - JDK8u mirror from mercurial (1 day ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (3 days ago)
-- [netcan/asyncio](https://github.com/netcan/asyncio) - asyncio is a c&#43;&#43;20 library to write concurrent code using the async/await syntax. (4 days ago)
-- [spacejam/tla-rust](https://github.com/spacejam/tla-rust) - writing correct lock-free and distributed stateful systems in Rust, assisted by TLA&#43; (4 days ago)
-- [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library (4 days ago)
 
 #### 👯 Check out my recent followers
 
