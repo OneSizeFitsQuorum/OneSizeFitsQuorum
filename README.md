@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (2 days ago)
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (3 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
-- [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (1 week ago)
+- [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (2 weeks ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (2 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [protostuff/protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator (today)
-- [demikernel/demikernel](https://github.com/demikernel/demikernel) - Kernel-Bypass LibOS Architecture (today)
-- [slog-rs/slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust (today)
-- [AdoptOpenJDK/openjdk-jdk8u](https://github.com/AdoptOpenJDK/openjdk-jdk8u) - JDK8u mirror from mercurial (1 day ago)
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (3 days ago)
+- [protostuff/protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator (1 day ago)
+- [demikernel/demikernel](https://github.com/demikernel/demikernel) - Kernel-Bypass LibOS Architecture (1 day ago)
+- [slog-rs/slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust (1 day ago)
+- [AdoptOpenJDK/openjdk-jdk8u](https://github.com/AdoptOpenJDK/openjdk-jdk8u) - JDK8u mirror from mercurial (2 days ago)
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (6 days ago)
+- [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (1 week ago)
 - [Finish all exercise](https://github.com/OneSizeFitsQuorum/rustlings/pull/1) on [OneSizeFitsQuorum/rustlings](https://github.com/OneSizeFitsQuorum/rustlings) (1 week ago)
 - [Wrong operation](https://github.com/rust-lang/rustlings/pull/1090) on [rust-lang/rustlings](https://github.com/rust-lang/rustlings) (1 week ago)
 - [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (2 weeks ago)
