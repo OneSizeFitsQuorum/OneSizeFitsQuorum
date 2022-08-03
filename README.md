@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Adam-Teng](https://github.com/Adam-Teng)
 - [christian-konrad](https://github.com/christian-konrad)
 - [Alk-aid](https://github.com/Alk-aid)
 - [FanBB2333](https://github.com/FanBB2333)
 - [Tomclancysi](https://github.com/Tomclancysi)
-- [PokIsemaine](https://github.com/PokIsemaine)
 
 #### 🔨 Check out my recent pull requests
 
