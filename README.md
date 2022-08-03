@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (4 days ago)
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (2 weeks ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (2 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Cassy343/flashmap](https://github.com/Cassy343/flashmap) - A lock-free, partially wait-free, eventually consistent, concurrent hashmap. (today)
+- [xiang90/paxos](https://github.com/xiang90/paxos) - A go implementation of the Paxos algorithm (today)
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (1 day ago)
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (1 day ago)
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (1 day ago)
-- [protostuff/protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator (2 days ago)
-- [demikernel/demikernel](https://github.com/demikernel/demikernel) - Kernel-Bypass LibOS Architecture (2 days ago)
 
 #### 👯 Check out my recent followers
 
