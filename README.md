@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳 (today)
+- [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (today)
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (today)
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers. (today)
 - [Cassy343/flashmap](https://github.com/Cassy343/flashmap) - A lock-free, partially wait-free, eventually consistent, concurrent hashmap. (1 day ago)
-- [xiang90/paxos](https://github.com/xiang90/paxos) - A go implementation of the Paxos algorithm (1 day ago)
-- [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (2 days ago)
 
 #### 👯 Check out my recent followers
 
