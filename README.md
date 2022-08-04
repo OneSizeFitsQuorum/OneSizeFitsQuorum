@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (1 day ago)
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (2 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (2 weeks ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (2 weeks ago)
@@ -28,26 +28,26 @@
 
 #### ⭐ Check out my recent stars
 
-- [Cassy343/flashmap](https://github.com/Cassy343/flashmap) - A lock-free, partially wait-free, eventually consistent, concurrent hashmap. (today)
-- [xiang90/paxos](https://github.com/xiang90/paxos) - A go implementation of the Paxos algorithm (today)
-- [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (1 day ago)
-- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (1 day ago)
-- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (1 day ago)
+- [Cassy343/flashmap](https://github.com/Cassy343/flashmap) - A lock-free, partially wait-free, eventually consistent, concurrent hashmap. (1 day ago)
+- [xiang90/paxos](https://github.com/xiang90/paxos) - A go implementation of the Paxos algorithm (1 day ago)
+- [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (2 days ago)
+- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer (2 days ago)
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3 (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [ethanflower1903](https://github.com/ethanflower1903)
 - [Adam-Teng](https://github.com/Adam-Teng)
 - [christian-konrad](https://github.com/christian-konrad)
 - [Alk-aid](https://github.com/Alk-aid)
 - [FanBB2333](https://github.com/FanBB2333)
-- [Tomclancysi](https://github.com/Tomclancysi)
 
 #### 🔨 Check out my recent pull requests
 
 - [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (1 week ago)
 - [Finish all exercise](https://github.com/OneSizeFitsQuorum/rustlings/pull/1) on [OneSizeFitsQuorum/rustlings](https://github.com/OneSizeFitsQuorum/rustlings) (2 weeks ago)
 - [Wrong operation](https://github.com/rust-lang/rustlings/pull/1090) on [rust-lang/rustlings](https://github.com/rust-lang/rustlings) (2 weeks ago)
-- [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (2 weeks ago)
+- [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (3 weeks ago)
 - [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
