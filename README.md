@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [UWHustle/HATtrick](https://github.com/UWHustle/HATtrick) -  (today)
 - [thuml/A-Roadmap-for-Transfer-Learning](https://github.com/thuml/A-Roadmap-for-Transfer-Learning) -  (1 day ago)
 - [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳 (1 day ago)
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (1 day ago)
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (1 day ago)
-- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers. (1 day ago)
 
 #### 👯 Check out my recent followers
 
