@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust (today)
 - [UWHustle/HATtrick](https://github.com/UWHustle/HATtrick) -  (today)
 - [thuml/A-Roadmap-for-Transfer-Learning](https://github.com/thuml/A-Roadmap-for-Transfer-Learning) -  (1 day ago)
 - [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳 (1 day ago)
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (1 day ago)
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (1 day ago)
 
 #### 👯 Check out my recent followers
 
