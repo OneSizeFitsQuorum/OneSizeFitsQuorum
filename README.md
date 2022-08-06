@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [letian-jiang](https://github.com/letian-jiang)
 - [todsac](https://github.com/todsac)
 - [Gxy-2001](https://github.com/Gxy-2001)
 - [ethanflower1903](https://github.com/ethanflower1903)
 - [Adam-Teng](https://github.com/Adam-Teng)
-- [christian-konrad](https://github.com/christian-konrad)
 
 #### 🔨 Check out my recent pull requests
 
