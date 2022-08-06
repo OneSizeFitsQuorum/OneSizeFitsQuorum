@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (3 days ago)
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (4 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (2 weeks ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust (today)
-- [UWHustle/HATtrick](https://github.com/UWHustle/HATtrick) -  (today)
-- [thuml/A-Roadmap-for-Transfer-Learning](https://github.com/thuml/A-Roadmap-for-Transfer-Learning) -  (1 day ago)
-- [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳 (1 day ago)
-- [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (1 day ago)
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust (1 day ago)
+- [UWHustle/HATtrick](https://github.com/UWHustle/HATtrick) -  (1 day ago)
+- [thuml/A-Roadmap-for-Transfer-Learning](https://github.com/thuml/A-Roadmap-for-Transfer-Learning) -  (2 days ago)
+- [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳 (2 days ago)
+- [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (2 days ago)
 
 #### 👯 Check out my recent followers
 
