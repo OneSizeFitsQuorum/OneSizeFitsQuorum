@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [heidihoward/leaderelection-tlaplus](https://github.com/heidihoward/leaderelection-tlaplus) - An example TLA&#43; specification for a simple &#34;raft style&#34; leader election protocol (today)
+- [informalsystems/apalache](https://github.com/informalsystems/apalache) - APALACHE: symbolic model checker for TLA&#43; (today)
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust (2 days ago)
 - [UWHustle/HATtrick](https://github.com/UWHustle/HATtrick) -  (2 days ago)
 - [thuml/A-Roadmap-for-Transfer-Learning](https://github.com/thuml/A-Roadmap-for-Transfer-Learning) -  (3 days ago)
-- [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳 (3 days ago)
-- [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust. (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [kpfly](https://github.com/kpfly)
+- [GanZiheng](https://github.com/GanZiheng)
 - [letian-jiang](https://github.com/letian-jiang)
 - [todsac](https://github.com/todsac)
 - [Gxy-2001](https://github.com/Gxy-2001)
-- [ethanflower1903](https://github.com/ethanflower1903)
-- [Adam-Teng](https://github.com/Adam-Teng)
 
 #### 🔨 Check out my recent pull requests
 
