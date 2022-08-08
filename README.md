@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (5 days ago)
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (2 weeks ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [heidihoward/leaderelection-tlaplus](https://github.com/heidihoward/leaderelection-tlaplus) - An example TLA&#43; specification for a simple &#34;raft style&#34; leader election protocol (today)
-- [informalsystems/apalache](https://github.com/informalsystems/apalache) - APALACHE: symbolic model checker for TLA&#43; (today)
-- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust (2 days ago)
-- [UWHustle/HATtrick](https://github.com/UWHustle/HATtrick) -  (2 days ago)
-- [thuml/A-Roadmap-for-Transfer-Learning](https://github.com/thuml/A-Roadmap-for-Transfer-Learning) -  (3 days ago)
+- [heidihoward/leaderelection-tlaplus](https://github.com/heidihoward/leaderelection-tlaplus) - An example TLA&#43; specification for a simple &#34;raft style&#34; leader election protocol (1 day ago)
+- [informalsystems/apalache](https://github.com/informalsystems/apalache) - APALACHE: symbolic model checker for TLA&#43; (1 day ago)
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust (3 days ago)
+- [UWHustle/HATtrick](https://github.com/UWHustle/HATtrick) -  (3 days ago)
+- [thuml/A-Roadmap-for-Transfer-Learning](https://github.com/thuml/A-Roadmap-for-Transfer-Learning) -  (4 days ago)
 
 #### 👯 Check out my recent followers
 
