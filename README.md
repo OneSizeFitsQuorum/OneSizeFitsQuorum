@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [smoonthsky](https://github.com/smoonthsky)
 - [developer-young](https://github.com/developer-young)
 - [kpfly](https://github.com/kpfly)
 - [GanZiheng](https://github.com/GanZiheng)
 - [letian-jiang](https://github.com/letian-jiang)
-- [todsac](https://github.com/todsac)
 
 #### 🔨 Check out my recent pull requests
 
