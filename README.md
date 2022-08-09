@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures (today)
+- [apache/kudu](https://github.com/apache/kudu) - Mirror of Apache Kudu (today)
 - [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access (1 day ago)
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust (1 day ago)
 - [heidihoward/leaderelection-tlaplus](https://github.com/heidihoward/leaderelection-tlaplus) - An example TLA&#43; specification for a simple &#34;raft style&#34; leader election protocol (2 days ago)
-- [informalsystems/apalache](https://github.com/informalsystems/apalache) - APALACHE: symbolic model checker for TLA&#43; (2 days ago)
-- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust (4 days ago)
 
 #### 👯 Check out my recent followers
 
