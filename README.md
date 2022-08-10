@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (today)
+- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (today)
+- [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb (today)
+- [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust (today)
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (today)
-- [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library (today)
-- [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data (today)
-- [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures (1 day ago)
-- [apache/kudu](https://github.com/apache/kudu) - Mirror of Apache Kudu (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [ligch-gary](https://github.com/ligch-gary)
 - [lewiszlw](https://github.com/lewiszlw)
 - [smoonthsky](https://github.com/smoonthsky)
 - [developer-young](https://github.com/developer-young)
 - [kpfly](https://github.com/kpfly)
-- [GanZiheng](https://github.com/GanZiheng)
 
 #### 🔨 Check out my recent pull requests
 
