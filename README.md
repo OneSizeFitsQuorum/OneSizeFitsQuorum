@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (today)
+- [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library (today)
+- [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data (today)
 - [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures (1 day ago)
 - [apache/kudu](https://github.com/apache/kudu) - Mirror of Apache Kudu (1 day ago)
-- [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access (2 days ago)
-- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust (2 days ago)
-- [heidihoward/leaderelection-tlaplus](https://github.com/heidihoward/leaderelection-tlaplus) - An example TLA&#43; specification for a simple &#34;raft style&#34; leader election protocol (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [lewiszlw](https://github.com/lewiszlw)
 - [smoonthsky](https://github.com/smoonthsky)
 - [developer-young](https://github.com/developer-young)
 - [kpfly](https://github.com/kpfly)
 - [GanZiheng](https://github.com/GanZiheng)
-- [letian-jiang](https://github.com/letian-jiang)
 
 #### 🔨 Check out my recent pull requests
 
