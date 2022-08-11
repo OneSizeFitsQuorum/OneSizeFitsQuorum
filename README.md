@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (today)
 - [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (1 day ago)
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (1 day ago)
 - [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb (1 day ago)
 - [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust (1 day ago)
-- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (1 day ago)
 
 #### 👯 Check out my recent followers
 
