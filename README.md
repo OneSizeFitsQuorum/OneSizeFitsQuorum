@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (5 days ago)
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (3 weeks ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (3 weeks ago)
@@ -28,26 +28,26 @@
 
 #### ⭐ Check out my recent stars
 
-- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (today)
-- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (today)
-- [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb (today)
-- [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust (today)
-- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (today)
+- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (1 day ago)
+- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (1 day ago)
+- [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb (1 day ago)
+- [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust (1 day ago)
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [vptvpt](https://github.com/vptvpt)
 - [ligch-gary](https://github.com/ligch-gary)
 - [lewiszlw](https://github.com/lewiszlw)
 - [smoonthsky](https://github.com/smoonthsky)
 - [developer-young](https://github.com/developer-young)
-- [kpfly](https://github.com/kpfly)
 
 #### 🔨 Check out my recent pull requests
 
 - [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (2 weeks ago)
 - [Finish all exercise](https://github.com/OneSizeFitsQuorum/rustlings/pull/1) on [OneSizeFitsQuorum/rustlings](https://github.com/OneSizeFitsQuorum/rustlings) (3 weeks ago)
 - [Wrong operation](https://github.com/rust-lang/rustlings/pull/1090) on [rust-lang/rustlings](https://github.com/rust-lang/rustlings) (3 weeks ago)
-- [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (3 weeks ago)
+- [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (4 weeks ago)
 - [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
