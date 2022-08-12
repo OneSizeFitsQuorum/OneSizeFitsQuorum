@@ -12,10 +12,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (6 days ago)
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (3 weeks ago)
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (3 weeks ago)
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (4 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
 
 #### 🌱 Check out my recent projects
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (today)
-- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (1 day ago)
-- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (1 day ago)
-- [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb (1 day ago)
-- [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust (1 day ago)
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (1 day ago)
+- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (2 days ago)
+- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (2 days ago)
+- [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb (2 days ago)
+- [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -55,5 +55,5 @@
 - [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (3 months ago)
 - [Raft 算法和对应代码框架介绍](https://tanxinyu.work/talent-plan-raft-talk/) (5 months ago)
 - [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (6 months ago)
-- [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (6 months ago)
+- [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (7 months ago)
 - [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (8 months ago)
