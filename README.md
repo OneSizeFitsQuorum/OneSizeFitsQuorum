@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (today)
-- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (1 day ago)
-- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (2 days ago)
-- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (2 days ago)
-- [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb (2 days ago)
+- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (1 day ago)
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (2 days ago)
+- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (3 days ago)
+- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (3 days ago)
+- [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb) - rust wrapper for rocksdb (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -47,7 +47,7 @@
 - [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (2 weeks ago)
 - [Finish all exercise](https://github.com/OneSizeFitsQuorum/rustlings/pull/1) on [OneSizeFitsQuorum/rustlings](https://github.com/OneSizeFitsQuorum/rustlings) (3 weeks ago)
 - [Wrong operation](https://github.com/rust-lang/rustlings/pull/1090) on [rust-lang/rustlings](https://github.com/rust-lang/rustlings) (3 weeks ago)
-- [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (4 weeks ago)
+- [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (1 month ago)
 - [Optimize multiLeaderConsensus performance](https://github.com/apache/iotdb/pull/6413) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
