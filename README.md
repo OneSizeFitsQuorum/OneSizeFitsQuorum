@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (today)
-- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (2 days ago)
-- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (3 days ago)
-- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (4 days ago)
-- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (4 days ago)
+- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (1 day ago)
+- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (3 days ago)
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (4 days ago)
+- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (5 days ago)
+- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (5 days ago)
 
 #### 👯 Check out my recent followers
 
