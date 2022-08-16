@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (today)
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (2 days ago)
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (4 days ago)
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (5 days ago)
 - [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (6 days ago)
-- [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [EasyArchAyuan](https://github.com/EasyArchAyuan)
 - [wangcx18](https://github.com/wangcx18)
 - [alexanderliu-creator](https://github.com/alexanderliu-creator)
 - [vptvpt](https://github.com/vptvpt)
 - [ligch-gary](https://github.com/ligch-gary)
-- [lewiszlw](https://github.com/lewiszlw)
 
 #### 🔨 Check out my recent pull requests
 
