@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (today)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (1 day ago)
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (3 days ago)
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (5 days ago)
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (6 days ago)
-- [tikv/client-rust](https://github.com/tikv/client-rust) - Rust Client for TiKV. (1 week ago)
 
 #### 👯 Check out my recent followers
 
