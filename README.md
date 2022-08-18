@@ -14,7 +14,7 @@
 
 - [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 weeks ago)
-- [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (4 weeks ago)
+- [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (1 month ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (1 month ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (today)
-- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (1 day ago)
-- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (3 days ago)
-- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (5 days ago)
-- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (6 days ago)
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 day ago)
+- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (2 days ago)
+- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (4 days ago)
+- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (6 days ago)
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (1 week ago)
 
 #### 👯 Check out my recent followers
 
