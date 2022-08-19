@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [iownE9](https://github.com/iownE9)
+- [jiapeish](https://github.com/jiapeish)
 - [Yukang-LIAN](https://github.com/Yukang-LIAN)
 - [EasyArchAyuan](https://github.com/EasyArchAyuan)
 - [wangcx18](https://github.com/wangcx18)
-- [alexanderliu-creator](https://github.com/alexanderliu-creator)
-- [vptvpt](https://github.com/vptvpt)
 
 #### 🔨 Check out my recent pull requests
 
