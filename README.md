@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (today)
+- [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (today)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (3 days ago)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (4 days ago)
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (6 days ago)
-- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (1 week ago)
-- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [GopherJ](https://github.com/GopherJ)
 - [iownE9](https://github.com/iownE9)
 - [jiapeish](https://github.com/jiapeish)
 - [Yukang-LIAN](https://github.com/Yukang-LIAN)
 - [EasyArchAyuan](https://github.com/EasyArchAyuan)
-- [wangcx18](https://github.com/wangcx18)
 
 #### 🔨 Check out my recent pull requests
 
