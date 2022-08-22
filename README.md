@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (today)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (3 days ago)
 - [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (1 month ago)
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (1 month ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.  (today)
 - [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (2 days ago)
 - [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (2 days ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (5 days ago)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (6 days ago)
-- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [ByteYue](https://github.com/ByteYue)
+- [fkuner](https://github.com/fkuner)
 - [GopherJ](https://github.com/GopherJ)
 - [iownE9](https://github.com/iownE9)
 - [jiapeish](https://github.com/jiapeish)
-- [Yukang-LIAN](https://github.com/Yukang-LIAN)
-- [EasyArchAyuan](https://github.com/EasyArchAyuan)
 
 #### 🔨 Check out my recent pull requests
 
