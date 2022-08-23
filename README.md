@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (today)
 - [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.  (1 day ago)
 - [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (3 days ago)
 - [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (3 days ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (6 days ago)
-- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (today)
 - [storage: record and return pessimistic_lock_wait time](https://github.com/tikv/tikv/pull/13309) on [tikv/tikv](https://github.com/tikv/tikv) (5 days ago)
 - [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (4 weeks ago)
 - [Finish all exercise](https://github.com/OneSizeFitsQuorum/rustlings/pull/1) on [OneSizeFitsQuorum/rustlings](https://github.com/OneSizeFitsQuorum/rustlings) (1 month ago)
 - [Wrong operation](https://github.com/rust-lang/rustlings/pull/1090) on [rust-lang/rustlings](https://github.com/rust-lang/rustlings) (1 month ago)
-- [dss : fix clippy error ](https://github.com/pingcap/talent-plan/pull/447) on [pingcap/talent-plan](https://github.com/pingcap/talent-plan) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
