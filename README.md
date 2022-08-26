@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (3 days ago)
-- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (6 days ago)
-- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (2 weeks ago)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 days ago)
+- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
+- [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [OneSizeFitsQuorum/myLeetcodeDailyRecord](https://github.com/OneSizeFitsQuorum/myLeetcodeDailyRecord) - Good good code,day day up! (1 month ago)
 
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (2 days ago)
-- [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.  (3 days ago)
-- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (5 days ago)
-- [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (5 days ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (3 days ago)
+- [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.  (4 days ago)
+- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (6 days ago)
+- [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (6 days ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (2 days ago)
+- [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (3 days ago)
 - [storage: record and return pessimistic_lock_wait time](https://github.com/tikv/tikv/pull/13309) on [tikv/tikv](https://github.com/tikv/tikv) (1 week ago)
 - [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (1 month ago)
 - [Finish all exercise](https://github.com/OneSizeFitsQuorum/rustlings/pull/1) on [OneSizeFitsQuorum/rustlings](https://github.com/OneSizeFitsQuorum/rustlings) (1 month ago)
