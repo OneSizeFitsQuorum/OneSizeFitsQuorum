@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 &#43; Oh My Zsh 打造舒适终端体验 (today)
 - [hawkw/sharded-slab](https://github.com/hawkw/sharded-slab) - a lock-free concurrent slab (experimental) (1 day ago)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (4 days ago)
 - [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.  (5 days ago)
 - [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (1 week ago)
-- [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people  (1 week ago)
 
 #### 👯 Check out my recent followers
 
