@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 days ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (6 days ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mengld](https://github.com/mengld)
 - [vineethNaroju](https://github.com/vineethNaroju)
 - [ByteYue](https://github.com/ByteYue)
 - [fkuner](https://github.com/fkuner)
 - [GopherJ](https://github.com/GopherJ)
-- [iownE9](https://github.com/iownE9)
 
 #### 🔨 Check out my recent pull requests
 
