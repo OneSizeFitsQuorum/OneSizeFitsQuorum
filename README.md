@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
-- [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (3 days ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 week ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (3 weeks ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (today)
 - [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode. (1 day ago)
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown (1 day ago)
 - [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 &#43; Oh My Zsh 打造舒适终端体验 (2 days ago)
 - [hawkw/sharded-slab](https://github.com/hawkw/sharded-slab) - a lock-free concurrent slab (experimental) (3 days ago)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [sunyalou](https://github.com/sunyalou)
 - [mengld](https://github.com/mengld)
 - [vineethNaroju](https://github.com/vineethNaroju)
 - [ByteYue](https://github.com/ByteYue)
 - [fkuner](https://github.com/fkuner)
-- [GopherJ](https://github.com/GopherJ)
 
 #### 🔨 Check out my recent pull requests
 
