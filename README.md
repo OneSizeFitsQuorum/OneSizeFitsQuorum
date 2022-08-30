@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (today)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (1 day ago)
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 days ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painless, and efficiently (today)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (1 day ago)
 - [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode. (2 days ago)
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown (2 days ago)
 - [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 &#43; Oh My Zsh 打造舒适终端体验 (3 days ago)
-- [hawkw/sharded-slab](https://github.com/hawkw/sharded-slab) - a lock-free concurrent slab (experimental) (4 days ago)
 
 #### 👯 Check out my recent followers
 
