@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yuancf1024](https://github.com/yuancf1024)
 - [tangyuan233](https://github.com/tangyuan233)
 - [sunyalou](https://github.com/sunyalou)
 - [mengld](https://github.com/mengld)
 - [vineethNaroju](https://github.com/vineethNaroju)
-- [ByteYue](https://github.com/ByteYue)
 
 #### 🔨 Check out my recent pull requests
 
