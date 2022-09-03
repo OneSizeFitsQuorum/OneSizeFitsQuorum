@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [1475505](https://github.com/1475505)
 - [Tiannia](https://github.com/Tiannia)
 - [GYHHAHA](https://github.com/GYHHAHA)
 - [yuancf1024](https://github.com/yuancf1024)
 - [tangyuan233](https://github.com/tangyuan233)
-- [sunyalou](https://github.com/sunyalou)
 
 #### 🔨 Check out my recent pull requests
 
