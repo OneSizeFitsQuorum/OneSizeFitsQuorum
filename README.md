@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/maven-shade-plugin](https://github.com/apache/maven-shade-plugin) - Apache Maven Shade Plugin (today)
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档 (2 days ago)
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新 (3 days ago)
 - [TuGraph-db/tugraph-db](https://github.com/TuGraph-db/tugraph-db) -  (3 days ago)
 - [google/bbr](https://github.com/google/bbr) -  (5 days ago)
-- [datafuselabs/opendal](https://github.com/datafuselabs/opendal) - OpenDAL: Access data freely, painless, and efficiently (5 days ago)
 
 #### 👯 Check out my recent followers
 
