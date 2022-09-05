@@ -52,7 +52,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [TiKV 源码解析之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (4 days ago)
+- [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (4 days ago)
 - [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (1 week ago)
 - [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (1 week ago)
 - [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (4 months ago)
