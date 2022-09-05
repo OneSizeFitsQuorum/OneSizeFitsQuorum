@@ -31,16 +31,16 @@
 - [apache/maven-shade-plugin](https://github.com/apache/maven-shade-plugin) - Apache Maven Shade Plugin (1 day ago)
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档 (3 days ago)
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新 (4 days ago)
-- [TuGraph-db/tugraph-db](https://github.com/TuGraph-db/tugraph-db) -  (4 days ago)
+- [TuGraph-db/tugraph-db](https://github.com/TuGraph-db/tugraph-db) - TuGraph is a high performance graph database. (4 days ago)
 - [google/bbr](https://github.com/google/bbr) -  (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [xubingfeng19](https://github.com/xubingfeng19)
+- [shootfirst](https://github.com/shootfirst)
 - [Schofi](https://github.com/Schofi)
 - [yanL1](https://github.com/yanL1)
 - [1475505](https://github.com/1475505)
-- [Tiannia](https://github.com/Tiannia)
-- [GYHHAHA](https://github.com/GYHHAHA)
 
 #### 🔨 Check out my recent pull requests
 
