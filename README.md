@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (6 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 week ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (1 week ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 weeks ago)
 - [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/maven-shade-plugin](https://github.com/apache/maven-shade-plugin) - Apache Maven Shade Plugin (1 day ago)
-- [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档 (3 days ago)
-- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新 (4 days ago)
-- [TuGraph-db/tugraph-db](https://github.com/TuGraph-db/tugraph-db) - TuGraph is a high performance graph database. (4 days ago)
-- [google/bbr](https://github.com/google/bbr) -  (6 days ago)
+- [apache/maven-shade-plugin](https://github.com/apache/maven-shade-plugin) - Apache Maven Shade Plugin (2 days ago)
+- [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档 (4 days ago)
+- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新 (5 days ago)
+- [TuGraph-db/tugraph-db](https://github.com/TuGraph-db/tugraph-db) - TuGraph is a high performance graph database. (5 days ago)
+- [google/bbr](https://github.com/google/bbr) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -46,13 +46,13 @@
 
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (1 week ago)
 - [Refine asycn snapshot metric](https://github.com/pingcap/kvproto/pull/978) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (1 week ago)
-- [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (1 week ago)
+- [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (2 weeks ago)
 - [storage: record and return pessimistic_lock_wait time](https://github.com/tikv/tikv/pull/13309) on [tikv/tikv](https://github.com/tikv/tikv) (2 weeks ago)
 - [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
-- [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (4 days ago)
+- [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (5 days ago)
 - [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (1 week ago)
 - [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (1 week ago)
 - [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (4 months ago)
