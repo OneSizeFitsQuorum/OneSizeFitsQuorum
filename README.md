@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [chaoran/fast-wait-free-queue](https://github.com/chaoran/fast-wait-free-queue) - A benchmark framework for concurrent queue implementations (today)
 - [apache/maven-shade-plugin](https://github.com/apache/maven-shade-plugin) - Apache Maven Shade Plugin (2 days ago)
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档 (4 days ago)
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新 (5 days ago)
 - [TuGraph-db/tugraph-db](https://github.com/TuGraph-db/tugraph-db) - TuGraph is a high performance graph database. (5 days ago)
-- [google/bbr](https://github.com/google/bbr) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [lsy789](https://github.com/lsy789)
 - [xubingfeng19](https://github.com/xubingfeng19)
 - [shootfirst](https://github.com/shootfirst)
 - [Schofi](https://github.com/Schofi)
 - [yanL1](https://github.com/yanL1)
-- [1475505](https://github.com/1475505)
 
 #### 🔨 Check out my recent pull requests
 
