@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods (today)
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (1 day ago)
 - [chaoran/fast-wait-free-queue](https://github.com/chaoran/fast-wait-free-queue) - A benchmark framework for concurrent queue implementations (1 day ago)
 - [apache/maven-shade-plugin](https://github.com/apache/maven-shade-plugin) - Apache Maven Shade Plugin (3 days ago)
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档 (5 days ago)
-- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新 (6 days ago)
 
 #### 👯 Check out my recent followers
 
-- [JmPotato](https://github.com/JmPotato)
-- [RinChanNOWWW](https://github.com/RinChanNOWWW)
-- [lsy789](https://github.com/lsy789)
-- [xubingfeng19](https://github.com/xubingfeng19)
-- [Schofi](https://github.com/Schofi)
+- [PRESIDENT810](https://github.com/PRESIDENT810)
+- [chaixuqing](https://github.com/chaixuqing)
+- [HuSharp](https://github.com/HuSharp)
+- [hackfengJam](https://github.com/hackfengJam)
+- [wangqiim](https://github.com/wangqiim)
 
 #### 🔨 Check out my recent pull requests
 
+- [storage: add perform_read_local fail_point  to stabilize the test](https://github.com/tikv/tikv/pull/13427) on [tikv/tikv](https://github.com/tikv/tikv) (today)
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (1 week ago)
 - [Refine asycn snapshot metric](https://github.com/pingcap/kvproto/pull/978) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (1 week ago)
 - [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (2 weeks ago)
 - [storage: record and return pessimistic_lock_wait time](https://github.com/tikv/tikv/pull/13309) on [tikv/tikv](https://github.com/tikv/tikv) (2 weeks ago)
-- [Finish Percolator lab](https://github.com/OneSizeFitsQuorum/talent-plan/pull/1) on [OneSizeFitsQuorum/talent-plan](https://github.com/OneSizeFitsQuorum/talent-plan) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
