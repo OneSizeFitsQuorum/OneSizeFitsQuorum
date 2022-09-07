@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [JmPotato](https://github.com/JmPotato)
+- [RinChanNOWWW](https://github.com/RinChanNOWWW)
 - [lsy789](https://github.com/lsy789)
 - [xubingfeng19](https://github.com/xubingfeng19)
-- [shootfirst](https://github.com/shootfirst)
 - [Schofi](https://github.com/Schofi)
-- [yanL1](https://github.com/yanL1)
 
 #### 🔨 Check out my recent pull requests
 
