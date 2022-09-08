@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (today)
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods (1 day ago)
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (2 days ago)
 - [chaoran/fast-wait-free-queue](https://github.com/chaoran/fast-wait-free-queue) - A benchmark framework for concurrent queue implementations (2 days ago)
 - [apache/maven-shade-plugin](https://github.com/apache/maven-shade-plugin) - Apache Maven Shade Plugin (4 days ago)
-- [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档 (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [goverclock](https://github.com/goverclock)
+- [liyunchuan](https://github.com/liyunchuan)
 - [Indra2108](https://github.com/Indra2108)
 - [PRESIDENT810](https://github.com/PRESIDENT810)
 - [chaixuqing](https://github.com/chaixuqing)
-- [HuSharp](https://github.com/HuSharp)
-- [hackfengJam](https://github.com/hackfengJam)
 
 #### 🔨 Check out my recent pull requests
 
