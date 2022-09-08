@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 days ago)
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 week ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (1 week ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 weeks ago)
 - [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (1 month ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Indra2108](https://github.com/Indra2108)
 - [PRESIDENT810](https://github.com/PRESIDENT810)
 - [chaixuqing](https://github.com/chaixuqing)
 - [HuSharp](https://github.com/HuSharp)
 - [hackfengJam](https://github.com/hackfengJam)
-- [wangqiim](https://github.com/wangqiim)
 
 #### 🔨 Check out my recent pull requests
 
