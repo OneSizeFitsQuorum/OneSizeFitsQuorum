@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [korandoru/dryad](https://github.com/korandoru/dryad) - Distributed consensus system with Map interface based on Apache Ratis (today)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (today)
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (1 day ago)
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods (2 days ago)
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (3 days ago)
-- [chaoran/fast-wait-free-queue](https://github.com/chaoran/fast-wait-free-queue) - A benchmark framework for concurrent queue implementations (3 days ago)
 
 #### 👯 Check out my recent followers
 
