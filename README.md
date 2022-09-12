@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [hrers](https://github.com/hrers)
 - [googlc](https://github.com/googlc)
 - [goverclock](https://github.com/goverclock)
 - [liyunchuan](https://github.com/liyunchuan)
 - [Indra2108](https://github.com/Indra2108)
-- [PRESIDENT810](https://github.com/PRESIDENT810)
 
 #### 🔨 Check out my recent pull requests
 
