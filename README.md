@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (today)
+- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast &amp; safe pure Rust implementation of Git (today)
 - [korandoru/dryad](https://github.com/korandoru/dryad) - Distributed consensus system with Map interface based on Apache Ratis (4 days ago)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (4 days ago)
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (5 days ago)
-- [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods (6 days ago)
-- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (1 week ago)
 
 #### 👯 Check out my recent followers
 
