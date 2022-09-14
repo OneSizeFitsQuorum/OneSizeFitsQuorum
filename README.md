@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (5 days ago)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 weeks ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (today)
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast &amp; safe pure Rust implementation of Git (today)
-- [korandoru/dryad](https://github.com/korandoru/dryad) - Distributed consensus system with Map interface based on Apache Ratis (4 days ago)
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (4 days ago)
-- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (5 days ago)
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (1 day ago)
+- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast &amp; safe pure Rust implementation of Git (1 day ago)
+- [korandoru/dryad](https://github.com/korandoru/dryad) - Distributed consensus system with Map interface based on Apache Ratis (5 days ago)
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (5 days ago)
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [storage: add perform_read_local fail_point  to stabilize the test](https://github.com/tikv/tikv/pull/13427) on [tikv/tikv](https://github.com/tikv/tikv) (6 days ago)
+- [storage: add perform_read_local fail_point  to stabilize the test](https://github.com/tikv/tikv/pull/13427) on [tikv/tikv](https://github.com/tikv/tikv) (1 week ago)
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (2 weeks ago)
 - [Refine asycn snapshot metric](https://github.com/pingcap/kvproto/pull/978) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (2 weeks ago)
 - [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (3 weeks ago)
