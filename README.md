@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️ (today)
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails (3 days ago)
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast &amp; safe pure Rust implementation of Git (3 days ago)
 - [korandoru/dryad](https://github.com/korandoru/dryad) - Distributed consensus system with Map interface based on Apache Ratis (1 week ago)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (1 week ago)
-- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [yangshushu6666](https://github.com/yangshushu6666)
 - [Pengzna](https://github.com/Pengzna)
 - [kun98-liu](https://github.com/kun98-liu)
 - [KevinYoung98](https://github.com/KevinYoung98)
 - [hrers](https://github.com/hrers)
-- [googlc](https://github.com/googlc)
 
 #### 🔨 Check out my recent pull requests
 
