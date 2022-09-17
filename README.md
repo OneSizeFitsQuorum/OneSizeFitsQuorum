@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️ (today)
-- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (3 days ago)
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast &amp; safe pure Rust implementation of Git (3 days ago)
-- [korandoru/dryad](https://github.com/korandoru/dryad) - Distributed consensus system with Map interface based on Apache Ratis (1 week ago)
+- [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️ (1 day ago)
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (4 days ago)
+- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast &amp; safe pure Rust implementation of Git (4 days ago)
+- [korandoru/zeronos](https://github.com/korandoru/zeronos) - Distributed consensus system with Map interface based on Apache Ratis (1 week ago)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client &amp; server implementation with async/await support. (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -48,7 +48,7 @@
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (3 weeks ago)
 - [Refine asycn snapshot metric](https://github.com/pingcap/kvproto/pull/978) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (3 weeks ago)
 - [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (3 weeks ago)
-- [storage: record and return pessimistic_lock_wait time](https://github.com/tikv/tikv/pull/13309) on [tikv/tikv](https://github.com/tikv/tikv) (4 weeks ago)
+- [storage: record and return pessimistic_lock_wait time](https://github.com/tikv/tikv/pull/13309) on [tikv/tikv](https://github.com/tikv/tikv) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
