@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [maxsarratt](https://github.com/maxsarratt)
+- [Phoenix-Alpha](https://github.com/Phoenix-Alpha)
 - [yangshushu6666](https://github.com/yangshushu6666)
 - [Pengzna](https://github.com/Pengzna)
 - [kun98-liu](https://github.com/kun98-liu)
-- [KevinYoung98](https://github.com/KevinYoung98)
-- [hrers](https://github.com/hrers)
 
 #### 🔨 Check out my recent pull requests
 
