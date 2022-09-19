@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM (today)
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (today)
 - [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (2 days ago)
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (2 days ago)
 - [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️ (3 days ago)
-- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (6 days ago)
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast &amp; safe pure Rust implementation of Git (6 days ago)
 
 #### 👯 Check out my recent followers
 
