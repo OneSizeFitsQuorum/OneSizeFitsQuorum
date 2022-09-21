@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yoursweetie](https://github.com/yoursweetie)
 - [SYaoJun](https://github.com/SYaoJun)
 - [THUzxj](https://github.com/THUzxj)
 - [maxsarratt](https://github.com/maxsarratt)
 - [Phoenix-Alpha](https://github.com/Phoenix-Alpha)
-- [yangshushu6666](https://github.com/yangshushu6666)
 
 #### 🔨 Check out my recent pull requests
 
