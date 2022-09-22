@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 week ago)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (3 weeks ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM (2 days ago)
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (2 days ago)
-- [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (4 days ago)
-- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (4 days ago)
-- [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️ (5 days ago)
+- [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM (3 days ago)
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (3 days ago)
+- [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (5 days ago)
+- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (5 days ago)
+- [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️ (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -47,13 +47,13 @@
 - [storage: add perform_read_local fail_point  to stabilize the test](https://github.com/tikv/tikv/pull/13427) on [tikv/tikv](https://github.com/tikv/tikv) (2 weeks ago)
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (3 weeks ago)
 - [Refine asycn snapshot metric](https://github.com/pingcap/kvproto/pull/978) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (3 weeks ago)
-- [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (4 weeks ago)
+- [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (1 month ago)
 - [storage: record and return pessimistic_lock_wait time](https://github.com/tikv/tikv/pull/13309) on [tikv/tikv](https://github.com/tikv/tikv) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
-- [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (2 weeks ago)
+- [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (3 weeks ago)
 - [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (3 weeks ago)
-- [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (3 weeks ago)
+- [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (4 weeks ago)
 - [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (5 months ago)
 - [Raft 算法和对应代码框架介绍](https://tanxinyu.work/talent-plan-raft-talk/) (6 months ago)
