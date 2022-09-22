@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党的润学笔记 (today)
 - [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM (3 days ago)
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (3 days ago)
 - [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (5 days ago)
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (5 days ago)
-- [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️ (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Oare-Soda](https://github.com/Oare-Soda)
+- [hhubibi](https://github.com/hhubibi)
+- [hmtbgc](https://github.com/hmtbgc)
 - [jensenojs](https://github.com/jensenojs)
 - [yoursweetie](https://github.com/yoursweetie)
-- [SYaoJun](https://github.com/SYaoJun)
-- [THUzxj](https://github.com/THUzxj)
-- [maxsarratt](https://github.com/maxsarratt)
 
 #### 🔨 Check out my recent pull requests
 
