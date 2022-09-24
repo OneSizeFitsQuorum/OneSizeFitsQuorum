@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党的润学笔记 (1 day ago)
-- [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM (4 days ago)
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (4 days ago)
-- [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (6 days ago)
-- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (6 days ago)
+- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党的润学笔记 (2 days ago)
+- [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM (5 days ago)
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (5 days ago)
+- [PKUFlyingPig/Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time (1 week ago)
+- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -54,6 +54,6 @@
 
 - [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (3 weeks ago)
 - [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (3 weeks ago)
-- [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (4 weeks ago)
+- [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (1 month ago)
 - [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (5 months ago)
 - [Raft 算法和对应代码框架介绍](https://tanxinyu.work/talent-plan-raft-talk/) (6 months ago)
