@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [EdgerHuang](https://github.com/EdgerHuang)
 - [Oare-Soda](https://github.com/Oare-Soda)
 - [hhubibi](https://github.com/hhubibi)
 - [hmtbgc](https://github.com/hmtbgc)
 - [jensenojs](https://github.com/jensenojs)
-- [yoursweetie](https://github.com/yoursweetie)
 
 #### 🔨 Check out my recent pull requests
 
