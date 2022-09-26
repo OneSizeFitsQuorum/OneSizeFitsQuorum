@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Ziy1-Tan](https://github.com/Ziy1-Tan)
+- [Weijun-H](https://github.com/Weijun-H)
 - [EdgerHuang](https://github.com/EdgerHuang)
 - [Oare-Soda](https://github.com/Oare-Soda)
 - [hhubibi](https://github.com/hhubibi)
-- [hmtbgc](https://github.com/hmtbgc)
-- [jensenojs](https://github.com/jensenojs)
 
 #### 🔨 Check out my recent pull requests
 
