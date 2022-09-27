@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [whentojump](https://github.com/whentojump)
+- [Veeupup](https://github.com/Veeupup)
 - [promise-1999](https://github.com/promise-1999)
 - [Ziy1-Tan](https://github.com/Ziy1-Tan)
 - [Weijun-H](https://github.com/Weijun-H)
-- [EdgerHuang](https://github.com/EdgerHuang)
-- [Oare-Soda](https://github.com/Oare-Soda)
 
 #### 🔨 Check out my recent pull requests
 
