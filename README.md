@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [openGemini/openGemini](https://github.com/openGemini/openGemini) - An open source time-series database (today)
-- [apache/pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore (today)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 days ago)
-- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党的润学笔记 (4 days ago)
+- [openGemini/openGemini](https://github.com/openGemini/openGemini) - An open source time-series database (1 day ago)
+- [apache/pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore (1 day ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (3 days ago)
+- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党的润学笔记 (5 days ago)
 - [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -53,7 +53,7 @@
 #### 📜 Check out my recent blog posts
 
 - [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (3 weeks ago)
-- [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (4 weeks ago)
+- [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (1 month ago)
 - [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (1 month ago)
 - [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (5 months ago)
 - [Raft 算法和对应代码框架介绍](https://tanxinyu.work/talent-plan-raft-talk/) (6 months ago)
