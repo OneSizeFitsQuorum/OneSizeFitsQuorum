@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [wfxr](https://github.com/wfxr)
 - [yuhong0663](https://github.com/yuhong0663)
 - [mrdylanyin](https://github.com/mrdylanyin)
 - [whentojump](https://github.com/whentojump)
 - [Veeupup](https://github.com/Veeupup)
-- [promise-1999](https://github.com/promise-1999)
 
 #### 🔨 Check out my recent pull requests
 
