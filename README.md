@@ -31,16 +31,16 @@
 - [openGemini/openGemini](https://github.com/openGemini/openGemini) - An open source time-series database (3 days ago)
 - [apache/pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore (3 days ago)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (5 days ago)
-- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党的润学笔记 (1 week ago)
+- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记 (1 week ago)
 - [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [lianxmfor](https://github.com/lianxmfor)
 - [trungnghiahoang96](https://github.com/trungnghiahoang96)
 - [wfxr](https://github.com/wfxr)
 - [yuhong0663](https://github.com/yuhong0663)
 - [mrdylanyin](https://github.com/mrdylanyin)
-- [whentojump](https://github.com/whentojump)
 
 #### 🔨 Check out my recent pull requests
 
