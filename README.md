@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 weeks ago)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (1 month ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 month ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [openGemini/openGemini](https://github.com/openGemini/openGemini) - An open source time-series database (2 days ago)
-- [apache/pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore (2 days ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (4 days ago)
-- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党的润学笔记 (6 days ago)
+- [openGemini/openGemini](https://github.com/openGemini/openGemini) - An open source time-series database (3 days ago)
+- [apache/pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore (3 days ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (5 days ago)
+- [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党的润学笔记 (1 week ago)
 - [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [trungnghiahoang96](https://github.com/trungnghiahoang96)
 - [wfxr](https://github.com/wfxr)
 - [yuhong0663](https://github.com/yuhong0663)
 - [mrdylanyin](https://github.com/mrdylanyin)
 - [whentojump](https://github.com/whentojump)
-- [Veeupup](https://github.com/Veeupup)
 
 #### 🔨 Check out my recent pull requests
 
@@ -52,7 +52,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (3 weeks ago)
+- [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (4 weeks ago)
 - [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (1 month ago)
 - [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (1 month ago)
 - [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (5 months ago)
