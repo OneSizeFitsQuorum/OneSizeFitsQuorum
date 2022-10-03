@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [jyf111](https://github.com/jyf111)
 - [lianxmfor](https://github.com/lianxmfor)
 - [trungnghiahoang96](https://github.com/trungnghiahoang96)
 - [wfxr](https://github.com/wfxr)
 - [yuhong0663](https://github.com/yuhong0663)
-- [mrdylanyin](https://github.com/mrdylanyin)
 
 #### 🔨 Check out my recent pull requests
 
