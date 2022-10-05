@@ -1,4 +1,4 @@
-🎓 Second-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)
+🎓 Third-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)
 
 💻 Interested in consensus algorithm, distributed storage system, time-series database and distributed transaction.
 
