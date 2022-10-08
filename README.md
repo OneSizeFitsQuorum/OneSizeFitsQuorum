@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (today)
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library (today)
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. (1 day ago)
 - [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time. (1 week ago)
 - [openGemini/openGemini](https://github.com/openGemini/openGemini) - An open source time-series database (1 week ago)
-- [apache/pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore (1 week ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
