@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 weeks ago)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 month ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (1 month ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 month ago)
 - [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. (today)
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. (1 day ago)
 - [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time. (1 week ago)
 - [openGemini/openGemini](https://github.com/openGemini/openGemini) - An open source time-series database (1 week ago)
 - [apache/pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore (1 week ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 week ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -52,8 +52,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [TiKV 源码阅读之读写流程](https://tanxinyu.work/tikv-source-code-reading/) (1 month ago)
+- [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (3 days ago)
+- [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (3 days ago)
+- [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (3 days ago)
 - [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (1 month ago)
 - [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (1 month ago)
-- [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (5 months ago)
-- [Raft 算法和对应代码框架介绍](https://tanxinyu.work/talent-plan-raft-talk/) (7 months ago)
