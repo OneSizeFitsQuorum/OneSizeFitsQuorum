@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [iefnaf](https://github.com/iefnaf)
+- [JasonkayZK](https://github.com/JasonkayZK)
+- [Jacob953](https://github.com/Jacob953)
 - [ColaLinN](https://github.com/ColaLinN)
 - [yonggaogit](https://github.com/yonggaogit)
-- [xiongyi88](https://github.com/xiongyi88)
-- [jyf111](https://github.com/jyf111)
-- [lianxmfor](https://github.com/lianxmfor)
 
 #### 🔨 Check out my recent pull requests
 
