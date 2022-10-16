@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [cedricai](https://github.com/cedricai)
 - [zach-ma](https://github.com/zach-ma)
 - [chenjiajun1999](https://github.com/chenjiajun1999)
 - [wakk3107](https://github.com/wakk3107)
 - [iefnaf](https://github.com/iefnaf)
-- [JasonkayZK](https://github.com/JasonkayZK)
 
 #### 🔨 Check out my recent pull requests
 
