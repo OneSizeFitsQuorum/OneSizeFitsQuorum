@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (today)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (1 day ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 days ago)
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (1 week ago)
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (1 week ago)
-- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [Yib-o-Zhang](https://github.com/Yib-o-Zhang)
 - [HardwayLinka](https://github.com/HardwayLinka)
 - [y-ykcir](https://github.com/y-ykcir)
 - [FrankLoud](https://github.com/FrankLoud)
 - [wang-jiahua](https://github.com/wang-jiahua)
-- [a347428217A](https://github.com/a347428217A)
 
 #### 🔨 Check out my recent pull requests
 
