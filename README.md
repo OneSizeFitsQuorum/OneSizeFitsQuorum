@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 day ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 month ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (1 month ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (today)
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 day ago)
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (1 day ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 days ago)
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (1 week ago)
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (1 week ago)
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library (1 week ago)
