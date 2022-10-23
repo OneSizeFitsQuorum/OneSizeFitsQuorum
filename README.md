@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (3 days ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 month ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (1 month ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (1 day ago)
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (2 days ago)
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (3 days ago)
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (2 days ago)
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (3 days ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 days ago)
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (1 week ago)
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [Freeeeeeeeedom](https://github.com/Freeeeeeeeedom)
+- [JihongC](https://github.com/JihongC)
 - [Yib-o-Zhang](https://github.com/Yib-o-Zhang)
 - [HardwayLinka](https://github.com/HardwayLinka)
 - [y-ykcir](https://github.com/y-ykcir)
-- [FrankLoud](https://github.com/FrankLoud)
-- [wang-jiahua](https://github.com/wang-jiahua)
 
 #### 🔨 Check out my recent pull requests
 
