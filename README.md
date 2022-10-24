@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Paulzzzhang](https://github.com/Paulzzzhang)
 - [Freeeeeeeeedom](https://github.com/Freeeeeeeeedom)
 - [JihongC](https://github.com/JihongC)
 - [Yib-o-Zhang](https://github.com/Yib-o-Zhang)
 - [HardwayLinka](https://github.com/HardwayLinka)
-- [y-ykcir](https://github.com/y-ykcir)
 
 #### 🔨 Check out my recent pull requests
 
