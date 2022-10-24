@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [jpli02](https://github.com/jpli02)
+- [KaranaLJX](https://github.com/KaranaLJX)
 - [Paulzzzhang](https://github.com/Paulzzzhang)
 - [Freeeeeeeeedom](https://github.com/Freeeeeeeeedom)
 - [JihongC](https://github.com/JihongC)
-- [Yib-o-Zhang](https://github.com/Yib-o-Zhang)
-- [HardwayLinka](https://github.com/HardwayLinka)
 
 #### 🔨 Check out my recent pull requests
 
