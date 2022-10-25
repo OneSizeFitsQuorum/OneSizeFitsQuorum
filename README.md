@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Zhytou](https://github.com/Zhytou)
+- [xuuyangg](https://github.com/xuuyangg)
 - [jpli02](https://github.com/jpli02)
 - [KaranaLJX](https://github.com/KaranaLJX)
 - [Paulzzzhang](https://github.com/Paulzzzhang)
-- [Freeeeeeeeedom](https://github.com/Freeeeeeeeedom)
-- [JihongC](https://github.com/JihongC)
 
 #### 🔨 Check out my recent pull requests
 
