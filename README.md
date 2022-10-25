@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [iskingwys](https://github.com/iskingwys)
+- [Branerys](https://github.com/Branerys)
 - [Zhytou](https://github.com/Zhytou)
 - [xuuyangg](https://github.com/xuuyangg)
 - [jpli02](https://github.com/jpli02)
-- [KaranaLJX](https://github.com/KaranaLJX)
-- [Paulzzzhang](https://github.com/Paulzzzhang)
 
 #### 🔨 Check out my recent pull requests
 
