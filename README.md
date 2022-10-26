@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad&#39;s resume and skills from 1980 (today)
 - [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (5 days ago)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (6 days ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 week ago)
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (1 week ago)
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [luoqiuluoqiu](https://github.com/luoqiuluoqiu)
 - [iskingwys](https://github.com/iskingwys)
 - [Branerys](https://github.com/Branerys)
 - [Zhytou](https://github.com/Zhytou)
 - [xuuyangg](https://github.com/xuuyangg)
-- [jpli02](https://github.com/jpli02)
 
 #### 🔨 Check out my recent pull requests
 
