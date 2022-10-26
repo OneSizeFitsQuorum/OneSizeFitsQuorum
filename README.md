@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (6 days ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 month ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (1 month ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (4 days ago)
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (5 days ago)
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (6 days ago)
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (5 days ago)
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (6 days ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 week ago)
 - [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (1 week ago)
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.  (2 weeks ago)
 
@@ -52,8 +52,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (2 weeks ago)
-- [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (2 weeks ago)
-- [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (2 weeks ago)
+- [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (3 weeks ago)
+- [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (3 weeks ago)
+- [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (3 weeks ago)
 - [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (1 month ago)
 - [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (2 months ago)
