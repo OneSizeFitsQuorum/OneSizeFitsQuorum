@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [kinyoubi0b](https://github.com/kinyoubi0b)
+- [wuchunfu](https://github.com/wuchunfu)
+- [ucasfl](https://github.com/ucasfl)
+- [shuhaohe](https://github.com/shuhaohe)
 - [luoqiuluoqiu](https://github.com/luoqiuluoqiu)
-- [iskingwys](https://github.com/iskingwys)
-- [Branerys](https://github.com/Branerys)
-- [Zhytou](https://github.com/Zhytou)
-- [xuuyangg](https://github.com/xuuyangg)
 
 #### 🔨 Check out my recent pull requests
 
