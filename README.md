@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad&#39;s resume and skills from 1980 (today)
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (5 days ago)
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (6 days ago)
+- [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad&#39;s resume and skills from 1980 (1 day ago)
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (6 days ago)
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (1 week ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 week ago)
-- [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (1 week ago)
+- [ProgrammingRust/examples](https://github.com/ProgrammingRust/examples) - Complete code for the larger example programs from the book. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [hkkhuang](https://github.com/hkkhuang)
+- [shuwenwei](https://github.com/shuwenwei)
 - [kinyoubi0b](https://github.com/kinyoubi0b)
 - [wuchunfu](https://github.com/wuchunfu)
 - [ucasfl](https://github.com/ucasfl)
-- [shuhaohe](https://github.com/shuhaohe)
-- [luoqiuluoqiu](https://github.com/luoqiuluoqiu)
 
 #### 🔨 Check out my recent pull requests
 
@@ -55,5 +55,5 @@
 - [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (3 weeks ago)
 - [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (3 weeks ago)
 - [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (3 weeks ago)
-- [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (1 month ago)
+- [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (2 months ago)
 - [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (2 months ago)
