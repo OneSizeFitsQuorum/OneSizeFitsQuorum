@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Dousir9](https://github.com/Dousir9)
+- [Makonike](https://github.com/Makonike)
 - [hkkhuang](https://github.com/hkkhuang)
 - [shuwenwei](https://github.com/shuwenwei)
 - [kinyoubi0b](https://github.com/kinyoubi0b)
-- [wuchunfu](https://github.com/wuchunfu)
-- [ucasfl](https://github.com/ucasfl)
 
 #### 🔨 Check out my recent pull requests
 
