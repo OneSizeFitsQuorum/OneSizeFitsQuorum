@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (today)
+- [wahyd4/work-in-australia](https://github.com/wahyd4/work-in-australia) - Work in Australia as a Developer / 程序员如何申请到澳洲工作 (today)
 - [SmartKeyerror/reading-source-code-of-leveldb-1.23](https://github.com/SmartKeyerror/reading-source-code-of-leveldb-1.23) - leveldb 源码阅读，分析 DB 运作流程与 WAL、SSTable 等文件格式与 Compaction 过程。 (2 days ago)
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&amp;A community for product technical support, customer support, user communication, and more. (3 days ago)
 - [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad&#39;s resume and skills from 1980 (4 days ago)
-- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引 (1 week ago)
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [meicanhong](https://github.com/meicanhong)
 - [Dousir9](https://github.com/Dousir9)
 - [Makonike](https://github.com/Makonike)
 - [hkkhuang](https://github.com/hkkhuang)
 - [shuwenwei](https://github.com/shuwenwei)
-- [kinyoubi0b](https://github.com/kinyoubi0b)
 
 #### 🔨 Check out my recent pull requests
 
