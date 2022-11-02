@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 week ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 month ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) -  (today)
-- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (1 day ago)
-- [apavlo/py-tpcc](https://github.com/apavlo/py-tpcc) - Python implementation of TPC-C (1 day ago)
-- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (2 days ago)
-- [wahyd4/work-in-australia](https://github.com/wahyd4/work-in-australia) - Work in Australia as a Developer / 程序员如何申请到澳洲工作 (2 days ago)
+- [TFdream/blog](https://github.com/TFdream/blog) - 个人技术博客，博文写在 Issues 里。 (today)
+- [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) -  (1 day ago)
+- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (2 days ago)
+- [apavlo/py-tpcc](https://github.com/apavlo/py-tpcc) - Python implementation of TPC-C (2 days ago)
+- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -52,8 +52,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (3 weeks ago)
-- [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (3 weeks ago)
-- [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (3 weeks ago)
+- [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (4 weeks ago)
+- [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (4 weeks ago)
+- [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (4 weeks ago)
 - [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (2 months ago)
 - [Talent-Plan：用 Rust 实现 Percolator 算法](https://tanxinyu.work/percolator-in-rust/) (2 months ago)
