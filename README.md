@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [SpanDB/SpanDB](https://github.com/SpanDB/SpanDB) - A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage (today)
 - [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit (today)
 - [TFdream/blog](https://github.com/TFdream/blog) - 个人技术博客，博文写在 Issues 里。 (today)
 - [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) -  (1 day ago)
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (2 days ago)
-- [apavlo/py-tpcc](https://github.com/apavlo/py-tpcc) - Python implementation of TPC-C (2 days ago)
 
 #### 👯 Check out my recent followers
 
