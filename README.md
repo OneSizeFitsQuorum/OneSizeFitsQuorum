@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [soyoo](https://github.com/soyoo)
+- [hnes](https://github.com/hnes)
 - [meicanhong](https://github.com/meicanhong)
 - [Dousir9](https://github.com/Dousir9)
 - [Makonike](https://github.com/Makonike)
-- [hkkhuang](https://github.com/hkkhuang)
-- [shuwenwei](https://github.com/shuwenwei)
 
 #### 🔨 Check out my recent pull requests
 
