@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [MrCroxx](https://github.com/MrCroxx)
 - [Exai](https://github.com/Exai)
 - [soyoo](https://github.com/soyoo)
 - [hnes](https://github.com/hnes)
 - [meicanhong](https://github.com/meicanhong)
-- [Dousir9](https://github.com/Dousir9)
 
 #### 🔨 Check out my recent pull requests
 
