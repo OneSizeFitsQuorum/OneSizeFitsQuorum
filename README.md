@@ -13,8 +13,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 weeks ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 weeks ago)
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 month ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 months ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 months ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [SpanDB/SpanDB](https://github.com/SpanDB/SpanDB) - A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage (4 days ago)
-- [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit (4 days ago)
-- [TFdream/blog](https://github.com/TFdream/blog) - 个人技术博客，博文写在 Issues 里。 (4 days ago)
-- [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) -  (5 days ago)
-- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (6 days ago)
+- [SpanDB/SpanDB](https://github.com/SpanDB/SpanDB) - A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage (5 days ago)
+- [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit (5 days ago)
+- [TFdream/blog](https://github.com/TFdream/blog) - 个人技术博客，博文写在 Issues 里。 (5 days ago)
+- [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) -  (6 days ago)
+- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust. (1 week ago)
 
 #### 👯 Check out my recent followers
 
