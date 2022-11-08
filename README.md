@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [plantainjuice](https://github.com/plantainjuice)
+- [yinghaoyu](https://github.com/yinghaoyu)
 - [MrCroxx](https://github.com/MrCroxx)
 - [Exai](https://github.com/Exai)
 - [soyoo](https://github.com/soyoo)
-- [hnes](https://github.com/hnes)
-- [meicanhong](https://github.com/meicanhong)
 
 #### 🔨 Check out my recent pull requests
 
