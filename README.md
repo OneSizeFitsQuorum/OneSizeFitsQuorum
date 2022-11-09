@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 weeks ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 days ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (3 weeks ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 months ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...  (1 day ago)
-- [SpanDB/SpanDB](https://github.com/SpanDB/SpanDB) - A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage (6 days ago)
-- [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit (6 days ago)
-- [TFdream/blog](https://github.com/TFdream/blog) - 个人技术博客，博文写在 Issues 里。 (6 days ago)
+- [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...  (2 days ago)
+- [SpanDB/SpanDB](https://github.com/SpanDB/SpanDB) - A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage (1 week ago)
+- [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit (1 week ago)
+- [TFdream/blog](https://github.com/TFdream/blog) - 个人技术博客，博文写在 Issues 里。 (1 week ago)
 - [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) -  (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -52,7 +52,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (1 day ago)
+- [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (2 days ago)
 - [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (1 month ago)
 - [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (1 month ago)
 - [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (1 month ago)
