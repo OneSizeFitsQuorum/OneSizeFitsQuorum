@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [geekya215](https://github.com/geekya215)
 - [Codebells](https://github.com/Codebells)
 - [ToKliar](https://github.com/ToKliar)
 - [plantainjuice](https://github.com/plantainjuice)
 - [yinghaoyu](https://github.com/yinghaoyu)
-- [MrCroxx](https://github.com/MrCroxx)
 
 #### 🔨 Check out my recent pull requests
 
