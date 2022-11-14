@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (3 weeks ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 months ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (3 days ago)
-- [THUMarkLau/IoTDB-Compaction-Performance-Benchmark](https://github.com/THUMarkLau/IoTDB-Compaction-Performance-Benchmark) -  (4 days ago)
-- [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...  (6 days ago)
+- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (4 days ago)
+- [THUMarkLau/IoTDB-Compaction-Performance-Benchmark](https://github.com/THUMarkLau/IoTDB-Compaction-Performance-Benchmark) -  (5 days ago)
+- [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...  (1 week ago)
 - [SpanDB/SpanDB](https://github.com/SpanDB/SpanDB) - A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage (1 week ago)
 - [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit (1 week ago)
 
@@ -52,7 +52,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (6 days ago)
+- [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (1 week ago)
 - [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (1 month ago)
 - [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (1 month ago)
 - [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (1 month ago)
