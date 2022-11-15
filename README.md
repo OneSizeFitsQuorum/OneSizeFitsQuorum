@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [axboe/liburing](https://github.com/axboe/liburing) -  (today)
+- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (today)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (5 days ago)
 - [THUMarkLau/IoTDB-Compaction-Performance-Benchmark](https://github.com/THUMarkLau/IoTDB-Compaction-Performance-Benchmark) -  (6 days ago)
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...  (1 week ago)
-- [SpanDB/SpanDB](https://github.com/SpanDB/SpanDB) - A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage (1 week ago)
-- [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [nbsps](https://github.com/nbsps)
 - [greenhandzpx](https://github.com/greenhandzpx)
 - [geekya215](https://github.com/geekya215)
 - [Codebells](https://github.com/Codebells)
 - [ToKliar](https://github.com/ToKliar)
-- [plantainjuice](https://github.com/plantainjuice)
 
 #### 🔨 Check out my recent pull requests
 
