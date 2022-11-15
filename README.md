@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (today)
 - [axboe/liburing](https://github.com/axboe/liburing) -  (today)
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (today)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (5 days ago)
 - [THUMarkLau/IoTDB-Compaction-Performance-Benchmark](https://github.com/THUMarkLau/IoTDB-Compaction-Performance-Benchmark) -  (6 days ago)
-- [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...  (1 week ago)
 
 #### 👯 Check out my recent followers
 
