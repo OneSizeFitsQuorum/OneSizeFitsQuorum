@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (3 weeks ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 weeks ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 months ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (today)
-- [axboe/liburing](https://github.com/axboe/liburing) -  (today)
-- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (today)
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (5 days ago)
-- [THUMarkLau/IoTDB-Compaction-Performance-Benchmark](https://github.com/THUMarkLau/IoTDB-Compaction-Performance-Benchmark) -  (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (1 day ago)
+- [axboe/liburing](https://github.com/axboe/liburing) -  (1 day ago)
+- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (1 day ago)
+- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (6 days ago)
+- [THUMarkLau/IoTDB-Compaction-Performance-Benchmark](https://github.com/THUMarkLau/IoTDB-Compaction-Performance-Benchmark) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -48,7 +48,7 @@
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (2 months ago)
 - [Refine asycn snapshot metric](https://github.com/pingcap/kvproto/pull/978) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (2 months ago)
 - [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (2 months ago)
-- [storage: record and return pessimistic_lock_wait time](https://github.com/tikv/tikv/pull/13309) on [tikv/tikv](https://github.com/tikv/tikv) (2 months ago)
+- [storage: record and return pessimistic_lock_wait time](https://github.com/tikv/tikv/pull/13309) on [tikv/tikv](https://github.com/tikv/tikv) (3 months ago)
 
 #### 📜 Check out my recent blog posts
 
