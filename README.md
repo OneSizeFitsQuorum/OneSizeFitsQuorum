@@ -16,7 +16,7 @@
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 weeks ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 months ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 months ago)
-- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 months ago)
+- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (3 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (1 day ago)
-- [axboe/liburing](https://github.com/axboe/liburing) -  (1 day ago)
-- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (1 day ago)
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (6 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (2 days ago)
+- [axboe/liburing](https://github.com/axboe/liburing) -  (2 days ago)
+- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (2 days ago)
+- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 week ago)
 - [THUMarkLau/IoTDB-Compaction-Performance-Benchmark](https://github.com/THUMarkLau/IoTDB-Compaction-Performance-Benchmark) -  (1 week ago)
 
 #### 👯 Check out my recent followers
