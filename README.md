@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 weeks ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 month ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 months ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (2 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (3 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (2 days ago)
-- [axboe/liburing](https://github.com/axboe/liburing) -  (2 days ago)
-- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (2 days ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (3 days ago)
+- [axboe/liburing](https://github.com/axboe/liburing) -  (3 days ago)
+- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (3 days ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 week ago)
 - [THUMarkLau/IoTDB-Compaction-Performance-Benchmark](https://github.com/THUMarkLau/IoTDB-Compaction-Performance-Benchmark) -  (1 week ago)
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-4855] [MultiLeader] Strength the memory control](https://github.com/apache/iotdb/pull/8025) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-4855] [MultiLeader] Strength the memory control](https://github.com/apache/iotdb/pull/8025) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [storage: add perform_read_local fail_point  to stabilize the test](https://github.com/tikv/tikv/pull/13427) on [tikv/tikv](https://github.com/tikv/tikv) (2 months ago)
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (2 months ago)
 - [Refine asycn snapshot metric](https://github.com/pingcap/kvproto/pull/978) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (2 months ago)
