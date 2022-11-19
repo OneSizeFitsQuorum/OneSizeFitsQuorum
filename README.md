@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/incubator-celeborn](https://github.com/apache/incubator-celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data. (today)
+- [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java) - OpenTracing API for Java. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163 (today)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (4 days ago)
 - [axboe/liburing](https://github.com/axboe/liburing) -  (4 days ago)
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (4 days ago)
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 week ago)
-- [THUMarkLau/IoTDB-Compaction-Performance-Benchmark](https://github.com/THUMarkLau/IoTDB-Compaction-Performance-Benchmark) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [cubxxw](https://github.com/cubxxw)
 - [starrysky9959](https://github.com/starrysky9959)
 - [Wei-hao-Li](https://github.com/Wei-hao-Li)
 - [nbsps](https://github.com/nbsps)
 - [greenhandzpx](https://github.com/greenhandzpx)
-- [geekya215](https://github.com/geekya215)
 
 #### 🔨 Check out my recent pull requests
 
