@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [randomdog2](https://github.com/randomdog2)
+- [dalakatt](https://github.com/dalakatt)
+- [AbdeenM](https://github.com/AbdeenM)
+- [Chi-Kai](https://github.com/Chi-Kai)
 - [cubxxw](https://github.com/cubxxw)
-- [starrysky9959](https://github.com/starrysky9959)
-- [Wei-hao-Li](https://github.com/Wei-hao-Li)
-- [nbsps](https://github.com/nbsps)
-- [greenhandzpx](https://github.com/greenhandzpx)
 
 #### 🔨 Check out my recent pull requests
 
