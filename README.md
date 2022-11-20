@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/incubator-celeborn](https://github.com/apache/incubator-celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data. (today)
-- [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java) - OpenTracing API for Java. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163 (today)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (4 days ago)
-- [axboe/liburing](https://github.com/axboe/liburing) -  (4 days ago)
-- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (4 days ago)
+- [apache/incubator-celeborn](https://github.com/apache/incubator-celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data. (1 day ago)
+- [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java) - OpenTracing API for Java. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163 (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (5 days ago)
+- [axboe/liburing](https://github.com/axboe/liburing) -  (5 days ago)
+- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-4855] [MultiLeader] Strength the memory control](https://github.com/apache/iotdb/pull/8025) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-4855] [MultiLeader] Strength the memory control](https://github.com/apache/iotdb/pull/8025) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [storage: add perform_read_local fail_point  to stabilize the test](https://github.com/tikv/tikv/pull/13427) on [tikv/tikv](https://github.com/tikv/tikv) (2 months ago)
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (2 months ago)
 - [Refine asycn snapshot metric](https://github.com/pingcap/kvproto/pull/978) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (2 months ago)
