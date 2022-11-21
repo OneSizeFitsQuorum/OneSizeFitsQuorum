@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zhaoshihan](https://github.com/zhaoshihan)
+- [arjunsk](https://github.com/arjunsk)
 - [HadXu](https://github.com/HadXu)
 - [randomdog2](https://github.com/randomdog2)
 - [dalakatt](https://github.com/dalakatt)
-- [AbdeenM](https://github.com/AbdeenM)
-- [Chi-Kai](https://github.com/Chi-Kai)
 
 #### 🔨 Check out my recent pull requests
 
