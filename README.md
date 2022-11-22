@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [hn-wu](https://github.com/hn-wu)
+- [codeworm111](https://github.com/codeworm111)
 - [GarrinXie](https://github.com/GarrinXie)
 - [zhaoshihan](https://github.com/zhaoshihan)
 - [arjunsk](https://github.com/arjunsk)
-- [HadXu](https://github.com/HadXu)
-- [randomdog2](https://github.com/randomdog2)
 
 #### 🔨 Check out my recent pull requests
 
