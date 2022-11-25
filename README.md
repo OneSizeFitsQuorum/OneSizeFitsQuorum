@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [AD-Gai-Code](https://github.com/AD-Gai-Code)
 - [hn-wu](https://github.com/hn-wu)
 - [codeworm111](https://github.com/codeworm111)
 - [GarrinXie](https://github.com/GarrinXie)
 - [zhaoshihan](https://github.com/zhaoshihan)
-- [arjunsk](https://github.com/arjunsk)
 
 #### 🔨 Check out my recent pull requests
 
