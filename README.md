@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java (today)
+- [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护 (today)
 - [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (1 day ago)
 - [apache/incubator-celeborn](https://github.com/apache/incubator-celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data. (1 week ago)
 - [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java) - OpenTracing API for Java. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163 (1 week ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database. (1 week ago)
-- [axboe/liburing](https://github.com/axboe/liburing) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
