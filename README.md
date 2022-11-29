@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [licncnn](https://github.com/licncnn)
 - [JINGE-ui](https://github.com/JINGE-ui)
 - [Harry-Gao-H](https://github.com/Harry-Gao-H)
 - [AnjanaVakil](https://github.com/AnjanaVakil)
 - [AD-Gai-Code](https://github.com/AD-Gai-Code)
-- [hn-wu](https://github.com/hn-wu)
 
 #### 🔨 Check out my recent pull requests
 
