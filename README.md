@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [JINGE-ui](https://github.com/JINGE-ui)
 - [Harry-Gao-H](https://github.com/Harry-Gao-H)
 - [AnjanaVakil](https://github.com/AnjanaVakil)
 - [AD-Gai-Code](https://github.com/AD-Gai-Code)
 - [hn-wu](https://github.com/hn-wu)
-- [codeworm111](https://github.com/codeworm111)
 
 #### 🔨 Check out my recent pull requests
 
