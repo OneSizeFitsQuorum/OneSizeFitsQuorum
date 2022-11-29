@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 month ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (2 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java (today)
-- [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护 (today)
-- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (1 day ago)
+- [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java (1 day ago)
+- [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护 (1 day ago)
+- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (2 days ago)
 - [apache/incubator-celeborn](https://github.com/apache/incubator-celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data. (1 week ago)
 - [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java) - OpenTracing API for Java. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163 (1 week ago)
 
