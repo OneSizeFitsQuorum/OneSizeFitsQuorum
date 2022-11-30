@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [aresbit](https://github.com/aresbit)
 - [wpaladins](https://github.com/wpaladins)
 - [licncnn](https://github.com/licncnn)
 - [JINGE-ui](https://github.com/JINGE-ui)
 - [Harry-Gao-H](https://github.com/Harry-Gao-H)
-- [AnjanaVakil](https://github.com/AnjanaVakil)
 
 #### 🔨 Check out my recent pull requests
 
