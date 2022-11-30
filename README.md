@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Ryokki](https://github.com/Ryokki)
+- [ZvanYang](https://github.com/ZvanYang)
 - [aresbit](https://github.com/aresbit)
 - [wpaladins](https://github.com/wpaladins)
 - [licncnn](https://github.com/licncnn)
-- [JINGE-ui](https://github.com/JINGE-ui)
-- [Harry-Gao-H](https://github.com/Harry-Gao-H)
 
 #### 🔨 Check out my recent pull requests
 
