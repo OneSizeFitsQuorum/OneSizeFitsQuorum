@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Puellaquae](https://github.com/Puellaquae)
+- [ruhuang2001](https://github.com/ruhuang2001)
 - [Ryokki](https://github.com/Ryokki)
 - [ZvanYang](https://github.com/ZvanYang)
 - [aresbit](https://github.com/aresbit)
-- [wpaladins](https://github.com/wpaladins)
-- [licncnn](https://github.com/licncnn)
 
 #### 🔨 Check out my recent pull requests
 
