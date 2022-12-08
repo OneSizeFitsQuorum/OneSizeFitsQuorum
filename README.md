@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [edmunds99](https://github.com/edmunds99)
 - [Puellaquae](https://github.com/Puellaquae)
 - [ruhuang2001](https://github.com/ruhuang2001)
 - [Ryokki](https://github.com/Ryokki)
 - [ZvanYang](https://github.com/ZvanYang)
-- [aresbit](https://github.com/aresbit)
 
 #### 🔨 Check out my recent pull requests
 
