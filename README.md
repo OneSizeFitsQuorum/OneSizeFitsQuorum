@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C&#43;&#43;11 (today)
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (1 day ago)
 - [howardlau1999/server-programming-guide](https://github.com/howardlau1999/server-programming-guide) -  (2 days ago)
 - [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java (1 week ago)
 - [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护 (1 week ago)
-- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
