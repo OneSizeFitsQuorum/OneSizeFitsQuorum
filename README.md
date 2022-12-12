@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [MagicMarvel](https://github.com/MagicMarvel)
+- [hhm-bjfu](https://github.com/hhm-bjfu)
 - [0xN0x](https://github.com/0xN0x)
 - [edmunds99](https://github.com/edmunds99)
 - [Puellaquae](https://github.com/Puellaquae)
-- [ruhuang2001](https://github.com/ruhuang2001)
-- [Ryokki](https://github.com/Ryokki)
 
 #### 🔨 Check out my recent pull requests
 
