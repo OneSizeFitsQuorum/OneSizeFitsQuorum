@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.0][IOTDB-5185] The old snapshot is not deleted after “ take snapshot ” is complete ](https://github.com/apache/iotdb/pull/8429) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-5185] The old snapshot is not deleted after “ take snapshot ” is complete](https://github.com/apache/iotdb/pull/8427) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-4855] [MultiLeader] Strength the memory control](https://github.com/apache/iotdb/pull/8025) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [storage: add perform_read_local fail_point  to stabilize the test](https://github.com/tikv/tikv/pull/13427) on [tikv/tikv](https://github.com/tikv/tikv) (3 months ago)
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (3 months ago)
-- [Refine asycn snapshot metric](https://github.com/pingcap/kvproto/pull/978) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (3 months ago)
-- [Add async snapshot metric](https://github.com/pingcap/kvproto/pull/974) on [pingcap/kvproto](https://github.com/pingcap/kvproto) (3 months ago)
 
 #### 📜 Check out my recent blog posts
 
