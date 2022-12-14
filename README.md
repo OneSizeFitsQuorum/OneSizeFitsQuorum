@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 days ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (1 month ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (3 months ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (3 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C&#43;&#43;11 (2 days ago)
-- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (3 days ago)
-- [howardlau1999/server-programming-guide](https://github.com/howardlau1999/server-programming-guide) -  (4 days ago)
-- [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java (2 weeks ago)
-- [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护 (2 weeks ago)
+- [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK. Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用. (1 day ago)
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。 (1 day ago)
+- [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C&#43;&#43;11 (3 days ago)
+- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (4 days ago)
+- [howardlau1999/server-programming-guide](https://github.com/howardlau1999/server-programming-guide) -  (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,15 +44,15 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.0][IOTDB-5185] The old snapshot is not deleted after “ take snapshot ” is complete ](https://github.com/apache/iotdb/pull/8429) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-5185] The old snapshot is not deleted after “ take snapshot ” is complete](https://github.com/apache/iotdb/pull/8427) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.0][IOTDB-5185] The old snapshot is not deleted after “ take snapshot ” is complete ](https://github.com/apache/iotdb/pull/8429) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-5185] The old snapshot is not deleted after “ take snapshot ” is complete](https://github.com/apache/iotdb/pull/8427) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-4855] [MultiLeader] Strength the memory control](https://github.com/apache/iotdb/pull/8025) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [storage: add perform_read_local fail_point  to stabilize the test](https://github.com/tikv/tikv/pull/13427) on [tikv/tikv](https://github.com/tikv/tikv) (3 months ago)
 - [storage: record and return asycn snapshot metric](https://github.com/tikv/tikv/pull/13358) on [tikv/tikv](https://github.com/tikv/tikv) (3 months ago)
 
 #### 📜 Check out my recent blog posts
 
-- [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (5 days ago)
+- [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (6 days ago)
 - [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (1 month ago)
 - [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (2 months ago)
 - [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (2 months ago)
