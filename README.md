@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [kapsterio/thriftAsyncServer](https://github.com/kapsterio/thriftAsyncServer) - test performance of thrift async server (today)
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C&#43;&#43; vectorized database acceleration library aimed to optimizing query engines and data processing systems. (3 days ago)
 - [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK. Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用. (5 days ago)
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。 (5 days ago)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C&#43;&#43;11 (1 week ago)
-- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [moontea](https://github.com/moontea)
 - [Dybala-Drgon](https://github.com/Dybala-Drgon)
 - [UNKJay](https://github.com/UNKJay)
 - [MagicMarvel](https://github.com/MagicMarvel)
 - [hhm-bjfu](https://github.com/hhm-bjfu)
-- [edmunds99](https://github.com/edmunds99)
 
 #### 🔨 Check out my recent pull requests
 
