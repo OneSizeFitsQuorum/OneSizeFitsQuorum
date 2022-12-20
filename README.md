@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (today)
+- [GoodManWEN/Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization) - Automaticlly updated language performance banchmarks in visualization. Data source from debian&#39;s the computer language benchmakrs game. (today)
+- [Rwing/debian-benchmarks-game-visualization](https://github.com/Rwing/debian-benchmarks-game-visualization) - [Archived]  Please move to the better repo https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization (today)
 - [kapsterio/thriftAsyncServer](https://github.com/kapsterio/thriftAsyncServer) - test performance of thrift async server (2 days ago)
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C&#43;&#43; vectorized database acceleration library aimed to optimizing query engines and data processing systems. (5 days ago)
-- [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK. Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用. (1 week ago)
-- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。 (1 week ago)
-- [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C&#43;&#43;11 (1 week ago)
 
 #### 👯 Check out my recent followers
 
