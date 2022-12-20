@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 days ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (3 months ago)
@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [heiyan-2020](https://github.com/heiyan-2020)
 - [moontea](https://github.com/moontea)
 - [Dybala-Drgon](https://github.com/Dybala-Drgon)
 - [UNKJay](https://github.com/UNKJay)
 - [MagicMarvel](https://github.com/MagicMarvel)
-- [hhm-bjfu](https://github.com/hhm-bjfu)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.0][IOTDB-5246] Enhance IoTConsensus field name ](https://github.com/apache/iotdb/pull/8535) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-5246] Enhance IoTConsensus field name](https://github.com/apache/iotdb/pull/8534) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.0][IOTDB-5174] Use filename format such as NodeID-Index rather than End…](https://github.com/apache/iotdb/pull/8468) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[IOTDB-5174] Use filename format such as NodeID-Index rather than Endpoint-Index to track follower sync progress](https://github.com/apache/iotdb/pull/8458) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[To rel/1.0][IOTDB-5185] The old snapshot is not deleted after “ take snapshot ” is complete ](https://github.com/apache/iotdb/pull/8429) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5185] The old snapshot is not deleted after “ take snapshot ” is complete](https://github.com/apache/iotdb/pull/8427) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-4855] [MultiLeader] Strength the memory control](https://github.com/apache/iotdb/pull/8025) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
