@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [TimechoLab/cluster-deployment](https://github.com/TimechoLab/cluster-deployment) - The scripts for the deployment of IoTDB-Cluster (today)
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (today)
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (1 day ago)
 - [GoodManWEN/Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization) - Automaticlly updated language performance banchmarks in visualization. Data source from debian&#39;s the computer language benchmakrs game. (1 day ago)
 - [Rwing/debian-benchmarks-game-visualization](https://github.com/Rwing/debian-benchmarks-game-visualization) - [Archived]  Please move to the better repo https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization (1 day ago)
-- [kapsterio/thriftAsyncServer](https://github.com/kapsterio/thriftAsyncServer) - test performance of thrift async server (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-5260] Refactor ClientManager API and Exception](https://github.com/apache/iotdb/pull/8561) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.0][IOTDB-5246] Enhance IoTConsensus field name ](https://github.com/apache/iotdb/pull/8535) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-5246] Enhance IoTConsensus field name](https://github.com/apache/iotdb/pull/8534) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.0][IOTDB-5174] Use filename format such as NodeID-Index rather than End…](https://github.com/apache/iotdb/pull/8468) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-5174] Use filename format such as NodeID-Index rather than Endpoint-Index to track follower sync progress](https://github.com/apache/iotdb/pull/8458) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.0][IOTDB-5185] The old snapshot is not deleted after “ take snapshot ” is complete ](https://github.com/apache/iotdb/pull/8429) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
