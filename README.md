@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (today)
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (1 day ago)
 - [GoodManWEN/Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization) - Automaticlly updated language performance banchmarks in visualization. Data source from debian&#39;s the computer language benchmakrs game. (1 day ago)
 - [Rwing/debian-benchmarks-game-visualization](https://github.com/Rwing/debian-benchmarks-game-visualization) - [Archived]  Please move to the better repo https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization (1 day ago)
 - [kapsterio/thriftAsyncServer](https://github.com/kapsterio/thriftAsyncServer) - test performance of thrift async server (3 days ago)
-- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C&#43;&#43; vectorized database acceleration library aimed to optimizing query engines and data processing systems. (6 days ago)
 
 #### 👯 Check out my recent followers
 
