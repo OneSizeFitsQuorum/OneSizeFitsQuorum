@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket: (today)
 - [TimechoLab/cluster-deployment](https://github.com/TimechoLab/cluster-deployment) - The scripts for the deployment of IoTDB-Cluster (1 day ago)
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (1 day ago)
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (2 days ago)
 - [GoodManWEN/Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization) - Automaticlly updated language performance banchmarks in visualization. Data source from debian&#39;s the computer language benchmakrs game. (2 days ago)
-- [Rwing/debian-benchmarks-game-visualization](https://github.com/Rwing/debian-benchmarks-game-visualization) - [Archived]  Please move to the better repo https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization (2 days ago)
 
 #### 👯 Check out my recent followers
 
