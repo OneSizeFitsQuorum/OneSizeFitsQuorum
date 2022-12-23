@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.0] Remove transfer leader test](https://github.com/apache/iotdb/pull/8598) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Remove transfer leader test](https://github.com/apache/iotdb/pull/8597) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-5260] Refactor ClientManager API and Exception](https://github.com/apache/iotdb/pull/8561) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[To rel/1.0][IOTDB-5246] Enhance IoTConsensus field name ](https://github.com/apache/iotdb/pull/8535) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-5246] Enhance IoTConsensus field name](https://github.com/apache/iotdb/pull/8534) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[To rel/1.0][IOTDB-5174] Use filename format such as NodeID-Index rather than End…](https://github.com/apache/iotdb/pull/8468) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5174] Use filename format such as NodeID-Index rather than Endpoint-Index to track follower sync progress](https://github.com/apache/iotdb/pull/8458) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
