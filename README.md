@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [m561247](https://github.com/m561247)
 - [heiyan-2020](https://github.com/heiyan-2020)
 - [moontea](https://github.com/moontea)
 - [Dybala-Drgon](https://github.com/Dybala-Drgon)
 - [UNKJay](https://github.com/UNKJay)
-- [MagicMarvel](https://github.com/MagicMarvel)
 
 #### 🔨 Check out my recent pull requests
 
