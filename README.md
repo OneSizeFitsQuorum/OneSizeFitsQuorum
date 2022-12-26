@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java (today)
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (1 day ago)
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket: (4 days ago)
 - [TimechoLab/cluster-deployment](https://github.com/TimechoLab/cluster-deployment) - The scripts for the deployment of IoTDB-Cluster (5 days ago)
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (5 days ago)
-- [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [zzhpro](https://github.com/zzhpro)
 - [cnissnzg](https://github.com/cnissnzg)
 - [nanfeng1999](https://github.com/nanfeng1999)
 - [m561247](https://github.com/m561247)
 - [heiyan-2020](https://github.com/heiyan-2020)
-- [moontea](https://github.com/moontea)
 
 #### 🔨 Check out my recent pull requests
 
