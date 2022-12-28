@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (3 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java (1 day ago)
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (2 days ago)
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket: (5 days ago)
-- [TimechoLab/cluster-deployment](https://github.com/TimechoLab/cluster-deployment) - The scripts for the deployment of IoTDB-Cluster (6 days ago)
-- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (6 days ago)
+- [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java (2 days ago)
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (3 days ago)
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket: (6 days ago)
+- [TimechoLab/cluster-deployment](https://github.com/TimechoLab/cluster-deployment) - The scripts for the deployment of IoTDB-Cluster (1 week ago)
+- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To Rel/1.0][IOTDB-5260] Refactor ClientManager API and Exception (#8561)](https://github.com/apache/iotdb/pull/8616) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.0] Remove transfer leader test](https://github.com/apache/iotdb/pull/8598) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Remove transfer leader test](https://github.com/apache/iotdb/pull/8597) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[IOTDB-5260] Refactor ClientManager API and Exception](https://github.com/apache/iotdb/pull/8561) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To Rel/1.0][IOTDB-5260] Refactor ClientManager API and Exception (#8561)](https://github.com/apache/iotdb/pull/8616) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.0] Remove transfer leader test](https://github.com/apache/iotdb/pull/8598) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Remove transfer leader test](https://github.com/apache/iotdb/pull/8597) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[IOTDB-5260] Refactor ClientManager API and Exception](https://github.com/apache/iotdb/pull/8561) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.0][IOTDB-5246] Enhance IoTConsensus field name ](https://github.com/apache/iotdb/pull/8535) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
