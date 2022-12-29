@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8654) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To Rel/1.0][IOTDB-5260] Refactor ClientManager API and Exception (#8561)](https://github.com/apache/iotdb/pull/8616) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To rel/1.0] Remove transfer leader test](https://github.com/apache/iotdb/pull/8598) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Remove transfer leader test](https://github.com/apache/iotdb/pull/8597) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-5260] Refactor ClientManager API and Exception](https://github.com/apache/iotdb/pull/8561) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.0][IOTDB-5246] Enhance IoTConsensus field name ](https://github.com/apache/iotdb/pull/8535) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
