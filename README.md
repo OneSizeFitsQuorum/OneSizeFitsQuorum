@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (3 months ago)
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8654) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8654) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[To Rel/1.0][IOTDB-5260] Refactor ClientManager API and Exception (#8561)](https://github.com/apache/iotdb/pull/8616) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.0] Remove transfer leader test](https://github.com/apache/iotdb/pull/8598) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Remove transfer leader test](https://github.com/apache/iotdb/pull/8597) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
@@ -55,5 +55,5 @@
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (2 weeks ago)
 - [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (3 weeks ago)
 - [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (1 month ago)
-- [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (2 months ago)
-- [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (2 months ago)
+- [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (3 months ago)
+- [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (3 months ago)
