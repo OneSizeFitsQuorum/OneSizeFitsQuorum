@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [alibaba/bytekit](https://github.com/alibaba/bytekit) - Java Bytecode Kit (today)
+- [uber-common/jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter (today)
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java (1 week ago)
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (1 week ago)
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket: (1 week ago)
-- [TimechoLab/cluster-deployment](https://github.com/TimechoLab/cluster-deployment) - The scripts for the deployment of IoTDB-Cluster (2 weeks ago)
-- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
