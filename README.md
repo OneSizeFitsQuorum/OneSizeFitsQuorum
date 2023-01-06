@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.0] [IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8770) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8654) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To Rel/1.0][IOTDB-5260] Refactor ClientManager API and Exception (#8561)](https://github.com/apache/iotdb/pull/8616) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.0] Remove transfer leader test](https://github.com/apache/iotdb/pull/8598) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Remove transfer leader test](https://github.com/apache/iotdb/pull/8597) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[IOTDB-5260] Refactor ClientManager API and Exception](https://github.com/apache/iotdb/pull/8561) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
