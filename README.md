@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [BUAAserein](https://github.com/BUAAserein)
 - [LordMoMA](https://github.com/LordMoMA)
 - [derecknowayback](https://github.com/derecknowayback)
 - [conghuhu](https://github.com/conghuhu)
 - [zzhpro](https://github.com/zzhpro)
-- [cnissnzg](https://github.com/cnissnzg)
 
 #### 🔨 Check out my recent pull requests
 
