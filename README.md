@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js (3 days ago)
-- [alibaba/bytekit](https://github.com/alibaba/bytekit) - Java Bytecode Kit (4 days ago)
-- [uber-common/jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter (4 days ago)
-- [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java (1 week ago)
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js (4 days ago)
+- [alibaba/bytekit](https://github.com/alibaba/bytekit) - Java Bytecode Kit (5 days ago)
+- [uber-common/jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter (5 days ago)
+- [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java (2 weeks ago)
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (2 weeks ago)
 
 #### 👯 Check out my recent followers
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.0][IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8785) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8779) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.0] [IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8770) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.0][IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8785) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8779) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.0] [IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8770) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8654) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To Rel/1.0][IOTDB-5260] Refactor ClientManager API and Exception (#8561)](https://github.com/apache/iotdb/pull/8616) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[To Rel/1.0][IOTDB-5260] Refactor ClientManager API and Exception (#8561)](https://github.com/apache/iotdb/pull/8616) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
