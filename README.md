@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (today)
+- [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等 (today)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js (4 days ago)
 - [alibaba/bytekit](https://github.com/alibaba/bytekit) - Java Bytecode Kit (5 days ago)
 - [uber-common/jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter (5 days ago)
-- [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java (2 weeks ago)
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [jianba](https://github.com/jianba)
 - [BUAAserein](https://github.com/BUAAserein)
 - [LordMoMA](https://github.com/LordMoMA)
 - [derecknowayback](https://github.com/derecknowayback)
 - [conghuhu](https://github.com/conghuhu)
-- [zzhpro](https://github.com/zzhpro)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8800) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-5389] Cause DataNode startup to fail when wal_mode is disabled in IoTConsensus](https://github.com/apache/iotdb/pull/8798) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Update ClientManager Javadoc](https://github.com/apache/iotdb/pull/8789) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.0][IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8785) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8779) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[To rel/1.0] [IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8770) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[IOTDB-5312] Consolidate ClientManagers in Datanodes for unified management](https://github.com/apache/iotdb/pull/8654) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
