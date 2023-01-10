@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 months ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (today)
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (1 day ago)
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等 (1 day ago)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js (5 days ago)
 - [alibaba/bytekit](https://github.com/alibaba/bytekit) - Java Bytecode Kit (6 days ago)
-- [uber-common/jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [StLeoX](https://github.com/StLeoX)
 - [jianba](https://github.com/jianba)
 - [BUAAserein](https://github.com/BUAAserein)
 - [LordMoMA](https://github.com/LordMoMA)
 - [derecknowayback](https://github.com/derecknowayback)
-- [conghuhu](https://github.com/conghuhu)
 
 #### 🔨 Check out my recent pull requests
 
