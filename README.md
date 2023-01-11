@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (today)
-- [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse (today)
-- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (today)
-- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (1 day ago)
-- [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等 (1 day ago)
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (1 day ago)
+- [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse (1 day ago)
+- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (1 day ago)
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (2 days ago)
+- [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等 (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.0][IOTDB-5389] Cause DataNode startup to fail when wal_mode is disabled in IoTConsensus](https://github.com/apache/iotdb/pull/8817) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8800) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[IOTDB-5389] Cause DataNode startup to fail when wal_mode is disabled in IoTConsensus](https://github.com/apache/iotdb/pull/8798) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Update ClientManager Javadoc](https://github.com/apache/iotdb/pull/8789) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.0][IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8785) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.0][IOTDB-5389] Cause DataNode startup to fail when wal_mode is disabled in IoTConsensus](https://github.com/apache/iotdb/pull/8817) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8800) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-5389] Cause DataNode startup to fail when wal_mode is disabled in IoTConsensus](https://github.com/apache/iotdb/pull/8798) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Update ClientManager Javadoc](https://github.com/apache/iotdb/pull/8789) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.0][IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8785) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
