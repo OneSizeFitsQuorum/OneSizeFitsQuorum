@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 weeks ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.0][IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several ](https://github.com/apache/iotdb/pull/8854) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several](https://github.com/apache/iotdb/pull/8837) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus](https://github.com/apache/iotdb/pull/8836) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.0][IOTDB-5389] Cause DataNode startup to fail when wal_mode is disabled in IoTConsensus](https://github.com/apache/iotdb/pull/8817) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-5384] add core_client_count_for_each_node_in_client_manager and max_client_count_for_each_node_in_client_manager parameters for confignode and datanode](https://github.com/apache/iotdb/pull/8800) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[IOTDB-5389] Cause DataNode startup to fail when wal_mode is disabled in IoTConsensus](https://github.com/apache/iotdb/pull/8798) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
