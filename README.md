@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
-- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (2 months ago)
+- [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (3 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 months ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (4 months ago)
 
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (6 days ago)
-- [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse (6 days ago)
-- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (6 days ago)
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (1 week ago)
+- [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse (1 week ago)
+- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (1 week ago)
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (1 week ago)
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等 (1 week ago)
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[To rel/1.0][IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several ](https://github.com/apache/iotdb/pull/8854) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several](https://github.com/apache/iotdb/pull/8837) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus](https://github.com/apache/iotdb/pull/8836) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[To rel/1.0][IOTDB-5389] Cause DataNode startup to fail when wal_mode is disabled in IoTConsensus](https://github.com/apache/iotdb/pull/8817) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[To rel/1.0][IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several ](https://github.com/apache/iotdb/pull/8854) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several](https://github.com/apache/iotdb/pull/8837) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus](https://github.com/apache/iotdb/pull/8836) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To rel/1.0][IOTDB-5389] Cause DataNode startup to fail when wal_mode is disabled in IoTConsensus](https://github.com/apache/iotdb/pull/8817) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
