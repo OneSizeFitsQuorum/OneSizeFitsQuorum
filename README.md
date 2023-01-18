@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (today)
 - [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (1 day ago)
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (1 day ago)
 - [josephg/diamond-types](https://github.com/josephg/diamond-types) - The world&#39;s fastest CRDT. WIP. (1 day ago)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (1 week ago)
-- [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse (1 week ago)
 
 #### 👯 Check out my recent followers
 
