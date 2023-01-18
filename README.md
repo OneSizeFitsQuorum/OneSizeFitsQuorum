@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [dexuter](https://github.com/dexuter)
 - [leafcxy](https://github.com/leafcxy)
 - [LuYuhong](https://github.com/LuYuhong)
 - [StLeoX](https://github.com/StLeoX)
 - [jianba](https://github.com/jianba)
-- [BUAAserein](https://github.com/BUAAserein)
 
 #### 🔨 Check out my recent pull requests
 
