@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [baidu/starlight](https://github.com/baidu/starlight) - Java implementation for Baidu RPC, multi-protocol &amp; high performance RPC. (today)
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (1 day ago)
 - [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (2 days ago)
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (2 days ago)
 - [josephg/diamond-types](https://github.com/josephg/diamond-types) - The world&#39;s fastest CRDT. WIP. (2 days ago)
-- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [GuoYongHeng](https://github.com/GuoYongHeng)
 - [dexuter](https://github.com/dexuter)
 - [leafcxy](https://github.com/leafcxy)
 - [LuYuhong](https://github.com/LuYuhong)
 - [StLeoX](https://github.com/StLeoX)
-- [jianba](https://github.com/jianba)
 
 #### 🔨 Check out my recent pull requests
 
