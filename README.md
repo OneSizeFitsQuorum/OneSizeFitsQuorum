@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/commons-pool](https://github.com/apache/commons-pool) - Mirror of Apache Commons Pool (today)
 - [baidu/starlight](https://github.com/baidu/starlight) - Java implementation for Baidu RPC, multi-protocol &amp; high performance RPC. (1 day ago)
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (2 days ago)
 - [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (3 days ago)
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (3 days ago)
-- [josephg/diamond-types](https://github.com/josephg/diamond-types) - The world&#39;s fastest CRDT. WIP. (3 days ago)
 
 #### 👯 Check out my recent followers
 
