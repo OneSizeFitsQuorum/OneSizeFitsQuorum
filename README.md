@@ -28,23 +28,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/commons-pool](https://github.com/apache/commons-pool) - Mirror of Apache Commons Pool (today)
-- [baidu/starlight](https://github.com/baidu/starlight) - Java implementation for Baidu RPC, multi-protocol &amp; high performance RPC. (1 day ago)
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (2 days ago)
-- [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (3 days ago)
-- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (3 days ago)
+- [apache/commons-pool](https://github.com/apache/commons-pool) - Apache Commons Pool (1 day ago)
+- [baidu/starlight](https://github.com/baidu/starlight) - Java implementation for Baidu RPC, multi-protocol &amp; high performance RPC. (2 days ago)
+- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (3 days ago)
+- [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux (4 days ago)
+- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library. (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [hbinfrog](https://github.com/hbinfrog)
 - [GuoYongHeng](https://github.com/GuoYongHeng)
 - [dexuter](https://github.com/dexuter)
 - [leafcxy](https://github.com/leafcxy)
 - [LuYuhong](https://github.com/LuYuhong)
-- [StLeoX](https://github.com/StLeoX)
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager](https://github.com/apache/iotdb/pull/8891) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager](https://github.com/apache/iotdb/pull/8891) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.0][IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several ](https://github.com/apache/iotdb/pull/8854) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several](https://github.com/apache/iotdb/pull/8837) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
