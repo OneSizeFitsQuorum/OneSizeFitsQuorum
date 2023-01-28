@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [JasonLou99](https://github.com/JasonLou99)
 - [YJYanJie](https://github.com/YJYanJie)
 - [love-star](https://github.com/love-star)
 - [lyf712](https://github.com/lyf712)
 - [limbowandering](https://github.com/limbowandering)
-- [hbinfrog](https://github.com/hbinfrog)
 
 #### 🔨 Check out my recent pull requests
 
