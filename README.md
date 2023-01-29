@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms. (today)
+- [dtrott/maven-thrift-plugin](https://github.com/dtrott/maven-thrift-plugin) - Maven Thrift Plugin that executes the thrift code generator (base on protocol buffers plugin) (today)
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 day ago)
 - [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (1 week ago)
 - [apache/commons-pool](https://github.com/apache/commons-pool) - Apache Commons Pool (1 week ago)
-- [baidu/starlight](https://github.com/baidu/starlight) - Java implementation for Baidu RPC, multi-protocol &amp; high performance RPC. (1 week ago)
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [yinwenbing](https://github.com/yinwenbing)
 - [TangSiyang2001](https://github.com/TangSiyang2001)
 - [JasonLou99](https://github.com/JasonLou99)
 - [YJYanJie](https://github.com/YJYanJie)
 - [love-star](https://github.com/love-star)
-- [lyf712](https://github.com/lyf712)
 
 #### 🔨 Check out my recent pull requests
 
