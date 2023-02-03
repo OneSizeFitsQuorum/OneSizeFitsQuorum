@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (3 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (4 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (today)
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms. (4 days ago)
-- [dtrott/maven-thrift-plugin](https://github.com/dtrott/maven-thrift-plugin) - Maven Thrift Plugin that executes the thrift code generator (base on protocol buffers plugin) (4 days ago)
-- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (5 days ago)
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (1 day ago)
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms. (5 days ago)
+- [dtrott/maven-thrift-plugin](https://github.com/dtrott/maven-thrift-plugin) - Maven Thrift Plugin that executes the thrift code generator (base on protocol buffers plugin) (5 days ago)
+- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (6 days ago)
 - [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.0][IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager ](https://github.com/apache/iotdb/pull/8911) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[To rel/1.0][IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager ](https://github.com/apache/iotdb/pull/8911) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager](https://github.com/apache/iotdb/pull/8891) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[To rel/1.0][IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several ](https://github.com/apache/iotdb/pull/8854) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several](https://github.com/apache/iotdb/pull/8837) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
