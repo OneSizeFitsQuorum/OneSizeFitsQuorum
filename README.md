@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (today)
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (1 day ago)
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms. (5 days ago)
 - [dtrott/maven-thrift-plugin](https://github.com/dtrott/maven-thrift-plugin) - Maven Thrift Plugin that executes the thrift code generator (base on protocol buffers plugin) (5 days ago)
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (6 days ago)
-- [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.  (1 week ago)
 
 #### 👯 Check out my recent followers
 
