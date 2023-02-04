@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Ariellink](https://github.com/Ariellink)
 - [shuo625](https://github.com/shuo625)
 - [sabrinali-linyi](https://github.com/sabrinali-linyi)
 - [sysulyccc](https://github.com/sysulyccc)
 - [yinwenbing](https://github.com/yinwenbing)
-- [TangSiyang2001](https://github.com/TangSiyang2001)
 
 #### 🔨 Check out my recent pull requests
 
