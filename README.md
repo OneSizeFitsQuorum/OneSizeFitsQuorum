@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (today)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (4 days ago)
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (5 days ago)
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms. (1 week ago)
 - [dtrott/maven-thrift-plugin](https://github.com/dtrott/maven-thrift-plugin) - Maven Thrift Plugin that executes the thrift code generator (base on protocol buffers plugin) (1 week ago)
-- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 week ago)
 
 #### 👯 Check out my recent followers
 
