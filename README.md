@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (today)
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (4 days ago)
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (5 days ago)
+- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (1 day ago)
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (5 days ago)
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (6 days ago)
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms. (1 week ago)
 - [dtrott/maven-thrift-plugin](https://github.com/dtrott/maven-thrift-plugin) - Maven Thrift Plugin that executes the thrift code generator (base on protocol buffers plugin) (1 week ago)
 
@@ -48,7 +48,7 @@
 - [[IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager](https://github.com/apache/iotdb/pull/8891) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[To rel/1.0][IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several ](https://github.com/apache/iotdb/pull/8854) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several](https://github.com/apache/iotdb/pull/8837) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [[IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several](https://github.com/apache/iotdb/pull/8837) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
