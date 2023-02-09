@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot (today)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (today)
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (2 days ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (6 days ago)
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (1 week ago)
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms. (1 week ago)
-- [dtrott/maven-thrift-plugin](https://github.com/dtrott/maven-thrift-plugin) - Maven Thrift Plugin that executes the thrift code generator (base on protocol buffers plugin) (1 week ago)
 
 #### 👯 Check out my recent followers
 
