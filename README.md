@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [infdahai](https://github.com/infdahai)
 - [linbeier](https://github.com/linbeier)
 - [Ariellink](https://github.com/Ariellink)
 - [shuo625](https://github.com/shuo625)
 - [sabrinali-linyi](https://github.com/sabrinali-linyi)
-- [sysulyccc](https://github.com/sysulyccc)
 
 #### 🔨 Check out my recent pull requests
 
