@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (1 day ago)
-- [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot (2 days ago)
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (2 days ago)
-- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (4 days ago)
+- [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (2 days ago)
+- [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot (3 days ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (3 days ago)
+- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (5 days ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -46,7 +46,7 @@
 
 - [[To rel/1.0][IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager ](https://github.com/apache/iotdb/pull/8911) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager](https://github.com/apache/iotdb/pull/8891) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
+- [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[To rel/1.0][IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several ](https://github.com/apache/iotdb/pull/8854) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[IOTDB-5400] IoTConsensus loses data when replica number change from 1 to several](https://github.com/apache/iotdb/pull/8837) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
