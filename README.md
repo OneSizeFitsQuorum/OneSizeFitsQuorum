@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (3 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (5 months ago)
 - [pingcap/kvproto](https://github.com/pingcap/kvproto) - Protocol buffer files for TiKV (5 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (2 days ago)
-- [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot (3 days ago)
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (3 days ago)
-- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (5 days ago)
+- [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (3 days ago)
+- [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot (4 days ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (4 days ago)
+- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (6 days ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -53,7 +53,7 @@
 #### 📜 Check out my recent blog posts
 
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (3 weeks ago)
-- [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (1 month ago)
+- [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (2 months ago)
 - [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (2 months ago)
 - [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (3 months ago)
 - [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (4 months ago)
