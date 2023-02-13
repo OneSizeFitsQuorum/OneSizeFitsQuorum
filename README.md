@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. (today)
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (3 days ago)
 - [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot (4 days ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (4 days ago)
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀 (6 days ago)
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [fzw180](https://github.com/fzw180)
 - [iiiuwioajdks](https://github.com/iiiuwioajdks)
 - [infdahai](https://github.com/infdahai)
 - [linbeier](https://github.com/linbeier)
 - [Ariellink](https://github.com/Ariellink)
-- [shuo625](https://github.com/shuo625)
 
 #### 🔨 Check out my recent pull requests
 
