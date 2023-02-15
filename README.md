@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [cargo-youth](https://github.com/cargo-youth)
 - [fzw180](https://github.com/fzw180)
 - [iiiuwioajdks](https://github.com/iiiuwioajdks)
 - [infdahai](https://github.com/infdahai)
 - [linbeier](https://github.com/linbeier)
-- [Ariellink](https://github.com/Ariellink)
 
 #### 🔨 Check out my recent pull requests
 
