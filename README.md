@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (today)
 - [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (2 days ago)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. (3 days ago)
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (6 days ago)
 - [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot (1 week ago)
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [Era2016](https://github.com/Era2016)
 - [cargo-youth](https://github.com/cargo-youth)
 - [fzw180](https://github.com/fzw180)
 - [iiiuwioajdks](https://github.com/iiiuwioajdks)
 - [infdahai](https://github.com/infdahai)
-- [linbeier](https://github.com/linbeier)
 
 #### 🔨 Check out my recent pull requests
 
