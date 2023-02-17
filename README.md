@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (today)
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (1 day ago)
 - [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (3 days ago)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. (4 days ago)
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (1 week ago)
-- [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot (1 week ago)
 
 #### 👯 Check out my recent followers
 
