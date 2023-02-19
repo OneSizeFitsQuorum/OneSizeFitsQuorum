@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [DanGuge](https://github.com/DanGuge)
 - [Era2016](https://github.com/Era2016)
 - [cargo-youth](https://github.com/cargo-youth)
 - [fzw180](https://github.com/fzw180)
 - [iiiuwioajdks](https://github.com/iiiuwioajdks)
-- [infdahai](https://github.com/infdahai)
 
 #### 🔨 Check out my recent pull requests
 
