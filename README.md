@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 weeks ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (5 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (3 days ago)
-- [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (4 days ago)
-- [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (6 days ago)
+- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (4 days ago)
+- [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (5 days ago)
+- [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (1 week ago)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. (1 week ago)
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (1 week ago)
 
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-5562] Change the data type of AutoGuage from long to double in metric module](https://github.com/apache/iotdb/pull/9107) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-5560] Increase default consensusLogAppenderBufferSize from 4M to 16M to reduce the probability of large request write failures](https://github.com/apache/iotdb/pull/9101) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-5562] Change the data type of AutoGuage from long to double in metric module](https://github.com/apache/iotdb/pull/9107) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-5560] Increase default consensusLogAppenderBufferSize from 4M to 16M to reduce the probability of large request write failures](https://github.com/apache/iotdb/pull/9101) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.0][IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager ](https://github.com/apache/iotdb/pull/8911) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager](https://github.com/apache/iotdb/pull/8891) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
