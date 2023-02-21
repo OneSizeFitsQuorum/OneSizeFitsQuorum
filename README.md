@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-1786. Reset the digester of the follower at the beginning of each file transfer during a InstallSnapshot to avoid snapshot transfer failure](https://github.com/apache/ratis/pull/825) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [RATIS-1785. Use SingleThreadExecutor to manage the lifetime of single thread](https://github.com/apache/ratis/pull/824) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [[IOTDB-5562] Change the data type of AutoGuage from long to double in metric module](https://github.com/apache/iotdb/pull/9107) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-5560] Increase default consensusLogAppenderBufferSize from 4M to 16M to reduce the probability of large request write failures](https://github.com/apache/iotdb/pull/9101) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.0][IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager ](https://github.com/apache/iotdb/pull/8911) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager](https://github.com/apache/iotdb/pull/8891) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [[To rel/1.0][IOTDB-5324] Fix wal cann&#39;t be deleted in destDataNode after region migration when data_replication_factor is 1 in IoTConsensus ](https://github.com/apache/iotdb/pull/8876) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
