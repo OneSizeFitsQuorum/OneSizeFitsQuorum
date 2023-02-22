@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [kaijchen](https://github.com/kaijchen)
+- [bit-dance](https://github.com/bit-dance)
 - [isHuangXin](https://github.com/isHuangXin)
 - [Westwood-Lin](https://github.com/Westwood-Lin)
 - [DanGuge](https://github.com/DanGuge)
-- [Era2016](https://github.com/Era2016)
-- [cargo-youth](https://github.com/cargo-youth)
 
 #### 🔨 Check out my recent pull requests
 
