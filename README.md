@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [bsbs20](https://github.com/bsbs20)
+- [lin-rany](https://github.com/lin-rany)
+- [YoungY620](https://github.com/YoungY620)
 - [15881450273](https://github.com/15881450273)
 - [kaijchen](https://github.com/kaijchen)
-- [bit-dance](https://github.com/bit-dance)
-- [isHuangXin](https://github.com/isHuangXin)
-- [Westwood-Lin](https://github.com/Westwood-Lin)
 
 #### 🔨 Check out my recent pull requests
 
