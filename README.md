@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Chovyyyyyy](https://github.com/Chovyyyyyy)
+- [Nateiru](https://github.com/Nateiru)
 - [alberthuang422](https://github.com/alberthuang422)
 - [bsbs20](https://github.com/bsbs20)
 - [lin-rany](https://github.com/lin-rany)
-- [YoungY620](https://github.com/YoungY620)
-- [15881450273](https://github.com/15881450273)
 
 #### 🔨 Check out my recent pull requests
 
