@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [haohuaijin](https://github.com/haohuaijin)
+- [MissingJoe](https://github.com/MissingJoe)
+- [goulee](https://github.com/goulee)
 - [Chovyyyyyy](https://github.com/Chovyyyyyy)
 - [Nateiru](https://github.com/Nateiru)
-- [alberthuang422](https://github.com/alberthuang422)
-- [bsbs20](https://github.com/bsbs20)
-- [lin-rany](https://github.com/lin-rany)
 
 #### 🔨 Check out my recent pull requests
 
