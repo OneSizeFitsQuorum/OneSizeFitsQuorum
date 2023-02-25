@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (5 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1786. Reset the digester of the follower at the beginning of each file transfer during a InstallSnapshot to avoid snapshot transfer failure](https://github.com/apache/ratis/pull/825) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
-- [RATIS-1785. Use SingleThreadExecutor to manage the lifetime of single thread](https://github.com/apache/ratis/pull/824) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
-- [[IOTDB-5562] Change the data type of AutoGuage from long to double in metric module](https://github.com/apache/iotdb/pull/9107) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[IOTDB-5560] Increase default consensusLogAppenderBufferSize from 4M to 16M to reduce the probability of large request write failures](https://github.com/apache/iotdb/pull/9101) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[To rel/1.0][IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager ](https://github.com/apache/iotdb/pull/8911) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [RATIS-1786. Reset the digester of the follower at the beginning of each file transfer during a InstallSnapshot to avoid snapshot transfer failure](https://github.com/apache/ratis/pull/825) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
+- [RATIS-1785. Use SingleThreadExecutor to manage the lifetime of single thread](https://github.com/apache/ratis/pull/824) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
+- [[IOTDB-5562] Change the data type of AutoGuage from long to double in metric module](https://github.com/apache/iotdb/pull/9107) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[IOTDB-5560] Increase default consensusLogAppenderBufferSize from 4M to 16M to reduce the probability of large request write failures](https://github.com/apache/iotdb/pull/9101) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[To rel/1.0][IOTDB-5425] Consolidate all ConfigNodeClient to be managed by clientManager ](https://github.com/apache/iotdb/pull/8911) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
