@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-5595] Fix memory leak for TsFileProcessorInfoMetrics in TsFileProcessorInfo](https://github.com/apache/iotdb/pull/9162) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-5585] Change InternalReporterType from IoTDB to Memory to reduce performance degradation](https://github.com/apache/iotdb/pull/9145) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [RATIS-1786. Reset the digester of the follower at the beginning of each file transfer during a InstallSnapshot to avoid snapshot transfer failure](https://github.com/apache/ratis/pull/825) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [RATIS-1785. Use SingleThreadExecutor to manage the lifetime of single thread](https://github.com/apache/ratis/pull/824) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [[IOTDB-5562] Change the data type of AutoGuage from long to double in metric module](https://github.com/apache/iotdb/pull/9107) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5560] Increase default consensusLogAppenderBufferSize from 4M to 16M to reduce the probability of large request write failures](https://github.com/apache/iotdb/pull/9101) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
