@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 months ago)
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (5 months ago)
@@ -30,7 +30,7 @@
 
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (1 week ago)
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (1 week ago)
-- [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (1 week ago)
+- [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (2 weeks ago)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. (2 weeks ago)
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (2 weeks ago)
 
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-5585] Change InternalReporterType from IoTDB to Memory to reduce performance degradation](https://github.com/apache/iotdb/pull/9145) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [RATIS-1786. Reset the digester of the follower at the beginning of each file transfer during a InstallSnapshot to avoid snapshot transfer failure](https://github.com/apache/ratis/pull/825) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
-- [RATIS-1785. Use SingleThreadExecutor to manage the lifetime of single thread](https://github.com/apache/ratis/pull/824) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
+- [[IOTDB-5585] Change InternalReporterType from IoTDB to Memory to reduce performance degradation](https://github.com/apache/iotdb/pull/9145) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [RATIS-1786. Reset the digester of the follower at the beginning of each file transfer during a InstallSnapshot to avoid snapshot transfer failure](https://github.com/apache/ratis/pull/825) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
+- [RATIS-1785. Use SingleThreadExecutor to manage the lifetime of single thread](https://github.com/apache/ratis/pull/824) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [[IOTDB-5562] Change the data type of AutoGuage from long to double in metric module](https://github.com/apache/iotdb/pull/9107) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5560] Increase default consensusLogAppenderBufferSize from 4M to 16M to reduce the probability of large request write failures](https://github.com/apache/iotdb/pull/9101) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
