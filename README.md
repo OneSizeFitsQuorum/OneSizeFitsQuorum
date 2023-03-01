@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [smx-Morgan](https://github.com/smx-Morgan)
+- [1BUKA](https://github.com/1BUKA)
 - [challow0](https://github.com/challow0)
 - [haohuaijin](https://github.com/haohuaijin)
 - [MissingJoe](https://github.com/MissingJoe)
-- [goulee](https://github.com/goulee)
-- [Chovyyyyyy](https://github.com/Chovyyyyyy)
 
 #### 🔨 Check out my recent pull requests
 
