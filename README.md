@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9204) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-5601] [Refactor] Remove AsyncConfigNodeHeartbeatServiceClient and AsyncDataNodeHeartbeatServiceClient as there core logic are duplicated](https://github.com/apache/iotdb/pull/9180) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9168) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-5595] Fix memory leak for TsFileProcessorInfoMetrics in TsFileProcessorInfo](https://github.com/apache/iotdb/pull/9162) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-5585] Change InternalReporterType from IoTDB to Memory to reduce performance degradation](https://github.com/apache/iotdb/pull/9145) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [RATIS-1786. Reset the digester of the follower at the beginning of each file transfer during a InstallSnapshot to avoid snapshot transfer failure](https://github.com/apache/ratis/pull/825) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
