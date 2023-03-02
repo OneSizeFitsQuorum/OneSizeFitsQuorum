@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 months ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [bourne-3](https://github.com/bourne-3)
 - [smx-Morgan](https://github.com/smx-Morgan)
 - [1BUKA](https://github.com/1BUKA)
 - [challow0](https://github.com/challow0)
 - [haohuaijin](https://github.com/haohuaijin)
-- [MissingJoe](https://github.com/MissingJoe)
 
 #### 🔨 Check out my recent pull requests
 
