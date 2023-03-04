@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.1][IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9216) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.1][IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9215) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9204) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-5601] [Refactor] Remove AsyncConfigNodeHeartbeatServiceClient and AsyncDataNodeHeartbeatServiceClient as there core logic are duplicated](https://github.com/apache/iotdb/pull/9180) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9168) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[IOTDB-5595] Fix memory leak for TsFileProcessorInfoMetrics in TsFileProcessorInfo](https://github.com/apache/iotdb/pull/9162) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[IOTDB-5585] Change InternalReporterType from IoTDB to Memory to reduce performance degradation](https://github.com/apache/iotdb/pull/9145) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
