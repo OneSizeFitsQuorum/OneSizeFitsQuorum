@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zeliyan](https://github.com/zeliyan)
+- [KEVINtoto](https://github.com/KEVINtoto)
 - [bourne-3](https://github.com/bourne-3)
 - [smx-Morgan](https://github.com/smx-Morgan)
 - [1BUKA](https://github.com/1BUKA)
-- [challow0](https://github.com/challow0)
-- [haohuaijin](https://github.com/haohuaijin)
 
 #### 🔨 Check out my recent pull requests
 
