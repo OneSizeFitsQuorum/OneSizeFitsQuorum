@@ -12,27 +12,27 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 months ago)
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (5 months ago)
 
 #### 🌱 Check out my recent projects
 
+- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) - 
 - [OneSizeFitsQuorum/PracticalNetworkedApplications](https://github.com/OneSizeFitsQuorum/PracticalNetworkedApplications) - A practice program to learn Rust in TalentPlan
 - [OneSizeFitsQuorum/MIT6.824-2021](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) - 4 labs &#43; 2 challenges &#43; 4 docs
 - [OneSizeFitsQuorum/Async-Kafka-Producer](https://github.com/OneSizeFitsQuorum/Async-Kafka-Producer) - A high performance async and safe kafka producer
 - [OneSizeFitsQuorum/FilesConnector](https://github.com/OneSizeFitsQuorum/FilesConnector) - Using Github as a network disk
-- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解
 
 #### ⭐ Check out my recent stars
 
+- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (today)
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (2 weeks ago)
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (2 weeks ago)
 - [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (2 weeks ago)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. (3 weeks ago)
-- [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
