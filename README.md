@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [damotiansheng](https://github.com/damotiansheng)
 - [lichenglin020](https://github.com/lichenglin020)
 - [zeliyan](https://github.com/zeliyan)
 - [KEVINtoto](https://github.com/KEVINtoto)
 - [bourne-3](https://github.com/bourne-3)
-- [smx-Morgan](https://github.com/smx-Morgan)
 
 #### 🔨 Check out my recent pull requests
 
