@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (today)
 - [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (today)
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (today)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (3 days ago)
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (2 weeks ago)
-- [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [lyatto](https://github.com/lyatto)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
 - [mxd-321](https://github.com/mxd-321)
 - [mmertpolat](https://github.com/mmertpolat)
 - [Jacen-cpu](https://github.com/Jacen-cpu)
-- [damotiansheng](https://github.com/damotiansheng)
 
 #### 🔨 Check out my recent pull requests
 
