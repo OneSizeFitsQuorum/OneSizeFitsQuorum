@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (today)
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (today)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (3 days ago)
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (2 weeks ago)
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (3 weeks ago)
-- [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (3 weeks ago)
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [topdeveloper-dev](https://github.com/topdeveloper-dev)
+- [mxd-321](https://github.com/mxd-321)
+- [mmertpolat](https://github.com/mmertpolat)
+- [Jacen-cpu](https://github.com/Jacen-cpu)
 - [damotiansheng](https://github.com/damotiansheng)
-- [lichenglin020](https://github.com/lichenglin020)
-- [zeliyan](https://github.com/zeliyan)
-- [KEVINtoto](https://github.com/KEVINtoto)
-- [bourne-3](https://github.com/bourne-3)
 
 #### 🔨 Check out my recent pull requests
 
