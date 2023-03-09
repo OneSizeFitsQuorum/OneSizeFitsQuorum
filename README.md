@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (2 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (2 days ago)
+- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (3 days ago)
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (2 weeks ago)
-- [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (2 weeks ago)
+- [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。 (3 weeks ago)
 - [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (3 weeks ago)
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. (3 weeks ago)
 
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.1][IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9216) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[To rel/1.1][IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9215) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9204) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To rel/1.1][IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9216) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[To rel/1.1][IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9215) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9204) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5601] [Refactor] Remove AsyncConfigNodeHeartbeatServiceClient and AsyncDataNodeHeartbeatServiceClient as there core logic are duplicated](https://github.com/apache/iotdb/pull/9180) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9168) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
