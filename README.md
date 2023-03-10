@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [huangbqsky](https://github.com/huangbqsky)
 - [lyatto](https://github.com/lyatto)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
 - [mxd-321](https://github.com/mxd-321)
 - [mmertpolat](https://github.com/mmertpolat)
-- [Jacen-cpu](https://github.com/Jacen-cpu)
 
 #### 🔨 Check out my recent pull requests
 
