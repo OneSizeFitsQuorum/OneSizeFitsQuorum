@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 days ago)
+- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (6 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (2 days ago)
-- [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (2 days ago)
-- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (2 days ago)
-- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (5 days ago)
+- [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (3 days ago)
+- [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (3 days ago)
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (3 days ago)
+- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (6 days ago)
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [kosmos0-0](https://github.com/kosmos0-0)
 - [2985496686](https://github.com/2985496686)
 - [huangbqsky](https://github.com/huangbqsky)
 - [lyatto](https://github.com/lyatto)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
-- [mxd-321](https://github.com/mxd-321)
 
 #### 🔨 Check out my recent pull requests
 
