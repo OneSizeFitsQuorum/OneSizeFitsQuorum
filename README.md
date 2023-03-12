@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (today)
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (3 days ago)
 - [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (3 days ago)
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (3 days ago)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (6 days ago)
-- [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [pjimming](https://github.com/pjimming)
 - [kosmos0-0](https://github.com/kosmos0-0)
 - [2985496686](https://github.com/2985496686)
 - [huangbqsky](https://github.com/huangbqsky)
 - [lyatto](https://github.com/lyatto)
-- [topdeveloper-dev](https://github.com/topdeveloper-dev)
 
 #### 🔨 Check out my recent pull requests
 
