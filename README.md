@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (6 days ago)
+- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (today)
-- [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (3 days ago)
-- [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (3 days ago)
-- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (3 days ago)
-- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (6 days ago)
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (1 day ago)
+- [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (4 days ago)
+- [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (4 days ago)
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (4 days ago)
+- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (1 week ago)
 
 #### 👯 Check out my recent followers
 
