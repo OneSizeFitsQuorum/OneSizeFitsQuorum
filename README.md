@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (1 day ago)
-- [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (4 days ago)
-- [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (4 days ago)
-- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (4 days ago)
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (2 days ago)
+- [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (5 days ago)
+- [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (5 days ago)
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (5 days ago)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -48,7 +48,7 @@
 - [[To rel/1.1][IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9215) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9204) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5601] [Refactor] Remove AsyncConfigNodeHeartbeatServiceClient and AsyncDataNodeHeartbeatServiceClient as there core logic are duplicated](https://github.com/apache/iotdb/pull/9180) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9168) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9168) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
