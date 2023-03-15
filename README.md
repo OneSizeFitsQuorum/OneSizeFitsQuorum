@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 week ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (4 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.1][IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9335) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9329) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.1][IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9216) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.1][IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9215) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9204) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5601] [Refactor] Remove AsyncConfigNodeHeartbeatServiceClient and AsyncDataNodeHeartbeatServiceClient as there core logic are duplicated](https://github.com/apache/iotdb/pull/9180) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
