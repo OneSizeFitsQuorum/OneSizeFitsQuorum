@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [KaimingWan](https://github.com/KaimingWan)
 - [liuzhanpeng](https://github.com/liuzhanpeng)
 - [hunterchenh](https://github.com/hunterchenh)
 - [Miracle-1996](https://github.com/Miracle-1996)
 - [pjimming](https://github.com/pjimming)
-- [kosmos0-0](https://github.com/kosmos0-0)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.1][IOTDB-5695] Ensures backward compatibility between 1.0 and 1.1 for C…](https://github.com/apache/iotdb/pull/9367) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-5697] Only record engine cost for DataRegion in Performance Overview Dashboard](https://github.com/apache/iotdb/pull/9366) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-5695] Ensures backward compatibility between 1.0 and 1.1 for ConfigNode when using SimpleConsensus](https://github.com/apache/iotdb/pull/9360) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9335) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9329) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[To rel/1.1][IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9216) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.1][IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9215) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9204) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
