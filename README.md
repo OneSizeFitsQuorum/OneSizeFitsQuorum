@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (4 days ago)
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (5 days ago)
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (1 week ago)
 - [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (1 week ago)
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (1 week ago)
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.1][IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9335) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9329) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.1][IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9335) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9329) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To rel/1.1][IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9216) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.1][IOTDB-5596] Rename ConfigNodeRegion to ConfigRegion](https://github.com/apache/iotdb/pull/9215) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5613] Remove unnecessary serialization in IoTConsensus when replicaNum is 1 to improve write performance](https://github.com/apache/iotdb/pull/9204) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
