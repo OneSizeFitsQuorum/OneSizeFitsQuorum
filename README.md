@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [lexburner/kdio](https://github.com/lexburner/kdio) - A Java Direct IO framework which is very simple to use. (today)
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (5 days ago)
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (1 week ago)
 - [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (1 week ago)
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (1 week ago)
-- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (1 week ago)
 
 #### 👯 Check out my recent followers
 
