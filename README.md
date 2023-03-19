@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [TimechoLab/iotdb-deploy](https://github.com/TimechoLab/iotdb-deploy) - A super easy-to-use cluster deployer for Apache IoTDB. 一款超级易用的 Apache IoTDB 集群部署工具. 🚀 (today)
 - [lexburner/kdio](https://github.com/lexburner/kdio) - A Java Direct IO framework which is very simple to use. (2 days ago)
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (1 week ago)
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (1 week ago)
 - [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (1 week ago)
-- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.1][IOTDB-5697] Only record engine cost for DataRegion in Performance Overview Dashboard](https://github.com/apache/iotdb/pull/9377) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-5695] Ensures backward compatibility between 1.0 and 1.1 for C…](https://github.com/apache/iotdb/pull/9367) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-5697] Only record engine cost for DataRegion in Performance Overview Dashboard](https://github.com/apache/iotdb/pull/9366) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-5695] Ensures backward compatibility between 1.0 and 1.1 for ConfigNode when using SimpleConsensus](https://github.com/apache/iotdb/pull/9360) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[To rel/1.1][IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9335) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9329) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
