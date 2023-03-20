@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [qyzzy](https://github.com/qyzzy)
 - [Violet-E](https://github.com/Violet-E)
 - [KaimingWan](https://github.com/KaimingWan)
 - [liuzhanpeng](https://github.com/liuzhanpeng)
 - [hunterchenh](https://github.com/hunterchenh)
-- [Miracle-1996](https://github.com/Miracle-1996)
 
 #### 🔨 Check out my recent pull requests
 
