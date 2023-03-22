@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [dromara/gobrs-async](https://github.com/dromara/gobrs-async) - Gobrs-Async (异步任务 编排框架) 是一款功能强大、配置灵活、带有全链路异常回调、内存优化、异常状态管理于一身的高性能异步编排框架。为企业提供在复杂应用场景下动态任务编排的能力。 针对于复杂场景下，异步线程复杂性、任务依赖性、异常状态难控制性； Gobrs-Async 为此而生。 (today)
 - [TimechoLab/iotdb-deploy](https://github.com/TimechoLab/iotdb-deploy) - A super easy-to-use cluster deployer for Apache IoTDB. 一款超级易用的 Apache IoTDB 集群部署工具. 🚀 (3 days ago)
 - [lexburner/kdio](https://github.com/lexburner/kdio) - A Java Direct IO framework which is very simple to use. (5 days ago)
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (1 week ago)
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. (1 week ago)
-- [benchANT/database-ranking](https://github.com/benchANT/database-ranking) - Cloud-hosted Database Performance Data (1 week ago)
 
 #### 👯 Check out my recent followers
 
