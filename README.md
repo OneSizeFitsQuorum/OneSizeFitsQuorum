@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [abstract-liu](https://github.com/abstract-liu)
 - [regancz](https://github.com/regancz)
 - [hs227](https://github.com/hs227)
 - [qyzzy](https://github.com/qyzzy)
 - [Violet-E](https://github.com/Violet-E)
-- [KaimingWan](https://github.com/KaimingWan)
 
 #### 🔨 Check out my recent pull requests
 
