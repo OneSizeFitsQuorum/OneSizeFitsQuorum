@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [regancz](https://github.com/regancz)
 - [hs227](https://github.com/hs227)
 - [qyzzy](https://github.com/qyzzy)
 - [Violet-E](https://github.com/Violet-E)
 - [KaimingWan](https://github.com/KaimingWan)
-- [liuzhanpeng](https://github.com/liuzhanpeng)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.1][IOTDB-5725] Make internal report recording measurements asynchronous ](https://github.com/apache/iotdb/pull/9440) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-5725] Make internal report recording measurements asynchronous](https://github.com/apache/iotdb/pull/9439) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-5697] Only record engine cost for DataRegion in Performance Overview Dashboard](https://github.com/apache/iotdb/pull/9377) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[To rel/1.1][IOTDB-5695] Ensures backward compatibility between 1.0 and 1.1 for C…](https://github.com/apache/iotdb/pull/9367) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5697] Only record engine cost for DataRegion in Performance Overview Dashboard](https://github.com/apache/iotdb/pull/9366) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5695] Ensures backward compatibility between 1.0 and 1.1 for ConfigNode when using SimpleConsensus](https://github.com/apache/iotdb/pull/9360) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.1][IOTDB-5674] Remove useless log in MicrometerAutoGauge](https://github.com/apache/iotdb/pull/9335) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
