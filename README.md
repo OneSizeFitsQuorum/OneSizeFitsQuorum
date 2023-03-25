@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zyf123123](https://github.com/zyf123123)
+- [lv123123long](https://github.com/lv123123long)
 - [abstract-liu](https://github.com/abstract-liu)
 - [regancz](https://github.com/regancz)
 - [hs227](https://github.com/hs227)
-- [qyzzy](https://github.com/qyzzy)
-- [Violet-E](https://github.com/Violet-E)
 
 #### 🔨 Check out my recent pull requests
 
