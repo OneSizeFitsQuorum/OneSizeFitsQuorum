@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-5731] Reconstructs the cli to support printing the enterprise logo when connecting to the Enterprise Edition](https://github.com/apache/iotdb/pull/9462) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-5725] Make internal report recording measurements asynchronous ](https://github.com/apache/iotdb/pull/9440) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-5725] Make internal report recording measurements asynchronous](https://github.com/apache/iotdb/pull/9439) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To rel/1.1][IOTDB-5697] Only record engine cost for DataRegion in Performance Overview Dashboard](https://github.com/apache/iotdb/pull/9377) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.1][IOTDB-5695] Ensures backward compatibility between 1.0 and 1.1 for C…](https://github.com/apache/iotdb/pull/9367) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5697] Only record engine cost for DataRegion in Performance Overview Dashboard](https://github.com/apache/iotdb/pull/9366) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
