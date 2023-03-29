@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 &#43; DALL·E &#43; Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀 (today)
 - [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能 (1 day ago)
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python. (3 days ago)
 - [dromara/gobrs-async](https://github.com/dromara/gobrs-async) - Gobrs-Async (异步任务 编排框架) 是一款功能强大、配置灵活、带有全链路异常回调、内存优化、异常状态管理于一身的高性能异步编排框架。为企业提供在复杂应用场景下动态任务编排的能力。 针对于复杂场景下，异步线程复杂性、任务依赖性、异常状态难控制性； Gobrs-Async 为此而生。 (1 week ago)
 - [TimechoLab/iotdb-deploy](https://github.com/TimechoLab/iotdb-deploy) - A super easy-to-use cluster deployer for Apache IoTDB. 一款超级易用的 Apache IoTDB 集群部署工具. 🚀 (1 week ago)
-- [lexburner/kdio](https://github.com/lexburner/kdio) - A Java Direct IO framework which is very simple to use. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [senthil28](https://github.com/senthil28)
 - [Centurybbx](https://github.com/Centurybbx)
 - [YJMSTR](https://github.com/YJMSTR)
 - [zyf123123](https://github.com/zyf123123)
 - [lv123123long](https://github.com/lv123123long)
-- [abstract-liu](https://github.com/abstract-liu)
 
 #### 🔨 Check out my recent pull requests
 
