@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yoshino-polyu](https://github.com/yoshino-polyu)
 - [charfole](https://github.com/charfole)
 - [asapple](https://github.com/asapple)
 - [senthil28](https://github.com/senthil28)
 - [Centurybbx](https://github.com/Centurybbx)
-- [YJMSTR](https://github.com/YJMSTR)
 
 #### 🔨 Check out my recent pull requests
 
