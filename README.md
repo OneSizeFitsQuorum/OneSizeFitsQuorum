@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [archagon/crdt-playground](https://github.com/archagon/crdt-playground) -  (today)
-- [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo (1 day ago)
-- [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 &#43; DALL·E &#43; Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀 (1 day ago)
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能 (2 days ago)
-- [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python. (4 days ago)
+- [archagon/crdt-playground](https://github.com/archagon/crdt-playground) -  (1 day ago)
+- [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo (2 days ago)
+- [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 &#43; DALL·E &#43; Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀 (2 days ago)
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能 (3 days ago)
+- [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python. (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.1] Remove Dashboard and update docs ](https://github.com/apache/iotdb/pull/9473) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[IOTDB-5731] Reconstructs the cli to support printing the enterprise logo when connecting to the Enterprise Edition](https://github.com/apache/iotdb/pull/9462) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[To rel/1.1][IOTDB-5725] Make internal report recording measurements asynchronous ](https://github.com/apache/iotdb/pull/9440) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[IOTDB-5725] Make internal report recording measurements asynchronous](https://github.com/apache/iotdb/pull/9439) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To rel/1.1] Remove Dashboard and update docs ](https://github.com/apache/iotdb/pull/9473) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-5731] Reconstructs the cli to support printing the enterprise logo when connecting to the Enterprise Edition](https://github.com/apache/iotdb/pull/9462) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[To rel/1.1][IOTDB-5725] Make internal report recording measurements asynchronous ](https://github.com/apache/iotdb/pull/9440) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-5725] Make internal report recording measurements asynchronous](https://github.com/apache/iotdb/pull/9439) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.1][IOTDB-5697] Only record engine cost for DataRegion in Performance Overview Dashboard](https://github.com/apache/iotdb/pull/9377) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
