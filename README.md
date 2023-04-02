@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ivandika3](https://github.com/ivandika3)
 - [extravert](https://github.com/extravert)
 - [yoshino-polyu](https://github.com/yoshino-polyu)
 - [charfole](https://github.com/charfole)
 - [asapple](https://github.com/asapple)
-- [senthil28](https://github.com/senthil28)
 
 #### 🔨 Check out my recent pull requests
 
