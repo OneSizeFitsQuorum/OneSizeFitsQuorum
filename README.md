@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) -  One-Click to deploy your own ChatGPT web UI. 一键拥有你自己的 ChatGPT 网页服务。 (today)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 days ago)
 - [JDRaftKeeper/RaftKeeper](https://github.com/JDRaftKeeper/RaftKeeper) - RaftKeeper is a high-performance distributed consensus service. (2 days ago)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible (5 days ago)
 - [archagon/crdt-playground](https://github.com/archagon/crdt-playground) -  (6 days ago)
-- [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo (1 week ago)
 
 #### 👯 Check out my recent followers
 
