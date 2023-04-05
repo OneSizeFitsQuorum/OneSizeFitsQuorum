@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
-- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 weeks ago)
+- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (5 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 day ago)
-- [JDRaftKeeper/RaftKeeper](https://github.com/JDRaftKeeper/RaftKeeper) - RaftKeeper is a high-performance distributed consensus service. (1 day ago)
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible (4 days ago)
-- [archagon/crdt-playground](https://github.com/archagon/crdt-playground) -  (5 days ago)
-- [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo (6 days ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 days ago)
+- [JDRaftKeeper/RaftKeeper](https://github.com/JDRaftKeeper/RaftKeeper) - RaftKeeper is a high-performance distributed consensus service. (2 days ago)
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible (5 days ago)
+- [archagon/crdt-playground](https://github.com/archagon/crdt-playground) -  (6 days ago)
+- [davinci1012/pinduoduo_backdoor_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo (1 week ago)
 
 #### 👯 Check out my recent followers
 
