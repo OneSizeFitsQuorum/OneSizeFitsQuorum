@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (1 day ago)
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (4 days ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (6 days ago)
-- [JDRaftKeeper/RaftKeeper](https://github.com/JDRaftKeeper/RaftKeeper) - RaftKeeper is a high-performance distributed consensus service. (6 days ago)
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (2 days ago)
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (5 days ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
+- [JDRaftKeeper/RaftKeeper](https://github.com/JDRaftKeeper/RaftKeeper) - RaftKeeper is a high-performance distributed consensus service. (1 week ago)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.1] Fix Performance Overview Dashboard localScheduler record inaccurately ](https://github.com/apache/iotdb/pull/9550) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [Fix Performance Overview Dashboard localScheduler record inaccurately](https://github.com/apache/iotdb/pull/9549) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To rel/1.1] Fix Performance Overview Dashboard localScheduler record inaccurately ](https://github.com/apache/iotdb/pull/9550) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [Fix Performance Overview Dashboard localScheduler record inaccurately](https://github.com/apache/iotdb/pull/9549) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[To rel/1.1] Remove Dashboard and update docs ](https://github.com/apache/iotdb/pull/9473) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5731] Reconstructs the cli to support printing the enterprise logo when connecting to the Enterprise Edition](https://github.com/apache/iotdb/pull/9462) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-5731] Reconstructs the cli to support printing the enterprise logo when connecting to the Enterprise Edition](https://github.com/apache/iotdb/pull/9462) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[To rel/1.1][IOTDB-5725] Make internal report recording measurements asynchronous ](https://github.com/apache/iotdb/pull/9440) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
