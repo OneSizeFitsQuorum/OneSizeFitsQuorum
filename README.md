@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Super-ZZGuo](https://github.com/Super-ZZGuo)
 - [mh-msx](https://github.com/mh-msx)
 - [Soce1lo](https://github.com/Soce1lo)
 - [ivandika3](https://github.com/ivandika3)
 - [extravert](https://github.com/extravert)
-- [yoshino-polyu](https://github.com/yoshino-polyu)
 
 #### 🔨 Check out my recent pull requests
 
