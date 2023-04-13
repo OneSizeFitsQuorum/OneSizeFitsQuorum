@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
@@ -28,24 +28,24 @@
 
 #### ⭐ Check out my recent stars
 
-- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (2 days ago)
-- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (4 days ago)
+- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (3 days ago)
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (5 days ago)
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (1 week ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
 - [JDRaftKeeper/RaftKeeper](https://github.com/JDRaftKeeper/RaftKeeper) - RaftKeeper is a high-performance distributed consensus service. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [qijia-li](https://github.com/qijia-li)
 - [zhsurpass](https://github.com/zhsurpass)
 - [Super-ZZGuo](https://github.com/Super-ZZGuo)
 - [mh-msx](https://github.com/mh-msx)
 - [Soce1lo](https://github.com/Soce1lo)
-- [ivandika3](https://github.com/ivandika3)
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.1] Fix Performance Overview Dashboard localScheduler record inaccurately ](https://github.com/apache/iotdb/pull/9550) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [Fix Performance Overview Dashboard localScheduler record inaccurately](https://github.com/apache/iotdb/pull/9549) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To rel/1.1] Fix Performance Overview Dashboard localScheduler record inaccurately ](https://github.com/apache/iotdb/pull/9550) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [Fix Performance Overview Dashboard localScheduler record inaccurately](https://github.com/apache/iotdb/pull/9549) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.1] Remove Dashboard and update docs ](https://github.com/apache/iotdb/pull/9473) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-5731] Reconstructs the cli to support printing the enterprise logo when connecting to the Enterprise Edition](https://github.com/apache/iotdb/pull/9462) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[To rel/1.1][IOTDB-5725] Make internal report recording measurements asynchronous ](https://github.com/apache/iotdb/pull/9440) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
