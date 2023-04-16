@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [hhcs9527](https://github.com/hhcs9527)
 - [qijia-li](https://github.com/qijia-li)
 - [zhsurpass](https://github.com/zhsurpass)
 - [Super-ZZGuo](https://github.com/Super-ZZGuo)
 - [mh-msx](https://github.com/mh-msx)
-- [Soce1lo](https://github.com/Soce1lo)
 
 #### 🔨 Check out my recent pull requests
 
