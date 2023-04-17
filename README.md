@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (today)
 - [jblas-project/jblas](https://github.com/jblas-project/jblas) - Linear Algebra for Java (today)
 - [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace &#43; perf_events (today)
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (1 week ago)
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (1 week ago)
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [fhkong](https://github.com/fhkong)
 - [1797818494](https://github.com/1797818494)
 - [hhcs9527](https://github.com/hhcs9527)
 - [qijia-li](https://github.com/qijia-li)
 - [zhsurpass](https://github.com/zhsurpass)
-- [Super-ZZGuo](https://github.com/Super-ZZGuo)
 
 #### 🔨 Check out my recent pull requests
 
