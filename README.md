@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [jblas-project/jblas](https://github.com/jblas-project/jblas) - Linear Algebra for Java (today)
+- [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace &#43; perf_events (today)
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (1 week ago)
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (1 week ago)
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (1 week ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 weeks ago)
-- [JDRaftKeeper/RaftKeeper](https://github.com/JDRaftKeeper/RaftKeeper) - RaftKeeper is a high-performance distributed consensus service. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
