@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (today)
-- [jblas-project/jblas](https://github.com/jblas-project/jblas) - Linear Algebra for Java (today)
-- [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace &#43; perf_events (today)
+- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (1 day ago)
+- [jblas-project/jblas](https://github.com/jblas-project/jblas) - Linear Algebra for Java (1 day ago)
+- [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace &#43; perf_events (1 day ago)
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (1 week ago)
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (1 week ago)
 
@@ -46,7 +46,7 @@
 
 - [[To rel/1.1] Fix Performance Overview Dashboard localScheduler record inaccurately ](https://github.com/apache/iotdb/pull/9550) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fix Performance Overview Dashboard localScheduler record inaccurately](https://github.com/apache/iotdb/pull/9549) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.1] Remove Dashboard and update docs ](https://github.com/apache/iotdb/pull/9473) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [[To rel/1.1] Remove Dashboard and update docs ](https://github.com/apache/iotdb/pull/9473) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-5731] Reconstructs the cli to support printing the enterprise logo when connecting to the Enterprise Edition](https://github.com/apache/iotdb/pull/9462) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[To rel/1.1][IOTDB-5725] Make internal report recording measurements asynchronous ](https://github.com/apache/iotdb/pull/9440) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
