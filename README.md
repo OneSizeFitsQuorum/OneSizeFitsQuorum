@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (today)
+- [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library (today)
 - [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (1 day ago)
 - [jblas-project/jblas](https://github.com/jblas-project/jblas) - Linear Algebra for Java (1 day ago)
 - [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace &#43; perf_events (1 day ago)
-- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (1 week ago)
-- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (1 week ago)
 
 #### 👯 Check out my recent followers
 
