@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (today)
-- [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library (today)
-- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (1 day ago)
-- [jblas-project/jblas](https://github.com/jblas-project/jblas) - Linear Algebra for Java (1 day ago)
-- [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace &#43; perf_events (1 day ago)
+- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (1 day ago)
+- [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library (1 day ago)
+- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (2 days ago)
+- [jblas-project/jblas](https://github.com/jblas-project/jblas) - Linear Algebra for Java (2 days ago)
+- [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace &#43; perf_events (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -52,7 +52,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (2 months ago)
+- [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (3 months ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (4 months ago)
 - [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (4 months ago)
 - [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (5 months ago)
