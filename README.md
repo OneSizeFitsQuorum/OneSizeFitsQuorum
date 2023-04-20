@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (today)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (1 day ago)
 - [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (2 days ago)
 - [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library (2 days ago)
 - [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (3 days ago)
-- [jblas-project/jblas](https://github.com/jblas-project/jblas) - Linear Algebra for Java (3 days ago)
 
 #### 👯 Check out my recent followers
 
