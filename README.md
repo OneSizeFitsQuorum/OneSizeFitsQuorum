@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [superboy-zjc](https://github.com/superboy-zjc)
+- [Penrose819](https://github.com/Penrose819)
 - [PeiLeiScott](https://github.com/PeiLeiScott)
 - [tong1heng](https://github.com/tong1heng)
 - [fhkong](https://github.com/fhkong)
-- [1797818494](https://github.com/1797818494)
-- [hhcs9527](https://github.com/hhcs9527)
 
 #### 🔨 Check out my recent pull requests
 
