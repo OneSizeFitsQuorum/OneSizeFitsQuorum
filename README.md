@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (today)
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (1 day ago)
-- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (2 days ago)
-- [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library (2 days ago)
-- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (3 days ago)
+- [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (1 day ago)
+- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (2 days ago)
+- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (3 days ago)
+- [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library (3 days ago)
+- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -48,7 +48,7 @@
 - [Fix Performance Overview Dashboard localScheduler record inaccurately](https://github.com/apache/iotdb/pull/9549) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[To rel/1.1] Remove Dashboard and update docs ](https://github.com/apache/iotdb/pull/9473) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-5731] Reconstructs the cli to support printing the enterprise logo when connecting to the Enterprise Edition](https://github.com/apache/iotdb/pull/9462) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[To rel/1.1][IOTDB-5725] Make internal report recording measurements asynchronous ](https://github.com/apache/iotdb/pull/9440) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [[To rel/1.1][IOTDB-5725] Make internal report recording measurements asynchronous ](https://github.com/apache/iotdb/pull/9440) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
