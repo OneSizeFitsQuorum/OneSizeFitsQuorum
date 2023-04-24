@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [lafaerxu](https://github.com/lafaerxu)
 - [Penge666](https://github.com/Penge666)
 - [UCanSeeeeee](https://github.com/UCanSeeeeee)
 - [sanjinge123](https://github.com/sanjinge123)
 - [Eliauk998](https://github.com/Eliauk998)
-- [superboy-zjc](https://github.com/superboy-zjc)
 
 #### 🔨 Check out my recent pull requests
 
