@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [v1nh1shungry](https://github.com/v1nh1shungry)
 - [lafaerxu](https://github.com/lafaerxu)
 - [Penge666](https://github.com/Penge666)
 - [UCanSeeeeee](https://github.com/UCanSeeeeee)
 - [sanjinge123](https://github.com/sanjinge123)
-- [Eliauk998](https://github.com/Eliauk998)
 
 #### 🔨 Check out my recent pull requests
 
