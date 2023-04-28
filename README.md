@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [add parameter dn_consensus_dir doc](https://github.com/apache/iotdb/pull/9729) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [add parameter dn_consensus_dir doc](https://github.com/apache/iotdb/pull/9729) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.1] Fix Performance Overview Dashboard localScheduler record inaccurately ](https://github.com/apache/iotdb/pull/9550) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Fix Performance Overview Dashboard localScheduler record inaccurately](https://github.com/apache/iotdb/pull/9549) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[To rel/1.1] Remove Dashboard and update docs ](https://github.com/apache/iotdb/pull/9473) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
