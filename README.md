@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (today)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (1 week ago)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (1 week ago)
 - [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (1 week ago)
 - [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library (1 week ago)
-- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (1 week ago)
 
 #### 👯 Check out my recent followers
 
