@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (today)
+- [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (1 day ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (1 week ago)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (1 week ago)
 - [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (1 week ago)
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-5835] Fix wal accumulation caused by datanode restart ](https://github.com/apache/iotdb/pull/9740) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[To rel/1.1][IOTDB-5835] Fix wal accumulation caused by datanode restart](https://github.com/apache/iotdb/pull/9739) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [add parameter dn_consensus_dir doc](https://github.com/apache/iotdb/pull/9729) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-5835] Fix wal accumulation caused by datanode restart ](https://github.com/apache/iotdb/pull/9740) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To rel/1.1][IOTDB-5835] Fix wal accumulation caused by datanode restart](https://github.com/apache/iotdb/pull/9739) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [add parameter dn_consensus_dir doc](https://github.com/apache/iotdb/pull/9729) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[To rel/1.1] Fix Performance Overview Dashboard localScheduler record inaccurately ](https://github.com/apache/iotdb/pull/9550) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Fix Performance Overview Dashboard localScheduler record inaccurately](https://github.com/apache/iotdb/pull/9549) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
