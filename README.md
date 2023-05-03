@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [LaiosOvO](https://github.com/LaiosOvO)
 - [v1nh1shungry](https://github.com/v1nh1shungry)
 - [lafaerxu](https://github.com/lafaerxu)
 - [Penge666](https://github.com/Penge666)
 - [UCanSeeeeee](https://github.com/UCanSeeeeee)
-- [sanjinge123](https://github.com/sanjinge123)
 
 #### 🔨 Check out my recent pull requests
 
