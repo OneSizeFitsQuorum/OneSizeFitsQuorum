@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [nixianjun6](https://github.com/nixianjun6)
 - [LaiosOvO](https://github.com/LaiosOvO)
 - [v1nh1shungry](https://github.com/v1nh1shungry)
 - [lafaerxu](https://github.com/lafaerxu)
 - [Penge666](https://github.com/Penge666)
-- [UCanSeeeeee](https://github.com/UCanSeeeeee)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.1][IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions ](https://github.com/apache/iotdb/pull/9769) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions](https://github.com/apache/iotdb/pull/9768) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-5835] Fix wal accumulation caused by datanode restart ](https://github.com/apache/iotdb/pull/9740) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.1][IOTDB-5835] Fix wal accumulation caused by datanode restart](https://github.com/apache/iotdb/pull/9739) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [add parameter dn_consensus_dir doc](https://github.com/apache/iotdb/pull/9729) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.1] Fix Performance Overview Dashboard localScheduler record inaccurately ](https://github.com/apache/iotdb/pull/9550) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
-- [Fix Performance Overview Dashboard localScheduler record inaccurately](https://github.com/apache/iotdb/pull/9549) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
