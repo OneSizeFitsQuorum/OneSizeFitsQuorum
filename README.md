@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.1][IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios ](https://github.com/apache/iotdb/pull/9772) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios](https://github.com/apache/iotdb/pull/9771) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions ](https://github.com/apache/iotdb/pull/9769) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions](https://github.com/apache/iotdb/pull/9768) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-5835] Fix wal accumulation caused by datanode restart ](https://github.com/apache/iotdb/pull/9740) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.1][IOTDB-5835] Fix wal accumulation caused by datanode restart](https://github.com/apache/iotdb/pull/9739) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [add parameter dn_consensus_dir doc](https://github.com/apache/iotdb/pull/9729) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
