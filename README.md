@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Sigma711](https://github.com/Sigma711)
 - [forgivehat](https://github.com/forgivehat)
 - [nixianjun6](https://github.com/nixianjun6)
 - [LaiosOvO](https://github.com/LaiosOvO)
 - [v1nh1shungry](https://github.com/v1nh1shungry)
-- [lafaerxu](https://github.com/lafaerxu)
 
 #### 🔨 Check out my recent pull requests
 
