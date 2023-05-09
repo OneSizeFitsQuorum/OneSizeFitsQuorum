@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
@@ -31,8 +31,8 @@
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (1 week ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (2 weeks ago)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (2 weeks ago)
-- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (2 weeks ago)
-- [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library (2 weeks ago)
+- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (3 weeks ago)
+- [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.1][IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios ](https://github.com/apache/iotdb/pull/9772) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios](https://github.com/apache/iotdb/pull/9771) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[To rel/1.1][IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions ](https://github.com/apache/iotdb/pull/9769) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions](https://github.com/apache/iotdb/pull/9768) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To rel/1.1][IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios ](https://github.com/apache/iotdb/pull/9772) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios](https://github.com/apache/iotdb/pull/9771) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To rel/1.1][IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions ](https://github.com/apache/iotdb/pull/9769) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions](https://github.com/apache/iotdb/pull/9768) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[IOTDB-5835] Fix wal accumulation caused by datanode restart ](https://github.com/apache/iotdb/pull/9740) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
