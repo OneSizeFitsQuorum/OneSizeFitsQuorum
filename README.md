@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-1838 Compare commit index with last included index when installSnapshot](https://github.com/apache/ratis/pull/879) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [[To rel/1.1][IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios ](https://github.com/apache/iotdb/pull/9772) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios](https://github.com/apache/iotdb/pull/9771) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[To rel/1.1][IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions ](https://github.com/apache/iotdb/pull/9769) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions](https://github.com/apache/iotdb/pull/9768) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-5835] Fix wal accumulation caused by datanode restart ](https://github.com/apache/iotdb/pull/9740) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
