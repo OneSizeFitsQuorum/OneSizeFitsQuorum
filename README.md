@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [lbylbylby](https://github.com/lbylbylby)
+- [Rancho-7](https://github.com/Rancho-7)
 - [jaychentank](https://github.com/jaychentank)
 - [Sigma711](https://github.com/Sigma711)
 - [forgivehat](https://github.com/forgivehat)
-- [nixianjun6](https://github.com/nixianjun6)
-- [LaiosOvO](https://github.com/LaiosOvO)
 
 #### 🔨 Check out my recent pull requests
 
