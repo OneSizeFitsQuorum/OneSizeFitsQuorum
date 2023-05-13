@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (2 months ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
 - [FWH-TiKV/RFC](https://github.com/FWH-TiKV/RFC) - RFC for 2022 TiDB Hackathon (6 months ago)
 
@@ -36,15 +36,15 @@
 
 #### 👯 Check out my recent followers
 
+- [sincof](https://github.com/sincof)
 - [lbylbylby](https://github.com/lbylbylby)
 - [Rancho-7](https://github.com/Rancho-7)
 - [jaychentank](https://github.com/jaychentank)
 - [Sigma711](https://github.com/Sigma711)
-- [forgivehat](https://github.com/forgivehat)
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1841 Fixed bug where cluster restart failed to transfer snapshot](https://github.com/apache/ratis/pull/879) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [RATIS-1841. Fixed bug where cluster restart failed to transfer snapshot.](https://github.com/apache/ratis/pull/879) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [[To rel/1.1][IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios ](https://github.com/apache/iotdb/pull/9772) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios](https://github.com/apache/iotdb/pull/9771) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.1][IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions ](https://github.com/apache/iotdb/pull/9769) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
