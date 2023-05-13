@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1838 Compare commit index with last included index when installSnapshot](https://github.com/apache/ratis/pull/879) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [RATIS-1841 Fixed bug where cluster restart failed to transfer snapshot](https://github.com/apache/ratis/pull/879) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [[To rel/1.1][IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios ](https://github.com/apache/iotdb/pull/9772) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-5841] Modify IoTConsensus default parameters to improve performance in more scenarios](https://github.com/apache/iotdb/pull/9771) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.1][IOTDB-5840] Enhance the problem that the insertRecords interface may cause the number of threads to balloon when there are too many data regions ](https://github.com/apache/iotdb/pull/9769) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
