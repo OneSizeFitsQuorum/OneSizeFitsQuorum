@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [comewei](https://github.com/comewei)
 - [Walnutes](https://github.com/Walnutes)
 - [sincof](https://github.com/sincof)
 - [lbylbylby](https://github.com/lbylbylby)
 - [Rancho-7](https://github.com/Rancho-7)
-- [jaychentank](https://github.com/jaychentank)
 
 #### 🔨 Check out my recent pull requests
 
