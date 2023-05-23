@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [GE-fighting](https://github.com/GE-fighting)
 - [choubenson](https://github.com/choubenson)
 - [ShiYue-oo](https://github.com/ShiYue-oo)
 - [ywgrit](https://github.com/ywgrit)
 - [tobecodecook](https://github.com/tobecodecook)
-- [HiSunzhenliang](https://github.com/HiSunzhenliang)
 
 #### 🔨 Check out my recent pull requests
 
