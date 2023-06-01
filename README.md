@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zhouplaycode](https://github.com/zhouplaycode)
 - [hellokuls](https://github.com/hellokuls)
 - [leoschopen](https://github.com/leoschopen)
 - [dawnaliens](https://github.com/dawnaliens)
 - [GE-fighting](https://github.com/GE-fighting)
-- [choubenson](https://github.com/choubenson)
 
 #### 🔨 Check out my recent pull requests
 
