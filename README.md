@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Grey0520](https://github.com/Grey0520)
 - [zhouplaycode](https://github.com/zhouplaycode)
 - [hellokuls](https://github.com/hellokuls)
 - [leoschopen](https://github.com/leoschopen)
 - [dawnaliens](https://github.com/dawnaliens)
-- [GE-fighting](https://github.com/GE-fighting)
 
 #### 🔨 Check out my recent pull requests
 
