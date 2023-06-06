@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ZWboy97](https://github.com/ZWboy97)
 - [Acow337](https://github.com/Acow337)
 - [SongShaopu1998](https://github.com/SongShaopu1998)
 - [Grey0520](https://github.com/Grey0520)
 - [zhouplaycode](https://github.com/zhouplaycode)
-- [hellokuls](https://github.com/hellokuls)
 
 #### 🔨 Check out my recent pull requests
 
