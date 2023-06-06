@@ -54,6 +54,6 @@
 
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (4 months ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (5 months ago)
-- [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (5 months ago)
+- [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (6 months ago)
 - [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (7 months ago)
 - [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (8 months ago)
