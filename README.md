@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (3 weeks ago)
+- [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (4 weeks ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (1 month ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (1 month ago)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (1 month ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [herrhu97](https://github.com/herrhu97)
 - [ZWboy97](https://github.com/ZWboy97)
 - [Acow337](https://github.com/Acow337)
 - [SongShaopu1998](https://github.com/SongShaopu1998)
 - [Grey0520](https://github.com/Grey0520)
-- [zhouplaycode](https://github.com/zhouplaycode)
 
 #### 🔨 Check out my recent pull requests
 
