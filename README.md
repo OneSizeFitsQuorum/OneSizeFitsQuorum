@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (3 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (4 weeks ago)
+- [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (1 month ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (1 month ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (1 month ago)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (1 month ago)
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.1][IOTDB-5819] Fix npe when booting net metrics](https://github.com/apache/iotdb/pull/10085) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.2] Update the iotconsensus write-blocking prompt to make error messages more friendly ](https://github.com/apache/iotdb/pull/10083) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Update the iotconsensus write-blocking prompt to make error messages more friendly](https://github.com/apache/iotdb/pull/10082) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fixed compilation issues caused by relying on a deleted snapshot version](https://github.com/thulab/iot-benchmark/pull/351) on [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) (1 day ago)
+- [[To rel/1.1][IOTDB-5819] Fix npe when booting net metrics](https://github.com/apache/iotdb/pull/10085) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.2] Update the iotconsensus write-blocking prompt to make error messages more friendly ](https://github.com/apache/iotdb/pull/10083) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Update the iotconsensus write-blocking prompt to make error messages more friendly](https://github.com/apache/iotdb/pull/10082) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fixed compilation issues caused by relying on a deleted snapshot version](https://github.com/thulab/iot-benchmark/pull/351) on [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) (2 days ago)
 - [[IOTDB-5723] Pipe progress index: fix NumberFormatException when using IoTConsensus in DataRegion](https://github.com/apache/iotdb/pull/9965) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
