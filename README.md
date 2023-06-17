@@ -32,7 +32,7 @@
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (1 month ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (1 month ago)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (1 month ago)
-- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (1 month ago)
+- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (2 months ago)
 
 #### 👯 Check out my recent followers
 
