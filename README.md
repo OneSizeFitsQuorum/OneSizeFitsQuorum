@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2][Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10195) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10194) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-5819] Fix npe when booting net metrics](https://github.com/apache/iotdb/pull/10085) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2] Update the iotconsensus write-blocking prompt to make error messages more friendly ](https://github.com/apache/iotdb/pull/10083) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Update the iotconsensus write-blocking prompt to make error messages more friendly](https://github.com/apache/iotdb/pull/10082) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Fixed compilation issues caused by relying on a deleted snapshot version](https://github.com/thulab/iot-benchmark/pull/351) on [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) (1 week ago)
-- [[IOTDB-5723] Pipe progress index: fix NumberFormatException when using IoTConsensus in DataRegion](https://github.com/apache/iotdb/pull/9965) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
