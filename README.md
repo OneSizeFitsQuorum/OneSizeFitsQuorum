@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (3 months ago)
@@ -30,7 +30,7 @@
 
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (1 month ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (1 month ago)
-- [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (1 month ago)
+- [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (2 months ago)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (2 months ago)
 - [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (2 months ago)
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.2][Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10195) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10194) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.2][IOTDB-5971] Fix potential QUOTE problem in iotdb reporter](https://github.com/apache/iotdb/pull/10205) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.2][Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10195) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10194) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[To rel/1.1][IOTDB-5819] Fix npe when booting net metrics](https://github.com/apache/iotdb/pull/10085) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2] Update the iotconsensus write-blocking prompt to make error messages more friendly ](https://github.com/apache/iotdb/pull/10083) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Update the iotconsensus write-blocking prompt to make error messages more friendly](https://github.com/apache/iotdb/pull/10082) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
