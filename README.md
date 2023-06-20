@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (3 months ago)
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.2][IOTDB-5971] Fix potential QUOTE problem in iotdb reporter](https://github.com/apache/iotdb/pull/10205) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.2][Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10195) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10194) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.2][IOTDB-5971] Fix potential QUOTE problem in iotdb reporter](https://github.com/apache/iotdb/pull/10205) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.2][Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10195) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10194) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To rel/1.1][IOTDB-5819] Fix npe when booting net metrics](https://github.com/apache/iotdb/pull/10085) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2] Update the iotconsensus write-blocking prompt to make error messages more friendly ](https://github.com/apache/iotdb/pull/10083) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
