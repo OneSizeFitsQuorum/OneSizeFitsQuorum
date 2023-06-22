@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (3 months ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 months ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.2] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10267) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.2] Degrade index controller log level cp](https://github.com/apache/iotdb/pull/10242) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Degrade IoTConsensus IndexControllel log level](https://github.com/apache/iotdb/pull/10241) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.2][IOTDB-5971] Fix potential QUOTE problem in iotdb reporter](https://github.com/apache/iotdb/pull/10205) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[To rel/1.2][Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10195) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[To rel/1.2][IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10267) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.2] Degrade index controller log level cp](https://github.com/apache/iotdb/pull/10242) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Degrade IoTConsensus IndexControllel log level](https://github.com/apache/iotdb/pull/10241) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.2][IOTDB-5971] Fix potential QUOTE problem in iotdb reporter](https://github.com/apache/iotdb/pull/10205) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[To rel/1.2][Metric] Fix missing IoTConsensus metric items](https://github.com/apache/iotdb/pull/10195) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
