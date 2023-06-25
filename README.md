@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [obsession369](https://github.com/obsession369)
 - [FANGDEI](https://github.com/FANGDEI)
 - [supermarvin101](https://github.com/supermarvin101)
 - [FlowRays](https://github.com/FlowRays)
 - [herrhu97](https://github.com/herrhu97)
-- [ZWboy97](https://github.com/ZWboy97)
 
 #### 🔨 Check out my recent pull requests
 
