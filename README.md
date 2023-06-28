@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [seksekmual](https://github.com/seksekmual)
 - [1978SKY](https://github.com/1978SKY)
 - [fangfcg](https://github.com/fangfcg)
 - [obsession369](https://github.com/obsession369)
 - [FANGDEI](https://github.com/FANGDEI)
-- [supermarvin101](https://github.com/supermarvin101)
 
 #### 🔨 Check out my recent pull requests
 
