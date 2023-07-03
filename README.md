@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (3 months ago)
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix sonar bugs and code smells in node-common](https://github.com/apache/iotdb/pull/10374) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10325) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Fix sonar bugs and code smells in node-common](https://github.com/apache/iotdb/pull/10374) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10325) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2][IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10267) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2] Degrade index controller log level cp](https://github.com/apache/iotdb/pull/10242) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Degrade IoTConsensus IndexControllel log level](https://github.com/apache/iotdb/pull/10241) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
