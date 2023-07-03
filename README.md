@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix semantic incompatibility when AtomicReference replaces volatile](https://github.com/apache/iotdb/pull/10418) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fix sonar bugs and code smells in node-common](https://github.com/apache/iotdb/pull/10374) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10325) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2][IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10267) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2] Degrade index controller log level cp](https://github.com/apache/iotdb/pull/10242) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Degrade IoTConsensus IndexControllel log level](https://github.com/apache/iotdb/pull/10241) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
