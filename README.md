@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (today)
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (1 month ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (2 months ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (2 months ago)
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (2 months ago)
-- [thulab/iotdb-daily-build](https://github.com/thulab/iotdb-daily-build) -  (2 months ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-1854 Remove useless error logs when closing the ratisclient writing thread](https://github.com/apache/ratis/pull/890) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Fix semantic incompatibility when AtomicReference replaces volatile](https://github.com/apache/iotdb/pull/10418) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Fix sonar bugs and code smells in node-common](https://github.com/apache/iotdb/pull/10374) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10325) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2][IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10267) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.2] Degrade index controller log level cp](https://github.com/apache/iotdb/pull/10242) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
