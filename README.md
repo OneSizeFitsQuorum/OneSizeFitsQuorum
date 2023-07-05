@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 weeks ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [LikeTheWindGone](https://github.com/LikeTheWindGone)
+- [CarryHuan](https://github.com/CarryHuan)
 - [BLBT1](https://github.com/BLBT1)
 - [1978SKY](https://github.com/1978SKY)
 - [fangfcg](https://github.com/fangfcg)
-- [obsession369](https://github.com/obsession369)
-- [FANGDEI](https://github.com/FANGDEI)
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix issue where the metric module failed to catch exceptions at startup](https://github.com/apache/iotdb/pull/10451) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [RATIS-1855 Fix some sonar code smell and bugs in ratis-server](https://github.com/apache/ratis/pull/891) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-1854 Remove useless error logs when closing the ratisclient writing thread](https://github.com/apache/ratis/pull/890) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [Fix semantic incompatibility when AtomicReference replaces volatile](https://github.com/apache/iotdb/pull/10418) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Fix sonar bugs and code smells in node-common](https://github.com/apache/iotdb/pull/10374) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10325) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.2][IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10267) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
