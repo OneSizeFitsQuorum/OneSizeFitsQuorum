@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [TaiJuWu](https://github.com/TaiJuWu)
 - [LikeTheWindGone](https://github.com/LikeTheWindGone)
 - [CarryHuan](https://github.com/CarryHuan)
 - [BLBT1](https://github.com/BLBT1)
 - [1978SKY](https://github.com/1978SKY)
-- [fangfcg](https://github.com/fangfcg)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10457) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [RATIS-1855 Fix some sonar code smell and bugs in ratis-server](https://github.com/apache/ratis/pull/892) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Fix issue where the metric module failed to catch exceptions at startup](https://github.com/apache/iotdb/pull/10451) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-1855 Fix some sonar code smell and bugs in ratis-server](https://github.com/apache/ratis/pull/891) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-1854 Remove useless error logs when closing the ratisclient writing thread](https://github.com/apache/ratis/pull/890) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [Fix semantic incompatibility when AtomicReference replaces volatile](https://github.com/apache/iotdb/pull/10418) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Fix sonar bugs and code smells in node-common](https://github.com/apache/iotdb/pull/10374) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
