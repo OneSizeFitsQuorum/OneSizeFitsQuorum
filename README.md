@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 weeks ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
 
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (today)
+- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (1 day ago)
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (1 month ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (2 months ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (2 months ago)
@@ -44,16 +44,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1854 Remove useless error logs when closing the ratisclient writing thread](https://github.com/apache/ratis/pull/890) on [apache/ratis](https://github.com/apache/ratis) (today)
-- [Fix semantic incompatibility when AtomicReference replaces volatile](https://github.com/apache/iotdb/pull/10418) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Fix sonar bugs and code smells in node-common](https://github.com/apache/iotdb/pull/10374) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [RATIS-1854 Remove useless error logs when closing the ratisclient writing thread](https://github.com/apache/ratis/pull/890) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [Fix semantic incompatibility when AtomicReference replaces volatile](https://github.com/apache/iotdb/pull/10418) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Fix sonar bugs and code smells in node-common](https://github.com/apache/iotdb/pull/10374) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10325) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.2][IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10267) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[To rel/1.2][IOTDB-6022] Modify the default parameters of iotconsensus](https://github.com/apache/iotdb/pull/10267) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (5 months ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (6 months ago)
 - [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (6 months ago)
-- [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (7 months ago)
+- [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (8 months ago)
 - [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (9 months ago)
