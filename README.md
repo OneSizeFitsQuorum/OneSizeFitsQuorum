@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (5 days ago)
+- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (6 days ago)
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (2 months ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (2 months ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (2 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10457) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [RATIS-1855 Fix some sonar code smell and bugs in ratis-server](https://github.com/apache/ratis/pull/892) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
-- [Fix issue where the metric module failed to catch exceptions at startup](https://github.com/apache/iotdb/pull/10451) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [RATIS-1855 Fix some sonar code smell and bugs in ratis-server](https://github.com/apache/ratis/pull/891) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
-- [RATIS-1854 Remove useless error logs when closing the ratisclient writing thread](https://github.com/apache/ratis/pull/890) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [[IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10457) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [RATIS-1855 Fix some sonar code smell and bugs in ratis-server](https://github.com/apache/ratis/pull/892) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [Fix issue where the metric module failed to catch exceptions at startup](https://github.com/apache/iotdb/pull/10451) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [RATIS-1855 Fix some sonar code smell and bugs in ratis-server](https://github.com/apache/ratis/pull/891) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [RATIS-1854 Remove useless error logs when closing the ratisclient writing thread](https://github.com/apache/ratis/pull/890) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
