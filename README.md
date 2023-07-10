@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/commons-dbcp](https://github.com/apache/commons-dbcp) - Apache Commons DBCP (today)
 - [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (6 days ago)
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (2 months ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (2 months ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (2 months ago)
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform (2 months ago)
 
 #### 👯 Check out my recent followers
 
+- [Cheaple](https://github.com/Cheaple)
+- [cybersyc](https://github.com/cybersyc)
 - [TaiJuWu](https://github.com/TaiJuWu)
 - [LikeTheWindGone](https://github.com/LikeTheWindGone)
 - [CarryHuan](https://github.com/CarryHuan)
-- [BLBT1](https://github.com/BLBT1)
-- [1978SKY](https://github.com/1978SKY)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.1][IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10501) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-6000] Control the RegionGroup number of system Database ](https://github.com/apache/iotdb/pull/10498) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-5993] ConfigNode leader changing causes lacking some DataPartition allocation result in the response of getOrCreateDataPartition method](https://github.com/apache/iotdb/pull/10497) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-5971] Fix potential QUOTE problem in iotdb reporter](https://github.com/apache/iotdb/pull/10496) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.1][IOTDB-5997] Improve efficiency of ConfigNode PartitionInfo loadSnapshot](https://github.com/apache/iotdb/pull/10495) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.1][IOTDB-6030] Improve efficiency of ConfigNode PartitionInfo takeSnapshot](https://github.com/apache/iotdb/pull/10494) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 
 #### 📜 Check out my recent blog posts
 
