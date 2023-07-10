@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10457) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [RATIS-1855 Fix some sonar code smell and bugs in ratis-server](https://github.com/apache/ratis/pull/892) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
-- [Fix issue where the metric module failed to catch exceptions at startup](https://github.com/apache/iotdb/pull/10451) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [RATIS-1855 Fix some sonar code smell and bugs in ratis-server](https://github.com/apache/ratis/pull/891) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
-- [RATIS-1854 Remove useless error logs when closing the ratisclient writing thread](https://github.com/apache/ratis/pull/890) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
+- [[To rel/1.1][IOTDB-6000] Control the RegionGroup number of system Database ](https://github.com/apache/iotdb/pull/10498) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.1][IOTDB-5993] ConfigNode leader changing causes lacking some DataPartition allocation result in the response of getOrCreateDataPartition method](https://github.com/apache/iotdb/pull/10497) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.1][IOTDB-5971] Fix potential QUOTE problem in iotdb reporter](https://github.com/apache/iotdb/pull/10496) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.1][IOTDB-5997] Improve efficiency of ConfigNode PartitionInfo loadSnapshot](https://github.com/apache/iotdb/pull/10495) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.1][IOTDB-6030] Improve efficiency of ConfigNode PartitionInfo takeSnapshot](https://github.com/apache/iotdb/pull/10494) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 
 #### 📜 Check out my recent blog posts
 
