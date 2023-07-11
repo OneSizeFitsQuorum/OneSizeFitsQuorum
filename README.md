@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Future-Outlier](https://github.com/Future-Outlier)
 - [Cheaple](https://github.com/Cheaple)
 - [cybersyc](https://github.com/cybersyc)
 - [TaiJuWu](https://github.com/TaiJuWu)
 - [LikeTheWindGone](https://github.com/LikeTheWindGone)
-- [CarryHuan](https://github.com/CarryHuan)
 
 #### 🔨 Check out my recent pull requests
 
