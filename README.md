@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/commons-dbcp](https://github.com/apache/commons-dbcp) - Apache Commons DBCP (today)
-- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (6 days ago)
+- [apache/commons-dbcp](https://github.com/apache/commons-dbcp) - Apache Commons DBCP (1 day ago)
+- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (1 week ago)
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑 (2 months ago)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (2 months ago)
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go. (2 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.1][IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10501) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.1][IOTDB-6000] Control the RegionGroup number of system Database ](https://github.com/apache/iotdb/pull/10498) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.1][IOTDB-5993] ConfigNode leader changing causes lacking some DataPartition allocation result in the response of getOrCreateDataPartition method](https://github.com/apache/iotdb/pull/10497) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.1][IOTDB-5971] Fix potential QUOTE problem in iotdb reporter](https://github.com/apache/iotdb/pull/10496) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.1][IOTDB-5997] Improve efficiency of ConfigNode PartitionInfo loadSnapshot](https://github.com/apache/iotdb/pull/10495) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.1][IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10501) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.1][IOTDB-6000] Control the RegionGroup number of system Database ](https://github.com/apache/iotdb/pull/10498) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.1][IOTDB-5993] ConfigNode leader changing causes lacking some DataPartition allocation result in the response of getOrCreateDataPartition method](https://github.com/apache/iotdb/pull/10497) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.1][IOTDB-5971] Fix potential QUOTE problem in iotdb reporter](https://github.com/apache/iotdb/pull/10496) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.1][IOTDB-5997] Improve efficiency of ConfigNode PartitionInfo loadSnapshot](https://github.com/apache/iotdb/pull/10495) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
