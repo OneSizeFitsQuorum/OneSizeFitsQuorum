@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [teenager-lijh](https://github.com/teenager-lijh)
 - [Future-Outlier](https://github.com/Future-Outlier)
 - [Cheaple](https://github.com/Cheaple)
 - [cybersyc](https://github.com/cybersyc)
 - [TaiJuWu](https://github.com/TaiJuWu)
-- [LikeTheWindGone](https://github.com/LikeTheWindGone)
 
 #### 🔨 Check out my recent pull requests
 
