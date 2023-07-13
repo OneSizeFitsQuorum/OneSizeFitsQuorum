@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (today)
-- [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (today)
-- [0voice/Introduce_to_virtualization](https://github.com/0voice/Introduce_to_virtualization) - 500篇关于虚拟化的经典资料，含CPU虚拟化，磁盘虚拟化，内存虚拟化，io虚拟化。 (1 day ago)
-- [apache/commons-dbcp](https://github.com/apache/commons-dbcp) - Apache Commons DBCP (2 days ago)
+- [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (1 day ago)
+- [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (1 day ago)
+- [0voice/Introduce_to_virtualization](https://github.com/0voice/Introduce_to_virtualization) - 500篇关于虚拟化的经典资料，含CPU虚拟化，磁盘虚拟化，内存虚拟化，io虚拟化。 (2 days ago)
+- [apache/commons-dbcp](https://github.com/apache/commons-dbcp) - Apache Commons DBCP (3 days ago)
 - [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,16 +44,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.1][IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10534) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port](https://github.com/apache/iotdb/pull/10530) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.1][IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10501) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[To rel/1.1][IOTDB-6000] Control the RegionGroup number of system Database ](https://github.com/apache/iotdb/pull/10498) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[To rel/1.1][IOTDB-5993] ConfigNode leader changing causes lacking some DataPartition allocation result in the response of getOrCreateDataPartition method](https://github.com/apache/iotdb/pull/10497) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.1][IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10534) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port](https://github.com/apache/iotdb/pull/10530) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.1][IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10501) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To rel/1.1][IOTDB-6000] Control the RegionGroup number of system Database ](https://github.com/apache/iotdb/pull/10498) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To rel/1.1][IOTDB-5993] ConfigNode leader changing causes lacking some DataPartition allocation result in the response of getOrCreateDataPartition method](https://github.com/apache/iotdb/pull/10497) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (5 months ago)
-- [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (6 months ago)
+- [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (7 months ago)
 - [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (7 months ago)
 - [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (8 months ago)
 - [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (9 months ago)
