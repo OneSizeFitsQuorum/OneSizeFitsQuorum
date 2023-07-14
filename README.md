@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Matrix-Li](https://github.com/Matrix-Li)
+- [noemiecode](https://github.com/noemiecode)
 - [teenager-lijh](https://github.com/teenager-lijh)
 - [Future-Outlier](https://github.com/Future-Outlier)
 - [Cheaple](https://github.com/Cheaple)
-- [cybersyc](https://github.com/cybersyc)
-- [TaiJuWu](https://github.com/TaiJuWu)
 
 #### 🔨 Check out my recent pull requests
 
