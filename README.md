@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (today)
 - [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (1 week ago)
 - [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (1 week ago)
 - [0voice/Introduce_to_virtualization](https://github.com/0voice/Introduce_to_virtualization) - 500篇关于虚拟化的经典资料，含CPU虚拟化，磁盘虚拟化，内存虚拟化，io虚拟化。 (1 week ago)
 - [apache/commons-dbcp](https://github.com/apache/commons-dbcp) - Apache Commons DBCP (1 week ago)
-- [pentium3/sys_reading](https://github.com/pentium3/sys_reading) - system paper reading notes (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [liubf21](https://github.com/liubf21)
 - [Matrix-Li](https://github.com/Matrix-Li)
 - [noemiecode](https://github.com/noemiecode)
 - [teenager-lijh](https://github.com/teenager-lijh)
 - [Future-Outlier](https://github.com/Future-Outlier)
-- [Cheaple](https://github.com/Cheaple)
 
 #### 🔨 Check out my recent pull requests
 
