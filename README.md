@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yubinCloud](https://github.com/yubinCloud)
 - [ethan2080](https://github.com/ethan2080)
 - [liubf21](https://github.com/liubf21)
 - [Matrix-Li](https://github.com/Matrix-Li)
 - [noemiecode](https://github.com/noemiecode)
-- [teenager-lijh](https://github.com/teenager-lijh)
 
 #### 🔨 Check out my recent pull requests
 
