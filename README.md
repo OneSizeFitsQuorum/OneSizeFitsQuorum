@@ -28,15 +28,15 @@
 
 #### ⭐ Check out my recent stars
 
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (today)
 - [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (1 day ago)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (1 week ago)
 - [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (2 weeks ago)
 - [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (2 weeks ago)
-- [0voice/Introduce_to_virtualization](https://github.com/0voice/Introduce_to_virtualization) - 500篇关于虚拟化的经典资料，含CPU虚拟化，磁盘虚拟化，内存虚拟化，io虚拟化。 (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
-- [lingdaxia](https://github.com/lingdaxia)
+- [IntegrateKnowledgeAction](https://github.com/IntegrateKnowledgeAction)
 - [yubinCloud](https://github.com/yubinCloud)
 - [ethan2080](https://github.com/ethan2080)
 - [liubf21](https://github.com/liubf21)
