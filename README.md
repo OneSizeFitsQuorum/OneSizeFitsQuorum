@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (today)
-- [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (1 day ago)
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 day ago)
+- [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (2 days ago)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (1 week ago)
 - [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (2 weeks ago)
 - [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [zeeniarrah852](https://github.com/zeeniarrah852)
 - [IntegrateKnowledgeAction](https://github.com/IntegrateKnowledgeAction)
 - [yubinCloud](https://github.com/yubinCloud)
 - [ethan2080](https://github.com/ethan2080)
 - [liubf21](https://github.com/liubf21)
-- [Matrix-Li](https://github.com/Matrix-Li)
 
 #### 🔨 Check out my recent pull requests
 
