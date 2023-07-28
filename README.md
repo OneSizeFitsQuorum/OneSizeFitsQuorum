@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2] Enhance warning messages for ConfigNodeClient ](https://github.com/apache/iotdb/pull/10722) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance warning messages for ConfigNodeClient](https://github.com/apache/iotdb/pull/10721) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [RATIS-1862 Add the parameter whether to take Snapshot when stopping to adapt to different services](https://github.com/apache/ratis/pull/896) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [[To rel/1.1][IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10534) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port](https://github.com/apache/iotdb/pull/10530) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[To rel/1.1][IOTDB-6051] Fixed concurrency error in IoTConsensus UT when stopping cluster](https://github.com/apache/iotdb/pull/10501) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[To rel/1.1][IOTDB-6000] Control the RegionGroup number of system Database ](https://github.com/apache/iotdb/pull/10498) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[To rel/1.1][IOTDB-5993] ConfigNode leader changing causes lacking some DataPartition allocation result in the response of getOrCreateDataPartition method](https://github.com/apache/iotdb/pull/10497) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
