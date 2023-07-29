@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [TheR1sing3un](https://github.com/TheR1sing3un)
 - [zeeniarrah852](https://github.com/zeeniarrah852)
 - [IntegrateKnowledgeAction](https://github.com/IntegrateKnowledgeAction)
 - [yubinCloud](https://github.com/yubinCloud)
 - [ethan2080](https://github.com/ethan2080)
-- [liubf21](https://github.com/liubf21)
 
 #### 🔨 Check out my recent pull requests
 
