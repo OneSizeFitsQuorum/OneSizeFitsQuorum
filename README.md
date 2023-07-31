@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2][IOTDB-6079] Cluster computing resource balance](https://github.com/apache/iotdb/pull/10746) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.2]Enhance versionInfo in show cluster and show cluster detail](https://github.com/apache/iotdb/pull/10744) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance versionInfo in show cluster and show cluster detail](https://github.com/apache/iotdb/pull/10743) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.2] Enhance warning messages for ConfigNodeClient ](https://github.com/apache/iotdb/pull/10722) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Enhance warning messages for ConfigNodeClient](https://github.com/apache/iotdb/pull/10721) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [RATIS-1862 Add the parameter whether to take Snapshot when stopping to adapt to different services](https://github.com/apache/ratis/pull/896) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
-- [[To rel/1.1][IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10534) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port](https://github.com/apache/iotdb/pull/10530) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
