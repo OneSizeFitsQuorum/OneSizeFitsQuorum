@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (4 days ago)
-- [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (5 days ago)
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (5 days ago)
+- [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (6 days ago)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (1 week ago)
 - [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (2 weeks ago)
 - [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (2 weeks ago)
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.2] Enhance warning messages for ConfigNodeClient ](https://github.com/apache/iotdb/pull/10722) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Enhance warning messages for ConfigNodeClient](https://github.com/apache/iotdb/pull/10721) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [RATIS-1862 Add the parameter whether to take Snapshot when stopping to adapt to different services](https://github.com/apache/ratis/pull/896) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [[To rel/1.2] Enhance warning messages for ConfigNodeClient ](https://github.com/apache/iotdb/pull/10722) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Enhance warning messages for ConfigNodeClient](https://github.com/apache/iotdb/pull/10721) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [RATIS-1862 Add the parameter whether to take Snapshot when stopping to adapt to different services](https://github.com/apache/ratis/pull/896) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
 - [[To rel/1.1][IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10534) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port](https://github.com/apache/iotdb/pull/10530) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
