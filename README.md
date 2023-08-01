@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix confignode restart Error ](https://github.com/apache/iotdb/pull/10752) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.2] Fix confignode restart Error](https://github.com/apache/iotdb/pull/10751) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Fix confignode restart Error](https://github.com/apache/iotdb/pull/10750) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.2] Revert unfinished auth module](https://github.com/apache/iotdb/pull/10748) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.2][IOTDB-6079] Cluster computing resource balance](https://github.com/apache/iotdb/pull/10746) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.2]Enhance versionInfo in show cluster and show cluster detail](https://github.com/apache/iotdb/pull/10744) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Enhance versionInfo in show cluster and show cluster detail](https://github.com/apache/iotdb/pull/10743) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.2] Enhance warning messages for ConfigNodeClient ](https://github.com/apache/iotdb/pull/10722) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Enhance warning messages for ConfigNodeClient](https://github.com/apache/iotdb/pull/10721) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
