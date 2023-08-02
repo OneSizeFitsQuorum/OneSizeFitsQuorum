@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (4 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 months ago)
@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (6 days ago)
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 week ago)
 - [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (1 week ago)
-- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (1 week ago)
-- [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (2 weeks ago)
-- [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (2 weeks ago)
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (2 weeks ago)
+- [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (3 weeks ago)
+- [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [raywted75](https://github.com/raywted75)
 - [TheR1sing3un](https://github.com/TheR1sing3un)
 - [zeeniarrah852](https://github.com/zeeniarrah852)
 - [IntegrateKnowledgeAction](https://github.com/IntegrateKnowledgeAction)
 - [yubinCloud](https://github.com/yubinCloud)
-- [ethan2080](https://github.com/ethan2080)
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix confignode restart Error ](https://github.com/apache/iotdb/pull/10752) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.2] Fix confignode restart Error](https://github.com/apache/iotdb/pull/10751) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fix confignode restart Error](https://github.com/apache/iotdb/pull/10750) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.2] Revert unfinished auth module](https://github.com/apache/iotdb/pull/10748) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.2][IOTDB-6079] Cluster computing resource balance](https://github.com/apache/iotdb/pull/10746) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fix confignode restart Error ](https://github.com/apache/iotdb/pull/10752) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.2] Fix confignode restart Error](https://github.com/apache/iotdb/pull/10751) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fix confignode restart Error](https://github.com/apache/iotdb/pull/10750) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.2] Revert unfinished auth module](https://github.com/apache/iotdb/pull/10748) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.2][IOTDB-6079] Cluster computing resource balance](https://github.com/apache/iotdb/pull/10746) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
