@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [bugsnag/bugsnag-java](https://github.com/bugsnag/bugsnag-java) - BugSnag error reporting for Java. (today)
+- [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker (today)
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 week ago)
 - [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (1 week ago)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (2 weeks ago)
-- [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (3 weeks ago)
-- [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
