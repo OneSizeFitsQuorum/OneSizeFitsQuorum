@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10789) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fix confignode restart Error ](https://github.com/apache/iotdb/pull/10752) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To rel/1.2] Fix confignode restart Error](https://github.com/apache/iotdb/pull/10751) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Fix confignode restart Error](https://github.com/apache/iotdb/pull/10750) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To rel/1.2] Revert unfinished auth module](https://github.com/apache/iotdb/pull/10748) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[To rel/1.2][IOTDB-6079] Cluster computing resource balance](https://github.com/apache/iotdb/pull/10746) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
