@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [TankardYegga](https://github.com/TankardYegga)
 - [ty267](https://github.com/ty267)
 - [Thearas](https://github.com/Thearas)
 - [raywted75](https://github.com/raywted75)
 - [TheR1sing3un](https://github.com/TheR1sing3un)
-- [zeeniarrah852](https://github.com/zeeniarrah852)
 
 #### 🔨 Check out my recent pull requests
 
