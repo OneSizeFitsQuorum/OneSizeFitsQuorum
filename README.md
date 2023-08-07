@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [bugsnag/bugsnag-java](https://github.com/bugsnag/bugsnag-java) - BugSnag error reporting for Java. (4 days ago)
-- [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker (4 days ago)
+- [bugsnag/bugsnag-java](https://github.com/bugsnag/bugsnag-java) - BugSnag error reporting for Java. (5 days ago)
+- [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker (5 days ago)
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 week ago)
 - [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (1 week ago)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (2 weeks ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10789) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Fix confignode restart Error ](https://github.com/apache/iotdb/pull/10752) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[To rel/1.2] Fix confignode restart Error](https://github.com/apache/iotdb/pull/10751) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Fix confignode restart Error](https://github.com/apache/iotdb/pull/10750) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[To rel/1.2] Revert unfinished auth module](https://github.com/apache/iotdb/pull/10748) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10789) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Fix confignode restart Error ](https://github.com/apache/iotdb/pull/10752) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To rel/1.2] Fix confignode restart Error](https://github.com/apache/iotdb/pull/10751) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Fix confignode restart Error](https://github.com/apache/iotdb/pull/10750) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To rel/1.2] Revert unfinished auth module](https://github.com/apache/iotdb/pull/10748) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
