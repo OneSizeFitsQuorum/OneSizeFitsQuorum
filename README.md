@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [baibaidashixiong](https://github.com/baibaidashixiong)
+- [ufoe](https://github.com/ufoe)
 - [TankardYegga](https://github.com/TankardYegga)
 - [ty267](https://github.com/ty267)
 - [Thearas](https://github.com/Thearas)
-- [raywted75](https://github.com/raywted75)
-- [TheR1sing3un](https://github.com/TheR1sing3un)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2] Optimize leader change event ](https://github.com/apache/iotdb/pull/10804) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [RATIS-1867 To uniformly manage the timeout parameters for detecting gc](https://github.com/apache/ratis/pull/899) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10789) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Fix confignode restart Error ](https://github.com/apache/iotdb/pull/10752) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[To rel/1.2] Fix confignode restart Error](https://github.com/apache/iotdb/pull/10751) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [Fix confignode restart Error](https://github.com/apache/iotdb/pull/10750) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[To rel/1.2] Revert unfinished auth module](https://github.com/apache/iotdb/pull/10748) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
