@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 months ago)
@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Starry54](https://github.com/Starry54)
 - [baibaidashixiong](https://github.com/baibaidashixiong)
 - [ufoe](https://github.com/ufoe)
 - [TankardYegga](https://github.com/TankardYegga)
 - [ty267](https://github.com/ty267)
-- [Thearas](https://github.com/Thearas)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2] Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10813) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10812) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.2] Optimize leader change event ](https://github.com/apache/iotdb/pull/10804) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [RATIS-1867 To uniformly manage the timeout parameters for detecting gc](https://github.com/apache/ratis/pull/899) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10789) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Fix confignode restart Error ](https://github.com/apache/iotdb/pull/10752) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.2] Fix confignode restart Error](https://github.com/apache/iotdb/pull/10751) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
