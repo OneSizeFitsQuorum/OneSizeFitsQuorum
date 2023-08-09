@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10823) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10822) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.2] Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10813) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10812) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.2] Optimize leader change event ](https://github.com/apache/iotdb/pull/10804) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [RATIS-1867 To uniformly manage the timeout parameters for detecting gc](https://github.com/apache/ratis/pull/899) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
-- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10789) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
