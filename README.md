@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [bugsnag/bugsnag-java](https://github.com/bugsnag/bugsnag-java) - BugSnag error reporting for Java. (6 days ago)
-- [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker (6 days ago)
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 week ago)
+- [bugsnag/bugsnag-java](https://github.com/bugsnag/bugsnag-java) - BugSnag error reporting for Java. (1 week ago)
+- [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker (1 week ago)
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (2 weeks ago)
 - [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (2 weeks ago)
-- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (2 weeks ago)
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.2] Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10813) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10812) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To rel/1.2] Optimize leader change event ](https://github.com/apache/iotdb/pull/10804) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [RATIS-1867 To uniformly manage the timeout parameters for detecting gc](https://github.com/apache/ratis/pull/899) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10789) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[To rel/1.2] Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10813) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10812) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To rel/1.2] Optimize leader change event ](https://github.com/apache/iotdb/pull/10804) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [RATIS-1867 To uniformly manage the timeout parameters for detecting gc](https://github.com/apache/ratis/pull/899) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10789) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
