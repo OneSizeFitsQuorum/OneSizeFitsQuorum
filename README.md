@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2] Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10830) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10829) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10828) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.2][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10823) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10822) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.2] Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10813) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Enhance cn_confignode_target_list comments](https://github.com/apache/iotdb/pull/10812) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[To rel/1.2] Optimize leader change event ](https://github.com/apache/iotdb/pull/10804) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
