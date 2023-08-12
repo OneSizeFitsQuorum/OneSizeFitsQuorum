@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 months ago)
@@ -44,16 +44,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.2] Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10830) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10829) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10828) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.2][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10823) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10822) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.2] Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10830) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10829) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10828) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.2][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10823) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10822) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (6 months ago)
-- [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (7 months ago)
+- [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (8 months ago)
 - [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (8 months ago)
 - [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (9 months ago)
 - [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (10 months ago)
