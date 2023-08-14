@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
