@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Remove useless dependency bugsnag](https://github.com/apache/iotdb/pull/10861) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.2] Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10830) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10829) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10828) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[To rel/1.2][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10823) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10822) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
