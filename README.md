@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [Thesys-lab/sosp23-s3fifo](https://github.com/Thesys-lab/sosp23-s3fifo) - The repo for SOSP23 paper: FIFO queues are all you need for cache evictions (today)
 - [bugsnag/bugsnag-java](https://github.com/bugsnag/bugsnag-java) - BugSnag error reporting for Java. (2 weeks ago)
 - [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker (2 weeks ago)
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (3 weeks ago)
 - [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (3 weeks ago)
-- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [Nathanlin3753](https://github.com/Nathanlin3753)
 - [Starry54](https://github.com/Starry54)
 - [baibaidashixiong](https://github.com/baibaidashixiong)
 - [ufoe](https://github.com/ufoe)
 - [TankardYegga](https://github.com/TankardYegga)
-- [ty267](https://github.com/ty267)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2][IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10878) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10872) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Revert &#34;[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10870) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Remove useless dependency bugsnag](https://github.com/apache/iotdb/pull/10861) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.2] Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10830) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10829) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10828) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
