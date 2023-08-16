@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Revert &#34;[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10870) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Remove useless dependency bugsnag](https://github.com/apache/iotdb/pull/10861) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.2] Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10830) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10829) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10828) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[To rel/1.2][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient ](https://github.com/apache/iotdb/pull/10823) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
