@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (today)
+- [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom (today)
 - [Thesys-lab/sosp23-s3fifo](https://github.com/Thesys-lab/sosp23-s3fifo) - The repo for SOSP23 paper: FIFO queues are all you need for cache evictions (1 day ago)
 - [bugsnag/bugsnag-java](https://github.com/bugsnag/bugsnag-java) - BugSnag error reporting for Java. (2 weeks ago)
 - [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker (2 weeks ago)
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (3 weeks ago)
-- [snazy/ohc](https://github.com/snazy/ohc) - Java large off heap cache (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
