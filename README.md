@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10896) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.2][IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10878) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10872) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Revert &#34;[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10870) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Remove useless dependency bugsnag](https://github.com/apache/iotdb/pull/10861) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[To rel/1.2] Enhance the event notification mechanism of StatisticsService](https://github.com/apache/iotdb/pull/10830) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
