@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [scylladb/diskplorer](https://github.com/scylladb/diskplorer) -  (today)
+- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (today)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (4 days ago)
 - [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom (4 days ago)
 - [Thesys-lab/sosp23-s3fifo](https://github.com/Thesys-lab/sosp23-s3fifo) - The repo for SOSP23 paper: FIFO queues are all you need for cache evictions (5 days ago)
-- [bugsnag/bugsnag-java](https://github.com/bugsnag/bugsnag-java) - BugSnag error reporting for Java. (2 weeks ago)
-- [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [BustDot](https://github.com/BustDot)
+- [chensenmao](https://github.com/chensenmao)
 - [YSW306](https://github.com/YSW306)
 - [songmuhan](https://github.com/songmuhan)
 - [Nathanlin3753](https://github.com/Nathanlin3753)
-- [Starry54](https://github.com/Starry54)
-- [baibaidashixiong](https://github.com/baibaidashixiong)
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix NPE issue in show cluster when adding datanodes](https://github.com/apache/iotdb/pull/10918) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10896) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To rel/1.2][IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10878) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10872) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Revert &#34;[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10870) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Remove useless dependency bugsnag](https://github.com/apache/iotdb/pull/10861) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
