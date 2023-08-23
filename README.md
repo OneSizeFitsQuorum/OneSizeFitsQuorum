@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [HuHongMing86](https://github.com/HuHongMing86)
+- [lenny-mo](https://github.com/lenny-mo)
 - [BustDot](https://github.com/BustDot)
 - [chensenmao](https://github.com/chensenmao)
 - [YSW306](https://github.com/YSW306)
-- [songmuhan](https://github.com/songmuhan)
-- [Nathanlin3753](https://github.com/Nathanlin3753)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2][IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10937) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fix NPE issue in show cluster when adding datanodes](https://github.com/apache/iotdb/pull/10918) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10896) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[To rel/1.2][IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10878) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10872) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Revert &#34;[To rel/1.1][IOTDB-6106] Fixed the timeout parameter not working in thrift asyncClient](https://github.com/apache/iotdb/pull/10870) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
