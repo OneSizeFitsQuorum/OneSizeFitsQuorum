@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [scylladb/diskplorer](https://github.com/scylladb/diskplorer) -  (3 days ago)
-- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (3 days ago)
+- [scylladb/diskplorer](https://github.com/scylladb/diskplorer) -  (4 days ago)
+- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (4 days ago)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (1 week ago)
 - [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom (1 week ago)
 - [Thesys-lab/sosp23-s3fifo](https://github.com/Thesys-lab/sosp23-s3fifo) - The repo for SOSP23 paper: FIFO queues are all you need for cache evictions (1 week ago)
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1874 Add notifyLeaderReady function in IStateMachine](https://github.com/apache/ratis/pull/906) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [[To rel/1.2][IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10937) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Fix NPE issue in show cluster when adding datanodes](https://github.com/apache/iotdb/pull/10918) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10896) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [RATIS-1874 Add notifyLeaderReady function in IStateMachine](https://github.com/apache/ratis/pull/906) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [[To rel/1.2][IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10937) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Fix NPE issue in show cluster when adding datanodes](https://github.com/apache/iotdb/pull/10918) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10896) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2][IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10878) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
