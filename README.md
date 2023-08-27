@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ALIZE126](https://github.com/ALIZE126)
+- [heiheihei886](https://github.com/heiheihei886)
 - [bigboss2063](https://github.com/bigboss2063)
 - [crwen](https://github.com/crwen)
 - [HuHongMing86](https://github.com/HuHongMing86)
-- [lenny-mo](https://github.com/lenny-mo)
-- [BustDot](https://github.com/BustDot)
 
 #### 🔨 Check out my recent pull requests
 
