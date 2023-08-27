@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (today)
 - [scylladb/diskplorer](https://github.com/scylladb/diskplorer) -  (6 days ago)
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (6 days ago)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (1 week ago)
 - [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom (1 week ago)
-- [Thesys-lab/sosp23-s3fifo](https://github.com/Thesys-lab/sosp23-s3fifo) - The repo for SOSP23 paper: FIFO queues are all you need for cache evictions (1 week ago)
 
 #### 👯 Check out my recent followers
 
