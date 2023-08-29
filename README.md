@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (5 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (7 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (1 day ago)
+- [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (2 days ago)
 - [scylladb/diskplorer](https://github.com/scylladb/diskplorer) -  (1 week ago)
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (1 week ago)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (1 week ago)
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1874 Add notifyLeaderReady function in IStateMachine](https://github.com/apache/ratis/pull/906) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
-- [[To rel/1.2][IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10937) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [RATIS-1874 Add notifyLeaderReady function in IStateMachine](https://github.com/apache/ratis/pull/906) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
+- [[To rel/1.2][IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10937) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Fix NPE issue in show cluster when adding datanodes](https://github.com/apache/iotdb/pull/10918) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10896) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2][IOTDB-6116] Disassociate the IoTConsensus retry logic from the forkjoinPool](https://github.com/apache/iotdb/pull/10878) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
