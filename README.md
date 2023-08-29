@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10991) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-6119] Add ConfigNode leader service check](https://github.com/apache/iotdb/pull/10985) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-1874 Add notifyLeaderReady function in IStateMachine](https://github.com/apache/ratis/pull/906) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [[To rel/1.2][IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10937) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Fix NPE issue in show cluster when adding datanodes](https://github.com/apache/iotdb/pull/10918) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-6121] Consensus layer interface and exception handling refactoring](https://github.com/apache/iotdb/pull/10896) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
