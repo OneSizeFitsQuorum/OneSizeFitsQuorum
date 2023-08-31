@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [walkerKWJ-cumt](https://github.com/walkerKWJ-cumt)
 - [guowei-su](https://github.com/guowei-su)
 - [P1anet](https://github.com/P1anet)
 - [ALIZE126](https://github.com/ALIZE126)
 - [heiheihei886](https://github.com/heiheihei886)
-- [bigboss2063](https://github.com/bigboss2063)
 
 #### 🔨 Check out my recent pull requests
 
