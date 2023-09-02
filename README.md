@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ZhengQiushi](https://github.com/ZhengQiushi)
+- [irenjj](https://github.com/irenjj)
 - [USTB-JXY](https://github.com/USTB-JXY)
 - [walkerKWJ-cumt](https://github.com/walkerKWJ-cumt)
 - [guowei-su](https://github.com/guowei-su)
-- [P1anet](https://github.com/P1anet)
-- [ALIZE126](https://github.com/ALIZE126)
 
 #### 🔨 Check out my recent pull requests
 
