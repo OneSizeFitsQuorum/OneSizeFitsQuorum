@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (today)
+- [opendtrace/toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems. (today)
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (1 week ago)
 - [scylladb/diskplorer](https://github.com/scylladb/diskplorer) -  (2 weeks ago)
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (2 weeks ago)
-- [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (2 weeks ago)
-- [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
