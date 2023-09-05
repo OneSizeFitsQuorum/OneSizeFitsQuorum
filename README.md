@@ -12,10 +12,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (today)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (6 months ago)
 
 #### 🌱 Check out my recent projects
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (today)
-- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (today)
-- [opendtrace/toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems. (today)
+- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (1 day ago)
+- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (1 day ago)
+- [opendtrace/toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems. (1 day ago)
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (1 week ago)
 - [scylladb/diskplorer](https://github.com/scylladb/diskplorer) -  (2 weeks ago)
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Repair the data_region_group_num parameter error](https://github.com/apache/iotdb-docs/pull/81) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (today)
-- [[To rel/1.2][IOTDB-6119] Add ConfigNode leader service check](https://github.com/apache/iotdb/pull/10996) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[To rel/1.2][IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port](https://github.com/apache/iotdb/pull/10995) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10991) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[IOTDB-6119] Add ConfigNode leader service check](https://github.com/apache/iotdb/pull/10985) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Repair the data_region_group_num parameter error](https://github.com/apache/iotdb-docs/pull/81) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (1 day ago)
+- [[To rel/1.2][IOTDB-6119] Add ConfigNode leader service check](https://github.com/apache/iotdb/pull/10996) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To rel/1.2][IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port](https://github.com/apache/iotdb/pull/10995) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10991) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-6119] Add ConfigNode leader service check](https://github.com/apache/iotdb/pull/10985) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
