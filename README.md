@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mczhuang](https://github.com/mczhuang)
 - [LukaHsu](https://github.com/LukaHsu)
 - [IndifferentArea](https://github.com/IndifferentArea)
 - [ZhengQiushi](https://github.com/ZhengQiushi)
 - [irenjj](https://github.com/irenjj)
-- [USTB-JXY](https://github.com/USTB-JXY)
 
 #### 🔨 Check out my recent pull requests
 
