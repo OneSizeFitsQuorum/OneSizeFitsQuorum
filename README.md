@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM  📐 (today)
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (2 days ago)
 - [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (2 days ago)
 - [opendtrace/toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems. (2 days ago)
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (1 week ago)
-- [scylladb/diskplorer](https://github.com/scylladb/diskplorer) -  (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
