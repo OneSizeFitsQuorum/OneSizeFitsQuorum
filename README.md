@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (2 days ago)
+- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (3 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM  📐 (today)
-- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (2 days ago)
-- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (2 days ago)
-- [opendtrace/toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems. (2 days ago)
+- [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM  📐 (1 day ago)
+- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (3 days ago)
+- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (3 days ago)
+- [opendtrace/toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems. (3 days ago)
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Repair the data_region_group_num parameter error](https://github.com/apache/iotdb-docs/pull/81) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (2 days ago)
+- [Repair the data_region_group_num parameter error](https://github.com/apache/iotdb-docs/pull/81) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (3 days ago)
 - [[To rel/1.2][IOTDB-6119] Add ConfigNode leader service check](https://github.com/apache/iotdb/pull/10996) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2][IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port](https://github.com/apache/iotdb/pull/10995) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10991) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
