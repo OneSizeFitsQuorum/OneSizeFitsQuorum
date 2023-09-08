@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2] [RatisConsensus] Bump ratis snapshot version to 2.5.2-284ecbb-SNAPSHOT](https://github.com/apache/iotdb/pull/11100) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-6144] Adjust the default thrift timeout parameter to 60s](https://github.com/apache/iotdb-docs/pull/90) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (today)
+- [[To rel/1.2][IOTDB-6144] Adjust the default thrift timeout parameter to 60s ](https://github.com/apache/iotdb/pull/11092) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-6144] Adjust the default thrift timeout parameter to 60s](https://github.com/apache/iotdb/pull/11091) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Repair the data_region_group_num parameter error](https://github.com/apache/iotdb-docs/pull/81) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (4 days ago)
-- [[To rel/1.2][IOTDB-6119] Add ConfigNode leader service check](https://github.com/apache/iotdb/pull/10996) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.2][IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port](https://github.com/apache/iotdb/pull/10995) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-6061] Fix the instability failure caused by initServer in IoTConsensus UT not binding to the corresponding port ](https://github.com/apache/iotdb/pull/10991) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-6119] Add ConfigNode leader service check](https://github.com/apache/iotdb/pull/10985) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
