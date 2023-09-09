@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (5 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (6 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM  📐 (2 days ago)
-- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (4 days ago)
-- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (4 days ago)
-- [opendtrace/toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems. (4 days ago)
+- [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM  📐 (3 days ago)
+- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (5 days ago)
+- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (5 days ago)
+- [opendtrace/toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems. (5 days ago)
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.2] [RatisConsensus] Bump ratis snapshot version to 2.5.2-284ecbb-SNAPSHOT](https://github.com/apache/iotdb/pull/11100) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-6144] Adjust the default thrift timeout parameter to 60s](https://github.com/apache/iotdb-docs/pull/90) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (today)
-- [[To rel/1.2][IOTDB-6144] Adjust the default thrift timeout parameter to 60s ](https://github.com/apache/iotdb/pull/11092) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[IOTDB-6144] Adjust the default thrift timeout parameter to 60s](https://github.com/apache/iotdb/pull/11091) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Repair the data_region_group_num parameter error](https://github.com/apache/iotdb-docs/pull/81) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (4 days ago)
+- [[To rel/1.2] [RatisConsensus] Bump ratis snapshot version to 2.5.2-284ecbb-SNAPSHOT](https://github.com/apache/iotdb/pull/11100) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-6144] Adjust the default thrift timeout parameter to 60s](https://github.com/apache/iotdb-docs/pull/90) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (1 day ago)
+- [[To rel/1.2][IOTDB-6144] Adjust the default thrift timeout parameter to 60s ](https://github.com/apache/iotdb/pull/11092) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[IOTDB-6144] Adjust the default thrift timeout parameter to 60s](https://github.com/apache/iotdb/pull/11091) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Repair the data_region_group_num parameter error](https://github.com/apache/iotdb-docs/pull/81) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
