@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [KKKZOZ](https://github.com/KKKZOZ)
 - [VinCinx](https://github.com/VinCinx)
 - [mczhuang](https://github.com/mczhuang)
 - [LukaHsu](https://github.com/LukaHsu)
 - [IndifferentArea](https://github.com/IndifferentArea)
-- [ZhengQiushi](https://github.com/ZhengQiushi)
 
 #### 🔨 Check out my recent pull requests
 
