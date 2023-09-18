@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [basho/riak_core](https://github.com/basho/riak_core) - Distributed systems infrastructure used by Riak. (today)
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (3 days ago)
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language. (6 days ago)
 - [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM  📐 (1 week ago)
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (2 weeks ago)
-- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
