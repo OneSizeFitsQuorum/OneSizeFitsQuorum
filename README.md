@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
-- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (6 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (6 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (2 days ago)
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language. (5 days ago)
+- [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (3 days ago)
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language. (6 days ago)
 - [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM  📐 (1 week ago)
-- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (1 week ago)
-- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (1 week ago)
+- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (2 weeks ago)
+- [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rel/1.2]Add replication factor metrics and add database tag in throughput metrics and schema metrics](https://github.com/apache/iotdb/pull/11154) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[To rel/1.2][IOTDB-6156] Fixed TConfiguration invalidly in Thrift AsyncServer For IoTConsensus](https://github.com/apache/iotdb/pull/11146) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[IOTDB-6156] Fixed TConfiguration invalidly in Thrift AsyncServer For IoTConsensus](https://github.com/apache/iotdb/pull/11145) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.2]Add replication factor metrics and add database tag in throughput metrics and schema metrics](https://github.com/apache/iotdb/pull/11154) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To rel/1.2][IOTDB-6156] Fixed TConfiguration invalidly in Thrift AsyncServer For IoTConsensus](https://github.com/apache/iotdb/pull/11146) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-6156] Fixed TConfiguration invalidly in Thrift AsyncServer For IoTConsensus](https://github.com/apache/iotdb/pull/11145) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To rel/1.2] [RatisConsensus] Bump ratis snapshot version to 2.5.2-284ecbb-SNAPSHOT](https://github.com/apache/iotdb/pull/11100) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-6144] Adjust the default thrift timeout parameter to 60s](https://github.com/apache/iotdb-docs/pull/90) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (1 week ago)
 
