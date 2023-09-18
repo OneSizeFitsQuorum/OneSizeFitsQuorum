@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-1889 NoSuchMethodError: RaftServerMetricsImpl.addNumPendingRequestsGauge](https://github.com/apache/ratis/pull/922) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11166) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rel/1.2]Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11165) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.2]Add replication factor metrics and add database tag in throughput metrics and schema metrics](https://github.com/apache/iotdb/pull/11154) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To rel/1.2][IOTDB-6156] Fixed TConfiguration invalidly in Thrift AsyncServer For IoTConsensus](https://github.com/apache/iotdb/pull/11146) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[IOTDB-6156] Fixed TConfiguration invalidly in Thrift AsyncServer For IoTConsensus](https://github.com/apache/iotdb/pull/11145) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[To rel/1.2] [RatisConsensus] Bump ratis snapshot version to 2.5.2-284ecbb-SNAPSHOT](https://github.com/apache/iotdb/pull/11100) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-6144] Adjust the default thrift timeout parameter to 60s](https://github.com/apache/iotdb-docs/pull/90) on [apache/iotdb-docs](https://github.com/apache/iotdb-docs) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
