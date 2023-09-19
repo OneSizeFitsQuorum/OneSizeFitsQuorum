@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-1892 Unify the lifetime of the RaftServerProxy thread pool](https://github.com/apache/ratis/pull/923) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-1889 NoSuchMethodError: RaftServerMetricsImpl.addNumPendingRequestsGauge](https://github.com/apache/ratis/pull/922) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11166) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.2]Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11165) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rel/1.2]Add replication factor metrics and add database tag in throughput metrics and schema metrics](https://github.com/apache/iotdb/pull/11154) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[To rel/1.2][IOTDB-6156] Fixed TConfiguration invalidly in Thrift AsyncServer For IoTConsensus](https://github.com/apache/iotdb/pull/11146) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
