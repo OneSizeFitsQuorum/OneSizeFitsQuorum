@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (1 week ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (6 months ago)
 
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [laofan13](https://github.com/laofan13)
 - [acm-py](https://github.com/acm-py)
 - [Benevor](https://github.com/Benevor)
 - [KKKZOZ](https://github.com/KKKZOZ)
 - [VinCinx](https://github.com/VinCinx)
-- [mczhuang](https://github.com/mczhuang)
 
 #### 🔨 Check out my recent pull requests
 
