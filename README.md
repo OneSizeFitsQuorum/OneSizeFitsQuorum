@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [basho/riak_core](https://github.com/basho/riak_core) - Distributed systems infrastructure used by Riak. (1 day ago)
-- [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (4 days ago)
+- [basho/riak_core](https://github.com/basho/riak_core) - Distributed systems infrastructure used by Riak. (2 days ago)
+- [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (5 days ago)
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language. (1 week ago)
-- [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM  📐 (1 week ago)
+- [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fastest similarity-measures and distance functions on the Wild West – vectors, strings, short molecules, and even DNA sequences. All with a pinch of SIMD for both x86 and ARM  📐 (2 weeks ago)
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go (2 weeks ago)
 
 #### 👯 Check out my recent followers
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1892 Unify the lifetime of the RaftServerProxy thread pool](https://github.com/apache/ratis/pull/923) on [apache/ratis](https://github.com/apache/ratis) (today)
-- [RATIS-1889 NoSuchMethodError: RaftServerMetricsImpl.addNumPendingRequestsGauge](https://github.com/apache/ratis/pull/922) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11166) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.2]Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11165) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To rel/1.2]Add replication factor metrics and add database tag in throughput metrics and schema metrics](https://github.com/apache/iotdb/pull/11154) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [RATIS-1892 Unify the lifetime of the RaftServerProxy thread pool](https://github.com/apache/ratis/pull/923) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [RATIS-1889 NoSuchMethodError: RaftServerMetricsImpl.addNumPendingRequestsGauge](https://github.com/apache/ratis/pull/922) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11166) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.2]Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11165) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To rel/1.2]Add replication factor metrics and add database tag in throughput metrics and schema metrics](https://github.com/apache/iotdb/pull/11154) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
