@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (today)
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB) (2 days ago)
 - [apache/commons-vfs](https://github.com/apache/commons-vfs) - Apache Commons VFS (2 days ago)
 - [basho/riak_core](https://github.com/basho/riak_core) - Distributed systems infrastructure used by Riak. (4 days ago)
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (1 week ago)
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language. (1 week ago)
 
 #### 👯 Check out my recent followers
 
