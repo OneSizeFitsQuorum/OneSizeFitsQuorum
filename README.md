@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [GGEthan](https://github.com/GGEthan)
 - [YinZheng-Sun](https://github.com/YinZheng-Sun)
 - [laofan13](https://github.com/laofan13)
 - [acm-py](https://github.com/acm-py)
 - [Benevor](https://github.com/Benevor)
-- [KKKZOZ](https://github.com/KKKZOZ)
 
 #### 🔨 Check out my recent pull requests
 
