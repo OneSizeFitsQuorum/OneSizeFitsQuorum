@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ZiHao256](https://github.com/ZiHao256)
 - [DMwangnima](https://github.com/DMwangnima)
 - [kongxinshitou](https://github.com/kongxinshitou)
 - [LuyuZhang00](https://github.com/LuyuZhang00)
 - [duyu09](https://github.com/duyu09)
-- [GGEthan](https://github.com/GGEthan)
 
 #### 🔨 Check out my recent pull requests
 
