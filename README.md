@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [eclipse/milo](https://github.com/eclipse/milo) -  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541). (today)
 - [umontreal-simul/TestU01-2009](https://github.com/umontreal-simul/TestU01-2009) - This is the 2009 version of TestU01, a software library, implemented in the ANSI C language, and offering a collection of utilities for the empirical statistical testing of uniform random number generators. (1 week ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 weeks ago)
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB) (2 weeks ago)
 - [apache/commons-vfs](https://github.com/apache/commons-vfs) - Apache Commons VFS (2 weeks ago)
-- [basho/riak_core](https://github.com/basho/riak_core) - Distributed systems infrastructure used by Riak. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [ruanjiancheng](https://github.com/ruanjiancheng)
 - [halegreen](https://github.com/halegreen)
 - [ZiHao256](https://github.com/ZiHao256)
 - [DMwangnima](https://github.com/DMwangnima)
 - [kongxinshitou](https://github.com/kongxinshitou)
-- [LuyuZhang00](https://github.com/LuyuZhang00)
 
 #### 🔨 Check out my recent pull requests
 
