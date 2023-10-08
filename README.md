@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [eclipse/milo](https://github.com/eclipse/milo) -  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541). (today)
+- [eclipse/milo](https://github.com/eclipse/milo) -  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541). (1 day ago)
 - [umontreal-simul/TestU01-2009](https://github.com/umontreal-simul/TestU01-2009) - This is the 2009 version of TestU01, a software library, implemented in the ANSI C language, and offering a collection of utilities for the empirical statistical testing of uniform random number generators. (1 week ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 weeks ago)
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB) (2 weeks ago)
