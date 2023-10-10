@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To rel/1.2][IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11267) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11266) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-1892 Unify the lifetime of the RaftServerProxy thread pool](https://github.com/apache/ratis/pull/923) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [RATIS-1889 NoSuchMethodError: RaftServerMetricsImpl.addNumPendingRequestsGauge](https://github.com/apache/ratis/pull/922) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11166) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[To rel/1.2]Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11165) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[To rel/1.2]Add replication factor metrics and add database tag in throughput metrics and schema metrics](https://github.com/apache/iotdb/pull/11154) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
