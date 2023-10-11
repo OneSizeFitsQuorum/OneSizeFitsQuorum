@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [duerwuyi](https://github.com/duerwuyi)
+- [whaliendev](https://github.com/whaliendev)
 - [gaojian16](https://github.com/gaojian16)
 - [howardlau1999](https://github.com/howardlau1999)
 - [ruanjiancheng](https://github.com/ruanjiancheng)
-- [halegreen](https://github.com/halegreen)
-- [ZiHao256](https://github.com/ZiHao256)
 
 #### 🔨 Check out my recent pull requests
 
