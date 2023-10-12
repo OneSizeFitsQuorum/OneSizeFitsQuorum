@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [opencurve/curve](https://github.com/opencurve/curve) - Curve is a sandbox project hosted by the CNCF Foundation. It&#39;s cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage. (today)
 - [eclipse/milo](https://github.com/eclipse/milo) -  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541). (5 days ago)
 - [umontreal-simul/TestU01-2009](https://github.com/umontreal-simul/TestU01-2009) - This is the 2009 version of TestU01, a software library, implemented in the ANSI C language, and offering a collection of utilities for the empirical statistical testing of uniform random number generators. (2 weeks ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 weeks ago)
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB) (3 weeks ago)
-- [apache/commons-vfs](https://github.com/apache/commons-vfs) - Apache Commons VFS (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [fjh0725](https://github.com/fjh0725)
 - [duerwuyi](https://github.com/duerwuyi)
 - [whaliendev](https://github.com/whaliendev)
 - [gaojian16](https://github.com/gaojian16)
 - [howardlau1999](https://github.com/howardlau1999)
-- [ruanjiancheng](https://github.com/ruanjiancheng)
 
 #### 🔨 Check out my recent pull requests
 
