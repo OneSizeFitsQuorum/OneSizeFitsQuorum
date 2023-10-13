@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Jasdent](https://github.com/Jasdent)
 - [fjh0725](https://github.com/fjh0725)
 - [duerwuyi](https://github.com/duerwuyi)
 - [whaliendev](https://github.com/whaliendev)
 - [gaojian16](https://github.com/gaojian16)
-- [howardlau1999](https://github.com/howardlau1999)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11304) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rel/1.2][IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11267) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11266) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [RATIS-1892 Unify the lifetime of the RaftServerProxy thread pool](https://github.com/apache/ratis/pull/923) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [RATIS-1889 NoSuchMethodError: RaftServerMetricsImpl.addNumPendingRequestsGauge](https://github.com/apache/ratis/pull/922) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
-- [Fix NPE issue when setting system to readonly manually](https://github.com/apache/iotdb/pull/11166) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
