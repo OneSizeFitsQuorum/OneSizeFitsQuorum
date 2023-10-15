@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [luckyzzx](https://github.com/luckyzzx)
 - [huang1125677925](https://github.com/huang1125677925)
 - [Jasdent](https://github.com/Jasdent)
 - [fjh0725](https://github.com/fjh0725)
 - [duerwuyi](https://github.com/duerwuyi)
-- [whaliendev](https://github.com/whaliendev)
 
 #### 🔨 Check out my recent pull requests
 
