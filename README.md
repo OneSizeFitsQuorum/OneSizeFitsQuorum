@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Sailfishc](https://github.com/Sailfishc)
 - [luckyzzx](https://github.com/luckyzzx)
 - [huang1125677925](https://github.com/huang1125677925)
 - [Jasdent](https://github.com/Jasdent)
 - [fjh0725](https://github.com/fjh0725)
-- [duerwuyi](https://github.com/duerwuyi)
 
 #### 🔨 Check out my recent pull requests
 
