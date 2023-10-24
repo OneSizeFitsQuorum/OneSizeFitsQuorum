@@ -45,8 +45,8 @@
 #### 🔨 Check out my recent pull requests
 
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11304) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rel/1.2][IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11267) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11266) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[To rel/1.2][IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11267) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [[IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11266) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-1892 Unify the lifetime of the RaftServerProxy thread pool](https://github.com/apache/ratis/pull/923) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [RATIS-1889 NoSuchMethodError: RaftServerMetricsImpl.addNumPendingRequestsGauge](https://github.com/apache/ratis/pull/922) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
