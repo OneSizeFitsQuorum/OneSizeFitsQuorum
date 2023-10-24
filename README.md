@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (7 months ago)
@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Fan03z](https://github.com/Fan03z)
 - [travis-zzZ](https://github.com/travis-zzZ)
 - [Harlliey](https://github.com/Harlliey)
 - [lmqqqqqq](https://github.com/lmqqqqqq)
 - [Sailfishc](https://github.com/Sailfishc)
-- [luckyzzx](https://github.com/luckyzzx)
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [RATIS-1918 Introduces parameters that separately control the shutdown of RaftServerProxy by JVMPauseMonitor](https://github.com/apache/ratis/pull/950) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11304) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To rel/1.2][IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11267) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11266) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [RATIS-1892 Unify the lifetime of the RaftServerProxy thread pool](https://github.com/apache/ratis/pull/923) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
-- [RATIS-1889 NoSuchMethodError: RaftServerMetricsImpl.addNumPendingRequestsGauge](https://github.com/apache/ratis/pull/922) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
