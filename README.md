@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
 - [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (7 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 days ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (3 days ago)
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a sandbox project hosted by the CNCF Foundation. It&#39;s cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage. (2 weeks ago)
 - [eclipse/milo](https://github.com/eclipse/milo) -  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541). (2 weeks ago)
 - [umontreal-simul/TestU01-2009](https://github.com/umontreal-simul/TestU01-2009) - This is the 2009 version of TestU01, a software library, implemented in the ANSI C language, and offering a collection of utilities for the empirical statistical testing of uniform random number generators. (1 month ago)
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
-- [RATIS-1918 Introduces parameters that separately control the shutdown of RaftServerProxy by JVMPauseMonitor](https://github.com/apache/ratis/pull/950) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
-- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11304) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
+- [RATIS-1918 Introduces parameters that separately control the shutdown of RaftServerProxy by JVMPauseMonitor](https://github.com/apache/ratis/pull/950) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
+- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11304) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[To rel/1.2][IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11267) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11266) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
