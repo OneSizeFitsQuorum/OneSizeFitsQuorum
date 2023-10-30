@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [wenbingyin](https://github.com/wenbingyin)
 - [1193600423](https://github.com/1193600423)
 - [Fan03z](https://github.com/Fan03z)
 - [travis-zzZ](https://github.com/travis-zzZ)
 - [Harlliey](https://github.com/Harlliey)
-- [lmqqqqqq](https://github.com/lmqqqqqq)
 
 #### 🔨 Check out my recent pull requests
 
+- [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck ](https://github.com/apache/iotdb/pull/11416) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [RATIS-1918 Introduces parameters that separately control the shutdown of RaftServerProxy by JVMPauseMonitor](https://github.com/apache/ratis/pull/950) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11304) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[To rel/1.2][IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11267) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[IOTDB-6183] Optimize the timeout retry logic of IoTConsensus sending RPCS](https://github.com/apache/iotdb/pull/11266) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
