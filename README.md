@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
-- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (7 months ago)
+- [OneSizeFitsQuorum/awesome-async-thrift](https://github.com/OneSizeFitsQuorum/awesome-async-thrift) -  (8 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck ](https://github.com/apache/iotdb/pull/11416) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck ](https://github.com/apache/iotdb/pull/11416) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [RATIS-1918 Introduces parameters that separately control the shutdown of RaftServerProxy by JVMPauseMonitor](https://github.com/apache/ratis/pull/950) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11304) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
