@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [CHIHIRO930](https://github.com/CHIHIRO930)
 - [slipegg](https://github.com/slipegg)
 - [BocchiChen](https://github.com/BocchiChen)
 - [zesiar0](https://github.com/zesiar0)
 - [liyun-zhang](https://github.com/liyun-zhang)
-- [wenbingyin](https://github.com/wenbingyin)
 
 #### 🔨 Check out my recent pull requests
 
