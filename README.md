@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [WalterJ726](https://github.com/WalterJ726)
+- [yhx-coder](https://github.com/yhx-coder)
+- [cool-wangtongzhou](https://github.com/cool-wangtongzhou)
 - [lyupy](https://github.com/lyupy)
 - [ThatcherChen](https://github.com/ThatcherChen)
-- [King-ty](https://github.com/King-ty)
-- [CHIHIRO930](https://github.com/CHIHIRO930)
-- [slipegg](https://github.com/slipegg)
 
 #### 🔨 Check out my recent pull requests
 
