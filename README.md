@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [lyupy](https://github.com/lyupy)
 - [ThatcherChen](https://github.com/ThatcherChen)
 - [King-ty](https://github.com/King-ty)
 - [CHIHIRO930](https://github.com/CHIHIRO930)
 - [slipegg](https://github.com/slipegg)
-- [BocchiChen](https://github.com/BocchiChen)
 
 #### 🔨 Check out my recent pull requests
 
