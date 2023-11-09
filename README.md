@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [QifangTing](https://github.com/QifangTing)
+- [superpg-WA](https://github.com/superpg-WA)
+- [AndrewChasen](https://github.com/AndrewChasen)
 - [WalterJ726](https://github.com/WalterJ726)
 - [yhx-coder](https://github.com/yhx-coder)
-- [cool-wangtongzhou](https://github.com/cool-wangtongzhou)
-- [lyupy](https://github.com/lyupy)
-- [ThatcherChen](https://github.com/ThatcherChen)
 
 #### 🔨 Check out my recent pull requests
 
