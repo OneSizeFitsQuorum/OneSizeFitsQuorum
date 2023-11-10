@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [scuptio/sedeve-kit](https://github.com/scuptio/sedeve-kit) - Specification-Driven Development Kit (today)
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram (1 week ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 weeks ago)
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a sandbox project hosted by the CNCF Foundation. It&#39;s cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage. (4 weeks ago)
 - [eclipse/milo](https://github.com/eclipse/milo) -  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541). (1 month ago)
-- [umontreal-simul/TestU01-2009](https://github.com/umontreal-simul/TestU01-2009) - This is the 2009 version of TestU01, a software library, implemented in the ANSI C language, and offering a collection of utilities for the empirical statistical testing of uniform random number generators. (1 month ago)
 
 #### 👯 Check out my recent followers
 
+- [ybbh](https://github.com/ybbh)
+- [Matthew-Lyu](https://github.com/Matthew-Lyu)
+- [liuyiiib](https://github.com/liuyiiib)
 - [QifangTing](https://github.com/QifangTing)
 - [superpg-WA](https://github.com/superpg-WA)
-- [AndrewChasen](https://github.com/AndrewChasen)
-- [WalterJ726](https://github.com/WalterJ726)
-- [yhx-coder](https://github.com/yhx-coder)
 
 #### 🔨 Check out my recent pull requests
 
+- [Check and update searchIndex when restarting dataNode if necessary](https://github.com/apache/iotdb/pull/11510) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck ](https://github.com/apache/iotdb/pull/11416) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [RATIS-1918 Introduces parameters that separately control the shutdown of RaftServerProxy by JVMPauseMonitor](https://github.com/apache/ratis/pull/950) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
-- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11304) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
