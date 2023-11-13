@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [pylrichard](https://github.com/pylrichard)
 - [Sh-Zh-7](https://github.com/Sh-Zh-7)
 - [Yufccode](https://github.com/Yufccode)
 - [ybbh](https://github.com/ybbh)
 - [Matthew-Lyu](https://github.com/Matthew-Lyu)
-- [liuyiiib](https://github.com/liuyiiib)
 
 #### 🔨 Check out my recent pull requests
 
