@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [RashLog](https://github.com/RashLog)
+- [JosephJostar0](https://github.com/JosephJostar0)
 - [RedRocks911](https://github.com/RedRocks911)
 - [iXwtCode](https://github.com/iXwtCode)
 - [pylrichard](https://github.com/pylrichard)
-- [Sh-Zh-7](https://github.com/Sh-Zh-7)
-- [Yufccode](https://github.com/Yufccode)
 
 #### 🔨 Check out my recent pull requests
 
