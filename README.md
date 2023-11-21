@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ASUKA39](https://github.com/ASUKA39)
 - [RashLog](https://github.com/RashLog)
 - [JosephJostar0](https://github.com/JosephJostar0)
 - [RedRocks911](https://github.com/RedRocks911)
 - [iXwtCode](https://github.com/iXwtCode)
-- [pylrichard](https://github.com/pylrichard)
 
 #### 🔨 Check out my recent pull requests
 
