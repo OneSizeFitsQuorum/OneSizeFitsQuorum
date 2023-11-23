@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [now-ing](https://github.com/now-ing)
+- [thiswinex](https://github.com/thiswinex)
 - [ASUKA39](https://github.com/ASUKA39)
 - [RashLog](https://github.com/RashLog)
 - [JosephJostar0](https://github.com/JosephJostar0)
-- [RedRocks911](https://github.com/RedRocks911)
-- [iXwtCode](https://github.com/iXwtCode)
 
 #### 🔨 Check out my recent pull requests
 
