@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (5 months ago)
@@ -29,8 +29,8 @@
 #### ⭐ Check out my recent stars
 
 - [scuptio/sedeve-kit](https://github.com/scuptio/sedeve-kit) - Specification-Driven Development Kit (1 week ago)
-- [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram (2 weeks ago)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (4 weeks ago)
+- [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram (3 weeks ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 month ago)
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a sandbox project hosted by the CNCF Foundation. It&#39;s cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage. (1 month ago)
 - [eclipse/milo](https://github.com/eclipse/milo) -  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541). (1 month ago)
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Enhance IoTConsensus retry judgement to all writenodes in a batch](https://github.com/apache/iotdb/pull/11564) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Enhance IoTConsensus retry judgement to all writenodes in a batch](https://github.com/apache/iotdb/pull/11564) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Check and update searchIndex when restarting dataNode if necessary](https://github.com/apache/iotdb/pull/11510) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck ](https://github.com/apache/iotdb/pull/11416) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (4 weeks ago)
+- [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
