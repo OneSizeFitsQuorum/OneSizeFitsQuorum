@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mag1c1an1](https://github.com/mag1c1an1)
 - [upupnoah](https://github.com/upupnoah)
 - [thenxkk](https://github.com/thenxkk)
 - [now-ing](https://github.com/now-ing)
 - [thiswinex](https://github.com/thiswinex)
-- [ASUKA39](https://github.com/ASUKA39)
 
 #### 🔨 Check out my recent pull requests
 
