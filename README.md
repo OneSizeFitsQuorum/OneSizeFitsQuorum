@@ -46,8 +46,8 @@
 
 - [Enhance IoTConsensus retry judgement to all writenodes in a batch](https://github.com/apache/iotdb/pull/11564) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Check and update searchIndex when restarting dataNode if necessary](https://github.com/apache/iotdb/pull/11510) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck ](https://github.com/apache/iotdb/pull/11416) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
+- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck ](https://github.com/apache/iotdb/pull/11416) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 - [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
