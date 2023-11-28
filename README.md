@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (5 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Adjust series_partition_slot_num to series_slot_num in the response message](https://github.com/apache/iotdb/pull/11628) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Enhance IoTConsensus retry judgement to all writenodes in a batch](https://github.com/apache/iotdb/pull/11564) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Check and update searchIndex when restarting dataNode if necessary](https://github.com/apache/iotdb/pull/11510) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck ](https://github.com/apache/iotdb/pull/11416) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
-- [RATIS-1919 Fix some sonar code smell and bugs in ratis-client/common/grpc](https://github.com/apache/ratis/pull/951) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
