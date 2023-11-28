@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps. (today)
+- [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps. (1 day ago)
 - [scuptio/sedeve-kit](https://github.com/scuptio/sedeve-kit) - Specification-Driven Development Kit (2 weeks ago)
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram (3 weeks ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 month ago)
