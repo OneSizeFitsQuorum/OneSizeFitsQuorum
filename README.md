@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [LegGasai](https://github.com/LegGasai)
 - [0130w](https://github.com/0130w)
 - [mag1c1an1](https://github.com/mag1c1an1)
 - [upupnoah](https://github.com/upupnoah)
 - [thenxkk](https://github.com/thenxkk)
-- [now-ing](https://github.com/now-ing)
 
 #### 🔨 Check out my recent pull requests
 
