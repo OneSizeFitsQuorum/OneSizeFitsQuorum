@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Novice-DH](https://github.com/Novice-DH)
 - [Zerlina-ysl](https://github.com/Zerlina-ysl)
 - [LegGasai](https://github.com/LegGasai)
 - [0130w](https://github.com/0130w)
 - [mag1c1an1](https://github.com/mag1c1an1)
-- [upupnoah](https://github.com/upupnoah)
 
 #### 🔨 Check out my recent pull requests
 
