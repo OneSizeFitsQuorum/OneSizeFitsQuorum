@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (6 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI (today)
+- [chenzhutian/hexo-all-minifier](https://github.com/chenzhutian/hexo-all-minifier) - A plugin for Hexo that optimizes HTML, CSS, JS and imagages, and it can optionally deploys your blog. (today)
+- [hexojs/hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) - Feed generator for Hexo. (today)
+- [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform (today)
 - [prometheus/client_java](https://github.com/prometheus/client_java) - Prometheus instrumentation library for JVM applications (today)
-- [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。 (1 day ago)
-- [apache/tsfile](https://github.com/apache/tsfile) - Apache tsfile (5 days ago)
-- [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps. (1 week ago)
-- [scuptio/sedeve-kit](https://github.com/scuptio/sedeve-kit) - Specification-Driven Development Kit (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
