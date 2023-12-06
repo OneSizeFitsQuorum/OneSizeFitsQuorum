@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (6 months ago)
@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [prometheus/client_java](https://github.com/prometheus/client_java) - Prometheus instrumentation library for JVM applications (today)
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。 (1 day ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache tsfile (5 days ago)
 - [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps. (1 week ago)
 - [scuptio/sedeve-kit](https://github.com/scuptio/sedeve-kit) - Specification-Driven Development Kit (3 weeks ago)
-- [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram (1 month ago)
 
 #### 👯 Check out my recent followers
 
+- [Flokken](https://github.com/Flokken)
 - [zxgsn](https://github.com/zxgsn)
 - [hushui502](https://github.com/hushui502)
 - [Novice-DH](https://github.com/Novice-DH)
 - [Zerlina-ysl](https://github.com/Zerlina-ysl)
-- [LegGasai](https://github.com/LegGasai)
 
 #### 🔨 Check out my recent pull requests
 
+- [Add format check for Prometheus Reporter Check](https://github.com/apache/iotdb/pull/11666) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Adjust series_partition_slot_num to series_slot_num in the response message](https://github.com/apache/iotdb/pull/11628) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enhance IoTConsensus retry judgement to all writenodes in a batch](https://github.com/apache/iotdb/pull/11564) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Check and update searchIndex when restarting dataNode if necessary](https://github.com/apache/iotdb/pull/11510) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck ](https://github.com/apache/iotdb/pull/11416) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
