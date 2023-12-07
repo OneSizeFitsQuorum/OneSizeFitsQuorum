@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (6 months ago)
@@ -36,24 +36,24 @@
 
 #### 👯 Check out my recent followers
 
+- [LiuxuyangK](https://github.com/LiuxuyangK)
 - [hasnainnaeem](https://github.com/hasnainnaeem)
 - [Flokken](https://github.com/Flokken)
 - [zxgsn](https://github.com/zxgsn)
 - [hushui502](https://github.com/hushui502)
-- [Novice-DH](https://github.com/Novice-DH)
 
 #### 🔨 Check out my recent pull requests
 
+- [Optimize the efficiency of map-related code in IRegionGroupAllocator](https://github.com/apache/iotdb/pull/11673) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Add format check for Prometheus Reporter Check](https://github.com/apache/iotdb/pull/11666) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Adjust series_partition_slot_num to series_slot_num in the response message](https://github.com/apache/iotdb/pull/11628) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enhance IoTConsensus retry judgement to all writenodes in a batch](https://github.com/apache/iotdb/pull/11564) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Check and update searchIndex when restarting dataNode if necessary](https://github.com/apache/iotdb/pull/11510) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [Fixed Ratis server RPC timeout parameter setting invalidation bug](https://github.com/apache/iotdb/pull/11418) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
+- [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (today)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (10 months ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (11 months ago)
 - [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (1 year ago)
 - [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (1 year ago)
-- [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (1 year ago)
