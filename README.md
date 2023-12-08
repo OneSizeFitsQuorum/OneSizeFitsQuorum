@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Focus5679/HotRing-simple-and-simple-demo](https://github.com/Focus5679/HotRing-simple-and-simple-demo) - HotRing: A Hotspot-Aware In-Memory Key-Value Store reading report code/data (today)
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI (2 days ago)
 - [chenzhutian/hexo-all-minifier](https://github.com/chenzhutian/hexo-all-minifier) - A plugin for Hexo that optimizes HTML, CSS, JS and imagages, and it can optionally deploys your blog. (2 days ago)
 - [hexojs/hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) - Feed generator for Hexo. (2 days ago)
 - [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform (2 days ago)
-- [prometheus/client_java](https://github.com/prometheus/client_java) - Prometheus instrumentation library for JVM applications (2 days ago)
 
 #### 👯 Check out my recent followers
 
+- [adorabled4](https://github.com/adorabled4)
 - [LiuxuyangK](https://github.com/LiuxuyangK)
 - [hasnainnaeem](https://github.com/hasnainnaeem)
 - [Flokken](https://github.com/Flokken)
 - [zxgsn](https://github.com/zxgsn)
-- [hushui502](https://github.com/hushui502)
 
 #### 🔨 Check out my recent pull requests
 
