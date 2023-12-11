@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (3 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (today)
 - [Focus5679/HotRing-simple-and-simple-demo](https://github.com/Focus5679/HotRing-simple-and-simple-demo) - HotRing: A Hotspot-Aware In-Memory Key-Value Store reading report code/data (3 days ago)
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI (5 days ago)
 - [chenzhutian/hexo-all-minifier](https://github.com/chenzhutian/hexo-all-minifier) - A plugin for Hexo that optimizes HTML, CSS, JS and imagages, and it can optionally deploys your blog. (5 days ago)
 - [hexojs/hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) - Feed generator for Hexo. (5 days ago)
-- [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Enhance parameter dn_seed_config_node commets order](https://github.com/apache/iotdb/pull/11687) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance the exapmle of parameter dn_seed_config_node ](https://github.com/apache/iotdb/pull/11686) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance the note of parameter seed_config_node ](https://github.com/apache/iotdb/pull/11685) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Optimize the efficiency of map-related code in IRegionGroupAllocator](https://github.com/apache/iotdb/pull/11673) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [Add format check for Prometheus Reporter Check](https://github.com/apache/iotdb/pull/11666) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Adjust series_partition_slot_num to series_slot_num in the response message](https://github.com/apache/iotdb/pull/11628) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Enhance IoTConsensus retry judgement to all writenodes in a batch](https://github.com/apache/iotdb/pull/11564) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [Check and update searchIndex when restarting dataNode if necessary](https://github.com/apache/iotdb/pull/11510) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
