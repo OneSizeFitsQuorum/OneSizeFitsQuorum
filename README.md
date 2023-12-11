@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [tu-yucheng](https://github.com/tu-yucheng)
+- [EdisonChenZX](https://github.com/EdisonChenZX)
 - [adorabled4](https://github.com/adorabled4)
 - [LiuxuyangK](https://github.com/LiuxuyangK)
 - [hasnainnaeem](https://github.com/hasnainnaeem)
-- [Flokken](https://github.com/Flokken)
-- [zxgsn](https://github.com/zxgsn)
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11691) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Enhance parameter dn_seed_config_node commets order](https://github.com/apache/iotdb/pull/11687) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Enhance the exapmle of parameter dn_seed_config_node ](https://github.com/apache/iotdb/pull/11686) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Enhance the note of parameter seed_config_node ](https://github.com/apache/iotdb/pull/11685) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Optimize the efficiency of map-related code in IRegionGroupAllocator](https://github.com/apache/iotdb/pull/11673) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Add format check for Prometheus Reporter Check](https://github.com/apache/iotdb/pull/11666) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
