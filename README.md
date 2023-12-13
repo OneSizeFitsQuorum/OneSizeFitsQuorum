@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (3 months ago)
@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Jrebel-i](https://github.com/Jrebel-i)
 - [HuanXin-Chen](https://github.com/HuanXin-Chen)
 - [Qiaolin-Yu](https://github.com/Qiaolin-Yu)
 - [tu-yucheng](https://github.com/tu-yucheng)
 - [EdisonChenZX](https://github.com/EdisonChenZX)
-- [adorabled4](https://github.com/adorabled4)
 
 #### 🔨 Check out my recent pull requests
 
+- [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enable Jenkins Log when CI failed](https://github.com/apache/iotdb/pull/11700) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11691) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Enhance parameter dn_seed_config_node commets order](https://github.com/apache/iotdb/pull/11687) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Enhance the exapmle of parameter dn_seed_config_node ](https://github.com/apache/iotdb/pull/11686) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Enhance the note of parameter seed_config_node ](https://github.com/apache/iotdb/pull/11685) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Optimize the efficiency of map-related code in IRegionGroupAllocator](https://github.com/apache/iotdb/pull/11673) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
