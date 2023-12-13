@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning. (today)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (2 days ago)
 - [Focus5679/HotRing-simple-and-simple-demo](https://github.com/Focus5679/HotRing-simple-and-simple-demo) - HotRing: A Hotspot-Aware In-Memory Key-Value Store reading report code/data (5 days ago)
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI (1 week ago)
 - [chenzhutian/hexo-all-minifier](https://github.com/chenzhutian/hexo-all-minifier) - A plugin for Hexo that optimizes HTML, CSS, JS and imagages, and it can optionally deploys your blog. (1 week ago)
-- [hexojs/hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) - Feed generator for Hexo. (1 week ago)
 
 #### 👯 Check out my recent followers
 
