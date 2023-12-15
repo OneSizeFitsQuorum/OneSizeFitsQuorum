@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (3 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store (today)
-- [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning. (1 day ago)
-- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (3 days ago)
-- [Focus5679/HotRing-simple-and-simple-demo](https://github.com/Focus5679/HotRing-simple-and-simple-demo) - HotRing: A Hotspot-Aware In-Memory Key-Value Store reading report code/data (6 days ago)
+- [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store (1 day ago)
+- [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning. (2 days ago)
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (4 days ago)
+- [Focus5679/HotRing-simple-and-simple-demo](https://github.com/Focus5679/HotRing-simple-and-simple-demo) - HotRing: A Hotspot-Aware In-Memory Key-Value Store reading report code/data (1 week ago)
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,16 +44,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Improved stability of Ratis addMemberToGroup and testThresholdSnapshot UT](https://github.com/apache/iotdb/pull/11717) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Enable Jenkins Log when CI failed](https://github.com/apache/iotdb/pull/11700) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11691) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [Enhance parameter dn_seed_config_node commets order](https://github.com/apache/iotdb/pull/11687) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Improved stability of Ratis addMemberToGroup and testThresholdSnapshot UT](https://github.com/apache/iotdb/pull/11717) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Enable Jenkins Log when CI failed](https://github.com/apache/iotdb/pull/11700) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11691) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [Enhance parameter dn_seed_config_node commets order](https://github.com/apache/iotdb/pull/11687) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (1 week ago)
-- [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (10 months ago)
+- [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (11 months ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (1 year ago)
 - [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (1 year ago)
 - [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (1 year ago)
