@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (3 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store (2 days ago)
-- [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning. (3 days ago)
-- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (5 days ago)
+- [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store (3 days ago)
+- [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning. (4 days ago)
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (6 days ago)
 - [Focus5679/HotRing-simple-and-simple-demo](https://github.com/Focus5679/HotRing-simple-and-simple-demo) - HotRing: A Hotspot-Aware In-Memory Key-Value Store reading report code/data (1 week ago)
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI (1 week ago)
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Improved stability of Ratis addMemberToGroup and testThresholdSnapshot UT](https://github.com/apache/iotdb/pull/11717) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [Enable Jenkins Log when CI failed](https://github.com/apache/iotdb/pull/11700) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11691) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Enhance parameter dn_seed_config_node commets order](https://github.com/apache/iotdb/pull/11687) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Improved stability of Ratis addMemberToGroup and testThresholdSnapshot UT](https://github.com/apache/iotdb/pull/11717) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [Enable Jenkins Log when CI failed](https://github.com/apache/iotdb/pull/11700) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11691) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Enhance parameter dn_seed_config_node commets order](https://github.com/apache/iotdb/pull/11687) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
