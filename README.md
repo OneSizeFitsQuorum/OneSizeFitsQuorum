@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [pengshy](https://github.com/pengshy)
 - [Jrebel-i](https://github.com/Jrebel-i)
 - [HuanXin-Chen](https://github.com/HuanXin-Chen)
 - [Qiaolin-Yu](https://github.com/Qiaolin-Yu)
 - [tu-yucheng](https://github.com/tu-yucheng)
-- [EdisonChenZX](https://github.com/EdisonChenZX)
 
 #### 🔨 Check out my recent pull requests
 
