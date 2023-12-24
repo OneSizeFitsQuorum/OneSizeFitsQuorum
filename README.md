@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (3 months ago)
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11737) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11737) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Improved stability of Ratis addMemberToGroup and testThresholdSnapshot UT](https://github.com/apache/iotdb/pull/11717) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enable Jenkins Log when CI failed](https://github.com/apache/iotdb/pull/11700) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
