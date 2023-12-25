@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (3 months ago)
@@ -30,7 +30,7 @@
 
 - [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store (1 week ago)
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning. (1 week ago)
-- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (1 week ago)
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (2 weeks ago)
 - [Focus5679/HotRing-simple-and-simple-demo](https://github.com/Focus5679/HotRing-simple-and-simple-demo) - HotRing: A Hotspot-Aware In-Memory Key-Value Store reading report code/data (2 weeks ago)
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI (2 weeks ago)
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11737) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11737) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Improved stability of Ratis addMemberToGroup and testThresholdSnapshot UT](https://github.com/apache/iotdb/pull/11717) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enable Jenkins Log when CI failed](https://github.com/apache/iotdb/pull/11700) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11691) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11691) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
