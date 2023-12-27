@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [JustDoIt0910](https://github.com/JustDoIt0910)
+- [SaviorXu](https://github.com/SaviorXu)
 - [CrystalAnalyst](https://github.com/CrystalAnalyst)
 - [pengshy](https://github.com/pengshy)
 - [Jrebel-i](https://github.com/Jrebel-i)
-- [HuanXin-Chen](https://github.com/HuanXin-Chen)
-- [Qiaolin-Yu](https://github.com/Qiaolin-Yu)
 
 #### 🔨 Check out my recent pull requests
 
