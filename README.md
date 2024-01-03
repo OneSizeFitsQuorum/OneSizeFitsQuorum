@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [HTHou](https://github.com/HTHou)
+- [l0ngc](https://github.com/l0ngc)
 - [XLXXLXXLX](https://github.com/XLXXLXXLX)
 - [JustDoIt0910](https://github.com/JustDoIt0910)
 - [SaviorXu](https://github.com/SaviorXu)
-- [CrystalAnalyst](https://github.com/CrystalAnalyst)
-- [pengshy](https://github.com/pengshy)
 
 #### 🔨 Check out my recent pull requests
 
