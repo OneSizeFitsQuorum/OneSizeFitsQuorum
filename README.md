@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [SolidLao/GPTuner](https://github.com/SolidLao/GPTuner) - GPTuner is a manual-reading database tuning system leveraging domain knowlege automatically and extensively to enhance knob tuning process. (today)
 - [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store (3 weeks ago)
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning. (3 weeks ago)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (3 weeks ago)
 - [Focus5679/HotRing-simple-and-simple-demo](https://github.com/Focus5679/HotRing-simple-and-simple-demo) - HotRing: A Hotspot-Aware In-Memory Key-Value Store reading report code/data (3 weeks ago)
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
