@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [swirling-wind](https://github.com/swirling-wind)
+- [lokax](https://github.com/lokax)
 - [caicancai](https://github.com/caicancai)
 - [Apricity001](https://github.com/Apricity001)
 - [HTHou](https://github.com/HTHou)
-- [l0ngc](https://github.com/l0ngc)
-- [XLXXLXXLX](https://github.com/XLXXLXXLX)
 
 #### 🔨 Check out my recent pull requests
 
