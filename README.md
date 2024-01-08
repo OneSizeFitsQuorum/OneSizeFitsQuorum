@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [openjdk/jdk17](https://github.com/openjdk/jdk17) - https://openjdk.org/projects/jdk/17 released 2021-09-14 (today)
 - [SolidLao/GPTuner](https://github.com/SolidLao/GPTuner) - GPTuner is a manual-reading database tuning system leveraging domain knowlege automatically and extensively to enhance knob tuning process. (4 days ago)
 - [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store (3 weeks ago)
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning. (3 weeks ago)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (4 weeks ago)
-- [Focus5679/HotRing-simple-and-simple-demo](https://github.com/Focus5679/HotRing-simple-and-simple-demo) - HotRing: A Hotspot-Aware In-Memory Key-Value Store reading report code/data (1 month ago)
 
 #### 👯 Check out my recent followers
 
