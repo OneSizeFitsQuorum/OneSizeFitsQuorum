@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/flink-benchmarks](https://github.com/apache/flink-benchmarks) - Benchmarks for Apache Flink (today)
+- [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site (today)
+- [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (today)
 - [openjdk/jdk17](https://github.com/openjdk/jdk17) - https://openjdk.org/projects/jdk/17 released 2021-09-14 (today)
 - [SolidLao/GPTuner](https://github.com/SolidLao/GPTuner) - GPTuner is a manual-reading database tuning system leveraging domain knowlege automatically and extensively to enhance knob tuning process. (4 days ago)
-- [linkedin/ambry](https://github.com/linkedin/ambry) - Distributed object store (3 weeks ago)
-- [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning. (3 weeks ago)
-- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
