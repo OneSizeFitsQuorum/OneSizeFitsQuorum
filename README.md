@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C&#43;&#43;, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 (today)
 - [apache/flink-benchmarks](https://github.com/apache/flink-benchmarks) - Benchmarks for Apache Flink (1 day ago)
 - [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site (1 day ago)
 - [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (1 day ago)
 - [openjdk/jdk17](https://github.com/openjdk/jdk17) - https://openjdk.org/projects/jdk/17 released 2021-09-14 (1 day ago)
-- [SolidLao/GPTuner](https://github.com/SolidLao/GPTuner) - GPTuner is a manual-reading database tuning system leveraging domain knowlege automatically and extensively to enhance knob tuning process. (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11865) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-6281] Enhance Procedure metrics](https://github.com/apache/iotdb/pull/11857) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11737) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Improved stability of Ratis addMemberToGroup and testThresholdSnapshot UT](https://github.com/apache/iotdb/pull/11717) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [Enable Jenkins Log when CI failed](https://github.com/apache/iotdb/pull/11700) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
