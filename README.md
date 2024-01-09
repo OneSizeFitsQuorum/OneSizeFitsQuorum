@@ -12,10 +12,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
-- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (3 months ago)
+- [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (4 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (7 months ago)
 
 #### 🌱 Check out my recent projects
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/flink-benchmarks](https://github.com/apache/flink-benchmarks) - Benchmarks for Apache Flink (today)
-- [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site (today)
-- [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (today)
-- [openjdk/jdk17](https://github.com/openjdk/jdk17) - https://openjdk.org/projects/jdk/17 released 2021-09-14 (today)
-- [SolidLao/GPTuner](https://github.com/SolidLao/GPTuner) - GPTuner is a manual-reading database tuning system leveraging domain knowlege automatically and extensively to enhance knob tuning process. (4 days ago)
+- [apache/flink-benchmarks](https://github.com/apache/flink-benchmarks) - Benchmarks for Apache Flink (1 day ago)
+- [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site (1 day ago)
+- [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (1 day ago)
+- [openjdk/jdk17](https://github.com/openjdk/jdk17) - https://openjdk.org/projects/jdk/17 released 2021-09-14 (1 day ago)
+- [SolidLao/GPTuner](https://github.com/SolidLao/GPTuner) - GPTuner is a manual-reading database tuning system leveraging domain knowlege automatically and extensively to enhance knob tuning process. (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[IOTDB-6281] Enhance Procedure metrics](https://github.com/apache/iotdb/pull/11857) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[IOTDB-6281] Enhance Procedure metrics](https://github.com/apache/iotdb/pull/11857) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11737) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Improved stability of Ratis addMemberToGroup and testThresholdSnapshot UT](https://github.com/apache/iotdb/pull/11717) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
