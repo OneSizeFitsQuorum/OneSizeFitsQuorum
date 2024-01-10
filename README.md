@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Maple-pro](https://github.com/Maple-pro)
 - [wangxintao2002](https://github.com/wangxintao2002)
 - [swirling-wind](https://github.com/swirling-wind)
 - [lokax](https://github.com/lokax)
 - [caicancai](https://github.com/caicancai)
-- [Apricity001](https://github.com/Apricity001)
 
 #### 🔨 Check out my recent pull requests
 
