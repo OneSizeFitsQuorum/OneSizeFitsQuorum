@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Subsegment](https://github.com/Subsegment)
 - [Maple-pro](https://github.com/Maple-pro)
 - [wangxintao2002](https://github.com/wangxintao2002)
 - [swirling-wind](https://github.com/swirling-wind)
 - [lokax](https://github.com/lokax)
-- [caicancai](https://github.com/caicancai)
 
 #### 🔨 Check out my recent pull requests
 
