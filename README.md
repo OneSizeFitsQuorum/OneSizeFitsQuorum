@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Optimize dispatch log printing in the Readonly scenario](https://github.com/apache/iotdb/pull/11898) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11865) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [[IOTDB-6281] Enhance Procedure metrics](https://github.com/apache/iotdb/pull/11857) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11737) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 - [Improved stability of Ratis addMemberToGroup and testThresholdSnapshot UT](https://github.com/apache/iotdb/pull/11717) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [Enable jenkins log when ci failed](https://github.com/apache/iotdb/pull/11701) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
