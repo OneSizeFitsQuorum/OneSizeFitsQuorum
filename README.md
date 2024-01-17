@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 (today)
 - [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Bind a java thread to a given core (1 day ago)
 - [jgroups-extras/jgroups-raft](https://github.com/jgroups-extras/jgroups-raft) - Implementation of the RAFT consensus protocol in JGroups (1 day ago)
 - [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy. (1 week ago)
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C&#43;&#43;, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 (1 week ago)
-- [apache/flink-benchmarks](https://github.com/apache/flink-benchmarks) - Benchmarks for Apache Flink (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [LeoLuo0115](https://github.com/LeoLuo0115)
 - [Kosthi](https://github.com/Kosthi)
 - [hanyunchang](https://github.com/hanyunchang)
 - [Subsegment](https://github.com/Subsegment)
 - [Maple-pro](https://github.com/Maple-pro)
-- [wangxintao2002](https://github.com/wangxintao2002)
 
 #### 🔨 Check out my recent pull requests
 
