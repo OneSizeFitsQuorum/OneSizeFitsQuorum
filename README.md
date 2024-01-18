@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [zai3333](https://github.com/zai3333)
 - [LeoLuo0115](https://github.com/LeoLuo0115)
 - [Kosthi](https://github.com/Kosthi)
 - [hanyunchang](https://github.com/hanyunchang)
 - [Subsegment](https://github.com/Subsegment)
-- [Maple-pro](https://github.com/Maple-pro)
 
 #### 🔨 Check out my recent pull requests
 
+- [Fixed the issue that IoTConsensus synchronization is stuck when WAL file is corrupted](https://github.com/apache/iotdb/pull/11930) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Fix the issue where ConfigNode reports &#39;ConsensusGroupAlreadyExist&#39; error during startup in some scenarios](https://github.com/apache/iotdb/pull/11928) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Enable SchemaRegion Leader Auto Balance](https://github.com/apache/iotdb/pull/11926) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Optimize dispatch log printing in the Readonly scenario](https://github.com/apache/iotdb/pull/11898) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11865) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-6281] Enhance Procedure metrics](https://github.com/apache/iotdb/pull/11857) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11737) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
