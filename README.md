@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (4 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 (today)
-- [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Bind a java thread to a given core (1 day ago)
-- [jgroups-extras/jgroups-raft](https://github.com/jgroups-extras/jgroups-raft) - Implementation of the RAFT consensus protocol in JGroups (1 day ago)
+- [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 (1 day ago)
+- [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Bind a java thread to a given core (2 days ago)
+- [jgroups-extras/jgroups-raft](https://github.com/jgroups-extras/jgroups-raft) - Implementation of the RAFT consensus protocol in JGroups (2 days ago)
 - [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy. (1 week ago)
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C&#43;&#43;, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 (1 week ago)
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Optimize dispatch log printing in the Readonly scenario](https://github.com/apache/iotdb/pull/11898) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Optimize dispatch log printing in the Readonly scenario](https://github.com/apache/iotdb/pull/11898) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11865) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-6281] Enhance Procedure metrics](https://github.com/apache/iotdb/pull/11857) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[IOTDB-6266] Add the ability to flush syncIndex and update reader periodically for IoTConsensus](https://github.com/apache/iotdb/pull/11737) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
