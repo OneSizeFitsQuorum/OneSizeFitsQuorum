@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (4 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Enhance DataNode startup probing logic](https://github.com/apache/iotdb/pull/11957) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance the robustness of Ratis linearizable reads for node offline scenarios](https://github.com/apache/iotdb/pull/11954) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fixed the issue that IoTConsensus synchronization is stuck when WAL file is corrupted](https://github.com/apache/iotdb/pull/11930) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Fix the issue where ConfigNode reports &#39;ConsensusGroupAlreadyExist&#39; error during startup in some scenarios](https://github.com/apache/iotdb/pull/11928) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Enable SchemaRegion Leader Auto Balance](https://github.com/apache/iotdb/pull/11926) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Optimize dispatch log printing in the Readonly scenario](https://github.com/apache/iotdb/pull/11898) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[IOTDB-6190] Increase the threshold for Ratis to shut itself down if it detects that a process is stuck](https://github.com/apache/iotdb/pull/11865) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
