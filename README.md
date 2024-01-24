@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (4 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative! (2 days ago)
-- [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 (6 days ago)
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative! (3 days ago)
+- [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 (1 week ago)
 - [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Bind a java thread to a given core (1 week ago)
 - [jgroups-extras/jgroups-raft](https://github.com/jgroups-extras/jgroups-raft) - Implementation of the RAFT consensus protocol in JGroups (1 week ago)
 - [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy. (2 weeks ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Enhance DataNode startup probing logic](https://github.com/apache/iotdb/pull/11957) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Enhance the robustness of Ratis linearizable reads for node offline scenarios](https://github.com/apache/iotdb/pull/11954) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fixed the issue that IoTConsensus synchronization is stuck when WAL file is corrupted](https://github.com/apache/iotdb/pull/11930) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Fix the issue where ConfigNode reports &#39;ConsensusGroupAlreadyExist&#39; error during startup in some scenarios](https://github.com/apache/iotdb/pull/11928) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Enable SchemaRegion Leader Auto Balance](https://github.com/apache/iotdb/pull/11926) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Enhance DataNode startup probing logic](https://github.com/apache/iotdb/pull/11957) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Enhance the robustness of Ratis linearizable reads for node offline scenarios](https://github.com/apache/iotdb/pull/11954) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fixed the issue that IoTConsensus synchronization is stuck when WAL file is corrupted](https://github.com/apache/iotdb/pull/11930) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Fix the issue where ConfigNode reports &#39;ConsensusGroupAlreadyExist&#39; error during startup in some scenarios](https://github.com/apache/iotdb/pull/11928) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Enable SchemaRegion Leader Auto Balance](https://github.com/apache/iotdb/pull/11926) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
