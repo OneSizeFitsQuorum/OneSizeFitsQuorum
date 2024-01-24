@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [CoolBran](https://github.com/CoolBran)
+- [yashpatil17](https://github.com/yashpatil17)
 - [moralok](https://github.com/moralok)
 - [yiora](https://github.com/yiora)
 - [zai3333](https://github.com/zai3333)
-- [LeoLuo0115](https://github.com/LeoLuo0115)
-- [Kosthi](https://github.com/Kosthi)
 
 #### 🔨 Check out my recent pull requests
 
