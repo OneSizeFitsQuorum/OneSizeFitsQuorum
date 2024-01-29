@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2019 Fixed abnormal exit of StateMachineUpdater](https://github.com/apache/ratis/pull/1033) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Enhance DataNode startup probing logic](https://github.com/apache/iotdb/pull/11957) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Enhance the robustness of Ratis linearizable reads for node offline scenarios](https://github.com/apache/iotdb/pull/11954) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Fixed the issue that IoTConsensus synchronization is stuck when WAL file is corrupted](https://github.com/apache/iotdb/pull/11930) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fix the issue where ConfigNode reports &#39;ConsensusGroupAlreadyExist&#39; error during startup in some scenarios](https://github.com/apache/iotdb/pull/11928) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Enable SchemaRegion Leader Auto Balance](https://github.com/apache/iotdb/pull/11926) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
