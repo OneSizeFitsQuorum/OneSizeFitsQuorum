@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (today)
-- [luben/zstd-jni](https://github.com/luben/zstd-jni) - JNI binding for Zstd (today)
-- [lz4/lz4-java](https://github.com/lz4/lz4-java) - LZ4 compression for Java (today)
-- [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what&#39;s going on. (today)
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (today)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 day ago)
+- [luben/zstd-jni](https://github.com/luben/zstd-jni) - JNI binding for Zstd (1 day ago)
+- [lz4/lz4-java](https://github.com/lz4/lz4-java) - LZ4 compression for Java (1 day ago)
+- [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what&#39;s going on. (1 day ago)
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2019 Fixed abnormal exit of StateMachineUpdater](https://github.com/apache/ratis/pull/1033) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [RATIS-2019 Fixed abnormal exit of StateMachineUpdater](https://github.com/apache/ratis/pull/1033) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
 - [Enhance DataNode startup probing logic](https://github.com/apache/iotdb/pull/11957) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enhance the robustness of Ratis linearizable reads for node offline scenarios](https://github.com/apache/iotdb/pull/11954) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fixed the issue that IoTConsensus synchronization is stuck when WAL file is corrupted](https://github.com/apache/iotdb/pull/11930) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
