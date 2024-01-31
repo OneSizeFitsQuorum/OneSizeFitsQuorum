@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 day ago)
-- [luben/zstd-jni](https://github.com/luben/zstd-jni) - JNI binding for Zstd (1 day ago)
-- [lz4/lz4-java](https://github.com/lz4/lz4-java) - LZ4 compression for Java (1 day ago)
-- [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what&#39;s going on. (1 day ago)
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (1 day ago)
+- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (today)
+- [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (today)
+- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (today)
+- [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor (today)
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (today)
 
 #### 👯 Check out my recent followers
 
+- [shenxiangzhuang](https://github.com/shenxiangzhuang)
+- [Olive-2019](https://github.com/Olive-2019)
 - [ptyin](https://github.com/ptyin)
 - [chakkk309](https://github.com/chakkk309)
 - [CoolBran](https://github.com/CoolBran)
-- [yashpatil17](https://github.com/yashpatil17)
-- [moralok](https://github.com/moralok)
 
 #### 🔨 Check out my recent pull requests
 
