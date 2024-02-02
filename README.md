@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (4 months ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (7 months ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (8 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (1 day ago)
-- [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (1 day ago)
-- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (1 day ago)
-- [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor (1 day ago)
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (1 day ago)
+- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (2 days ago)
+- [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (2 days ago)
+- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (2 days ago)
+- [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor (2 days ago)
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2019 Fixed abnormal exit of StateMachineUpdater](https://github.com/apache/ratis/pull/1033) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
+- [RATIS-2019 Fixed abnormal exit of StateMachineUpdater](https://github.com/apache/ratis/pull/1033) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
 - [Enhance DataNode startup probing logic](https://github.com/apache/iotdb/pull/11957) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enhance the robustness of Ratis linearizable reads for node offline scenarios](https://github.com/apache/iotdb/pull/11954) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fixed the issue that IoTConsensus synchronization is stuck when WAL file is corrupted](https://github.com/apache/iotdb/pull/11930) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
