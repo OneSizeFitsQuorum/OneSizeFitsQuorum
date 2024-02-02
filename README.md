@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (today)
 - [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (2 days ago)
 - [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (2 days ago)
 - [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (2 days ago)
 - [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor (2 days ago)
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (2 days ago)
 
 #### 👯 Check out my recent followers
 
