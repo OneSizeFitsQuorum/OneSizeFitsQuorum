@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [hychen11](https://github.com/hychen11)
 - [shenxiangzhuang](https://github.com/shenxiangzhuang)
 - [Olive-2019](https://github.com/Olive-2019)
 - [ptyin](https://github.com/ptyin)
 - [chakkk309](https://github.com/chakkk309)
-- [CoolBran](https://github.com/CoolBran)
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix typo for parameter dn_multi_dir_strategy](https://github.com/apache/iotdb/pull/12033) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fixed Ratis query not retrying when DataNode restarts](https://github.com/apache/iotdb/pull/12029) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Remove infinite retry logic for replica inconsistency to avoid potential problems](https://github.com/apache/iotdb/pull/12028) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [RATIS-2019 Fixed abnormal exit of StateMachineUpdater](https://github.com/apache/ratis/pull/1033) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [Enhance DataNode startup probing logic](https://github.com/apache/iotdb/pull/11957) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Enhance the robustness of Ratis linearizable reads for node offline scenarios](https://github.com/apache/iotdb/pull/11954) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
