@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (5 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (8 months ago)
 
@@ -29,10 +29,10 @@
 #### ⭐ Check out my recent stars
 
 - [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (1 week ago)
-- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (1 week ago)
-- [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (1 week ago)
-- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (1 week ago)
-- [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor (1 week ago)
+- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (2 weeks ago)
+- [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (2 weeks ago)
+- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (2 weeks ago)
+- [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -52,7 +52,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (6 days ago)
+- [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (1 week ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (2 months ago)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (1 year ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (1 year ago)
