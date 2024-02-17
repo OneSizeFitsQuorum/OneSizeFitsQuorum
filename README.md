@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [sjq-1](https://github.com/sjq-1)
 - [toffeecat](https://github.com/toffeecat)
 - [hychen11](https://github.com/hychen11)
 - [shenxiangzhuang](https://github.com/shenxiangzhuang)
 - [Olive-2019](https://github.com/Olive-2019)
-- [ptyin](https://github.com/ptyin)
 
 #### 🔨 Check out my recent pull requests
 
