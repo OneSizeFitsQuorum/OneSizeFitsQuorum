@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [I-S00N/I-S00N](https://github.com/I-S00N/I-S00N) -  (today)
+- [I-S00N/I-S00N](https://github.com/I-S00N/I-S00N) -  (1 day ago)
 - [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (2 weeks ago)
 - [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (3 weeks ago)
 - [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (3 weeks ago)
@@ -48,7 +48,7 @@
 - [Fixed Ratis query not retrying when DataNode restarts](https://github.com/apache/iotdb/pull/12029) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Remove infinite retry logic for replica inconsistency to avoid potential problems](https://github.com/apache/iotdb/pull/12028) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-2019 Fixed abnormal exit of StateMachineUpdater](https://github.com/apache/ratis/pull/1033) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
-- [Enhance DataNode startup probing logic](https://github.com/apache/iotdb/pull/11957) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
+- [Enhance DataNode startup probing logic](https://github.com/apache/iotdb/pull/11957) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
