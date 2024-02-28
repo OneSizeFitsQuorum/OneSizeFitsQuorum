@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (today)
 - [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (3 weeks ago)
 - [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (4 weeks ago)
 - [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (4 weeks ago)
 - [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (4 weeks ago)
-- [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
