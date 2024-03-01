@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [DrakenLibra](https://github.com/DrakenLibra)
 - [Bipinoli](https://github.com/Bipinoli)
 - [sjq-1](https://github.com/sjq-1)
 - [toffeecat](https://github.com/toffeecat)
 - [hychen11](https://github.com/hychen11)
-- [shenxiangzhuang](https://github.com/shenxiangzhuang)
 
 #### 🔨 Check out my recent pull requests
 
