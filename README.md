@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (5 months ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (8 months ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (9 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (3 days ago)
-- [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (4 weeks ago)
+- [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (4 days ago)
+- [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (1 month ago)
 - [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (1 month ago)
 - [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (1 month ago)
 - [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (1 month ago)
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Optimize ConfigNode ConsensusManager init logic](https://github.com/apache/iotdb/pull/12098) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Optimize ConfigNode ConsensusManager init logic](https://github.com/apache/iotdb/pull/12098) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [Fix typo for parameter dn_multi_dir_strategy](https://github.com/apache/iotdb/pull/12033) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Fixed Ratis query not retrying when DataNode restarts](https://github.com/apache/iotdb/pull/12029) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Remove infinite retry logic for replica inconsistency to avoid potential problems](https://github.com/apache/iotdb/pull/12028) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
