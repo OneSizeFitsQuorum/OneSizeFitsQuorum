@@ -40,7 +40,7 @@
 - [BryanWang1999](https://github.com/BryanWang1999)
 - [DrakenLibra](https://github.com/DrakenLibra)
 - [Bipinoli](https://github.com/Bipinoli)
-- [sjq-1](https://github.com/sjq-1)
+- [imxiaoqingma](https://github.com/imxiaoqingma)
 
 #### 🔨 Check out my recent pull requests
 
