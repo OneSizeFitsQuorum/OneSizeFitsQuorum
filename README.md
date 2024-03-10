@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [jiuzhengWang](https://github.com/jiuzhengWang)
+- [Wonder-Forever](https://github.com/Wonder-Forever)
 - [PhiFever](https://github.com/PhiFever)
 - [BryanWang1999](https://github.com/BryanWang1999)
 - [DrakenLibra](https://github.com/DrakenLibra)
-- [Bipinoli](https://github.com/Bipinoli)
-- [imxiaoqingma](https://github.com/imxiaoqingma)
 
 #### 🔨 Check out my recent pull requests
 
