@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (6 months ago)
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fixed ConfigNode startup error in SimpleConsensus](https://github.com/apache/iotdb/pull/12143) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Fixed ConfigNode startup error in SimpleConsensus](https://github.com/apache/iotdb/pull/12143) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Optimize ConfigNode ConsensusManager init logic](https://github.com/apache/iotdb/pull/12098) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Fix typo for parameter dn_multi_dir_strategy](https://github.com/apache/iotdb/pull/12033) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [Fixed Ratis query not retrying when DataNode restarts](https://github.com/apache/iotdb/pull/12029) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
