@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Lingbo-Huang](https://github.com/Lingbo-Huang)
 - [larry-11](https://github.com/larry-11)
 - [waterm310n](https://github.com/waterm310n)
 - [WenyaZhou](https://github.com/WenyaZhou)
 - [yava555](https://github.com/yava555)
-- [jiuzhengWang](https://github.com/jiuzhengWang)
 
 #### 🔨 Check out my recent pull requests
 
