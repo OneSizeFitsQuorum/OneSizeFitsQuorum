@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (2 weeks ago)
+- [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (3 weeks ago)
 - [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (1 month ago)
 - [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (1 month ago)
 - [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (1 month ago)
@@ -45,7 +45,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [Fixed ConfigNode startup error in SimpleConsensus](https://github.com/apache/iotdb/pull/12143) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Optimize ConfigNode ConsensusManager init logic](https://github.com/apache/iotdb/pull/12098) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Optimize ConfigNode ConsensusManager init logic](https://github.com/apache/iotdb/pull/12098) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Fix typo for parameter dn_multi_dir_strategy](https://github.com/apache/iotdb/pull/12033) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [Fixed Ratis query not retrying when DataNode restarts](https://github.com/apache/iotdb/pull/12029) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [Remove infinite retry logic for replica inconsistency to avoid potential problems](https://github.com/apache/iotdb/pull/12028) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
