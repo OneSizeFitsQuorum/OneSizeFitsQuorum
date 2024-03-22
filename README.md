@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [ioshuoyuhao](https://github.com/ioshuoyuhao)
 - [ETOgaosion](https://github.com/ETOgaosion)
 - [Lingbo-Huang](https://github.com/Lingbo-Huang)
 - [larry-11](https://github.com/larry-11)
 - [waterm310n](https://github.com/waterm310n)
-- [WenyaZhou](https://github.com/WenyaZhou)
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2048 Fix SimpleStateMachineStorage potential NPE exception](https://github.com/apache/ratis/pull/1056) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [RATIS-2036 Avoid trigger snapshot when removing raftGroup](https://github.com/apache/ratis/pull/1055) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [RATIS-2047 Avoid unnecessary warn log when creating raft group](https://github.com/apache/ratis/pull/1054) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Fixed ConfigNode startup error in SimpleConsensus](https://github.com/apache/iotdb/pull/12143) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Optimize ConfigNode ConsensusManager init logic](https://github.com/apache/iotdb/pull/12098) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [Fix typo for parameter dn_multi_dir_strategy](https://github.com/apache/iotdb/pull/12033) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [Fixed Ratis query not retrying when DataNode restarts](https://github.com/apache/iotdb/pull/12029) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [Remove infinite retry logic for replica inconsistency to avoid potential problems](https://github.com/apache/iotdb/pull/12028) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
