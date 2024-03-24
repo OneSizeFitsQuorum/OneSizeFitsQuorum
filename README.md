@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2049 Ensure atomic safety for volatile object](https://github.com/apache/ratis/pull/1057) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [RATIS-2048 Fix SimpleStateMachineStorage potential NPE exception](https://github.com/apache/ratis/pull/1056) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [RATIS-2036 Avoid trigger snapshot when removing raftGroup](https://github.com/apache/ratis/pull/1055) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [RATIS-2047 Avoid unnecessary warn log when creating raft group](https://github.com/apache/ratis/pull/1054) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [RATIS-2049 Ensure atomic safety for volatile object](https://github.com/apache/ratis/pull/1057) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [RATIS-2048 Fix SimpleStateMachineStorage potential NPE exception](https://github.com/apache/ratis/pull/1056) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [RATIS-2036 Avoid trigger snapshot when removing raftGroup](https://github.com/apache/ratis/pull/1055) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [RATIS-2047 Avoid unnecessary warn log when creating raft group](https://github.com/apache/ratis/pull/1054) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
 - [Fixed ConfigNode startup error in SimpleConsensus](https://github.com/apache/iotdb/pull/12143) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
