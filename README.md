@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (6 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (3 weeks ago)
+- [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (4 weeks ago)
 - [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (1 month ago)
 - [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (1 month ago)
 - [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (1 month ago)
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2049 Ensure atomic safety for volatile object](https://github.com/apache/ratis/pull/1057) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
-- [RATIS-2048 Fix SimpleStateMachineStorage potential NPE exception](https://github.com/apache/ratis/pull/1056) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
-- [RATIS-2036 Avoid trigger snapshot when removing raftGroup](https://github.com/apache/ratis/pull/1055) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
-- [RATIS-2047 Avoid unnecessary warn log when creating raft group](https://github.com/apache/ratis/pull/1054) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
+- [RATIS-2049 Ensure atomic safety for volatile object](https://github.com/apache/ratis/pull/1057) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [RATIS-2048 Fix SimpleStateMachineStorage potential NPE exception](https://github.com/apache/ratis/pull/1056) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [RATIS-2036 Avoid trigger snapshot when removing raftGroup](https://github.com/apache/ratis/pull/1055) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [RATIS-2047 Avoid unnecessary warn log when creating raft group](https://github.com/apache/ratis/pull/1054) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
 - [Fixed ConfigNode startup error in SimpleConsensus](https://github.com/apache/iotdb/pull/12143) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
