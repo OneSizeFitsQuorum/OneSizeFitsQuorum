@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yanghy233](https://github.com/yanghy233)
 - [Ognimalf](https://github.com/Ognimalf)
 - [YiyangSong2023](https://github.com/YiyangSong2023)
 - [ioshuoyuhao](https://github.com/ioshuoyuhao)
 - [ETOgaosion](https://github.com/ETOgaosion)
-- [Lingbo-Huang](https://github.com/Lingbo-Huang)
 
 #### 🔨 Check out my recent pull requests
 
