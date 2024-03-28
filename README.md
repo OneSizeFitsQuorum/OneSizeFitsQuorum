@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (today)
+- [apache/sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large-scale geospatial data (today)
 - [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (4 weeks ago)
 - [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (1 month ago)
 - [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container &amp; Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more (1 month ago)
-- [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more) (1 month ago)
-- [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java. (1 month ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2036 Avoid trigger snapshot when removing raftGroup ](https://github.com/apache/ratis/pull/1061) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-2051 Fix Sonar bugs for Ratis](https://github.com/apache/ratis/pull/1059) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [RATIS-2049 Ensure atomic safety for volatile object](https://github.com/apache/ratis/pull/1057) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [RATIS-2048 Fix SimpleStateMachineStorage potential NPE exception](https://github.com/apache/ratis/pull/1056) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [RATIS-2036 Avoid trigger snapshot when removing raftGroup](https://github.com/apache/ratis/pull/1055) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
-- [RATIS-2047 Avoid unnecessary warn log when creating raft group](https://github.com/apache/ratis/pull/1054) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
