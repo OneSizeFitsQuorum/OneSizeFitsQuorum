@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2036 Avoid trigger snapshot when removing raftGroup ](https://github.com/apache/ratis/pull/1061) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [RATIS-2036 Add docs for triggering snapshot when removing raftGroup parameter](https://github.com/apache/ratis/pull/1061) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [RATIS-2051 Fix Sonar bugs for Ratis](https://github.com/apache/ratis/pull/1059) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
 - [RATIS-2049 Ensure atomic safety for volatile object](https://github.com/apache/ratis/pull/1057) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [RATIS-2048 Fix SimpleStateMachineStorage potential NPE exception](https://github.com/apache/ratis/pull/1056) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
