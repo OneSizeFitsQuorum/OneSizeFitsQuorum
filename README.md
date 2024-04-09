@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Opadc](https://github.com/Opadc)
 - [zhihao-gong](https://github.com/zhihao-gong)
 - [skiywalk](https://github.com/skiywalk)
 - [lixiangbetter](https://github.com/lixiangbetter)
 - [zexiwang](https://github.com/zexiwang)
-- [yanghy233](https://github.com/yanghy233)
 
 #### 🔨 Check out my recent pull requests
 
