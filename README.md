@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ForestYuanLin](https://github.com/ForestYuanLin)
 - [jieqiyue](https://github.com/jieqiyue)
 - [Opadc](https://github.com/Opadc)
 - [zhihao-gong](https://github.com/zhihao-gong)
 - [skiywalk](https://github.com/skiywalk)
-- [lixiangbetter](https://github.com/lixiangbetter)
 
 #### 🔨 Check out my recent pull requests
 
