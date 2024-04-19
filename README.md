@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (7 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (today)
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (1 day ago)
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (3 weeks ago)
 - [apache/sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large-scale geospatial data (3 weeks ago)
 - [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (1 month ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Revert &#34;Fix auto leader balance for Ratis protocol judgement bug&#34;](https://github.com/apache/iotdb/pull/12358) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Revert &#34;Fix auto leader balance for Ratis protocol judgement bug&#34;](https://github.com/apache/iotdb/pull/12358) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [RATIS-2052. Add docs for triggering snapshot when removing raftGroup parameter.](https://github.com/apache/ratis/pull/1061) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [RATIS-2051 Fix Sonar bugs for Ratis](https://github.com/apache/ratis/pull/1059) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
-- [RATIS-2049 Ensure atomic safety for volatile object](https://github.com/apache/ratis/pull/1057) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
-- [RATIS-2048 Fix SimpleStateMachineStorage potential NPE exception](https://github.com/apache/ratis/pull/1056) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
+- [RATIS-2049 Ensure atomic safety for volatile object](https://github.com/apache/ratis/pull/1057) on [apache/ratis](https://github.com/apache/ratis) (4 weeks ago)
+- [RATIS-2048 Fix SimpleStateMachineStorage potential NPE exception](https://github.com/apache/ratis/pull/1056) on [apache/ratis](https://github.com/apache/ratis) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
