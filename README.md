@@ -46,9 +46,6 @@
 
 - [Fixed concurrency issues with RegionMigration thread pool](https://github.com/apache/iotdb/pull/12403) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [RATIS-2060 Avoid unexpected shutdown of RaftServerProxy during membership change](https://github.com/apache/ratis/pull/1069) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
-- [Revert &#34;Fix auto leader balance for Ratis protocol judgement bug&#34;](https://github.com/apache/iotdb/pull/12358) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [RATIS-2052. Add docs for triggering snapshot when removing raftGroup parameter.](https://github.com/apache/ratis/pull/1061) on [apache/ratis](https://github.com/apache/ratis) (4 weeks ago)
-- [RATIS-2051 Fix Sonar bugs for Ratis](https://github.com/apache/ratis/pull/1059) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
