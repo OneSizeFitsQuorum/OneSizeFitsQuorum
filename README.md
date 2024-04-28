@@ -45,7 +45,6 @@
 #### 🔨 Check out my recent pull requests
 
 - [Fixed concurrency issues with RegionMigration thread pool](https://github.com/apache/iotdb/pull/12403) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [RATIS-2060 Avoid unexpected shutdown of RaftServerProxy during membership change](https://github.com/apache/ratis/pull/1069) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
