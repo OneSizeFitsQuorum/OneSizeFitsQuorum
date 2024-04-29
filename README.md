@@ -44,6 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Ensuring IoTconsensus data consistency during region migration ](https://github.com/apache/iotdb/pull/12448) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [RATIS-2065 Avoid the out-of-heap memory OOM phenomenon of frequent creation and deletion of Raft group scenarios](https://github.com/apache/ratis/pull/1071) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Revert &#34;Normalize LoadCache interfaces (#12421)&#34;](https://github.com/apache/iotdb/pull/12440) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 
 #### 📜 Check out my recent blog posts
