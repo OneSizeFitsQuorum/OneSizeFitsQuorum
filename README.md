@@ -36,14 +36,15 @@
 
 #### 👯 Check out my recent followers
 
+- [Clownsw](https://github.com/Clownsw)
 - [S0n1c-Q](https://github.com/S0n1c-Q)
 - [Ke-Wng](https://github.com/Ke-Wng)
 - [dracoooooo](https://github.com/dracoooooo)
 - [shallowdream2](https://github.com/shallowdream2)
-- [ForestYuanLin](https://github.com/ForestYuanLin)
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2067 Enhance content for concept in ratis-docs](https://github.com/apache/ratis/pull/1073) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Ensuring IoTconsensus data consistency during region migration ](https://github.com/apache/iotdb/pull/12448) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [RATIS-2065 Avoid the out-of-heap memory OOM phenomenon of frequent creation and deletion of Raft group scenarios](https://github.com/apache/ratis/pull/1071) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [Revert &#34;Normalize LoadCache interfaces (#12421)&#34;](https://github.com/apache/iotdb/pull/12440) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
