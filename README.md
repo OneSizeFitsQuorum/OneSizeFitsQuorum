@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (7 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (10 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Try to Fix IoTConsensus CI](https://github.com/apache/iotdb/pull/12456) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [RATIS-2067 Enhance content for concept in ratis-docs](https://github.com/apache/ratis/pull/1073) on [apache/ratis](https://github.com/apache/ratis) (today)
-- [Ensuring IoTconsensus data consistency during region migration ](https://github.com/apache/iotdb/pull/12448) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [RATIS-2065 Avoid the out-of-heap memory OOM phenomenon of frequent creation and deletion of Raft group scenarios](https://github.com/apache/ratis/pull/1071) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [Revert &#34;Normalize LoadCache interfaces (#12421)&#34;](https://github.com/apache/iotdb/pull/12440) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Try to Fix IoTConsensus CI](https://github.com/apache/iotdb/pull/12456) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [RATIS-2067 Enhance content for concept in ratis-docs](https://github.com/apache/ratis/pull/1073) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [Ensuring IoTconsensus data consistency during region migration ](https://github.com/apache/iotdb/pull/12448) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [RATIS-2065 Avoid the out-of-heap memory OOM phenomenon of frequent creation and deletion of Raft group scenarios](https://github.com/apache/ratis/pull/1071) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [Revert &#34;Normalize LoadCache interfaces (#12421)&#34;](https://github.com/apache/iotdb/pull/12440) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
