@@ -48,7 +48,6 @@
 - [RATIS-2067 Enhance content for concept in ratis-docs](https://github.com/apache/ratis/pull/1073) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [Ensuring IoTconsensus data consistency during region migration ](https://github.com/apache/iotdb/pull/12448) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [RATIS-2065 Avoid the out-of-heap memory OOM phenomenon of frequent creation and deletion of Raft group scenarios](https://github.com/apache/ratis/pull/1071) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
-- [Revert &#34;Normalize LoadCache interfaces (#12421)&#34;](https://github.com/apache/iotdb/pull/12440) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
