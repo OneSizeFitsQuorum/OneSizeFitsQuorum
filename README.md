@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [toutouzi](https://github.com/toutouzi)
 - [Clownsw](https://github.com/Clownsw)
 - [S0n1c-Q](https://github.com/S0n1c-Q)
 - [Ke-Wng](https://github.com/Ke-Wng)
 - [dracoooooo](https://github.com/dracoooooo)
-- [shallowdream2](https://github.com/shallowdream2)
 
 #### 🔨 Check out my recent pull requests
 
