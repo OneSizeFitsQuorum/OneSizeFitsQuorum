@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [cfkka](https://github.com/cfkka)
+- [sammorozov](https://github.com/sammorozov)
 - [toutouzi](https://github.com/toutouzi)
 - [Clownsw](https://github.com/Clownsw)
 - [S0n1c-Q](https://github.com/S0n1c-Q)
-- [Ke-Wng](https://github.com/Ke-Wng)
-- [dracoooooo](https://github.com/dracoooooo)
 
 #### 🔨 Check out my recent pull requests
 
