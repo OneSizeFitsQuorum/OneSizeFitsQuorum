@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine (today)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (2 weeks ago)
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (1 month ago)
 - [apache/sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large-scale geospatial data (1 month ago)
 - [tisonkun/failpoints](https://github.com/tisonkun/failpoints) - An implementation of failpoints for Java. (2 months ago)
-- [caicancai/paper_reading_cn](https://github.com/caicancai/paper_reading_cn) - just for fun (3 months ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fixed deadlock problem caused by concurrent auto create schema and delete database](https://github.com/apache/iotdb/pull/12489) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Try to Fix IoTConsensus CI](https://github.com/apache/iotdb/pull/12456) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-2067 Enhance content for concept in ratis-docs](https://github.com/apache/ratis/pull/1073) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [Ensuring IoTconsensus data consistency during region migration ](https://github.com/apache/iotdb/pull/12448) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [RATIS-2065 Avoid the out-of-heap memory OOM phenomenon of frequent creation and deletion of Raft group scenarios](https://github.com/apache/ratis/pull/1071) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
