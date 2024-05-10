@@ -36,18 +36,17 @@
 
 #### 👯 Check out my recent followers
 
+- [panlei-coder](https://github.com/panlei-coder)
 - [cfkka](https://github.com/cfkka)
 - [sammorozov](https://github.com/sammorozov)
 - [toutouzi](https://github.com/toutouzi)
 - [Clownsw](https://github.com/Clownsw)
-- [S0n1c-Q](https://github.com/S0n1c-Q)
 
 #### 🔨 Check out my recent pull requests
 
 - [Fixed deadlock problem caused by concurrent auto create schema and delete database](https://github.com/apache/iotdb/pull/12489) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Try to Fix IoTConsensus CI](https://github.com/apache/iotdb/pull/12456) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-2067 Enhance content for concept in ratis-docs](https://github.com/apache/ratis/pull/1073) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
-- [Ensuring IoTconsensus data consistency during region migration ](https://github.com/apache/iotdb/pull/12448) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
