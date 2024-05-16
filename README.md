@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [LeiRui/visual-fidelity-bench](https://github.com/LeiRui/visual-fidelity-bench) -  (6 days ago)
+- [LeiRui/visual-fidelity-bench](https://github.com/LeiRui/visual-fidelity-bench) -  (1 week ago)
 - [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine (1 week ago)
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (3 weeks ago)
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (4 weeks ago)
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (1 month ago)
 - [apache/sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large-scale geospatial data (1 month ago)
 
