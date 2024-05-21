@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (8 months ago)
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fixed restart error when DataRegion is RatisConsensus](https://github.com/apache/iotdb/pull/12554) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Fixed restart error when DataRegion is RatisConsensus](https://github.com/apache/iotdb/pull/12554) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Fixed deadlock problem caused by concurrent auto create schema and delete database](https://github.com/apache/iotdb/pull/12489) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Try to Fix IoTConsensus CI](https://github.com/apache/iotdb/pull/12456) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Try to Fix IoTConsensus CI](https://github.com/apache/iotdb/pull/12456) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
