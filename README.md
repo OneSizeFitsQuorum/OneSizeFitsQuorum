@@ -46,7 +46,6 @@
 
 - [Fixed restart error when DataRegion is RatisConsensus](https://github.com/apache/iotdb/pull/12554) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Fixed deadlock problem caused by concurrent auto create schema and delete database](https://github.com/apache/iotdb/pull/12489) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Try to Fix IoTConsensus CI](https://github.com/apache/iotdb/pull/12456) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
