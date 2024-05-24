@@ -44,6 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2097 Add a conf to enable/disable Metadata entries](https://github.com/apache/ratis/pull/1101) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Fixed restart error when DataRegion is RatisConsensus](https://github.com/apache/iotdb/pull/12554) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [Fixed deadlock problem caused by concurrent auto create schema and delete database](https://github.com/apache/iotdb/pull/12489) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
