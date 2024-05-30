@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [QuakeWang](https://github.com/QuakeWang)
 - [coredev19720](https://github.com/coredev19720)
 - [panlei-coder](https://github.com/panlei-coder)
 - [cfkka](https://github.com/cfkka)
 - [sammorozov](https://github.com/sammorozov)
-- [toutouzi](https://github.com/toutouzi)
 
 #### 🔨 Check out my recent pull requests
 
