@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (6 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (8 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (11 months ago)
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fixed an issue where LoadSnapshot could cause out-of-heap memory statistics to leak](https://github.com/apache/iotdb/pull/12608) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Fix potential NPE for empty InsertRowsOfOneDevice ](https://github.com/apache/iotdb/pull/12593) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [RATIS-2097 Add a conf to enable/disable Metadata entries](https://github.com/apache/ratis/pull/1101) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
+- [Fixed an issue where LoadSnapshot could cause out-of-heap memory statistics to leak](https://github.com/apache/iotdb/pull/12608) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Fix potential NPE for empty InsertRowsOfOneDevice ](https://github.com/apache/iotdb/pull/12593) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [RATIS-2097 Add a conf to enable/disable Metadata entries](https://github.com/apache/ratis/pull/1101) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [Fixed restart error when DataRegion is RatisConsensus](https://github.com/apache/iotdb/pull/12554) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
@@ -55,4 +55,4 @@
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (5 months ago)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (1 year ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (1 year ago)
-- [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (1 year ago)
+- [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (2 years ago)
