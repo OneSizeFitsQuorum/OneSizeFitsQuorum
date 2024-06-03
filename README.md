@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (8 months ago)
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fixed an issue where LoadSnapshot could cause out-of-heap memory statistics to leak](https://github.com/apache/iotdb/pull/12608) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Fix potential NPE for empty InsertRowsOfOneDevice ](https://github.com/apache/iotdb/pull/12593) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Fixed an issue where LoadSnapshot could cause out-of-heap memory statistics to leak](https://github.com/apache/iotdb/pull/12608) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Fix potential NPE for empty InsertRowsOfOneDevice ](https://github.com/apache/iotdb/pull/12593) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-2097 Add a conf to enable/disable Metadata entries](https://github.com/apache/ratis/pull/1101) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
-- [Fixed restart error when DataRegion is RatisConsensus](https://github.com/apache/iotdb/pull/12554) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [Fixed restart error when DataRegion is RatisConsensus](https://github.com/apache/iotdb/pull/12554) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
