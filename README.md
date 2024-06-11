@@ -43,10 +43,10 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Adapt partition computation for IDeviceID](https://github.com/apache/iotdb/pull/12700) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fixed an issue where LoadSnapshot could cause out-of-heap memory statistics to leak](https://github.com/apache/iotdb/pull/12608) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fix potential NPE for empty InsertRowsOfOneDevice ](https://github.com/apache/iotdb/pull/12593) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-2097 Add a conf to enable/disable Metadata entries](https://github.com/apache/ratis/pull/1101) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
-- [Fixed restart error when DataRegion is RatisConsensus](https://github.com/apache/iotdb/pull/12554) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
