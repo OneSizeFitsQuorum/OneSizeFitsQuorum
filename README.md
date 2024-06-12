@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 day ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 months ago)
@@ -36,14 +36,15 @@
 
 #### 👯 Check out my recent followers
 
+- [zweix123](https://github.com/zweix123)
+- [kaelthasinfi](https://github.com/kaelthasinfi)
 - [1591697](https://github.com/1591697)
 - [cypppper](https://github.com/cypppper)
 - [wengyan17](https://github.com/wengyan17)
-- [QuakeWang](https://github.com/QuakeWang)
-- [coredev19720](https://github.com/coredev19720)
 
 #### 🔨 Check out my recent pull requests
 
+- [Rename IoTV2Consensus to IoTConsensusV2](https://github.com/apache/iotdb/pull/12715) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Adapt partition computation for IDeviceID](https://github.com/apache/iotdb/pull/12700) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Fixed an issue where LoadSnapshot could cause out-of-heap memory statistics to leak](https://github.com/apache/iotdb/pull/12608) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Fix potential NPE for empty InsertRowsOfOneDevice ](https://github.com/apache/iotdb/pull/12593) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
