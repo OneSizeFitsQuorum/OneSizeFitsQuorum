@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal (today)
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data (1 week ago)
 - [LeiRui/visual-fidelity-bench](https://github.com/LeiRui/visual-fidelity-bench) -  (1 month ago)
 - [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine (1 month ago)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (1 month ago)
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. (2 months ago)
 
 #### 👯 Check out my recent followers
 
