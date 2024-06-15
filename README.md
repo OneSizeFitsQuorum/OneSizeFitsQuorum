@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [dlxdlxdlx](https://github.com/dlxdlxdlx)
+- [Prometheo](https://github.com/Prometheo)
 - [zweix123](https://github.com/zweix123)
 - [kaelthasinfi](https://github.com/kaelthasinfi)
 - [1591697](https://github.com/1591697)
-- [cypppper](https://github.com/cypppper)
-- [wengyan17](https://github.com/wengyan17)
 
 #### 🔨 Check out my recent pull requests
 
