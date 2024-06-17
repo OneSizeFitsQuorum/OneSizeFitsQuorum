@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [DPN-XFN](https://github.com/DPN-XFN)
+- [HHoflittlefish777](https://github.com/HHoflittlefish777)
 - [dlxdlxdlx](https://github.com/dlxdlxdlx)
 - [Prometheo](https://github.com/Prometheo)
 - [zweix123](https://github.com/zweix123)
-- [kaelthasinfi](https://github.com/kaelthasinfi)
-- [1591697](https://github.com/1591697)
 
 #### 🔨 Check out my recent pull requests
 
