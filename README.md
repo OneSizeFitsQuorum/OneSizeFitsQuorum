@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Alioth4J](https://github.com/Alioth4J)
 - [DPN-XFN](https://github.com/DPN-XFN)
 - [HHoflittlefish777](https://github.com/HHoflittlefish777)
 - [dlxdlxdlx](https://github.com/dlxdlxdlx)
 - [Prometheo](https://github.com/Prometheo)
-- [zweix123](https://github.com/zweix123)
 
 #### 🔨 Check out my recent pull requests
 
+- [WAL Compression enhancement](https://github.com/apache/iotdb/pull/12763) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Optimize the devicePath generation efficiency of PlanNode when deserializing](https://github.com/apache/iotdb/pull/12749) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Rename IoTV2Consensus to IoTConsensusV2](https://github.com/apache/iotdb/pull/12715) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Adapt partition computation for IDeviceID](https://github.com/apache/iotdb/pull/12700) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fixed an issue where LoadSnapshot could cause out-of-heap memory statistics to leak](https://github.com/apache/iotdb/pull/12608) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [Fix potential NPE for empty InsertRowsOfOneDevice ](https://github.com/apache/iotdb/pull/12593) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
