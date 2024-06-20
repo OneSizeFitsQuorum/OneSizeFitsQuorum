@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [JIAMINDONG](https://github.com/JIAMINDONG)
 - [lr13-2002](https://github.com/lr13-2002)
 - [3AceShowHand](https://github.com/3AceShowHand)
 - [Alioth4J](https://github.com/Alioth4J)
 - [DPN-XFN](https://github.com/DPN-XFN)
-- [sollhui](https://github.com/sollhui)
 
 #### 🔨 Check out my recent pull requests
 
