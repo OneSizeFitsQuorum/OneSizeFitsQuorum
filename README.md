@@ -40,7 +40,7 @@
 - [3AceShowHand](https://github.com/3AceShowHand)
 - [Alioth4J](https://github.com/Alioth4J)
 - [DPN-XFN](https://github.com/DPN-XFN)
-- [HHoflittlefish777](https://github.com/HHoflittlefish777)
+- [sollhui](https://github.com/sollhui)
 
 #### 🔨 Check out my recent pull requests
 
