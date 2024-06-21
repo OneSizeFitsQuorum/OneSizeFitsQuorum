@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 months ago)
@@ -32,15 +32,15 @@
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data (2 weeks ago)
 - [LeiRui/visual-fidelity-bench](https://github.com/LeiRui/visual-fidelity-bench) -  (1 month ago)
 - [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine (1 month ago)
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (2 months ago)
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...) (2 months ago)
 
 #### 👯 Check out my recent followers
 
+- [engineerhuang](https://github.com/engineerhuang)
 - [JIAMINDONG](https://github.com/JIAMINDONG)
 - [lr13-2002](https://github.com/lr13-2002)
 - [3AceShowHand](https://github.com/3AceShowHand)
 - [Alioth4J](https://github.com/Alioth4J)
-- [DPN-XFN](https://github.com/DPN-XFN)
 
 #### 🔨 Check out my recent pull requests
 
