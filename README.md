@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Enhance leader quantity metric for load scenario](https://github.com/apache/iotdb/pull/12785) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [WAL Compression enhancement](https://github.com/apache/iotdb/pull/12763) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Optimize the devicePath generation efficiency of PlanNode when deserializing](https://github.com/apache/iotdb/pull/12749) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [Rename IoTV2Consensus to IoTConsensusV2](https://github.com/apache/iotdb/pull/12715) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Adapt partition computation for IDeviceID](https://github.com/apache/iotdb/pull/12700) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Fixed an issue where LoadSnapshot could cause out-of-heap memory statistics to leak](https://github.com/apache/iotdb/pull/12608) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
