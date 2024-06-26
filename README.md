@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 months ago)
 - [apache/iotdb-docs](https://github.com/apache/iotdb-docs) - Apache IoTDB Documentation and Site (9 months ago)
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Enhance leader quantity metric for load scenario](https://github.com/apache/iotdb/pull/12785) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [WAL Compression enhancement](https://github.com/apache/iotdb/pull/12763) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Enhance leader quantity metric for load scenario](https://github.com/apache/iotdb/pull/12785) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [WAL Compression enhancement](https://github.com/apache/iotdb/pull/12763) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Optimize the devicePath generation efficiency of PlanNode when deserializing](https://github.com/apache/iotdb/pull/12749) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Rename IoTV2Consensus to IoTConsensusV2](https://github.com/apache/iotdb/pull/12715) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [Rename IoTV2Consensus to IoTConsensusV2](https://github.com/apache/iotdb/pull/12715) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Adapt partition computation for IDeviceID](https://github.com/apache/iotdb/pull/12700) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
