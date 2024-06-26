@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [GODVvVZzz](https://github.com/GODVvVZzz)
 - [Alioth4J](https://github.com/Alioth4J)
 - [9eer](https://github.com/9eer)
 - [engineerhuang](https://github.com/engineerhuang)
 - [JIAMINDONG](https://github.com/JIAMINDONG)
-- [lr13-2002](https://github.com/lr13-2002)
 
 #### 🔨 Check out my recent pull requests
 
