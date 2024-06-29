@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Enhance wal compression](https://github.com/apache/iotdb/pull/12830) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Delete doc for FastIoTConsensus temporarily](https://github.com/apache/iotdb/pull/12827) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Enhance leader quantity metric for load scenario](https://github.com/apache/iotdb/pull/12785) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [WAL Compression enhancement](https://github.com/apache/iotdb/pull/12763) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Optimize the devicePath generation efficiency of PlanNode when deserializing](https://github.com/apache/iotdb/pull/12749) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Rename IoTV2Consensus to IoTConsensusV2](https://github.com/apache/iotdb/pull/12715) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
