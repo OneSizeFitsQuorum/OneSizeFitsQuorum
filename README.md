@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Enhance wal compression](https://github.com/apache/iotdb/pull/12853) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Implement new ClusterPartitionFetcher interface](https://github.com/apache/iotdb/pull/12848) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fix schema query stuck when system is readonly](https://github.com/apache/iotdb/pull/12842) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Enhance 3c3d properties](https://github.com/apache/iotdb/pull/12835) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Enhance directBuffer test for compressor](https://github.com/apache/tsfile/pull/146) on [apache/tsfile](https://github.com/apache/tsfile) (2 days ago)
-- [Enhance wal compression](https://github.com/apache/iotdb/pull/12830) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Delete doc for FastIoTConsensus temporarily](https://github.com/apache/iotdb/pull/12827) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
