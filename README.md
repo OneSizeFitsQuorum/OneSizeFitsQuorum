@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (3 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 months ago)
@@ -36,17 +36,17 @@
 
 #### 👯 Check out my recent followers
 
+- [ZoneCNH](https://github.com/ZoneCNH)
 - [trillionze](https://github.com/trillionze)
 - [GODVvVZzz](https://github.com/GODVvVZzz)
 - [Alioth4J](https://github.com/Alioth4J)
 - [9eer](https://github.com/9eer)
-- [engineerhuang](https://github.com/engineerhuang)
 
 #### 🔨 Check out my recent pull requests
 
-- [Enhance wal compression](https://github.com/apache/iotdb/pull/12853) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Implement new ClusterPartitionFetcher interface](https://github.com/apache/iotdb/pull/12848) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Fix schema query stuck when system is readonly](https://github.com/apache/iotdb/pull/12842) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Enhance wal compression](https://github.com/apache/iotdb/pull/12853) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Implement new ClusterPartitionFetcher interface](https://github.com/apache/iotdb/pull/12848) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Fix schema query stuck when system is readonly](https://github.com/apache/iotdb/pull/12842) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Enhance 3c3d properties](https://github.com/apache/iotdb/pull/12835) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enhance directBuffer test for compressor](https://github.com/apache/tsfile/pull/146) on [apache/tsfile](https://github.com/apache/tsfile) (1 week ago)
 
