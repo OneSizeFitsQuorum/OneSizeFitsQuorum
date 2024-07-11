@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [NeilAlfred](https://github.com/NeilAlfred)
 - [ZoneCNH](https://github.com/ZoneCNH)
 - [trillionze](https://github.com/trillionze)
 - [GODVvVZzz](https://github.com/GODVvVZzz)
 - [Alioth4J](https://github.com/Alioth4J)
-- [9eer](https://github.com/9eer)
 
 #### 🔨 Check out my recent pull requests
 
