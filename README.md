@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal (4 weeks ago)
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal (1 month ago)
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data (1 month ago)
 - [LeiRui/visual-fidelity-bench](https://github.com/LeiRui/visual-fidelity-bench) -  (2 months ago)
 - [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine (2 months ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [XmchxUp](https://github.com/XmchxUp)
 - [YilinUSC](https://github.com/YilinUSC)
 - [NeilAlfred](https://github.com/NeilAlfred)
 - [ZoneCNH](https://github.com/ZoneCNH)
 - [trillionze](https://github.com/trillionze)
-- [GODVvVZzz](https://github.com/GODVvVZzz)
 
 #### 🔨 Check out my recent pull requests
 
