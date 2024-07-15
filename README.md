@@ -47,8 +47,8 @@
 - [Enhance wal compression](https://github.com/apache/iotdb/pull/12853) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Implement new ClusterPartitionFetcher interface](https://github.com/apache/iotdb/pull/12848) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fix schema query stuck when system is readonly](https://github.com/apache/iotdb/pull/12842) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Enhance 3c3d properties](https://github.com/apache/iotdb/pull/12835) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Enhance directBuffer test for compressor](https://github.com/apache/tsfile/pull/146) on [apache/tsfile](https://github.com/apache/tsfile) (1 week ago)
+- [Enhance 3c3d properties](https://github.com/apache/iotdb/pull/12835) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Enhance directBuffer test for compressor](https://github.com/apache/tsfile/pull/146) on [apache/tsfile](https://github.com/apache/tsfile) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
