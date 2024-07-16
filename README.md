@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [xia-Sang](https://github.com/xia-Sang)
 - [XmchxUp](https://github.com/XmchxUp)
 - [YilinUSC](https://github.com/YilinUSC)
 - [NeilAlfred](https://github.com/NeilAlfred)
 - [ZoneCNH](https://github.com/ZoneCNH)
-- [trillionze](https://github.com/trillionze)
 
 #### 🔨 Check out my recent pull requests
 
