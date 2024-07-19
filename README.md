@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle (today)
+- [datafusion-contrib/datafusion-java](https://github.com/datafusion-contrib/datafusion-java) - Java binding to Apache Arrow DataFusion (today)
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal (1 month ago)
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data (1 month ago)
 - [LeiRui/visual-fidelity-bench](https://github.com/LeiRui/visual-fidelity-bench) -  (2 months ago)
-- [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine (2 months ago)
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...) (3 months ago)
 
 #### 👯 Check out my recent followers
 
