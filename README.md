@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (2 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Enhance the automatic metadata creation logic of root.__system prefixed devices](https://github.com/apache/iotdb/pull/12962) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fixed issue where the wal version kept increasing after the write load stopped](https://github.com/apache/iotdb/pull/12960) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance the automatic metadata creation logic of root.__system prefixed devices](https://github.com/apache/iotdb/pull/12962) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fixed issue where the wal version kept increasing after the write load stopped](https://github.com/apache/iotdb/pull/12960) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Enhance wal compression](https://github.com/apache/iotdb/pull/12853) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Implement new ClusterPartitionFetcher interface](https://github.com/apache/iotdb/pull/12848) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Fix schema query stuck when system is readonly](https://github.com/apache/iotdb/pull/12842) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
