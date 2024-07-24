@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [unique-pure](https://github.com/unique-pure)
+- [iabetor](https://github.com/iabetor)
 - [1214136850](https://github.com/1214136850)
 - [xia-Sang](https://github.com/xia-Sang)
 - [XmchxUp](https://github.com/XmchxUp)
-- [YilinUSC](https://github.com/YilinUSC)
-- [NeilAlfred](https://github.com/NeilAlfred)
 
 #### 🔨 Check out my recent pull requests
 
