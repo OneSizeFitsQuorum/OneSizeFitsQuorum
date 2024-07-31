@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings (2 days ago)
+- [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings (3 days ago)
 - [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle (1 week ago)
 - [datafusion-contrib/datafusion-java](https://github.com/datafusion-contrib/datafusion-java) - Java binding to Apache Arrow DataFusion (1 week ago)
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal (1 month ago)
@@ -48,7 +48,7 @@
 - [Ensure the flush total points statistic function works correctly when enable_auto_create_schema is false](https://github.com/apache/iotdb/pull/12990) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enhance the automatic metadata creation logic of root.__system prefixed devices](https://github.com/apache/iotdb/pull/12962) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fixed issue where the wal version kept increasing after the write load stopped](https://github.com/apache/iotdb/pull/12960) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Enhance wal compression](https://github.com/apache/iotdb/pull/12853) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [Enhance wal compression](https://github.com/apache/iotdb/pull/12853) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
