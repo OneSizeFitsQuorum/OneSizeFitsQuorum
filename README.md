@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings (3 days ago)
+- [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings (4 days ago)
 - [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle (1 week ago)
 - [datafusion-contrib/datafusion-java](https://github.com/datafusion-contrib/datafusion-java) - Java binding to Apache Arrow DataFusion (1 week ago)
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal (1 month ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Allows root.__system prefix time series creation](https://github.com/apache/iotdb/pull/12991) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Ensure the flush total points statistic function works correctly when enable_auto_create_schema is false](https://github.com/apache/iotdb/pull/12990) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Enhance the automatic metadata creation logic of root.__system prefixed devices](https://github.com/apache/iotdb/pull/12962) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Fixed issue where the wal version kept increasing after the write load stopped](https://github.com/apache/iotdb/pull/12960) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [Enhance the automatic metadata creation logic of root.__system prefixed devices](https://github.com/apache/iotdb/pull/12962) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Fixed issue where the wal version kept increasing after the write load stopped](https://github.com/apache/iotdb/pull/12960) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
