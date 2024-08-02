@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (3 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (4 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings (4 days ago)
-- [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle (1 week ago)
-- [datafusion-contrib/datafusion-java](https://github.com/datafusion-contrib/datafusion-java) - Java binding to Apache Arrow DataFusion (1 week ago)
+- [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings (5 days ago)
+- [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle (2 weeks ago)
+- [datafusion-contrib/datafusion-java](https://github.com/datafusion-contrib/datafusion-java) - Java binding to Apache Arrow DataFusion (2 weeks ago)
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal (1 month ago)
 - [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data (1 month ago)
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Allows root.__system prefix time series creation](https://github.com/apache/iotdb/pull/12991) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Ensure the flush total points statistic function works correctly when enable_auto_create_schema is false](https://github.com/apache/iotdb/pull/12990) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enhance the automatic metadata creation logic of root.__system prefixed devices](https://github.com/apache/iotdb/pull/12962) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
