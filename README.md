@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [xiyan128](https://github.com/xiyan128)
+- [TheSouthernReach](https://github.com/TheSouthernReach)
 - [xlcjz](https://github.com/xlcjz)
 - [HeZephyr](https://github.com/HeZephyr)
 - [iabetor](https://github.com/iabetor)
-- [1214136850](https://github.com/1214136850)
-- [xia-Sang](https://github.com/xia-Sang)
 
 #### 🔨 Check out my recent pull requests
 
