@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
@@ -44,15 +44,15 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Allows root.__system prefix time series creation](https://github.com/apache/iotdb/pull/12991) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Ensure the flush total points statistic function works correctly when enable_auto_create_schema is false](https://github.com/apache/iotdb/pull/12990) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Allows root.__system prefix time series creation](https://github.com/apache/iotdb/pull/12991) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Ensure the flush total points statistic function works correctly when enable_auto_create_schema is false](https://github.com/apache/iotdb/pull/12990) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Enhance the automatic metadata creation logic of root.__system prefixed devices](https://github.com/apache/iotdb/pull/12962) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Fixed issue where the wal version kept increasing after the write load stopped](https://github.com/apache/iotdb/pull/12960) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
-- [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (5 months ago)
+- [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (6 months ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (8 months ago)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (2 years ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (2 years ago)
