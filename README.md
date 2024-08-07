@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Hey-Karma](https://github.com/Hey-Karma)
 - [Connor9994](https://github.com/Connor9994)
 - [xiyan128](https://github.com/xiyan128)
 - [TheSouthernReach](https://github.com/TheSouthernReach)
 - [xlcjz](https://github.com/xlcjz)
-- [HeZephyr](https://github.com/HeZephyr)
 
 #### 🔨 Check out my recent pull requests
 
