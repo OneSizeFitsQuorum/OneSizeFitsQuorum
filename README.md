@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2136 Fixed the issue that RatisServer could not start after frequent restarts](https://github.com/apache/ratis/pull/1131) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Fix IoTConsensus log explosion when stoping one node](https://github.com/apache/iotdb/pull/13101) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Enhance transferLeader retry frequency when migrating region](https://github.com/apache/iotdb/pull/13098) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Allows root.__system prefix time series creation](https://github.com/apache/iotdb/pull/12991) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Ensure the flush total points statistic function works correctly when enable_auto_create_schema is false](https://github.com/apache/iotdb/pull/12990) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
