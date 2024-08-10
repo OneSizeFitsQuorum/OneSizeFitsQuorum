@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 months ago)
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2136 Fixed the issue that RatisServer could not start after frequent restarts](https://github.com/apache/ratis/pull/1131) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [Fix IoTConsensus log explosion when stoping one node](https://github.com/apache/iotdb/pull/13101) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [Enhance transferLeader retry frequency when migrating region](https://github.com/apache/iotdb/pull/13098) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [RATIS-2136 Fixed the issue that RatisServer could not start after frequent restarts](https://github.com/apache/ratis/pull/1131) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [Fix IoTConsensus log explosion when stoping one node](https://github.com/apache/iotdb/pull/13101) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [Enhance transferLeader retry frequency when migrating region](https://github.com/apache/iotdb/pull/13098) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Allows root.__system prefix time series creation](https://github.com/apache/iotdb/pull/12991) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
