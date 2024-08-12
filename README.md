@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/samza](https://github.com/apache/samza) - Mirror of Apache Samza (today)
+- [apache/ignite-3](https://github.com/apache/ignite-3) - Apache Ignite 3 (today)
 - [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings (2 weeks ago)
 - [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle (3 weeks ago)
 - [datafusion-contrib/datafusion-java](https://github.com/datafusion-contrib/datafusion-java) - Java binding to Apache Arrow DataFusion (3 weeks ago)
-- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal (2 months ago)
-- [apache/drill](https://github.com/apache/drill) - Apache Drill is a distributed MPP query layer for self describing data (2 months ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2138 Remove uncessary error log in JVMPauseMonitor When GC is serious](https://github.com/apache/ratis/pull/1133) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-2136 Fixed the issue that RatisServer could not start after frequent restarts](https://github.com/apache/ratis/pull/1131) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
 - [Fix IoTConsensus log explosion when stoping one node](https://github.com/apache/iotdb/pull/13101) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Enhance transferLeader retry frequency when migrating region](https://github.com/apache/iotdb/pull/13098) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Allows root.__system prefix time series creation](https://github.com/apache/iotdb/pull/12991) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
