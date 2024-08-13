@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Djzhan0207](https://github.com/Djzhan0207)
 - [Xiangyinfly](https://github.com/Xiangyinfly)
 - [jiubafangxing](https://github.com/jiubafangxing)
 - [Hey-Karma](https://github.com/Hey-Karma)
 - [Connor9994](https://github.com/Connor9994)
-- [xiyan128](https://github.com/xiyan128)
 
 #### 🔨 Check out my recent pull requests
 
