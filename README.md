@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zgl404](https://github.com/zgl404)
 - [Djzhan0207](https://github.com/Djzhan0207)
 - [Xiangyinfly](https://github.com/Xiangyinfly)
 - [jiubafangxing](https://github.com/jiubafangxing)
 - [Hey-Karma](https://github.com/Hey-Karma)
-- [Connor9994](https://github.com/Connor9994)
 
 #### 🔨 Check out my recent pull requests
 
