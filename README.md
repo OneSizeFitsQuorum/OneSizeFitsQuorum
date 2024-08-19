@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13221) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-2138 Remove uncessary error log in JVMPauseMonitor When GC is serious](https://github.com/apache/ratis/pull/1133) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [RATIS-2136 Fixed the issue that RatisServer could not start after frequent restarts](https://github.com/apache/ratis/pull/1131) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [Fix IoTConsensus log explosion when stoping one node](https://github.com/apache/iotdb/pull/13101) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enhance transferLeader retry frequency when migrating region](https://github.com/apache/iotdb/pull/13098) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Fixed concurrency bug in IoTConsensus Region migration](https://github.com/apache/iotdb/pull/13070) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
