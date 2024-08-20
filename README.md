@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (6 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rc/1.3.3] Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13226) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13221) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rc/1.3.3] Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13226) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13221) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [RATIS-2138 Remove uncessary error log in JVMPauseMonitor When GC is serious](https://github.com/apache/ratis/pull/1133) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [RATIS-2136 Fixed the issue that RatisServer could not start after frequent restarts](https://github.com/apache/ratis/pull/1131) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
-- [Fix IoTConsensus log explosion when stoping one node](https://github.com/apache/iotdb/pull/13101) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [Fix IoTConsensus log explosion when stoping one node](https://github.com/apache/iotdb/pull/13101) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
