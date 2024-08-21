@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [dbiir/TS-Benchmark](https://github.com/dbiir/TS-Benchmark) - 时序基准评测工具 (today)
+- [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install (today)
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source (today)
 - [apache/samza](https://github.com/apache/samza) - Mirror of Apache Samza (1 week ago)
 - [apache/ignite-3](https://github.com/apache/ignite-3) - Apache Ignite 3 (1 week ago)
-- [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings (3 weeks ago)
-- [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle (1 month ago)
-- [datafusion-contrib/datafusion-java](https://github.com/datafusion-contrib/datafusion-java) - Java binding to Apache Arrow DataFusion (1 month ago)
 
 #### 👯 Check out my recent followers
 
+- [YiNNx](https://github.com/YiNNx)
 - [zgl404](https://github.com/zgl404)
 - [Djzhan0207](https://github.com/Djzhan0207)
 - [Xiangyinfly](https://github.com/Xiangyinfly)
 - [jiubafangxing](https://github.com/jiubafangxing)
-- [Hey-Karma](https://github.com/Hey-Karma)
 
 #### 🔨 Check out my recent pull requests
 
