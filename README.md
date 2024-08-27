@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
-- [Jiajun-Peng](https://github.com/Jiajun-Peng)
-- [YiNNx](https://github.com/YiNNx)
-- [zgl404](https://github.com/zgl404)
-- [Djzhan0207](https://github.com/Djzhan0207)
-- [Xiangyinfly](https://github.com/Xiangyinfly)
+- [Manchery](https://github.com/Manchery)
+- [Eights-Li](https://github.com/Eights-Li)
+- [powerfooI](https://github.com/powerfooI)
+- [lianux-db](https://github.com/lianux-db)
+- [WatchManT](https://github.com/WatchManT)
 
 #### 🔨 Check out my recent pull requests
 
+- [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13312) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-2144 SegmentedRaftLogWorker should close the stream before releasing the buffer.](https://github.com/apache/ratis/pull/1138) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
 - [[To rc/1.3.3] Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13226) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13221) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-2138 Remove uncessary error log in JVMPauseMonitor When GC is serious](https://github.com/apache/ratis/pull/1133) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
-- [RATIS-2136 Fixed the issue that RatisServer could not start after frequent restarts](https://github.com/apache/ratis/pull/1131) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
