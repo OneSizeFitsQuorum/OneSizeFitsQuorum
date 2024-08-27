@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 months ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [RobertIndie](https://github.com/RobertIndie)
 - [Manchery](https://github.com/Manchery)
 - [Eights-Li](https://github.com/Eights-Li)
 - [powerfooI](https://github.com/powerfooI)
 - [lianux-db](https://github.com/lianux-db)
-- [WatchManT](https://github.com/WatchManT)
 
 #### 🔨 Check out my recent pull requests
 
