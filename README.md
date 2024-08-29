@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2146 Fixed possible issues caused by concurrent deletion and election when member changes](https://github.com/apache/ratis/pull/1140) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13312) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [RATIS-2144 SegmentedRaftLogWorker should close the stream before releasing the buffer.](https://github.com/apache/ratis/pull/1138) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [[To rc/1.3.3] Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13226) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13221) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [RATIS-2138 Remove uncessary error log in JVMPauseMonitor When GC is serious](https://github.com/apache/ratis/pull/1133) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
