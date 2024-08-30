@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [lifepuzzlefun](https://github.com/lifepuzzlefun)
 - [RobertIndie](https://github.com/RobertIndie)
 - [Manchery](https://github.com/Manchery)
 - [Eights-Li](https://github.com/Eights-Li)
 - [powerfooI](https://github.com/powerfooI)
-- [lianux-db](https://github.com/lianux-db)
 
 #### 🔨 Check out my recent pull requests
 
+- [Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13357) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To rc/1.3.3]Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13356) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-2146 Fixed possible issues caused by concurrent deletion and election when member changes](https://github.com/apache/ratis/pull/1140) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13312) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [RATIS-2144 SegmentedRaftLogWorker should close the stream before releasing the buffer.](https://github.com/apache/ratis/pull/1138) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
-- [[To rc/1.3.3] Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13226) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Avoid the brain split phenomenon in the symmetric network partition scenario](https://github.com/apache/iotdb/pull/13221) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
