@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
@@ -32,7 +32,7 @@
 - [dbiir/TS-Benchmark](https://github.com/dbiir/TS-Benchmark) - 时序基准评测工具 (1 week ago)
 - [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install (1 week ago)
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source (1 week ago)
-- [apache/samza](https://github.com/apache/samza) - Mirror of Apache Samza (2 weeks ago)
+- [apache/samza](https://github.com/apache/samza) - Mirror of Apache Samza (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,16 +44,16 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13357) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[To rc/1.3.3]Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13356) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [RATIS-2146 Fixed possible issues caused by concurrent deletion and election when member changes](https://github.com/apache/ratis/pull/1140) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
-- [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13312) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13357) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To rc/1.3.3]Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13356) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [RATIS-2146 Fixed possible issues caused by concurrent deletion and election when member changes](https://github.com/apache/ratis/pull/1140) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
+- [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13312) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [RATIS-2144 SegmentedRaftLogWorker should close the stream before releasing the buffer.](https://github.com/apache/ratis/pull/1138) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (6 months ago)
-- [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (8 months ago)
+- [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (9 months ago)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (2 years ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (2 years ago)
 - [2022 TiDB Hackathon 产品组最佳校园奖总结](https://tanxinyu.work/2022-tidb-hackathon/) (2 years ago)
