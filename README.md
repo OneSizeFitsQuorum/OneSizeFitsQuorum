@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) - Apache Maven GPG Plugin (today)
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI). (1 week ago)
 - [dbiir/TS-Benchmark](https://github.com/dbiir/TS-Benchmark) - 时序基准评测工具 (1 week ago)
 - [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install (1 week ago)
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source (1 week ago)
-- [apache/samza](https://github.com/apache/samza) - Mirror of Apache Samza (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
