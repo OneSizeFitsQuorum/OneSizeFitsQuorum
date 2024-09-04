@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2150 No need for manual assembly:single execution when mvn depoly](https://github.com/apache/ratis/pull/1144) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13357) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [[To rc/1.3.3]Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13356) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [RATIS-2146 Fixed possible issues caused by concurrent deletion and election when member changes](https://github.com/apache/ratis/pull/1140) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13312) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [RATIS-2144 SegmentedRaftLogWorker should close the stream before releasing the buffer.](https://github.com/apache/ratis/pull/1138) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
