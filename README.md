@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [nknanfeng](https://github.com/nknanfeng)
+- [Yang-yongwen](https://github.com/Yang-yongwen)
 - [wplf](https://github.com/wplf)
 - [YangWithU](https://github.com/YangWithU)
 - [lifepuzzlefun](https://github.com/lifepuzzlefun)
-- [RobertIndie](https://github.com/RobertIndie)
-- [Manchery](https://github.com/Manchery)
 
 #### 🔨 Check out my recent pull requests
 
