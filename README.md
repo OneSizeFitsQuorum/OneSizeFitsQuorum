@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [suisbuds](https://github.com/suisbuds)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [nknanfeng](https://github.com/nknanfeng)
 - [Yang-yongwen](https://github.com/Yang-yongwen)
 - [wplf](https://github.com/wplf)
-- [YangWithU](https://github.com/YangWithU)
 
 #### 🔨 Check out my recent pull requests
 
