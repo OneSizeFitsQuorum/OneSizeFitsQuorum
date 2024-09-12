@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (6 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (2 months ago)
@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [KinWaiYuen](https://github.com/KinWaiYuen)
 - [suisbuds](https://github.com/suisbuds)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [nknanfeng](https://github.com/nknanfeng)
 - [Yang-yongwen](https://github.com/Yang-yongwen)
-- [wplf](https://github.com/wplf)
 
 #### 🔨 Check out my recent pull requests
 
+- [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13486) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Automatically trigger CI for active non-committer ](https://github.com/apache/iotdb/pull/13450) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Automatically trigger CI for active non-committer again](https://github.com/apache/iotdb/pull/13442) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [RATIS-2150. No need for manual assembly:single execution when mvn deploy](https://github.com/apache/ratis/pull/1144) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13357) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rc/1.3.3]Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13356) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
