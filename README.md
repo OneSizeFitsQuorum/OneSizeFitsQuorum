@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core. (today)
 - [apache/maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) - Apache Maven GPG Plugin (1 week ago)
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI). (3 weeks ago)
 - [dbiir/TS-Benchmark](https://github.com/dbiir/TS-Benchmark) - 时序基准评测工具 (3 weeks ago)
 - [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install (3 weeks ago)
-- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
