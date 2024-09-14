@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [noob261](https://github.com/noob261)
 - [KinWaiYuen](https://github.com/KinWaiYuen)
 - [suisbuds](https://github.com/suisbuds)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [nknanfeng](https://github.com/nknanfeng)
-- [Yang-yongwen](https://github.com/Yang-yongwen)
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2157 Enhance make_rc.sh for non-first rc at release time](https://github.com/apache/ratis/pull/1149) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13486) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Automatically trigger CI for active non-committer ](https://github.com/apache/iotdb/pull/13450) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Automatically trigger CI for active non-committer again](https://github.com/apache/iotdb/pull/13442) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [RATIS-2150. No need for manual assembly:single execution when mvn deploy](https://github.com/apache/ratis/pull/1144) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
-- [Bump ratis version from 3.1.0 to 3.1.1-0133c90-SNAPSHOT](https://github.com/apache/iotdb/pull/13357) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
