@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [WJ-Clara](https://github.com/WJ-Clara)
 - [noob261](https://github.com/noob261)
 - [KinWaiYuen](https://github.com/KinWaiYuen)
 - [suisbuds](https://github.com/suisbuds)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [nknanfeng](https://github.com/nknanfeng)
 
 #### 🔨 Check out my recent pull requests
 
