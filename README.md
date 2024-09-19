@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13547) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-2157 Enhance make_rc.sh for non-first rc at release time](https://github.com/apache/ratis/pull/1149) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
 - [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13486) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Automatically trigger CI for active non-committer ](https://github.com/apache/iotdb/pull/13450) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Automatically trigger CI for active non-committer again](https://github.com/apache/iotdb/pull/13442) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [RATIS-2150. No need for manual assembly:single execution when mvn deploy](https://github.com/apache/ratis/pull/1144) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
