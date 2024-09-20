@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 week ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 weeks ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (7 months ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core. (6 days ago)
+- [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core. (1 week ago)
 - [apache/maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) - Apache Maven GPG Plugin (2 weeks ago)
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI). (4 weeks ago)
-- [dbiir/TS-Benchmark](https://github.com/dbiir/TS-Benchmark) - 时序基准评测工具 (4 weeks ago)
-- [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install (4 weeks ago)
+- [dbiir/TS-Benchmark](https://github.com/dbiir/TS-Benchmark) - 时序基准评测工具 (1 month ago)
+- [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install (1 month ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13547) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [RATIS-2157 Enhance make_rc.sh for non-first rc at release time](https://github.com/apache/ratis/pull/1149) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13547) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [RATIS-2157 Enhance make_rc.sh for non-first rc at release time](https://github.com/apache/ratis/pull/1149) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13486) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Automatically trigger CI for active non-committer ](https://github.com/apache/iotdb/pull/13450) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Automatically trigger CI for active non-committer again](https://github.com/apache/iotdb/pull/13442) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
