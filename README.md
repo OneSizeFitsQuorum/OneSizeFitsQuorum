@@ -37,7 +37,7 @@
 #### 👯 Check out my recent followers
 
 - [WJ-Clara](https://github.com/WJ-Clara)
-- [noob261](https://github.com/noob261)
+- [SuckSolace](https://github.com/SuckSolace)
 - [KinWaiYuen](https://github.com/KinWaiYuen)
 - [suisbuds](https://github.com/suisbuds)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
