@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Qianfqi](https://github.com/Qianfqi)
 - [DinnerHunt](https://github.com/DinnerHunt)
 - [WJ-Clara](https://github.com/WJ-Clara)
 - [SuckSolace](https://github.com/SuckSolace)
 - [KinWaiYuen](https://github.com/KinWaiYuen)
-- [suisbuds](https://github.com/suisbuds)
 
 #### 🔨 Check out my recent pull requests
 
