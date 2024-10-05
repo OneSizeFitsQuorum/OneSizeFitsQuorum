@@ -47,7 +47,7 @@
 - [RATIS-2163 Update website with Ratis 3.1.1 release](https://github.com/apache/ratis/pull/1155) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [[To rc/1.3.3] Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13556) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13547) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [RATIS-2157 Enhance make_rc.sh for non-first rc at release time](https://github.com/apache/ratis/pull/1149) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
+- [RATIS-2157 Enhance make_rc.sh for non-first rc at release time](https://github.com/apache/ratis/pull/1149) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13486) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
