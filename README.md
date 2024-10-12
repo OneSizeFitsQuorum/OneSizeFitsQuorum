@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
+- [yanchenzi](https://github.com/yanchenzi)
 - [HScarb](https://github.com/HScarb)
 - [WJ-Clara](https://github.com/WJ-Clara)
 - [orthur2](https://github.com/orthur2)
-- [zwhzzz0821](https://github.com/zwhzzz0821)
-- [liuzhilong62](https://github.com/liuzhilong62)
 
 #### 🔨 Check out my recent pull requests
 
+- [[to rc/1.3.3]Fix the failure of update cluster name in metric framework of ConfigNode #13681](https://github.com/apache/iotdb/pull/13733) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-2163 Update website with Ratis 3.1.1 release](https://github.com/apache/ratis/pull/1155) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [[To rc/1.3.3] Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13556) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13547) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [RATIS-2157 Enhance make_rc.sh for non-first rc at release time](https://github.com/apache/ratis/pull/1149) on [apache/ratis](https://github.com/apache/ratis) (4 weeks ago)
-- [Automatically trigger CI for active non-committer](https://github.com/apache/iotdb/pull/13486) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
