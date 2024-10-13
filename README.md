@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ACCLE123](https://github.com/ACCLE123)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [yanchenzi](https://github.com/yanchenzi)
 - [HScarb](https://github.com/HScarb)
 - [WJ-Clara](https://github.com/WJ-Clara)
-- [orthur2](https://github.com/orthur2)
 
 #### 🔨 Check out my recent pull requests
 
