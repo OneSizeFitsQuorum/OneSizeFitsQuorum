@@ -14,7 +14,7 @@
 
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 weeks ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 weeks ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (3 months ago)
 
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (today)
-- [apache/iotdb-extras](https://github.com/apache/iotdb-extras) - Apache IoTDB Extras (5 days ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 day ago)
+- [apache/iotdb-extras](https://github.com/apache/iotdb-extras) - Apache IoTDB Extras (6 days ago)
 - [thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library) - A Library for Advanced Deep Time Series Models. (3 weeks ago)
 - [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core. (1 month ago)
 - [apache/maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) - Apache Maven GPG Plugin (1 month ago)
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[to rc/1.3.3]Fix the failure of update cluster name in metric framework of ConfigNode #13681](https://github.com/apache/iotdb/pull/13733) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[to rc/1.3.3]Fix the failure of update cluster name in metric framework of ConfigNode #13681](https://github.com/apache/iotdb/pull/13733) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [RATIS-2163 Update website with Ratis 3.1.1 release](https://github.com/apache/ratis/pull/1155) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [[To rc/1.3.3] Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13556) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13547) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
