@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [OpenHFT/Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Chronicle Bytes has a similar purpose to Java NIO&#39;s ByteBuffer with many extensions (today)
+- [OpenHFT/Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Zero-allocation hashing for Java (today)
+- [OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core) - Low level access to native memory, JVM and OS. (today)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 days ago)
 - [apache/iotdb-extras](https://github.com/apache/iotdb-extras) - Apache IoTDB Extras (1 week ago)
-- [thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library) - A Library for Advanced Deep Time Series Models. (3 weeks ago)
-- [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core. (1 month ago)
-- [apache/maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) - Apache Maven GPG Plugin (1 month ago)
 
 #### 👯 Check out my recent followers
 
