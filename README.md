@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [whynot-hime](https://github.com/whynot-hime)
 - [new-ccl](https://github.com/new-ccl)
 - [alwayrun](https://github.com/alwayrun)
 - [ACCLE123](https://github.com/ACCLE123)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
-- [yanchenzi](https://github.com/yanchenzi)
 
 #### 🔨 Check out my recent pull requests
 
