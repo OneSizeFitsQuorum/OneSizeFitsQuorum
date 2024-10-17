@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenHFT/Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Chronicle Bytes has a similar purpose to Java NIO&#39;s ByteBuffer with many extensions (today)
-- [OpenHFT/Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Zero-allocation hashing for Java (today)
-- [OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core) - Low level access to native memory, JVM and OS. (today)
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 days ago)
+- [OpenHFT/Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Chronicle Bytes has a similar purpose to Java NIO&#39;s ByteBuffer with many extensions (1 day ago)
+- [OpenHFT/Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Zero-allocation hashing for Java (1 day ago)
+- [OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core) - Low level access to native memory, JVM and OS. (1 day ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (3 days ago)
 - [apache/iotdb-extras](https://github.com/apache/iotdb-extras) - Apache IoTDB Extras (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[to rc/1.3.3]Fix the failure of update cluster name in metric framework of ConfigNode #13681](https://github.com/apache/iotdb/pull/13733) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [RATIS-2163 Update website with Ratis 3.1.1 release](https://github.com/apache/ratis/pull/1155) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
+- [[to rc/1.3.3]Fix the failure of update cluster name in metric framework of ConfigNode #13681](https://github.com/apache/iotdb/pull/13733) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [RATIS-2163 Update website with Ratis 3.1.1 release](https://github.com/apache/ratis/pull/1155) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [[To rc/1.3.3] Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13556) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13547) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [Fix AINode status error after ConfigNode Leader restarts](https://github.com/apache/iotdb/pull/13547) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 - [RATIS-2157 Enhance make_rc.sh for non-first rc at release time](https://github.com/apache/ratis/pull/1149) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
