@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ycycse](https://github.com/ycycse)
 - [7y-9](https://github.com/7y-9)
 - [JackWang2120](https://github.com/JackWang2120)
 - [whynot-hime](https://github.com/whynot-hime)
 - [new-ccl](https://github.com/new-ccl)
-- [alwayrun](https://github.com/alwayrun)
 
 #### 🔨 Check out my recent pull requests
 
