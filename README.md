@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [GreptimeTeam/promql-parser](https://github.com/GreptimeTeam/promql-parser) - PromQL Rust parser (today)
+- [GreptimeTeam/promql-parser](https://github.com/GreptimeTeam/promql-parser) - PromQL Rust parser (1 day ago)
 - [OpenHFT/Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Chronicle Bytes has a similar purpose to Java NIO&#39;s ByteBuffer with many extensions (1 week ago)
 - [OpenHFT/Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Zero-allocation hashing for Java (1 week ago)
 - [OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core) - Low level access to native memory, JVM and OS. (1 week ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [YinhuaChen-cloud](https://github.com/YinhuaChen-cloud)
 - [hybd17](https://github.com/hybd17)
 - [ycycse](https://github.com/ycycse)
 - [7y-9](https://github.com/7y-9)
 - [JackWang2120](https://github.com/JackWang2120)
-- [whynot-hime](https://github.com/whynot-hime)
 
 #### 🔨 Check out my recent pull requests
 
