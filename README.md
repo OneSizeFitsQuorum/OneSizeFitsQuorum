@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix ConfignNode LoadManager NPE when removing datanodes](https://github.com/apache/iotdb/pull/14016) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To rc/1.3.3]Fix IoTV2 metric NPE due to concurrency ](https://github.com/apache/iotdb/pull/13952) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fix IoTV2 metric NPE due to concurrency](https://github.com/apache/iotdb/pull/13951) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Bump ratis to 3.1.2-5cd8971-SNAPSHOT](https://github.com/apache/iotdb/pull/13950) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[to rc/1.3.3]Fix the failure of update cluster name in metric framework of ConfigNode #13681](https://github.com/apache/iotdb/pull/13733) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [RATIS-2163 Update website with Ratis 3.1.1 release](https://github.com/apache/ratis/pull/1155) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
