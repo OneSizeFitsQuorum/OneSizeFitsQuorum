@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。 (3 days ago)
-- [0voice/cpp_backend_awsome_blog](https://github.com/0voice/cpp_backend_awsome_blog) - 2023年最新整理 c&#43;&#43;后端开发，1000篇优秀博文，含内存，网络，架构设计，高性能，数据结构，基础组件，中间件，分布式相关 (3 days ago)
+- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。 (4 days ago)
+- [0voice/cpp_backend_awsome_blog](https://github.com/0voice/cpp_backend_awsome_blog) - 2023年最新整理 c&#43;&#43;后端开发，1000篇优秀博文，含内存，网络，架构设计，高性能，数据结构，基础组件，中间件，分布式相关 (4 days ago)
 - [GreptimeTeam/promql-parser](https://github.com/GreptimeTeam/promql-parser) - PromQL Rust parser (1 week ago)
 - [OpenHFT/Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Chronicle Bytes has a similar purpose to Java NIO&#39;s ByteBuffer with many extensions (3 weeks ago)
 - [OpenHFT/Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Zero-allocation hashing for Java (3 weeks ago)
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix ConfignNode LoadManager NPE when removing datanodes](https://github.com/apache/iotdb/pull/14016) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Fix ConfignNode LoadManager NPE when removing datanodes](https://github.com/apache/iotdb/pull/14016) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To rc/1.3.3]Fix IoTV2 metric NPE due to concurrency ](https://github.com/apache/iotdb/pull/13952) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fix IoTV2 metric NPE due to concurrency](https://github.com/apache/iotdb/pull/13951) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Bump ratis to 3.1.2-5cd8971-SNAPSHOT](https://github.com/apache/iotdb/pull/13950) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
