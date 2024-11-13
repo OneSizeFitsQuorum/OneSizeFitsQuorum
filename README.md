@@ -47,7 +47,7 @@
 - [[To dev/1.3.3] Bump Ratis version to 3.1.2 ](https://github.com/apache/iotdb/pull/14046) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Bump Ratis version to 3.1.2](https://github.com/apache/iotdb/pull/14044) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[To rc/1.3.3] Bump Ratis version to 3.1.2](https://github.com/apache/iotdb/pull/14043) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [RATIS-2188 Update website with Ratis 3.1.2 release](https://github.com/apache/ratis/pull/1176) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [RATIS-2188. Update website with Ratis 3.1.2 release](https://github.com/apache/ratis/pull/1176) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
 - [Fix ConfignNode LoadManager NPE when removing datanodes](https://github.com/apache/iotdb/pull/14016) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
