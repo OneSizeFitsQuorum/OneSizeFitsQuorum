@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [jameswangxin](https://github.com/jameswangxin)
 - [nholuongut](https://github.com/nholuongut)
 - [twilight218](https://github.com/twilight218)
 - [neutronstarj](https://github.com/neutronstarj)
 - [BaldDemian](https://github.com/BaldDemian)
-- [eust-w](https://github.com/eust-w)
 
 #### 🔨 Check out my recent pull requests
 
