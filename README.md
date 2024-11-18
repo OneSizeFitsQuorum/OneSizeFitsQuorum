@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms. (4 days ago)
-- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (6 days ago)
-- [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models (6 days ago)
-- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。 (1 week ago)
-- [0voice/cpp_backend_awsome_blog](https://github.com/0voice/cpp_backend_awsome_blog) - 2023年最新整理 c&#43;&#43;后端开发，1000篇优秀博文，含内存，网络，架构设计，高性能，数据结构，基础组件，中间件，分布式相关 (1 week ago)
+- [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms. (5 days ago)
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (1 week ago)
+- [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models (1 week ago)
+- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。 (2 weeks ago)
+- [0voice/cpp_backend_awsome_blog](https://github.com/0voice/cpp_backend_awsome_blog) - 2023年最新整理 c&#43;&#43;后端开发，1000篇优秀博文，含内存，网络，架构设计，高性能，数据结构，基础组件，中间件，分布式相关 (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3.3] Bump Ratis version to 3.1.2 ](https://github.com/apache/iotdb/pull/14046) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [Bump Ratis version to 3.1.2](https://github.com/apache/iotdb/pull/14044) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[To rc/1.3.3] Bump Ratis version to 3.1.2](https://github.com/apache/iotdb/pull/14043) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [RATIS-2188. Update website with Ratis 3.1.2 release](https://github.com/apache/ratis/pull/1176) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
+- [[To dev/1.3.3] Bump Ratis version to 3.1.2 ](https://github.com/apache/iotdb/pull/14046) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [Bump Ratis version to 3.1.2](https://github.com/apache/iotdb/pull/14044) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[To rc/1.3.3] Bump Ratis version to 3.1.2](https://github.com/apache/iotdb/pull/14043) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [RATIS-2188. Update website with Ratis 3.1.2 release](https://github.com/apache/ratis/pull/1176) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [Fix ConfignNode LoadManager NPE when removing datanodes](https://github.com/apache/iotdb/pull/14016) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
