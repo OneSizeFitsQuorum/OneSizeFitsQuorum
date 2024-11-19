@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix ConfigNode Partition Metric NPE bug](https://github.com/apache/iotdb/pull/14144) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [RATIS-2195 Enhance make_rc.sh for ratis-thirdparty](https://github.com/apache/ratis-thirdparty/pull/55) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
 - [[To dev/1.3] Bump ratis to 3.1.2-2fe59d3-SNAPSHOT ](https://github.com/apache/iotdb/pull/14121) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Bump ratis to 3.1.2-2fe59d3-SNAPSHOT](https://github.com/apache/iotdb/pull/14120) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To dev/1.3.3] Bump Ratis version to 3.1.2 ](https://github.com/apache/iotdb/pull/14046) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Bump Ratis version to 3.1.2](https://github.com/apache/iotdb/pull/14044) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To rc/1.3.3] Bump Ratis version to 3.1.2](https://github.com/apache/iotdb/pull/14043) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
