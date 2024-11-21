@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (today)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix ConfigNode Partition Metric NPE bug](https://github.com/apache/iotdb/pull/14144) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [RATIS-2195. Enable `release` profile during release](https://github.com/apache/ratis-thirdparty/pull/55) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 day ago)
-- [[To dev/1.3] Bump ratis to 3.1.2-2fe59d3-SNAPSHOT ](https://github.com/apache/iotdb/pull/14121) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Bump ratis to 3.1.2-2fe59d3-SNAPSHOT](https://github.com/apache/iotdb/pull/14120) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Fix ConfigNode Partition Metric NPE bug](https://github.com/apache/iotdb/pull/14144) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [RATIS-2195. Enable `release` profile during release](https://github.com/apache/ratis-thirdparty/pull/55) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (2 days ago)
+- [[To dev/1.3] Bump ratis to 3.1.2-2fe59d3-SNAPSHOT ](https://github.com/apache/iotdb/pull/14121) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Bump ratis to 3.1.2-2fe59d3-SNAPSHOT](https://github.com/apache/iotdb/pull/14120) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To dev/1.3.3] Bump Ratis version to 3.1.2 ](https://github.com/apache/iotdb/pull/14046) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
