@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 day ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 
@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [stephenix](https://github.com/stephenix)
 - [huasheng16](https://github.com/huasheng16)
 - [jameswangxin](https://github.com/jameswangxin)
 - [nholuongut](https://github.com/nholuongut)
-- [twilight218](https://github.com/twilight218)
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Bump tsfile version to 1.2.0-dd29bcc-SNAPSHOT](https://github.com/apache/iotdb/pull/14163) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14160) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To dev/1.3] Fix ConfigNode Partition Metric NPE bug ](https://github.com/apache/iotdb/pull/14155) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fix ConfigNode Partition Metric NPE bug](https://github.com/apache/iotdb/pull/14144) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Bump tsfile version to 1.2.0-dd29bcc-SNAPSHOT](https://github.com/apache/iotdb/pull/14163) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14160) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Fix ConfigNode Partition Metric NPE bug ](https://github.com/apache/iotdb/pull/14155) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fix ConfigNode Partition Metric NPE bug](https://github.com/apache/iotdb/pull/14144) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
