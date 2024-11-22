@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C&#43;&#43; library (today)
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms. (1 week ago)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (1 week ago)
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models (1 week ago)
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。 (2 weeks ago)
-- [0voice/cpp_backend_awsome_blog](https://github.com/0voice/cpp_backend_awsome_blog) - 2023年最新整理 c&#43;&#43;后端开发，1000篇优秀博文，含内存，网络，架构设计，高性能，数据结构，基础组件，中间件，分布式相关 (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Fix stopping cn leader stuck when region region migration](https://github.com/apache/iotdb/pull/14175) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Bump tsfile version to 1.2.0-dd29bcc-SNAPSHOT](https://github.com/apache/iotdb/pull/14163) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14160) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To dev/1.3] Fix ConfigNode Partition Metric NPE bug ](https://github.com/apache/iotdb/pull/14155) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Fix ConfigNode Partition Metric NPE bug](https://github.com/apache/iotdb/pull/14144) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
