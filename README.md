@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (3 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C&#43;&#43; library (today)
+- [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C&#43;&#43; library (1 day ago)
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms. (1 week ago)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (1 week ago)
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models (1 week ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fix stopping cn leader stuck when region region migration](https://github.com/apache/iotdb/pull/14175) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Bump tsfile version to 1.2.0-dd29bcc-SNAPSHOT](https://github.com/apache/iotdb/pull/14163) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14160) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fix stopping cn leader stuck when region region migration](https://github.com/apache/iotdb/pull/14175) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Bump tsfile version to 1.2.0-dd29bcc-SNAPSHOT](https://github.com/apache/iotdb/pull/14163) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14160) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
