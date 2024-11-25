@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [kornelski/7z](https://github.com/kornelski/7z) - Because 7-zip source code was in a 7z archive [mirror] (today)
 - [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C&#43;&#43; library (3 days ago)
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms. (1 week ago)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (2 weeks ago)
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models (2 weeks ago)
-- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。 (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
