@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg (today)
 - [kornelski/7z](https://github.com/kornelski/7z) - Because 7-zip source code was in a 7z archive [mirror] (1 day ago)
 - [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C&#43;&#43; library (4 days ago)
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms. (1 week ago)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (2 weeks ago)
-- [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
 - [idimetrix](https://github.com/idimetrix)
-- [XiaomingX](https://github.com/XiaomingX)
 - [stephenix](https://github.com/stephenix)
 - [huasheng16](https://github.com/huasheng16)
 - [jameswangxin](https://github.com/jameswangxin)
+- [nholuongut](https://github.com/nholuongut)
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix AsyncClientManager selector thread leak](https://github.com/apache/iotdb/pull/14203) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [Fix stopping cn leader stuck when region region migration](https://github.com/apache/iotdb/pull/14175) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Bump tsfile version to 1.2.0-dd29bcc-SNAPSHOT](https://github.com/apache/iotdb/pull/14163) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14160) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
