@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Fix AsyncClientManager selector thread leak #14203](https://github.com/apache/iotdb/pull/14206) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fix AsyncClientManager selector thread leak](https://github.com/apache/iotdb/pull/14203) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [Fix stopping cn leader stuck when region region migration](https://github.com/apache/iotdb/pull/14175) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Bump tsfile version to 1.2.0-dd29bcc-SNAPSHOT](https://github.com/apache/iotdb/pull/14163) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
