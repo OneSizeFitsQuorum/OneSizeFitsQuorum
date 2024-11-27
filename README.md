@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. (today)
 - [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg (1 day ago)
 - [kornelski/7z](https://github.com/kornelski/7z) - Because 7-zip source code was in a 7z archive [mirror] (2 days ago)
 - [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C&#43;&#43; library (5 days ago)
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms. (2 weeks ago)
-- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [tianjiqx](https://github.com/tianjiqx)
 - [idimetrix](https://github.com/idimetrix)
 - [stephenix](https://github.com/stephenix)
 - [huasheng16](https://github.com/huasheng16)
 - [jameswangxin](https://github.com/jameswangxin)
-- [nholuongut](https://github.com/nholuongut)
 
 #### 🔨 Check out my recent pull requests
 
