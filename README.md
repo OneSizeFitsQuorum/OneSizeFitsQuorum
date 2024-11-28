@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. (today)
-- [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg (1 day ago)
-- [kornelski/7z](https://github.com/kornelski/7z) - Because 7-zip source code was in a 7z archive [mirror] (2 days ago)
-- [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C&#43;&#43; library (5 days ago)
+- [apache/cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. (1 day ago)
+- [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg (2 days ago)
+- [kornelski/7z](https://github.com/kornelski/7z) - Because 7-zip source code was in a 7z archive [mirror] (3 days ago)
+- [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C&#43;&#43; library (6 days ago)
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms. (2 weeks ago)
 
 #### 👯 Check out my recent followers
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Fix AsyncClientManager selector thread leak #14203](https://github.com/apache/iotdb/pull/14206) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Fix AsyncClientManager selector thread leak](https://github.com/apache/iotdb/pull/14203) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Fix stopping cn leader stuck when region region migration](https://github.com/apache/iotdb/pull/14175) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To dev/1.3] Fix AsyncClientManager selector thread leak #14203](https://github.com/apache/iotdb/pull/14206) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Fix AsyncClientManager selector thread leak](https://github.com/apache/iotdb/pull/14203) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Fix stopping cn leader stuck when region region migration](https://github.com/apache/iotdb/pull/14175) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
