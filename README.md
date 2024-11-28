@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2201 Bump Ratis-Thirdparty from 1.0.6 to 1.0.7](https://github.com/apache/ratis/pull/1185) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [[RELEASE] Bump version to 1.0.8-SNAPSHOT after 1.0.7 release](https://github.com/apache/ratis-thirdparty/pull/56) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
 - [[To dev/1.3] Fix AsyncClientManager selector thread leak #14203](https://github.com/apache/iotdb/pull/14206) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Fix AsyncClientManager selector thread leak](https://github.com/apache/iotdb/pull/14203) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [Fix stopping cn leader stuck when region region migration](https://github.com/apache/iotdb/pull/14175) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
-- [[To dev/1.3] Fixed bug where Ratis could not write large requests and could not be configured](https://github.com/apache/iotdb/pull/14166) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
