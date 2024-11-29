@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (today)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [apache/cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. (1 day ago)
-- [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg (2 days ago)
-- [kornelski/7z](https://github.com/kornelski/7z) - Because 7-zip source code was in a 7z archive [mirror] (3 days ago)
+- [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (1 day ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [apache/cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. (2 days ago)
+- [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg (3 days ago)
+- [kornelski/7z](https://github.com/kornelski/7z) - Because 7-zip source code was in a 7z archive [mirror] (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2201 Bump Ratis-Thirdparty from 1.0.6 to 1.0.7](https://github.com/apache/ratis/pull/1185) on [apache/ratis](https://github.com/apache/ratis) (today)
-- [[RELEASE] Bump version to 1.0.8-SNAPSHOT after 1.0.7 release](https://github.com/apache/ratis-thirdparty/pull/56) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
-- [[To dev/1.3] Fix AsyncClientManager selector thread leak #14203](https://github.com/apache/iotdb/pull/14206) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Fix AsyncClientManager selector thread leak](https://github.com/apache/iotdb/pull/14203) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [RATIS-2201 Bump Ratis-Thirdparty from 1.0.6 to 1.0.7](https://github.com/apache/ratis/pull/1185) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [[RELEASE] Bump version to 1.0.8-SNAPSHOT after 1.0.7 release](https://github.com/apache/ratis-thirdparty/pull/56) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 day ago)
+- [[To dev/1.3] Fix AsyncClientManager selector thread leak #14203](https://github.com/apache/iotdb/pull/14206) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Fix AsyncClientManager selector thread leak](https://github.com/apache/iotdb/pull/14203) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To dev/1.3] Fix stopping cn leader stuck when region region migration ](https://github.com/apache/iotdb/pull/14176) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
