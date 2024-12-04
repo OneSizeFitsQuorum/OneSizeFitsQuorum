@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (today)
 - [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (5 days ago)
 - [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (6 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
 - [apache/cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. (1 week ago)
-- [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [tianjiqx](https://github.com/tianjiqx)
 - [idimetrix](https://github.com/idimetrix)
 - [stephenix](https://github.com/stephenix)
 - [huasheng16](https://github.com/huasheng16)
-- [jameswangxin](https://github.com/jameswangxin)
 
 #### 🔨 Check out my recent pull requests
 
