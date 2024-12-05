@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14326) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14325) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Add Binary Allocator](https://github.com/apache/iotdb/pull/14321) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Bump tsfile to 1.1.0-241205-SNAPSHOT](https://github.com/apache/iotdb/pull/14318) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Enhance procedure recover policy](https://github.com/apache/iotdb/pull/14271) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [RATIS-2201 Bump Ratis-Thirdparty from 1.0.6 to 1.0.7](https://github.com/apache/ratis/pull/1185) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
-- [RATIS-2202 Bump ratis-thirdparty version to 1.0.8-SNAPSHOT after 1.0.7 release](https://github.com/apache/ratis-thirdparty/pull/56) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
