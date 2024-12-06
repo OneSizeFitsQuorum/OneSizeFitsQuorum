@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [GIS142857](https://github.com/GIS142857)
 - [XiaomingX](https://github.com/XiaomingX)
 - [tianjiqx](https://github.com/tianjiqx)
 - [idimetrix](https://github.com/idimetrix)
 - [stephenix](https://github.com/stephenix)
-- [huasheng16](https://github.com/huasheng16)
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Fix exec remove-datanode.sh  failed in jdk17](https://github.com/apache/iotdb/pull/14353) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Adjust default data region num per node from 5 to to cpu core / 2](https://github.com/apache/iotdb/pull/14348) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14326) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14325) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Add Binary Allocator](https://github.com/apache/iotdb/pull/14321) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[To dev/1.3] Bump tsfile to 1.1.0-241205-SNAPSHOT](https://github.com/apache/iotdb/pull/14318) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
