@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (6 days ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (1 day ago)
-- [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (6 days ago)
+- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (2 days ago)
+- [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (1 week ago)
 - [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [apache/cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. (1 week ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14326) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14325) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Add Binary Allocator](https://github.com/apache/iotdb/pull/14321) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To dev/1.3] Bump tsfile to 1.1.0-241205-SNAPSHOT](https://github.com/apache/iotdb/pull/14318) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Enhance procedure recover policy](https://github.com/apache/iotdb/pull/14271) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To dev/1.3] Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14326) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14325) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Add Binary Allocator](https://github.com/apache/iotdb/pull/14321) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Bump tsfile to 1.1.0-241205-SNAPSHOT](https://github.com/apache/iotdb/pull/14318) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Enhance procedure recover policy](https://github.com/apache/iotdb/pull/14271) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
