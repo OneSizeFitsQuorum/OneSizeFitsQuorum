@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (today)
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (2 days ago)
 - [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (1 week ago)
 - [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
-- [apache/cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Adjust default data region num per node from 5 to to cpu core / 2](https://github.com/apache/iotdb/pull/14348) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14326) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14325) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Add Binary Allocator](https://github.com/apache/iotdb/pull/14321) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To dev/1.3] Bump tsfile to 1.1.0-241205-SNAPSHOT](https://github.com/apache/iotdb/pull/14318) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Enhance procedure recover policy](https://github.com/apache/iotdb/pull/14271) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
