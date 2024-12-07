@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (today)
-- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (2 days ago)
+- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (1 day ago)
+- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (3 days ago)
 - [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (1 week ago)
 - [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [kingsoneight](https://github.com/kingsoneight)
 - [GIS142857](https://github.com/GIS142857)
 - [XiaomingX](https://github.com/XiaomingX)
 - [tianjiqx](https://github.com/tianjiqx)
 - [idimetrix](https://github.com/idimetrix)
-- [stephenix](https://github.com/stephenix)
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Fix exec remove-datanode.sh  failed in jdk17](https://github.com/apache/iotdb/pull/14353) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Adjust default data region num per node from 5 to to cpu core / 2](https://github.com/apache/iotdb/pull/14348) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To dev/1.3] Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14326) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14325) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Add Binary Allocator](https://github.com/apache/iotdb/pull/14321) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Fix exec remove-datanode.sh  failed in jdk17](https://github.com/apache/iotdb/pull/14353) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Adjust default data region num per node from 5 to to cpu core / 2](https://github.com/apache/iotdb/pull/14348) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14326) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14325) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Add Binary Allocator](https://github.com/apache/iotdb/pull/14321) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
