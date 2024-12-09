@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (today)
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (3 days ago)
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (5 days ago)
 - [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (1 week ago)
 - [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (1 week ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Restruct procedure waiting strategy to fix NPE bug when completed procedures were cleaned before getting result](https://github.com/apache/iotdb/pull/14360) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Bump hv-mvstore from 2.1.212 to 2.1.214 to fix security issue](https://github.com/moquette-io/moquette/pull/879) on [moquette-io/moquette](https://github.com/moquette-io/moquette) (today)
 - [[To dev/1.3] Fix exec remove-datanode.sh  failed in jdk17](https://github.com/apache/iotdb/pull/14353) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Adjust default data region num per node from 5 to to cpu core / 2](https://github.com/apache/iotdb/pull/14348) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To dev/1.3] Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14326) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Increase the default upper bound for ClientManager](https://github.com/apache/iotdb/pull/14325) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Add Binary Allocator](https://github.com/apache/iotdb/pull/14321) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
