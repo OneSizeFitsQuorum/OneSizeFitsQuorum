@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Jazts](https://github.com/Jazts)
 - [kingsoneight](https://github.com/kingsoneight)
 - [GIS142857](https://github.com/GIS142857)
 - [XiaomingX](https://github.com/XiaomingX)
 - [tianjiqx](https://github.com/tianjiqx)
-- [idimetrix](https://github.com/idimetrix)
 
 #### 🔨 Check out my recent pull requests
 
