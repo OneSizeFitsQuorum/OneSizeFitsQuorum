@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (1 day ago)
-- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (4 days ago)
-- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (6 days ago)
+- [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (2 days ago)
+- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (5 days ago)
+- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (1 week ago)
 - [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (1 week ago)
 - [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (1 week ago)
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Add method getDataNodeCpuCoreCount back](https://github.com/apache/iotdb/pull/14366) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Restruct procedure waiting strategy to fix NPE bug when completed procedures were cleaned before getting result](https://github.com/apache/iotdb/pull/14360) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [Bump hv-mvstore from 2.1.212 to 2.1.214 to fix security issue](https://github.com/moquette-io/moquette/pull/879) on [moquette-io/moquette](https://github.com/moquette-io/moquette) (1 day ago)
-- [[To dev/1.3] Fix exec remove-datanode.sh  failed in jdk17](https://github.com/apache/iotdb/pull/14353) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [Adjust default data region num per node from 5 to to cpu core / 2](https://github.com/apache/iotdb/pull/14348) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [Add method getDataNodeCpuCoreCount back](https://github.com/apache/iotdb/pull/14366) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Restruct procedure waiting strategy to fix NPE bug when completed procedures were cleaned before getting result](https://github.com/apache/iotdb/pull/14360) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [Bump hv-mvstore from 2.1.212 to 2.1.214 to fix security issue](https://github.com/moquette-io/moquette/pull/879) on [moquette-io/moquette](https://github.com/moquette-io/moquette) (2 days ago)
+- [[To dev/1.3] Fix exec remove-datanode.sh  failed in jdk17](https://github.com/apache/iotdb/pull/14353) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [Adjust default data region num per node from 5 to to cpu core / 2](https://github.com/apache/iotdb/pull/14348) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
