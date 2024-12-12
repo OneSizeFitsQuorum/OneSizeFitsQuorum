@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Fix ThreadPoolMetrics concurrent NPE bug](https://github.com/apache/iotdb/pull/14389) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Fix ThreadPoolMetrics concurrent NPE bug &amp; Fix metric leaks when frequently creating and deleting database](https://github.com/apache/iotdb/pull/14388) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Restruct procedure waiting strategy to fix NPE bug when completed procedures were cleaned before getting result](https://github.com/apache/iotdb/pull/14381) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Add method getDataNodeCpuCoreCount back](https://github.com/apache/iotdb/pull/14366) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Restruct procedure waiting strategy to fix NPE bug when completed procedures were cleaned before getting result](https://github.com/apache/iotdb/pull/14360) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [Bump hv-mvstore from 2.1.212 to 2.1.214 to fix security issue](https://github.com/moquette-io/moquette/pull/879) on [moquette-io/moquette](https://github.com/moquette-io/moquette) (3 days ago)
-- [[To dev/1.3] Fix exec remove-datanode.sh  failed in jdk17](https://github.com/apache/iotdb/pull/14353) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
