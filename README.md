@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (3 days ago)
-- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (6 days ago)
+- [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (4 days ago)
+- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (1 week ago)
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (1 week ago)
-- [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (1 week ago)
+- [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (2 weeks ago)
 - [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (2 weeks ago)
 
 #### 👯 Check out my recent followers
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Fix ThreadPoolMetric NPE](https://github.com/apache/iotdb/pull/14405) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fix ThreadPoolMetrics NPE](https://github.com/apache/iotdb/pull/14404) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To dev/1.3] Fix ThreadPoolMetrics concurrent NPE bug](https://github.com/apache/iotdb/pull/14389) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fix ThreadPoolMetrics concurrent NPE bug &amp; Fix metric leaks when frequently creating and deleting database](https://github.com/apache/iotdb/pull/14388) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To dev/1.3] Restruct procedure waiting strategy to fix NPE bug when completed procedures were cleaned before getting result](https://github.com/apache/iotdb/pull/14381) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Fix ThreadPoolMetric NPE](https://github.com/apache/iotdb/pull/14405) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fix ThreadPoolMetrics NPE](https://github.com/apache/iotdb/pull/14404) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Fix ThreadPoolMetrics concurrent NPE bug](https://github.com/apache/iotdb/pull/14389) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fix ThreadPoolMetrics concurrent NPE bug &amp; Fix metric leaks when frequently creating and deleting database](https://github.com/apache/iotdb/pull/14388) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Restruct procedure waiting strategy to fix NPE bug when completed procedures were cleaned before getting result](https://github.com/apache/iotdb/pull/14381) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
