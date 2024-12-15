@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (today)
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (6 days ago)
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (1 week ago)
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (1 week ago)
 - [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (2 weeks ago)
-- [apache/helix](https://github.com/apache/helix) - Mirror of Apache Helix (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Bump Ratis to 3.1.2-bf3b491-SNAPSHOT](https://github.com/apache/iotdb/pull/14431) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [RATIS-2207 Bump Ratis-ThirdParty Netty version to 4.1.115.Final](https://github.com/apache/ratis-thirdparty/pull/57) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
 - [[To dev/1.3] Fix ThreadPoolMetric NPE](https://github.com/apache/iotdb/pull/14405) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Fix ThreadPoolMetrics NPE](https://github.com/apache/iotdb/pull/14404) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To dev/1.3] Fix ThreadPoolMetrics concurrent NPE bug](https://github.com/apache/iotdb/pull/14389) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [Fix ThreadPoolMetrics concurrent NPE bug &amp; Fix metric leaks when frequently creating and deleting database](https://github.com/apache/iotdb/pull/14388) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
-- [[To dev/1.3] Restruct procedure waiting strategy to fix NPE bug when completed procedures were cleaned before getting result](https://github.com/apache/iotdb/pull/14381) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
