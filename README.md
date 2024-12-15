@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
@@ -45,7 +45,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [Bump Ratis to 3.1.2-bf3b491-SNAPSHOT](https://github.com/apache/iotdb/pull/14431) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [RATIS-2207 Bump Ratis-ThirdParty Netty version to 4.1.115.Final](https://github.com/apache/ratis-thirdparty/pull/57) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
+- [RATIS-2207. Bump Netty to 4.1.115.Final](https://github.com/apache/ratis-thirdparty/pull/57) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
 - [[To dev/1.3] Fix ThreadPoolMetric NPE](https://github.com/apache/iotdb/pull/14405) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [Fix ThreadPoolMetrics NPE](https://github.com/apache/iotdb/pull/14404) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To dev/1.3] Fix ThreadPoolMetrics concurrent NPE bug](https://github.com/apache/iotdb/pull/14389) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
