@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [airlift/aircompressor](https://github.com/airlift/aircompressor) - A port of Snappy, LZO, LZ4, and Zstandard  to Java (today)
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (1 day ago)
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (1 week ago)
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (1 week ago)
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (1 week ago)
-- [alibaba/fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [VictoriaJiang2126](https://github.com/VictoriaJiang2126)
 - [Jazts](https://github.com/Jazts)
 - [kingsoneight](https://github.com/kingsoneight)
 - [GIS142857](https://github.com/GIS142857)
 - [XiaomingX](https://github.com/XiaomingX)
-- [tianjiqx](https://github.com/tianjiqx)
 
 #### 🔨 Check out my recent pull requests
 
