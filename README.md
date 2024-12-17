@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Bump ratis to 3.1.2-a862328-SNAPSHOT](https://github.com/apache/iotdb/pull/14472) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Bump ratis to 3.1.2-a862328-SNAPSHOT](https://github.com/apache/iotdb/pull/14464) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-2212 Bump Ratis-ThirdParty grpc version to 1.69.0](https://github.com/apache/ratis-thirdparty/pull/58) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
 - [[To dev/1.3] Fix ThreadPool Metric NPE](https://github.com/apache/iotdb/pull/14460) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fix ThreadPool Metric NPE](https://github.com/apache/iotdb/pull/14459) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [[To dev/1.3] Fix ratis byte limit configuration too small](https://github.com/apache/iotdb/pull/14457) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 
 #### 📜 Check out my recent blog posts
 
