@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (today)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 day ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [airlift/aircompressor](https://github.com/airlift/aircompressor) - A port of Snappy, LZO, LZ4, and Zstandard  to Java (1 day ago)
-- [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (2 days ago)
+- [airlift/aircompressor](https://github.com/airlift/aircompressor) - A port of Snappy, LZO, LZ4, and Zstandard  to Java (2 days ago)
+- [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (3 days ago)
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (1 week ago)
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (1 week ago)
-- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (1 week ago)
+- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Bump ratis to 3.1.2-a862328-SNAPSHOT](https://github.com/apache/iotdb/pull/14472) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Bump ratis to 3.1.2-a862328-SNAPSHOT](https://github.com/apache/iotdb/pull/14464) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [RATIS-2212 Bump Ratis-ThirdParty grpc version to 1.69.0](https://github.com/apache/ratis-thirdparty/pull/58) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
-- [[To dev/1.3] Fix ThreadPool Metric NPE](https://github.com/apache/iotdb/pull/14460) on [apache/iotdb](https://github.com/apache/iotdb) (today)
-- [Fix ThreadPool Metric NPE](https://github.com/apache/iotdb/pull/14459) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To dev/1.3] Bump ratis to 3.1.2-a862328-SNAPSHOT](https://github.com/apache/iotdb/pull/14472) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Bump ratis to 3.1.2-a862328-SNAPSHOT](https://github.com/apache/iotdb/pull/14464) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [RATIS-2212 Bump Ratis-ThirdParty grpc version to 1.69.0](https://github.com/apache/ratis-thirdparty/pull/58) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 day ago)
+- [[To dev/1.3] Fix ThreadPool Metric NPE](https://github.com/apache/iotdb/pull/14460) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [Fix ThreadPool Metric NPE](https://github.com/apache/iotdb/pull/14459) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
