@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. (today)
 - [airlift/aircompressor](https://github.com/airlift/aircompressor) - A port of Snappy, LZO, LZ4, and Zstandard  to Java (2 days ago)
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (3 days ago)
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (1 week ago)
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (1 week ago)
-- [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
