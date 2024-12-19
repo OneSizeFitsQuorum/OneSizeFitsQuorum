@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [JaneEyre](https://github.com/JaneEyre)
 - [VictoriaJiang2126](https://github.com/VictoriaJiang2126)
 - [Jazts](https://github.com/Jazts)
 - [kingsoneight](https://github.com/kingsoneight)
 - [GIS142857](https://github.com/GIS142857)
-- [XiaomingX](https://github.com/XiaomingX)
 
 #### 🔨 Check out my recent pull requests
 
+- [Revert &#34;[IOTDB-6353] replace cglib to byte-buddy (#14426)&#34;](https://github.com/apache/iotdb/pull/14497) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [adapt to get Binary::getValuesAndLength](https://github.com/MrQuansy/iotdb/pull/2) on [MrQuansy/iotdb](https://github.com/MrQuansy/iotdb) (1 day ago)
 - [Binary allocator](https://github.com/MrQuansy/tsfile/pull/1) on [MrQuansy/tsfile](https://github.com/MrQuansy/tsfile) (1 day ago)
 - [Binary allocator](https://github.com/apache/tsfile/pull/340) on [apache/tsfile](https://github.com/apache/tsfile) (1 day ago)
 - [Binary allocator](https://github.com/apache/tsfile/pull/339) on [apache/tsfile](https://github.com/apache/tsfile) (1 day ago)
-- [[To dev/1.3] Bump ratis to 3.1.2-a862328-SNAPSHOT](https://github.com/apache/iotdb/pull/14472) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
