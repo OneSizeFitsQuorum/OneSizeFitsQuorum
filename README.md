@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (today)
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. (5 days ago)
 - [airlift/aircompressor](https://github.com/airlift/aircompressor) - A port of Snappy, LZO, LZ4, and Zstandard  to Java (1 week ago)
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (1 week ago)
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (2 weeks ago)
-- [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
