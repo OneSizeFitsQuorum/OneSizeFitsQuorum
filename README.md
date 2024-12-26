@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mowhn](https://github.com/mowhn)
 - [JaneEyre](https://github.com/JaneEyre)
 - [VictoriaJiang2126](https://github.com/VictoriaJiang2126)
 - [Jazts](https://github.com/Jazts)
 - [kingsoneight](https://github.com/kingsoneight)
-- [GIS142857](https://github.com/GIS142857)
 
 #### 🔨 Check out my recent pull requests
 
