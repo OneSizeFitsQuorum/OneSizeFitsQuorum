@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix RatisConsensus client==null exception when stopping datanode](https://github.com/apache/iotdb/pull/14578) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Bind 0.0.0.0 for all Thrift Service to enhance extensibility](https://github.com/apache/iotdb/pull/14577) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [RATIS-2231 Bump Ratis-Thirdparty from 1.0.7 to 1.0.8](https://github.com/apache/ratis/pull/1202) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [RATIS-2230 Bump ratis-thirdparty version to 1.0.9-SNAPSHOT after 1.0.8 release](https://github.com/apache/ratis-thirdparty/pull/59) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
 - [Revert &#34;[IOTDB-6353] replace cglib to byte-buddy (#14426)&#34;](https://github.com/apache/iotdb/pull/14497) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [adapt to get Binary::getValuesAndLength](https://github.com/MrQuansy/iotdb/pull/2) on [MrQuansy/iotdb](https://github.com/MrQuansy/iotdb) (1 week ago)
-- [Binary allocator](https://github.com/MrQuansy/tsfile/pull/1) on [MrQuansy/tsfile](https://github.com/MrQuansy/tsfile) (1 week ago)
-- [Binary allocator](https://github.com/apache/tsfile/pull/340) on [apache/tsfile](https://github.com/apache/tsfile) (1 week ago)
-- [Binary allocator](https://github.com/apache/tsfile/pull/339) on [apache/tsfile](https://github.com/apache/tsfile) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
