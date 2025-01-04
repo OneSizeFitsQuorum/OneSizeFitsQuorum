@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -36,15 +36,15 @@
 
 #### 👯 Check out my recent followers
 
+- [bludnic](https://github.com/bludnic)
 - [iukkeopaa](https://github.com/iukkeopaa)
 - [sidanas22](https://github.com/sidanas22)
 - [Nothin-m](https://github.com/Nothin-m)
 - [mowhn](https://github.com/mowhn)
-- [JaneEyre](https://github.com/JaneEyre)
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Fix RatisConsensus client==null exception when stopping datanode ](https://github.com/apache/iotdb/pull/14583) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
+- [[To dev/1.3] Fix RatisConsensus client==null exception when stopping datanode ](https://github.com/apache/iotdb/pull/14583) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Fix RatisConsensus client==null exception when stopping datanode](https://github.com/apache/iotdb/pull/14578) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Bind 0.0.0.0 for all Thrift Service to enhance extensibility](https://github.com/apache/iotdb/pull/14577) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-2231 Bump Ratis-Thirdparty from 1.0.7 to 1.0.8](https://github.com/apache/ratis/pull/1202) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
