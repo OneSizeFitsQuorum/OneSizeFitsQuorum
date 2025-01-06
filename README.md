@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [THUMarkLau/braft](https://github.com/THUMarkLau/braft) - An industrial-grade C&#43;&#43; implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. (today)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 weeks ago)
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. (2 weeks ago)
 - [airlift/aircompressor](https://github.com/airlift/aircompressor) - A port of Snappy, LZO, LZ4, and Zstandard  to Java (3 weeks ago)
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (3 weeks ago)
-- [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java. (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
