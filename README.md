@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2236 Fixed bug where manual triggerSnapshot would never finish](https://github.com/apache/ratis/pull/1207) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [[To dev/1.3] Fix RatisConsensus client==null exception when stopping datanode ](https://github.com/apache/iotdb/pull/14583) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fix RatisConsensus client==null exception when stopping datanode](https://github.com/apache/iotdb/pull/14578) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Bind 0.0.0.0 for all Thrift Service to enhance extensibility](https://github.com/apache/iotdb/pull/14577) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-2231 Bump Ratis-Thirdparty from 1.0.7 to 1.0.8](https://github.com/apache/ratis/pull/1202) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
-- [RATIS-2230 Bump ratis-thirdparty version to 1.0.9-SNAPSHOT after 1.0.8 release](https://github.com/apache/ratis-thirdparty/pull/59) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
