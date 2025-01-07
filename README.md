@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [THUMarkLau/braft](https://github.com/THUMarkLau/braft) - An industrial-grade C&#43;&#43; implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. (today)
+- [THUMarkLau/braft](https://github.com/THUMarkLau/braft) - An industrial-grade C&#43;&#43; implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. (1 day ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 weeks ago)
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. (2 weeks ago)
 - [airlift/aircompressor](https://github.com/airlift/aircompressor) - A port of Snappy, LZO, LZ4, and Zstandard  to Java (3 weeks ago)
