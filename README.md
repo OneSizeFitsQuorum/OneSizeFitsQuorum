@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [caiyuanrui](https://github.com/caiyuanrui)
 - [bludnic](https://github.com/bludnic)
 - [iukkeopaa](https://github.com/iukkeopaa)
 - [sidanas22](https://github.com/sidanas22)
 - [Nothin-m](https://github.com/Nothin-m)
-- [mowhn](https://github.com/mowhn)
 
 #### 🔨 Check out my recent pull requests
 
