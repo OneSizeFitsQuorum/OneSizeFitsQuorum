@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1210) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1209) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-2236 Fixed bug where manual triggerSnapshot would never finish](https://github.com/apache/ratis/pull/1207) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
 - [[To dev/1.3] Fix RatisConsensus client==null exception when stopping datanode ](https://github.com/apache/iotdb/pull/14583) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Fix RatisConsensus client==null exception when stopping datanode](https://github.com/apache/iotdb/pull/14578) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Bind 0.0.0.0 for all Thrift Service to enhance extensibility](https://github.com/apache/iotdb/pull/14577) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
