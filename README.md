@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
 
@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge (today)
-- [THUMarkLau/braft](https://github.com/THUMarkLau/braft) - An industrial-grade C&#43;&#43; implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. (3 days ago)
+- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge (1 day ago)
+- [THUMarkLau/braft](https://github.com/THUMarkLau/braft) - An industrial-grade C&#43;&#43; implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. (4 days ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 weeks ago)
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. (3 weeks ago)
 - [airlift/aircompressor](https://github.com/airlift/aircompressor) - A port of Snappy, LZO, LZ4, and Zstandard  to Java (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [mingshi2333](https://github.com/mingshi2333)
+- [BaolanChen](https://github.com/BaolanChen)
 - [hidedim](https://github.com/hidedim)
 - [caiyuanrui](https://github.com/caiyuanrui)
 - [bludnic](https://github.com/bludnic)
-- [iukkeopaa](https://github.com/iukkeopaa)
-- [sidanas22](https://github.com/sidanas22)
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2236 Fixed bug where manual triggerSnapshot would never finish](https://github.com/apache/ratis/pull/1207) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [RATIS-2236 Fixed bug where manual triggerSnapshot would never finish](https://github.com/apache/ratis/pull/1207) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
 - [[To dev/1.3] Fix RatisConsensus client==null exception when stopping datanode ](https://github.com/apache/iotdb/pull/14583) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Fix RatisConsensus client==null exception when stopping datanode](https://github.com/apache/iotdb/pull/14578) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Bind 0.0.0.0 for all Thrift Service to enhance extensibility](https://github.com/apache/iotdb/pull/14577) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [RATIS-2231 Bump Ratis-Thirdparty from 1.0.7 to 1.0.8](https://github.com/apache/ratis/pull/1202) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
+- [Fix RatisConsensus client==null exception when stopping datanode](https://github.com/apache/iotdb/pull/14578) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Bind 0.0.0.0 for all Thrift Service to enhance extensibility](https://github.com/apache/iotdb/pull/14577) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [RATIS-2231 Bump Ratis-Thirdparty from 1.0.7 to 1.0.8](https://github.com/apache/ratis/pull/1202) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
