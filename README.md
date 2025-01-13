@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (today)
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge (4 days ago)
 - [THUMarkLau/braft](https://github.com/THUMarkLau/braft) - An industrial-grade C&#43;&#43; implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. (1 week ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (3 weeks ago)
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. (3 weeks ago)
-- [airlift/aircompressor](https://github.com/airlift/aircompressor) - A port of Snappy, LZO, LZ4, and Zstandard  to Java (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [mingshi2333](https://github.com/mingshi2333)
 - [BaolanChen](https://github.com/BaolanChen)
 - [hidedim](https://github.com/hidedim)
 - [caiyuanrui](https://github.com/caiyuanrui)
-- [bludnic](https://github.com/bludnic)
 
 #### 🔨 Check out my recent pull requests
 
