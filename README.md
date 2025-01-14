@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [hhhsir0123](https://github.com/hhhsir0123)
 - [XiaomingX](https://github.com/XiaomingX)
 - [mingshi2333](https://github.com/mingshi2333)
 - [BaolanChen](https://github.com/BaolanChen)
 - [hidedim](https://github.com/hidedim)
-- [caiyuanrui](https://github.com/caiyuanrui)
 
 #### 🔨 Check out my recent pull requests
 
