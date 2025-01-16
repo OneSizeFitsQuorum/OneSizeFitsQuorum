@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。 (today)
+- [roseboy/classfinal](https://github.com/roseboy/classfinal) - Java Class Encryption Tool (today)
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (3 days ago)
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge (1 week ago)
 - [THUMarkLau/braft](https://github.com/THUMarkLau/braft) - An industrial-grade C&#43;&#43; implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. (1 week ago)
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (3 weeks ago)
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
