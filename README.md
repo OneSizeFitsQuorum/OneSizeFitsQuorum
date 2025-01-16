@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (today)
 - [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。 (today)
 - [roseboy/classfinal](https://github.com/roseboy/classfinal) - Java Class Encryption Tool (today)
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (3 days ago)
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge (1 week ago)
-- [THUMarkLau/braft](https://github.com/THUMarkLau/braft) - An industrial-grade C&#43;&#43; implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. (1 week ago)
 
 #### 👯 Check out my recent followers
 
