@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 days ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
 
@@ -28,27 +28,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (today)
-- [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。 (today)
-- [roseboy/classfinal](https://github.com/roseboy/classfinal) - Java Class Encryption Tool (today)
-- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (3 days ago)
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (1 day ago)
+- [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。 (1 day ago)
+- [roseboy/classfinal](https://github.com/roseboy/classfinal) - Java Class Encryption Tool (1 day ago)
+- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (4 days ago)
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [howardlau1999](https://github.com/howardlau1999)
 - [hhhsir0123](https://github.com/hhhsir0123)
 - [XiaomingX](https://github.com/XiaomingX)
 - [mingshi2333](https://github.com/mingshi2333)
 - [BaolanChen](https://github.com/BaolanChen)
-- [hidedim](https://github.com/hidedim)
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1210) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
-- [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1209) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
+- [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1210) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
+- [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1209) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [RATIS-2236 Fixed bug where manual triggerSnapshot would never finish](https://github.com/apache/ratis/pull/1207) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [[To dev/1.3] Fix RatisConsensus client==null exception when stopping datanode ](https://github.com/apache/iotdb/pull/14583) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Fix RatisConsensus client==null exception when stopping datanode](https://github.com/apache/iotdb/pull/14578) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Fix RatisConsensus client==null exception when stopping datanode](https://github.com/apache/iotdb/pull/14578) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
