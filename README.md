@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [pule1234](https://github.com/pule1234)
 - [koi2000](https://github.com/koi2000)
 - [howardlau1999](https://github.com/howardlau1999)
 - [hhhsir0123](https://github.com/hhhsir0123)
 - [XiaomingX](https://github.com/XiaomingX)
-- [mingshi2333](https://github.com/mingshi2333)
 
 #### 🔨 Check out my recent pull requests
 
