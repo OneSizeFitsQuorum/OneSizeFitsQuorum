@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To rc/1.3.3] Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14747) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
+- [[To dev/1.3] Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14747) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14746) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1210) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1209) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
