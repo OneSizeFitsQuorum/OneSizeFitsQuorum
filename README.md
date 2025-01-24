@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. (today)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (3 days ago)
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment (1 week ago)
 - [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。 (1 week ago)
 - [roseboy/classfinal](https://github.com/roseboy/classfinal) - Java Class Encryption Tool (1 week ago)
-- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (1 week ago)
 
 #### 👯 Check out my recent followers
 
