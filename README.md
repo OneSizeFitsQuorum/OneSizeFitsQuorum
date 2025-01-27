@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yanl1](https://github.com/yanl1)
 - [Doslin](https://github.com/Doslin)
 - [wangyichengsh](https://github.com/wangyichengsh)
 - [pule1234](https://github.com/pule1234)
 - [koi2000](https://github.com/koi2000)
-- [howardlau1999](https://github.com/howardlau1999)
 
 #### 🔨 Check out my recent pull requests
 
