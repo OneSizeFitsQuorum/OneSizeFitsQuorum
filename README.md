@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 months ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. Powering vCore-based Azure Cosmos DB for MongoDB. (2 days ago)
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (5 days ago)
+- [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. Powering vCore-based Azure Cosmos DB for MongoDB. (3 days ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (6 days ago)
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment (1 week ago)
 - [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。 (1 week ago)
 - [roseboy/classfinal](https://github.com/roseboy/classfinal) - Java Class Encryption Tool (1 week ago)
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14747) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14746) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[To dev/1.3] Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14747) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14746) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1210) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1209) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [RATIS-2236 Fixed bug where manual triggerSnapshot would never finish](https://github.com/apache/ratis/pull/1207) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
