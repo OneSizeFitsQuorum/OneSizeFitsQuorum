@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 month ago)
@@ -53,7 +53,7 @@
 #### 📜 Check out my recent blog posts
 
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (1 week ago)
-- [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (11 months ago)
+- [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (1 year ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (1 year ago)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (2 years ago)
 - [2022 互联网求职经验分享](https://tanxinyu.work/2022-internet-job-hunting-experience-sharing/) (2 years ago)
