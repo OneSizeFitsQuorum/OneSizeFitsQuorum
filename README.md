@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 month ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (5 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yannickboog](https://github.com/yannickboog)
 - [KUAILEJIANLI](https://github.com/KUAILEJIANLI)
 - [yanl1](https://github.com/yanl1)
 - [Doslin](https://github.com/Doslin)
 - [wangyichengsh](https://github.com/wangyichengsh)
-- [pule1234](https://github.com/pule1234)
 
 #### 🔨 Check out my recent pull requests
 
