@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Lyee-Git](https://github.com/Lyee-Git)
 - [yannickboog](https://github.com/yannickboog)
 - [KUAILEJIANLI](https://github.com/KUAILEJIANLI)
 - [yanl1](https://github.com/yanl1)
 - [Doslin](https://github.com/Doslin)
-- [wangyichengsh](https://github.com/wangyichengsh)
 
 #### 🔨 Check out my recent pull requests
 
