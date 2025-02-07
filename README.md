@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl (today)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (today)
 - [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. Powering vCore-based Azure Cosmos DB for MongoDB. (2 weeks ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (2 weeks ago)
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment (3 weeks ago)
-- [core-lib/xjar](https://github.com/core-lib/xjar) - Spring Boot JAR 安全加密运行工具，支持的原生JAR。 (3 weeks ago)
-- [roseboy/classfinal](https://github.com/roseboy/classfinal) - Java Class Encryption Tool (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [Jyjays](https://github.com/Jyjays)
 - [Lyee-Git](https://github.com/Lyee-Git)
 - [yannickboog](https://github.com/yannickboog)
 - [KUAILEJIANLI](https://github.com/KUAILEJIANLI)
 - [yanl1](https://github.com/yanl1)
-- [Doslin](https://github.com/Doslin)
 
 #### 🔨 Check out my recent pull requests
 
