@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [artiofix/artio](https://github.com/artiofix/artio) - Artio - Resilient High-Performance FIX and FIXP Gateway (2 days ago)
-- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. (2 days ago)
-- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl (5 days ago)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (5 days ago)
+- [artiofix/artio](https://github.com/artiofix/artio) - Artio - Resilient High-Performance FIX and FIXP Gateway (3 days ago)
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. (3 days ago)
+- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl (6 days ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (6 days ago)
 - [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. Powering vCore-based Azure Cosmos DB for MongoDB. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [James-Studio](https://github.com/James-Studio)
 - [smallcjy](https://github.com/smallcjy)
 - [Jyjays](https://github.com/Jyjays)
 - [Lyee-Git](https://github.com/Lyee-Git)
 - [yannickboog](https://github.com/yannickboog)
-- [KUAILEJIANLI](https://github.com/KUAILEJIANLI)
 
 #### 🔨 Check out my recent pull requests
 
@@ -52,7 +52,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (2 weeks ago)
+- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (3 weeks ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (1 year ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (1 year ago)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (2 years ago)
