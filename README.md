@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 month ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [artiofix/artio](https://github.com/artiofix/artio) - Artio - Resilient High-Performance FIX and FIXP Gateway (6 days ago)
-- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. (6 days ago)
+- [artiofix/artio](https://github.com/artiofix/artio) - Artio - Resilient High-Performance FIX and FIXP Gateway (1 week ago)
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. (1 week ago)
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl (1 week ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (1 week ago)
 - [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. Powering vCore-based Azure Cosmos DB for MongoDB. (3 weeks ago)
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14842) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
-- [Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14830) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [[To dev/1.3] Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14842) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14830) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [[To dev/1.3] Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14747) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14746) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1210) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
