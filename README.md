@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [977812671](https://github.com/977812671)
 - [talktorenee](https://github.com/talktorenee)
 - [James-Studio](https://github.com/James-Studio)
 - [smallcjy](https://github.com/smallcjy)
 - [Jyjays](https://github.com/Jyjays)
-- [Lyee-Git](https://github.com/Lyee-Git)
 
 #### 🔨 Check out my recent pull requests
 
