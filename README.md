@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [DDvbcx](https://github.com/DDvbcx)
 - [dannysteenman](https://github.com/dannysteenman)
 - [977812671](https://github.com/977812671)
 - [talktorenee](https://github.com/talktorenee)
 - [James-Studio](https://github.com/James-Studio)
-- [smallcjy](https://github.com/smallcjy)
 
 #### 🔨 Check out my recent pull requests
 
