@@ -52,7 +52,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (4 weeks ago)
+- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (1 month ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (1 year ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (1 year ago)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (2 years ago)
