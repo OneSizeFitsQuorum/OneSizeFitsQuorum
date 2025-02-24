@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 day ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) -  (1 day ago)
-- [artiofix/artio](https://github.com/artiofix/artio) - Artio - Resilient High-Performance FIX and FIXP Gateway (1 week ago)
-- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. (1 week ago)
+- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) -  (2 days ago)
+- [artiofix/artio](https://github.com/artiofix/artio) - Artio - Resilient High-Performance FIX and FIXP Gateway (2 weeks ago)
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. (2 weeks ago)
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl (2 weeks ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (2 weeks ago)
 
@@ -38,9 +38,9 @@
 
 - [bestzy6](https://github.com/bestzy6)
 - [DDvbcx](https://github.com/DDvbcx)
-- [dannysteenman](https://github.com/dannysteenman)
 - [977812671](https://github.com/977812671)
 - [talktorenee](https://github.com/talktorenee)
+- [James-Studio](https://github.com/James-Studio)
 
 #### 🔨 Check out my recent pull requests
 
