@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (today)
+- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling (today)
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines (2 days ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) -  (2 days ago)
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) -  (4 days ago)
-- [artiofix/artio](https://github.com/artiofix/artio) - Artio - Resilient High-Performance FIX and FIXP Gateway (2 weeks ago)
-- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] [RATISCONSENSUS] Bump ratis version to 3.1.3 #14709](https://github.com/apache/iotdb/pull/14952) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14842) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14830) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To dev/1.3] Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14747) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14746) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [RATIS-2237 Add getFollowerMatchIndices interface for DivisionInfo](https://github.com/apache/ratis/pull/1210) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
