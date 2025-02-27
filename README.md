@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 days ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (5 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 months ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (today)
-- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling (today)
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines (2 days ago)
-- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) -  (2 days ago)
-- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) -  (4 days ago)
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (1 day ago)
+- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling (1 day ago)
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines (3 days ago)
+- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) -  (3 days ago)
+- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) -  (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] [RATISCONSENSUS] Bump ratis version to 3.1.3 #14709](https://github.com/apache/iotdb/pull/14952) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [[To dev/1.3] [RATISCONSENSUS] Bump ratis version to 3.1.3 #14709](https://github.com/apache/iotdb/pull/14952) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
 - [[To dev/1.3] Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14842) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14830) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14830) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[To dev/1.3] Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14747) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [Fix createView NPE issue when region migration](https://github.com/apache/iotdb/pull/14746) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
