@@ -31,8 +31,8 @@
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (1 day ago)
 - [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling (1 day ago)
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines (3 days ago)
-- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) -  (3 days ago)
-- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) -  (5 days ago)
+- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs (3 days ago)
+- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation (5 days ago)
 
 #### 👯 Check out my recent followers
 
