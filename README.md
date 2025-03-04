@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [nkysg](https://github.com/nkysg)
 - [jamestiotio](https://github.com/jamestiotio)
 - [yanl1](https://github.com/yanl1)
 - [bestzy6](https://github.com/bestzy6)
 - [DDvbcx](https://github.com/DDvbcx)
-- [977812671](https://github.com/977812671)
 
 #### 🔨 Check out my recent pull requests
 
