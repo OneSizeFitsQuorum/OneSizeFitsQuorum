@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares (today)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 day ago)
 - [Time-MoE/Time-MoE](https://github.com/Time-MoE/Time-MoE) - [ICLR 2025 Spotlight] Official implementation of &#34;Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts&#34; (3 days ago)
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (6 days ago)
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (1 week ago)
-- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling (1 week ago)
 
 #### 👯 Check out my recent followers
 
