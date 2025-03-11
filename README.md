@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org (3 days ago)
-- [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (3 days ago)
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares (4 days ago)
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (5 days ago)
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org (4 days ago)
+- [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (4 days ago)
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares (5 days ago)
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (6 days ago)
 - [Time-MoE/Time-MoE](https://github.com/Time-MoE/Time-MoE) - [ICLR 2025 Spotlight] Official implementation of &#34;Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts&#34; (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [VicTorWHoX](https://github.com/VicTorWHoX)
 - [standardgalactic](https://github.com/standardgalactic)
 - [nkysg](https://github.com/nkysg)
 - [jamestiotio](https://github.com/jamestiotio)
 - [yanl1](https://github.com/yanl1)
-- [bestzy6](https://github.com/bestzy6)
 
 #### 🔨 Check out my recent pull requests
 
