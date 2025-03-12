@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (today)
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org (5 days ago)
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (5 days ago)
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares (6 days ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 week ago)
-- [Time-MoE/Time-MoE](https://github.com/Time-MoE/Time-MoE) - [ICLR 2025 Spotlight] Official implementation of &#34;Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts&#34; (1 week ago)
 
 #### 👯 Check out my recent followers
 
