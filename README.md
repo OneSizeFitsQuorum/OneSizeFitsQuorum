@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15120) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Make removed confignode can rejoin cluster without deleting data dir](https://github.com/apache/iotdb/pull/15118) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15117) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Shuffle nodeurls to make sure all connections aren&#39;t to the first node by default](https://github.com/apache/iotdb/pull/14986) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Shuffle nodeurls to make sure all connections aren&#39;t to the first node by default](https://github.com/apache/iotdb/pull/14983) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[To dev/1.3] [RATISCONSENSUS] Bump ratis version to 3.1.3 #14709](https://github.com/apache/iotdb/pull/14952) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[To dev/1.3] Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14842) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [Enhance getLatestRegionRouteMap log for debugging](https://github.com/apache/iotdb/pull/14830) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
