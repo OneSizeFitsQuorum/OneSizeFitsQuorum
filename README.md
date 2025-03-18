@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (5 days ago)
-- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (5 days ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (6 days ago)
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (6 days ago)
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org (1 week ago)
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (1 week ago)
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [IamTheSadik](https://github.com/IamTheSadik)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
 - [standardgalactic](https://github.com/standardgalactic)
 - [nkysg](https://github.com/nkysg)
 - [jamestiotio](https://github.com/jamestiotio)
-- [yanl1](https://github.com/yanl1)
 
 #### 🔨 Check out my recent pull requests
 
