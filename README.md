@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (today)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (6 days ago)
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (6 days ago)
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org (1 week ago)
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (1 week ago)
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Make removed confignode can rejoin cluster without deleting data dir ](https://github.com/apache/iotdb/pull/15123) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15120) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Make removed confignode can rejoin cluster without deleting data dir](https://github.com/apache/iotdb/pull/15118) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15117) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[To dev/1.3] Shuffle nodeurls to make sure all connections aren&#39;t to the first node by default](https://github.com/apache/iotdb/pull/14986) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Shuffle nodeurls to make sure all connections aren&#39;t to the first node by default](https://github.com/apache/iotdb/pull/14983) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
