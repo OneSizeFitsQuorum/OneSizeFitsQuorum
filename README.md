@@ -31,16 +31,16 @@
 - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (4 days ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (1 week ago)
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org (2 weeks ago)
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org (2 weeks ago)
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [mohamed-bassam](https://github.com/mohamed-bassam)
 - [IamTheSadik](https://github.com/IamTheSadik)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
 - [standardgalactic](https://github.com/standardgalactic)
 - [nkysg](https://github.com/nkysg)
-- [jamestiotio](https://github.com/jamestiotio)
 
 #### 🔨 Check out my recent pull requests
 
