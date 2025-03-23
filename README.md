@@ -48,7 +48,6 @@
 - [[To dev/1.3] Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15120) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Make removed confignode can rejoin cluster without deleting data dir](https://github.com/apache/iotdb/pull/15118) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
 - [Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15117) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[To dev/1.3] Shuffle nodeurls to make sure all connections aren&#39;t to the first node by default](https://github.com/apache/iotdb/pull/14986) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
