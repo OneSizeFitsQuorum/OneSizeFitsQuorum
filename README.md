@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (5 days ago)
+- [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (6 days ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (1 week ago)
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org (2 weeks ago)
@@ -44,14 +44,14 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Make removed confignode can rejoin cluster without deleting data dir ](https://github.com/apache/iotdb/pull/15123) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[To dev/1.3] Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15120) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Make removed confignode can rejoin cluster without deleting data dir](https://github.com/apache/iotdb/pull/15118) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15117) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[To dev/1.3] Make removed confignode can rejoin cluster without deleting data dir ](https://github.com/apache/iotdb/pull/15123) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [[To dev/1.3] Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15120) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Make removed confignode can rejoin cluster without deleting data dir](https://github.com/apache/iotdb/pull/15118) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15117) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
-- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (1 month ago)
+- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (2 months ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (1 year ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (1 year ago)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (2 years ago)
