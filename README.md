@@ -40,7 +40,7 @@
 - [SYY-0207](https://github.com/SYY-0207)
 - [mohamed-bassam](https://github.com/mohamed-bassam)
 - [IamTheSadik](https://github.com/IamTheSadik)
-- [VicTorWHoX](https://github.com/VicTorWHoX)
+- [standardgalactic](https://github.com/standardgalactic)
 
 #### 🔨 Check out my recent pull requests
 
