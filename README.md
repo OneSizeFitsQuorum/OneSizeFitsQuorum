@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
-- [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (3 months ago)
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix: InfluxDB db_switch should be Inlfuxdb 2.x rather than influxdb 2.0](https://github.com/thulab/iot-benchmark/pull/487) on [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) (today)
 - [Set safeDeletedSearchIndex for iotv2 to accelerate wal deletion](https://github.com/apache/iotdb/pull/15221) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
 - [[To dev/1.3] Make removed confignode can rejoin cluster without deleting data dir ](https://github.com/apache/iotdb/pull/15123) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [[To dev/1.3] Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15120) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Make removed confignode can rejoin cluster without deleting data dir](https://github.com/apache/iotdb/pull/15118) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
