@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 days ago)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (3 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) - Apache IoTDB MCP Server (today)
 - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (2 weeks ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (3 weeks ago)
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (3 weeks ago)
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org (3 weeks ago)
-- [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Enhance remove confignode robustness by increase waiting time for new leader ](https://github.com/apache/iotdb/pull/15262) on [apache/iotdb](https://github.com/apache/iotdb) (today)
+- [Enhance remove confignode robustness by increase waiting time for new leader](https://github.com/apache/iotdb/pull/15261) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Fix: InfluxDB db_switch should be Inlfuxdb 2.x rather than influxdb 2.0](https://github.com/thulab/iot-benchmark/pull/487) on [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) (2 days ago)
 - [Set safeDeletedSearchIndex for iotv2 to accelerate wal deletion](https://github.com/apache/iotdb/pull/15221) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [[To dev/1.3] Make removed confignode can rejoin cluster without deleting data dir ](https://github.com/apache/iotdb/pull/15123) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[To dev/1.3] Enhance remove unexisted confignode error message](https://github.com/apache/iotdb/pull/15120) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
