@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (today)
 - [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) - Apache IoTDB MCP Server (5 days ago)
 - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (2 weeks ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (3 weeks ago)
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (3 weeks ago)
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org (1 month ago)
 
 #### 👯 Check out my recent followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [kebukeYi](https://github.com/kebukeYi)
 - [ReshiLeon](https://github.com/ReshiLeon)
 - [wn-tech](https://github.com/wn-tech)
 - [profiling](https://github.com/profiling)
-- [SYY-0207](https://github.com/SYY-0207)
 
 #### 🔨 Check out my recent pull requests
 
