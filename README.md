@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (5 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (6 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (today)
-- [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) - Apache IoTDB MCP Server (5 days ago)
-- [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (2 weeks ago)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 day ago)
+- [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) - Apache IoTDB MCP Server (6 days ago)
+- [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (3 weeks ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (3 weeks ago)
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (3 weeks ago)
 
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[To dev/1.3] Enhance remove confignode robustness by increase waiting time for new leader ](https://github.com/apache/iotdb/pull/15262) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
-- [Enhance remove confignode robustness by increase waiting time for new leader](https://github.com/apache/iotdb/pull/15261) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[To dev/1.3] Enhance remove confignode robustness by increase waiting time for new leader ](https://github.com/apache/iotdb/pull/15262) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
+- [Enhance remove confignode robustness by increase waiting time for new leader](https://github.com/apache/iotdb/pull/15261) on [apache/iotdb](https://github.com/apache/iotdb) (6 days ago)
 - [Fix: InfluxDB db_switch should be Inlfuxdb 2.x rather than influxdb 2.0](https://github.com/thulab/iot-benchmark/pull/487) on [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) (1 week ago)
 - [Set safeDeletedSearchIndex for iotv2 to accelerate wal deletion](https://github.com/apache/iotdb/pull/15221) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 
