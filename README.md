@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [wangshuohao](https://github.com/wangshuohao)
 - [cgshao02](https://github.com/cgshao02)
 - [DURUII](https://github.com/DURUII)
 - [ipqwery](https://github.com/ipqwery)
 - [kebukeYi](https://github.com/kebukeYi)
-- [ReshiLeon](https://github.com/ReshiLeon)
 
 #### 🔨 Check out my recent pull requests
 
