@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models. (1 day ago)
+- [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models. (2 days ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
-- [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) - Apache IoTDB MCP Server (1 week ago)
+- [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) - Apache IoTDB MCP Server (2 weeks ago)
 - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (4 weeks ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 month ago)
 
@@ -45,8 +45,8 @@
 #### 🔨 Check out my recent pull requests
 
 - [Remove dn_rpc_min_concurrent_client_num to fix minWorker &gt; maxWorker bugs ](https://github.com/apache/iotdb/pull/15296) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[To dev/1.3] Enhance remove confignode robustness by increase waiting time for new leader ](https://github.com/apache/iotdb/pull/15262) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [Enhance remove confignode robustness by increase waiting time for new leader](https://github.com/apache/iotdb/pull/15261) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [[To dev/1.3] Enhance remove confignode robustness by increase waiting time for new leader ](https://github.com/apache/iotdb/pull/15262) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Enhance remove confignode robustness by increase waiting time for new leader](https://github.com/apache/iotdb/pull/15261) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Fix: InfluxDB db_switch should be Inlfuxdb 2.x rather than influxdb 2.0](https://github.com/thulab/iot-benchmark/pull/487) on [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) (2 weeks ago)
 - [Set safeDeletedSearchIndex for iotv2 to accelerate wal deletion](https://github.com/apache/iotdb/pull/15221) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 
