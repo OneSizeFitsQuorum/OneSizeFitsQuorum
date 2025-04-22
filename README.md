@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B&#43; PPO Full Tuning &amp; Iterative DPO &amp; LoRA &amp; RingAttention &amp; RFT) (5 days ago)
+- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray (PPO &amp; GRPO &amp; REINFORCE&#43;&#43; &amp; LoRA &amp; vLLM &amp; RFT) (5 days ago)
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models. (1 week ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (2 weeks ago)
 - [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) - Apache IoTDB MCP Server (2 weeks ago)
