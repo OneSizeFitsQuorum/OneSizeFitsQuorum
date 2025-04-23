@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray (PPO &amp; GRPO &amp; REINFORCE&#43;&#43; &amp; LoRA &amp; vLLM &amp; RFT) (5 days ago)
+- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray (PPO &amp; GRPO &amp; REINFORCE&#43;&#43; &amp; LoRA &amp; vLLM &amp; RFT) (6 days ago)
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models. (1 week ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (2 weeks ago)
-- [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) - Apache IoTDB MCP Server (2 weeks ago)
+- [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) - Apache IoTDB MCP Server (3 weeks ago)
 - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering (1 month ago)
 
 #### 👯 Check out my recent followers
@@ -45,14 +45,14 @@
 #### 🔨 Check out my recent pull requests
 
 - [Remove dn_rpc_min_concurrent_client_num to fix minWorker &gt; maxWorker bugs ](https://github.com/apache/iotdb/pull/15296) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[To dev/1.3] Enhance remove confignode robustness by increase waiting time for new leader ](https://github.com/apache/iotdb/pull/15262) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [Enhance remove confignode robustness by increase waiting time for new leader](https://github.com/apache/iotdb/pull/15261) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [[To dev/1.3] Enhance remove confignode robustness by increase waiting time for new leader ](https://github.com/apache/iotdb/pull/15262) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [Enhance remove confignode robustness by increase waiting time for new leader](https://github.com/apache/iotdb/pull/15261) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Fix: InfluxDB db_switch should be Inlfuxdb 2.x rather than influxdb 2.0](https://github.com/thulab/iot-benchmark/pull/487) on [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) (3 weeks ago)
 - [Set safeDeletedSearchIndex for iotv2 to accelerate wal deletion](https://github.com/apache/iotdb/pull/15221) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
-- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (2 months ago)
+- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (3 months ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (1 year ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (1 year ago)
 - [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (2 years ago)
