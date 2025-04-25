@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[To dev/1.3] Add authorization for metric prometheus report](https://github.com/apache/iotdb/pull/15412) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Optimize partition cache getRegionReplicaSet interface performance by batching](https://github.com/apache/iotdb/pull/15396) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
 - [Remove dn_rpc_min_concurrent_client_num to fix minWorker &gt; maxWorker bugs ](https://github.com/apache/iotdb/pull/15296) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[To dev/1.3] Enhance remove confignode robustness by increase waiting time for new leader ](https://github.com/apache/iotdb/pull/15262) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Enhance remove confignode robustness by increase waiting time for new leader](https://github.com/apache/iotdb/pull/15261) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
-- [Fix: InfluxDB db_switch should be Inlfuxdb 2.x rather than influxdb 2.0](https://github.com/thulab/iot-benchmark/pull/487) on [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
