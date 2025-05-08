@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mi6paulino](https://github.com/mi6paulino)
 - [jelspace](https://github.com/jelspace)
 - [Zzhihon](https://github.com/Zzhihon)
 - [WatsonYang1999](https://github.com/WatsonYang1999)
 - [Whitea029](https://github.com/Whitea029)
-- [761417898](https://github.com/761417898)
 
 #### 🔨 Check out my recent pull requests
 
