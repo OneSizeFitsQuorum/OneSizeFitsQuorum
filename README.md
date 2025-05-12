@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (today)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (5 days ago)
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer (5 days ago)
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (5 days ago)
 - [0burak/imperial_hft](https://github.com/0burak/imperial_hft) -  (1 week ago)
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models. (1 week ago)
 
 #### 👯 Check out my recent followers
 
