@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [anttoni-jaakola](https://github.com/anttoni-jaakola)
 - [mi6paulino](https://github.com/mi6paulino)
 - [jelspace](https://github.com/jelspace)
 - [Zzhihon](https://github.com/Zzhihon)
 - [WatsonYang1999](https://github.com/WatsonYang1999)
-- [Whitea029](https://github.com/Whitea029)
 
 #### 🔨 Check out my recent pull requests
 
+- [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [Bump ratis to 3.2.0-3247c7f-SNAPSHOT](https://github.com/apache/iotdb/pull/15427) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[To dev/1.3] Add authorization for metric prometheus report](https://github.com/apache/iotdb/pull/15412) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Optimize partition cache getRegionReplicaSet interface performance by batching](https://github.com/apache/iotdb/pull/15396) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Remove dn_rpc_min_concurrent_client_num to fix minWorker &gt; maxWorker bugs ](https://github.com/apache/iotdb/pull/15296) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [[To dev/1.3] Enhance remove confignode robustness by increase waiting time for new leader ](https://github.com/apache/iotdb/pull/15262) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
