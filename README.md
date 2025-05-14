@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 months ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (today)
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (2 days ago)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (1 week ago)
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer (1 week ago)
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (1 week ago)
-- [0burak/imperial_hft](https://github.com/0burak/imperial_hft) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [anttoni-jaakola](https://github.com/anttoni-jaakola)
 - [mi6paulino](https://github.com/mi6paulino)
 - [jelspace](https://github.com/jelspace)
 - [Zzhihon](https://github.com/Zzhihon)
-- [WatsonYang1999](https://github.com/WatsonYang1999)
 
 #### 🔨 Check out my recent pull requests
 
