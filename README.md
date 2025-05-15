@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ybtsdst](https://github.com/ybtsdst)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [anttoni-jaakola](https://github.com/anttoni-jaakola)
 - [mi6paulino](https://github.com/mi6paulino)
-- [jelspace](https://github.com/jelspace)
 
 #### 🔨 Check out my recent pull requests
 
