@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (today)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 day ago)
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (3 days ago)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (1 week ago)
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer (1 week ago)
-- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [YoonaLimSauce](https://github.com/YoonaLimSauce)
 - [ybtsdst](https://github.com/ybtsdst)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [anttoni-jaakola](https://github.com/anttoni-jaakola)
-- [mi6paulino](https://github.com/mi6paulino)
 
 #### 🔨 Check out my recent pull requests
 
