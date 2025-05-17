@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 days ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 days ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 months ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (4 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (1 day ago)
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (2 days ago)
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (4 days ago)
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 days ago)
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 days ago)
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (5 days ago)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (1 week ago)
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer (1 week ago)
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [Bump ratis to 3.2.0-3247c7f-SNAPSHOT](https://github.com/apache/iotdb/pull/15427) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [[To dev/1.3] Add authorization for metric prometheus report](https://github.com/apache/iotdb/pull/15412) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Optimize partition cache getRegionReplicaSet interface performance by batching](https://github.com/apache/iotdb/pull/15396) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
@@ -52,7 +52,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (2 days ago)
+- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (3 days ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (3 months ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (1 year ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (1 year ago)
