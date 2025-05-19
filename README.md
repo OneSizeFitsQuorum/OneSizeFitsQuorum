@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK  (today)
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling (today)
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch) (today)
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (4 days ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (5 days ago)
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (1 week ago)
 
 #### 👯 Check out my recent followers
 
