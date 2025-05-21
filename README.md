@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [joblib/loky](https://github.com/joblib/loky) - Robust and reusable Executor for joblib (today)
+- [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions. (today)
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (1 day ago)
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK  (2 days ago)
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling (2 days ago)
-- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch) (2 days ago)
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (6 days ago)
 
 #### 👯 Check out my recent followers
 
