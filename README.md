@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals (today)
+- [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware. (today)
+- [NtesEyes/pylane](https://github.com/NtesEyes/pylane) - An python vm injector with debug tools, based on gdb. (today)
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (today)
 - [joblib/loky](https://github.com/joblib/loky) - Robust and reusable Executor for joblib (today)
-- [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions. (today)
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (1 day ago)
-- [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK  (2 days ago)
-- [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling (2 days ago)
 
 #### 👯 Check out my recent followers
 
