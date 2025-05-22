@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines. (today)
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals (1 day ago)
 - [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware. (1 day ago)
 - [NtesEyes/pylane](https://github.com/NtesEyes/pylane) - An python vm injector with debug tools, based on gdb. (1 day ago)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (1 day ago)
-- [joblib/loky](https://github.com/joblib/loky) - Robust and reusable Executor for joblib (1 day ago)
 
 #### 👯 Check out my recent followers
 
