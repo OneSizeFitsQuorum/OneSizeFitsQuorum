@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications. (3 days ago)
-- [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. (3 days ago)
-- [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) - OpenTelemetry instrumentation for Python modules (3 days ago)
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment. (3 days ago)
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go. (3 days ago)
+- [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking (today)
+- [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. (today)
+- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) - Helm Charts for Jaeger backend (today)
+- [jaegertracing/jaeger-idl](https://github.com/jaegertracing/jaeger-idl) - A set of shared data model definitions used by Jaeger components. (today)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (today)
 
 #### 👯 Check out my recent followers
 
