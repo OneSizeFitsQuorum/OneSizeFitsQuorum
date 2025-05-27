@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [chenzomi12/AIInfra](https://github.com/chenzomi12/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。 (today)
+- [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本 (today)
 - [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking (1 day ago)
 - [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. (1 day ago)
 - [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) - Helm Charts for Jaeger backend (1 day ago)
-- [jaegertracing/jaeger-idl](https://github.com/jaegertracing/jaeger-idl) - A set of shared data model definitions used by Jaeger components. (1 day ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [cryo-zd](https://github.com/cryo-zd)
 - [filedonkey](https://github.com/filedonkey)
 - [ShakibCodes](https://github.com/ShakibCodes)
 - [lssssj](https://github.com/lssssj)
 - [YoonaLimSauce](https://github.com/YoonaLimSauce)
-- [ybtsdst](https://github.com/ybtsdst)
 
 #### 🔨 Check out my recent pull requests
 
