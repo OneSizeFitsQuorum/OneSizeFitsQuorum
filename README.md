@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking (today)
-- [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. (today)
-- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) - Helm Charts for Jaeger backend (today)
-- [jaegertracing/jaeger-idl](https://github.com/jaegertracing/jaeger-idl) - A set of shared data model definitions used by Jaeger components. (today)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (today)
+- [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking (1 day ago)
+- [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. (1 day ago)
+- [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) - Helm Charts for Jaeger backend (1 day ago)
+- [jaegertracing/jaeger-idl](https://github.com/jaegertracing/jaeger-idl) - A set of shared data model definitions used by Jaeger components. (1 day ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
+- [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [Bump ratis to 3.2.0-3247c7f-SNAPSHOT](https://github.com/apache/iotdb/pull/15427) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 - [[To dev/1.3] Add authorization for metric prometheus report](https://github.com/apache/iotdb/pull/15412) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [Optimize partition cache getRegionReplicaSet interface performance by batching](https://github.com/apache/iotdb/pull/15396) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
