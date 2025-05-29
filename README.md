@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (1 day ago)
-- [chenzomi12/AIInfra](https://github.com/chenzomi12/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。 (1 day ago)
-- [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本 (1 day ago)
-- [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking (2 days ago)
-- [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. (2 days ago)
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (2 days ago)
+- [chenzomi12/AIInfra](https://github.com/chenzomi12/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。 (2 days ago)
+- [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本 (2 days ago)
+- [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking (3 days ago)
+- [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. (3 days ago)
 
 #### 👯 Check out my recent followers
 
