@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond (today)
+- [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities. (today)
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (3 days ago)
 - [chenzomi12/AIInfra](https://github.com/chenzomi12/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。 (3 days ago)
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本 (3 days ago)
-- [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking (4 days ago)
-- [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. (4 days ago)
 
 #### 👯 Check out my recent followers
 
