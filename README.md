@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond (3 days ago)
-- [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities. (3 days ago)
-- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (6 days ago)
-- [chenzomi12/aiinfra](https://github.com/chenzomi12/aiinfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。 (6 days ago)
-- [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本 (6 days ago)
+- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond (4 days ago)
+- [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities. (4 days ago)
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (1 week ago)
+- [chenzomi12/aiinfra](https://github.com/chenzomi12/aiinfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。 (1 week ago)
+- [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本 (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
+- [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
 - [Bump ratis to 3.2.0-3247c7f-SNAPSHOT](https://github.com/apache/iotdb/pull/15427) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[To dev/1.3] Add authorization for metric prometheus report](https://github.com/apache/iotdb/pull/15412) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [Optimize partition cache getRegionReplicaSet interface performance by batching](https://github.com/apache/iotdb/pull/15396) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
