@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [LLMLog/XRAGLog](https://github.com/LLMLog/XRAGLog) -  (today)
 - [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond (4 days ago)
 - [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities. (4 days ago)
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (1 week ago)
 - [chenzomi12/aiinfra](https://github.com/chenzomi12/aiinfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。 (1 week ago)
-- [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本 (1 week ago)
 
 #### 👯 Check out my recent followers
 
