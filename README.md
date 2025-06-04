@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) - Web UI for Jaeger (today)
 - [LLMLog/XRAGLog](https://github.com/LLMLog/XRAGLog) -  (1 day ago)
 - [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond (5 days ago)
 - [microsoft/sqltoolsservice](https://github.com/microsoft/sqltoolsservice) - SQL Tools API service that provides SQL Server data management capabilities. (5 days ago)
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (1 week ago)
-- [chenzomi12/aiinfra](https://github.com/chenzomi12/aiinfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。 (1 week ago)
 
 #### 👯 Check out my recent followers
 
