@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [larsgeorge/hbase-book](https://github.com/larsgeorge/hbase-book) - Contains the code used in the HBase: The Definitive Guide book. (today)
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm (3 days ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (3 days ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (3 days ago)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (3 days ago)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (3 days ago)
 
 #### 👯 Check out my recent followers
 
