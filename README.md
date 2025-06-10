@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [adoptium/temurin8-binaries](https://github.com/adoptium/temurin8-binaries) - Temurin 8 binaries (today)
 - [larsgeorge/hbase-book](https://github.com/larsgeorge/hbase-book) - Contains the code used in the HBase: The Definitive Guide book. (1 day ago)
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm (4 days ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (4 days ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (4 days ago)
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [Kos-M](https://github.com/Kos-M)
 - [cryo-zd](https://github.com/cryo-zd)
 - [ShakibCodes](https://github.com/ShakibCodes)
 - [lssssj](https://github.com/lssssj)
 - [YoonaLimSauce](https://github.com/YoonaLimSauce)
-- [ybtsdst](https://github.com/ybtsdst)
 
 #### 🔨 Check out my recent pull requests
 
