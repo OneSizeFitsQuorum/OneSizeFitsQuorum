@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data. (today)
 - [adoptium/temurin8-binaries](https://github.com/adoptium/temurin8-binaries) - Temurin 8 binaries (2 days ago)
 - [larsgeorge/hbase-book](https://github.com/larsgeorge/hbase-book) - Contains the code used in the HBase: The Definitive Guide book. (3 days ago)
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm (6 days ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (6 days ago)
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (6 days ago)
 
 #### 👯 Check out my recent followers
 
