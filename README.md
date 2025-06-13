@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
-- [Kos-M](https://github.com/Kos-M)
 - [cryo-zd](https://github.com/cryo-zd)
 - [ShakibCodes](https://github.com/ShakibCodes)
 - [lssssj](https://github.com/lssssj)
 - [YoonaLimSauce](https://github.com/YoonaLimSauce)
+- [ybtsdst](https://github.com/ybtsdst)
 
 #### 🔨 Check out my recent pull requests
 
