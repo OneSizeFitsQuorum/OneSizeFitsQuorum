@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension. (today)
-- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (today)
-- [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data. (4 days ago)
-- [adoptium/temurin8-binaries](https://github.com/adoptium/temurin8-binaries) - Temurin 8 binaries (6 days ago)
+- [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension. (1 day ago)
+- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (1 day ago)
+- [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data. (5 days ago)
+- [adoptium/temurin8-binaries](https://github.com/adoptium/temurin8-binaries) - Temurin 8 binaries (1 week ago)
 - [larsgeorge/hbase-book](https://github.com/larsgeorge/hbase-book) - Contains the code used in the HBase: The Definitive Guide book. (1 week ago)
 
 #### 👯 Check out my recent followers
