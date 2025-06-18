@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector (today)
-- [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension. (1 day ago)
-- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (1 day ago)
-- [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data. (5 days ago)
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector (1 day ago)
+- [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension. (2 days ago)
+- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (2 days ago)
+- [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data. (6 days ago)
 - [adoptium/temurin8-binaries](https://github.com/adoptium/temurin8-binaries) - Temurin 8 binaries (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [miaomiaoqiu](https://github.com/miaomiaoqiu)
 - [cryo-zd](https://github.com/cryo-zd)
 - [ShakibCodes](https://github.com/ShakibCodes)
 - [lssssj](https://github.com/lssssj)
 - [YoonaLimSauce](https://github.com/YoonaLimSauce)
-- [ybtsdst](https://github.com/ybtsdst)
 
 #### 🔨 Check out my recent pull requests
 
