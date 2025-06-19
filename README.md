@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (today)
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector (1 day ago)
-- [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension. (2 days ago)
-- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (2 days ago)
-- [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data. (6 days ago)
+- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (1 day ago)
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector (2 days ago)
+- [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension. (3 days ago)
+- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (3 days ago)
+- [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data. (1 week ago)
 
 #### 👯 Check out my recent followers
 
