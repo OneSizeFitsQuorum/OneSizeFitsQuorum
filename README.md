@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle (today)
 - [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware(Project under CNCF) (3 days ago)
 - [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (5 days ago)
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector (6 days ago)
 - [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension. (1 week ago)
-- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (1 week ago)
 
 #### 👯 Check out my recent followers
 
