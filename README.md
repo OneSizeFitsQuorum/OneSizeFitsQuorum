@@ -16,7 +16,7 @@
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 months ago)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (5 months ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (6 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (today)
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle (1 day ago)
-- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware(Project under CNCF) (4 days ago)
-- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (6 days ago)
+- [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (1 day ago)
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle (2 days ago)
+- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware(Project under CNCF) (5 days ago)
+- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (1 week ago)
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2312 Update website with Ratis 3.2.0 release](https://github.com/apache/ratis/pull/1273) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [Bump ratis to 3.2.0-3247c7f-SNAPSHOT](https://github.com/apache/iotdb/pull/15427) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [[To dev/1.3] Add authorization for metric prometheus report](https://github.com/apache/iotdb/pull/15412) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 - [Optimize partition cache getRegionReplicaSet interface performance by batching](https://github.com/apache/iotdb/pull/15396) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
-- [Remove dn_rpc_min_concurrent_client_num to fix minWorker &gt; maxWorker bugs ](https://github.com/apache/iotdb/pull/15296) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
