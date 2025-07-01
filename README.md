@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [waynextz](https://github.com/waynextz)
+- [nstrmx](https://github.com/nstrmx)
 - [XiaomingX](https://github.com/XiaomingX)
 - [AmandaXu97](https://github.com/AmandaXu97)
 - [miaomiaoqiu](https://github.com/miaomiaoqiu)
-- [cryo-zd](https://github.com/cryo-zd)
-- [ShakibCodes](https://github.com/ShakibCodes)
 
 #### 🔨 Check out my recent pull requests
 
