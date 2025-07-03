@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [HFAiLab/hai-platform](https://github.com/HFAiLab/hai-platform) - 一种任务级GPU算力分时调度的高性能深度学习训练平台 (today)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 week ago)
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (1 week ago)
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle (1 week ago)
 - [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware(Project under CNCF) (1 week ago)
-- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
 - [waynextz](https://github.com/waynextz)
-- [nstrmx](https://github.com/nstrmx)
-- [XiaomingX](https://github.com/XiaomingX)
 - [AmandaXu97](https://github.com/AmandaXu97)
 - [miaomiaoqiu](https://github.com/miaomiaoqiu)
+- [cryo-zd](https://github.com/cryo-zd)
+- [ShakibCodes](https://github.com/ShakibCodes)
 
 #### 🔨 Check out my recent pull requests
 
