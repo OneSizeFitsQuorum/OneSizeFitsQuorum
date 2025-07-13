@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mmjwxbc](https://github.com/mmjwxbc)
 - [shangguantangyun](https://github.com/shangguantangyun)
 - [wenmin864](https://github.com/wenmin864)
 - [waynextz](https://github.com/waynextz)
 - [AmandaXu97](https://github.com/AmandaXu97)
-- [miaomiaoqiu](https://github.com/miaomiaoqiu)
 
 #### 🔨 Check out my recent pull requests
 
