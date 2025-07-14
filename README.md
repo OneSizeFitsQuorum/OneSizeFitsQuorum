@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks (2 days ago)
-- [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。 (5 days ago)
-- [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python (5 days ago)
-- [influxdata/kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data (6 days ago)
+- [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks (3 days ago)
+- [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。 (6 days ago)
+- [microsoft/debugpy](https://github.com/microsoft/debugpy) - An implementation of the Debug Adapter Protocol for Python (6 days ago)
+- [influxdata/kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data (1 week ago)
 - [HFAiLab/hai-platform](https://github.com/HFAiLab/hai-platform) - 一种任务级GPU算力分时调度的高性能深度学习训练平台 (1 week ago)
 
 #### 👯 Check out my recent followers
