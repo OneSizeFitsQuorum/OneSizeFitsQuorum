@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (today)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (today)
-- [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻 (today)
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (today)
-- [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks (3 days ago)
+- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (1 day ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 day ago)
+- [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻 (1 day ago)
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (1 day ago)
+- [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks (4 days ago)
 
 #### 👯 Check out my recent followers
 
