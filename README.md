@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (today)
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (today)
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (1 day ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 day ago)
 - [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻 (1 day ago)
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (1 day ago)
-- [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks (4 days ago)
 
 #### 👯 Check out my recent followers
 
