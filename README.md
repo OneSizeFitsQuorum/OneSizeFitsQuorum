@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 day ago)
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (1 day ago)
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (2 days ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 days ago)
-- [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻 (2 days ago)
 
 #### 👯 Check out my recent followers
 
