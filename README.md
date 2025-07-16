@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (6 months ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (6 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (today)
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (today)
-- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (1 day ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 day ago)
-- [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻 (1 day ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 day ago)
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (1 day ago)
+- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (2 days ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 days ago)
+- [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻 (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -45,7 +45,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [Bump ratis to 3.2.0](https://github.com/apache/iotdb/pull/15825) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [RATIS-2312 Update website with Ratis 3.2.0 release](https://github.com/apache/ratis/pull/1273) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
+- [RATIS-2312 Update website with Ratis 3.2.0 release](https://github.com/apache/ratis/pull/1273) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 - [Bump ratis to 3.2.0-3247c7f-SNAPSHOT](https://github.com/apache/iotdb/pull/15427) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 - [[To dev/1.3] Add authorization for metric prometheus report](https://github.com/apache/iotdb/pull/15412) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
