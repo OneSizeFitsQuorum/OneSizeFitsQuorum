@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (3 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (6 months ago)
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 days ago)
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (2 days ago)
-- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (3 days ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (3 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 days ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (3 days ago)
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (3 days ago)
+- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (4 days ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [sins921](https://github.com/sins921)
 - [fgksking](https://github.com/fgksking)
 - [mmjwxbc](https://github.com/mmjwxbc)
 - [shangguantangyun](https://github.com/shangguantangyun)
 - [wenmin864](https://github.com/wenmin864)
-- [waynextz](https://github.com/waynextz)
 
 #### 🔨 Check out my recent pull requests
 
