@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 days ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (3 days ago)
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (3 days ago)
-- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (4 days ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (4 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 days ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (4 days ago)
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (4 days ago)
+- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) -  (5 days ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (5 days ago)
 
 #### 👯 Check out my recent followers
 
