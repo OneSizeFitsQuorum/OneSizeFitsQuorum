@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (today)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 day ago)
 - [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers (today)
-- [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards (5 days ago)
-- [NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM (5 days ago)
+- [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers (1 day ago)
+- [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards (6 days ago)
+- [NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM (6 days ago)
 - [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (1 week ago)
 - [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js (1 week ago)
 
@@ -45,7 +45,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [[KubeRay] Add instructions to run distributed Ray Debugger in KubeRay by Code Server](https://github.com/ray-project/ray/pull/55007) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
-- [[Doc] Fix newline character display issue in data-internals](https://github.com/ray-project/ray/pull/54883) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
+- [[Doc] Fix newline character display issue in data-internals](https://github.com/ray-project/ray/pull/54883) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [Bump ratis to 3.2.0](https://github.com/apache/iotdb/pull/15825) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [RATIS-2312 Update website with Ratis 3.2.0 release](https://github.com/apache/ratis/pull/1273) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
