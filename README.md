@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (today)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 day ago)
-- [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[Ray Core] Use Ray Distributed Debugger rather than Ray Debugger](https://github.com/ray-project/ray/pull/55352) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 - [[KubeRay] Add instructions to run distributed Ray Debugger in KubeRay by Code Server](https://github.com/ray-project/ray/pull/55007) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[Doc] Fix newline character display issue in data-internals](https://github.com/ray-project/ray/pull/54883) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [Bump ratis to 3.2.0](https://github.com/apache/iotdb/pull/15825) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [RATIS-2312 Update website with Ratis 3.2.0 release](https://github.com/apache/ratis/pull/1273) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
-- [Implememt auto release technique for Blob Allocator](https://github.com/apache/iotdb/pull/15491) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
