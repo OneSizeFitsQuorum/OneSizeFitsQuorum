@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [AIOps-LogDB/E-Log-Dataset](https://github.com/AIOps-LogDB/E-Log-Dataset) -  (today)
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (today)
+- [ionelmc/python-remote-pdb](https://github.com/ionelmc/python-remote-pdb) - Remote vanilla PDB (over TCP sockets). (today)
 - [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers (2 days ago)
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards (1 week ago)
-- [NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM (1 week ago)
-- [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (1 week ago)
-- [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js (1 week ago)
 
 #### 👯 Check out my recent followers
 
