@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: An open-source large language model designed for intelligent agents by Z.ai (today)
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (1 day ago)
 - [AIOps-LogDB/E-Log-Dataset](https://github.com/AIOps-LogDB/E-Log-Dataset) -  (4 days ago)
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (4 days ago)
 - [ionelmc/python-remote-pdb](https://github.com/ionelmc/python-remote-pdb) - Remote vanilla PDB (over TCP sockets). (4 days ago)
-- [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers (6 days ago)
 
 #### 👯 Check out my recent followers
 
