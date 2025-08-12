@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 days ago)
-- [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (4 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (4 days ago)
+- [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (5 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (today)
-- [AIOps-LogDB/E-Log-Dataset](https://github.com/AIOps-LogDB/E-Log-Dataset) -  (3 days ago)
-- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (3 days ago)
-- [ionelmc/python-remote-pdb](https://github.com/ionelmc/python-remote-pdb) - Remote vanilla PDB (over TCP sockets). (3 days ago)
-- [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers (5 days ago)
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (1 day ago)
+- [AIOps-LogDB/E-Log-Dataset](https://github.com/AIOps-LogDB/E-Log-Dataset) -  (4 days ago)
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (4 days ago)
+- [ionelmc/python-remote-pdb](https://github.com/ionelmc/python-remote-pdb) - Remote vanilla PDB (over TCP sockets). (4 days ago)
+- [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,15 +44,15 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[Ray Core] Use Ray Distributed Debugger rather than Ray Debugger](https://github.com/ray-project/ray/pull/55352) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
-- [[KubeRay] Add instructions to run distributed Ray Debugger in KubeRay by Code Server](https://github.com/ray-project/ray/pull/55007) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
+- [[Ray Core] Use Ray Distributed Debugger rather than Ray Debugger](https://github.com/ray-project/ray/pull/55352) on [ray-project/ray](https://github.com/ray-project/ray) (5 days ago)
+- [[KubeRay] Add instructions to run distributed Ray Debugger in KubeRay by Code Server](https://github.com/ray-project/ray/pull/55007) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [[Doc] Fix newline character display issue in data-internals](https://github.com/ray-project/ray/pull/54883) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [Bump ratis to 3.2.0](https://github.com/apache/iotdb/pull/15825) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 - [RATIS-2312 Update website with Ratis 3.2.0 release](https://github.com/apache/ratis/pull/1273) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
-- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (2 months ago)
+- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (3 months ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (6 months ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (2 years ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (2 years ago)
