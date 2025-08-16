@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [exoshuffle/cloudsort](https://github.com/exoshuffle/cloudsort) - Exoshuffle-CloudSort (today)
-- [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: An open-source large language model designed for intelligent agents by Z.ai (3 days ago)
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (4 days ago)
+- [exoshuffle/cloudsort](https://github.com/exoshuffle/cloudsort) - Exoshuffle-CloudSort (1 day ago)
+- [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: An open-source large language model designed for intelligent agents by Z.ai (4 days ago)
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (5 days ago)
 - [AIOps-LogDB/E-Log-Dataset](https://github.com/AIOps-LogDB/E-Log-Dataset) -  (1 week ago)
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (1 week ago)
 
