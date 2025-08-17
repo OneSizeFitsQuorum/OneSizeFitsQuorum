@@ -12,10 +12,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
 - [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [thulab/iot-benchmark](https://github.com/thulab/iot-benchmark) - IoT-benchmark is a tool for benchmarking TSDB in IoT scenario. (4 months ago)
 
 #### 🌱 Check out my recent projects
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [exoshuffle/cloudsort](https://github.com/exoshuffle/cloudsort) - Exoshuffle-CloudSort (1 day ago)
-- [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: An open-source large language model designed for intelligent agents by Z.ai (4 days ago)
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (5 days ago)
+- [exoshuffle/cloudsort](https://github.com/exoshuffle/cloudsort) - Exoshuffle-CloudSort (2 days ago)
+- [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: An open-source large language model designed for intelligent agents by Z.ai (5 days ago)
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (6 days ago)
 - [AIOps-LogDB/E-Log-Dataset](https://github.com/AIOps-LogDB/E-Log-Dataset) -  (1 week ago)
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (1 week ago)
 
@@ -52,8 +52,8 @@
 
 #### 📜 Check out my recent blog posts
 
+- [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (1 day ago)
 - [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (3 months ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (6 months ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (2 years ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (2 years ago)
-- [2022 年终总结：记清华硕士的秋招之年](https://tanxinyu.work/2022-annual-summary/) (2 years ago)
