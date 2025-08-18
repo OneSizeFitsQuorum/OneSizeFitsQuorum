@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.  (today)
+- [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 (today)
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (today)
 - [exoshuffle/cloudsort](https://github.com/exoshuffle/cloudsort) - Exoshuffle-CloudSort (3 days ago)
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: An open-source large language model designed for intelligent agents by Z.ai (6 days ago)
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译 (1 week ago)
-- [AIOps-LogDB/E-Log-Dataset](https://github.com/AIOps-LogDB/E-Log-Dataset) -  (1 week ago)
-- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[Data]Fix sort_benchmark url not found error](https://github.com/ray-project/ray/pull/55692) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 - [[Ray Core] Use Ray Distributed Debugger rather than Ray Debugger](https://github.com/ray-project/ray/pull/55352) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[KubeRay] Add instructions to run distributed Ray Debugger in KubeRay by Code Server](https://github.com/ray-project/ray/pull/55007) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [[Doc] Fix newline character display issue in data-internals](https://github.com/ray-project/ray/pull/54883) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 - [Bump ratis to 3.2.0](https://github.com/apache/iotdb/pull/15825) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [RATIS-2312 Update website with Ratis 3.2.0 release](https://github.com/apache/ratis/pull/1273) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
