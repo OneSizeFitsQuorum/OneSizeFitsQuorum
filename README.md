@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations (today)
+- [zhanglingzhe0820/Awesome-Parallel-Text-Generation](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation) -  (today)
 - [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.  (1 day ago)
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 (1 day ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (1 day ago)
-- [exoshuffle/cloudsort](https://github.com/exoshuffle/cloudsort) - Exoshuffle-CloudSort (4 days ago)
-- [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: An open-source large language model designed for intelligent agents by Z.ai (1 week ago)
 
 #### 👯 Check out my recent followers
 
