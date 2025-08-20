@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub. (today)
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations (1 day ago)
 - [zhanglingzhe0820/Awesome-Parallel-Text-Generation](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation) -  (1 day ago)
 - [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.  (2 days ago)
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 (2 days ago)
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (2 days ago)
 
 #### 👯 Check out my recent followers
 
