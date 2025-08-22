@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[DOC][Train] Fix typo for Instantiating in ray train doc](https://github.com/ray-project/ray/pull/55826) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 - [[Data]Fix sort_benchmark url not found error](https://github.com/ray-project/ray/pull/55692) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
 - [[Ray Core] Use Ray Distributed Debugger rather than Ray Debugger](https://github.com/ray-project/ray/pull/55352) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [[KubeRay] Add instructions to run distributed Ray Debugger in KubeRay by Code Server](https://github.com/ray-project/ray/pull/55007) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 - [[Doc] Fix newline character display issue in data-internals](https://github.com/ray-project/ray/pull/54883) on [ray-project/ray](https://github.com/ray-project/ray) (4 weeks ago)
-- [Bump ratis to 3.2.0](https://github.com/apache/iotdb/pull/15825) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
