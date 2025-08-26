@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (2 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub. (5 days ago)
-- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations (6 days ago)
-- [zhanglingzhe0820/Awesome-Parallel-Text-Generation](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation) -  (6 days ago)
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub. (6 days ago)
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations (1 week ago)
+- [zhanglingzhe0820/Awesome-Parallel-Text-Generation](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation) -  (1 week ago)
 - [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.  (1 week ago)
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 (1 week ago)
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[DOC] Fixed a number of typos in doc by gpt5 agent](https://github.com/ray-project/ray/pull/55873) on [ray-project/ray](https://github.com/ray-project/ray) (today)
-- [[DOC][Train] Fix typo for Instantiating in ray train doc](https://github.com/ray-project/ray/pull/55826) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
+- [[DOC] Fixed a number of typos in doc by gpt5 agent](https://github.com/ray-project/ray/pull/55873) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
+- [[DOC][Train] Fix typo for Instantiating in ray train doc](https://github.com/ray-project/ray/pull/55826) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
 - [[Data]Fix sort_benchmark url not found error](https://github.com/ray-project/ray/pull/55692) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[Ray Core] Use Ray Distributed Debugger rather than Ray Debugger](https://github.com/ray-project/ray/pull/55352) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
-- [[KubeRay] Add instructions to run distributed Ray Debugger in KubeRay by Code Server](https://github.com/ray-project/ray/pull/55007) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
+- [[KubeRay] Add instructions to run distributed Ray Debugger in KubeRay by Code Server](https://github.com/ray-project/ray/pull/55007) on [ray-project/ray](https://github.com/ray-project/ray) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
