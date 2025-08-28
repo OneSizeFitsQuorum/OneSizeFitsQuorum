@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [zhanglingzhe0820](https://github.com/zhanglingzhe0820)
 - [pengkaii](https://github.com/pengkaii)
 - [xmhu2001](https://github.com/xmhu2001)
 - [Zeglow](https://github.com/Zeglow)
-- [suchaos](https://github.com/suchaos)
 
 #### 🔨 Check out my recent pull requests
 
