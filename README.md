@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[DOC] Fixed a number of typos in doc by gpt5 agent](https://github.com/ray-project/ray/pull/55873) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
-- [[DOC][Train] Fix typo for Instantiating in ray train doc](https://github.com/ray-project/ray/pull/55826) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
-- [[Data]Fix sort_benchmark url not found error](https://github.com/ray-project/ray/pull/55692) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
-- [[Ray Core] Use Ray Distributed Debugger rather than Ray Debugger](https://github.com/ray-project/ray/pull/55352) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
-- [[KubeRay] Add instructions to run distributed Ray Debugger in KubeRay by Code Server](https://github.com/ray-project/ray/pull/55007) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
+- [[DOC] Fix documentation issues in ray-observability directory](https://github.com/ray-project/ray/pull/56069) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[DOC] Fix grammar, syntax, and formatting issues in ray-more-libs documentation](https://github.com/ray-project/ray/pull/56068) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[DOC] Fix grammar, syntax, and formatting issues in ray-air and ray-contribute documentation](https://github.com/ray-project/ray/pull/56067) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[DOC][Data] Fix grammar and formatting issues in Ray Data documentation](https://github.com/ray-project/ray/pull/56066) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[DOC][Cluster] Fix typos and grammar issues in cluster documentation](https://github.com/ray-project/ray/pull/56065) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 
 #### 📜 Check out my recent blog posts
 
