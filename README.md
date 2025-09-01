@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[DOC] Fix documentation issues in ray-observability directory](https://github.com/ray-project/ray/pull/56069) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
-- [[DOC] Fix grammar, syntax, and formatting issues in ray-more-libs documentation](https://github.com/ray-project/ray/pull/56068) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
-- [[DOC] Fix grammar, syntax, and formatting issues in ray-air and ray-contribute documentation](https://github.com/ray-project/ray/pull/56067) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
-- [[DOC][Data] Fix grammar and formatting issues in Ray Data documentation](https://github.com/ray-project/ray/pull/56066) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
-- [[DOC][Cluster] Fix typos and grammar issues in cluster documentation](https://github.com/ray-project/ray/pull/56065) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
+- [[DOC] docs: Fix typos, grammar, and syntax issues in Ray Tune documentation](https://github.com/ray-project/ray/pull/56132) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[DOC] Fix documentation typos, grammar, and terminology inconsistencies in Ray Serve docs](https://github.com/ray-project/ray/pull/56131) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[DOC] Fix documentation typos and grammatical issues in RLlib docs](https://github.com/ray-project/ray/pull/56130) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[DOC] Fix documentation issues in ray-overview directory](https://github.com/ray-project/ray/pull/56129) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[DOC] Fix documentation errors in ray-references and ray-security directories](https://github.com/ray-project/ray/pull/56128) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 
 #### 📜 Check out my recent blog posts
 
