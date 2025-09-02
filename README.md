@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (today)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (today)
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript (1 week ago)
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. (1 week ago)
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub. (1 week ago)
-- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations (2 weeks ago)
-- [zhanglingzhe0820/Awesome-Parallel-Text-Generation](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation) -  (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [XiaomingX](https://github.com/XiaomingX)
 - [zhanglingzhe0820](https://github.com/zhanglingzhe0820)
 - [pengkaii](https://github.com/pengkaii)
-- [xmhu2001](https://github.com/xmhu2001)
 
 #### 🔨 Check out my recent pull requests
 
