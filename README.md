@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (today)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (today)
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (today)
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (1 day ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 day ago)
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript (1 week ago)
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. (1 week ago)
-- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub. (1 week ago)
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[DOC] docs: Fix typos, grammar, and syntax issues in Ray Tune documentation](https://github.com/ray-project/ray/pull/56132) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
-- [[DOC] Fix documentation typos, grammar, and terminology inconsistencies in Ray Serve docs](https://github.com/ray-project/ray/pull/56131) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
-- [[DOC] Fix documentation typos and grammatical issues in RLlib docs](https://github.com/ray-project/ray/pull/56130) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
-- [[DOC] Fix documentation issues in ray-overview directory](https://github.com/ray-project/ray/pull/56129) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
-- [[DOC] Fix documentation errors in ray-references and ray-security directories](https://github.com/ray-project/ray/pull/56128) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
+- [[DOC] docs: Fix typos, grammar, and syntax issues in Ray Tune documentation](https://github.com/ray-project/ray/pull/56132) on [ray-project/ray](https://github.com/ray-project/ray) (2 days ago)
+- [[DOC] Fix documentation typos, grammar, and terminology inconsistencies in Ray Serve docs](https://github.com/ray-project/ray/pull/56131) on [ray-project/ray](https://github.com/ray-project/ray) (2 days ago)
+- [[DOC] Fix documentation typos and grammatical issues in RLlib docs](https://github.com/ray-project/ray/pull/56130) on [ray-project/ray](https://github.com/ray-project/ray) (2 days ago)
+- [[DOC] Fix documentation issues in ray-overview directory](https://github.com/ray-project/ray/pull/56129) on [ray-project/ray](https://github.com/ray-project/ray) (2 days ago)
+- [[DOC] Fix documentation errors in ray-references and ray-security directories](https://github.com/ray-project/ray/pull/56128) on [ray-project/ray](https://github.com/ray-project/ray) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
