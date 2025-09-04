@@ -46,7 +46,7 @@
 
 - [[DOC] docs: Fix typos, grammar, and syntax issues in Ray Tune documentation](https://github.com/ray-project/ray/pull/56132) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
 - [[DOC] Fix documentation typos, grammar, and terminology inconsistencies in Ray Serve docs](https://github.com/ray-project/ray/pull/56131) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
-- [[DOC] Fix documentation typos and grammatical issues in RLlib docs](https://github.com/ray-project/ray/pull/56130) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
+- [[RLlib] [DOC] Fix documentation typos and grammatical issues in RLlib docs](https://github.com/ray-project/ray/pull/56130) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
 - [[DOC] Fix documentation issues in ray-overview directory](https://github.com/ray-project/ray/pull/56129) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
 - [[DOC] Fix documentation errors in ray-references and ray-security directories](https://github.com/ray-project/ray/pull/56128) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
 
