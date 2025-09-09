@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (today)
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (1 week ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 week ago)
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript (2 weeks ago)
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. (2 weeks ago)
-- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [luoluoyuyu](https://github.com/luoluoyuyu)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [XiaomingX](https://github.com/XiaomingX)
 - [zhanglingzhe0820](https://github.com/zhanglingzhe0820)
-- [pengkaii](https://github.com/pengkaii)
 
 #### 🔨 Check out my recent pull requests
 
