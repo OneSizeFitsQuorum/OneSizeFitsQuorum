@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2324 Upgrade the thrid party dependencies to fix CVE alarts](https://github.com/apache/ratis-thirdparty/pull/69) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
 - [[CORE][DOC] Fix typos and grammatical issues in Ray Core documentation ](https://github.com/ray-project/ray/pull/56279) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
 - [[CORE][DOC] Fix grammar, spelling, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56278) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
 - [[CORE][DOC] Fix grammar, typos, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56277) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
 - [[CORE][DOC] Fix documentation typos, grammar, and formatting issues in ray-core directories ](https://github.com/ray-project/ray/pull/56275) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
-- [[TRAIN][DOC] Fix typos, grammar, and formatting issues in Ray Train documentation](https://github.com/ray-project/ray/pull/56274) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
