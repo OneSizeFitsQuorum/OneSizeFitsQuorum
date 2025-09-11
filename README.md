@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [rednoseeee](https://github.com/rednoseeee)
 - [luoluoyuyu](https://github.com/luoluoyuyu)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [XiaomingX](https://github.com/XiaomingX)
-- [zhanglingzhe0820](https://github.com/zhanglingzhe0820)
 
 #### 🔨 Check out my recent pull requests
 
