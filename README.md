@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [ToanPV90](https://github.com/ToanPV90)
 - [rednoseeee](https://github.com/rednoseeee)
 - [luoluoyuyu](https://github.com/luoluoyuyu)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
-- [XiaomingX](https://github.com/XiaomingX)
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2326 Do not check test/target/** license header when releasing](https://github.com/apache/ratis-thirdparty/pull/70) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
 - [RATIS-2324. Upgrade third party dependencies to fix CVE alerts](https://github.com/apache/ratis-thirdparty/pull/69) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (3 days ago)
 - [[CORE][DOC] Fix typos and grammatical issues in Ray Core documentation ](https://github.com/ray-project/ray/pull/56279) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[CORE][DOC] Fix grammar, spelling, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56278) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[CORE][DOC] Fix grammar, typos, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56277) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
-- [[CORE][DOC] Fix documentation typos, grammar, and formatting issues in ray-core directories ](https://github.com/ray-project/ray/pull/56275) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
