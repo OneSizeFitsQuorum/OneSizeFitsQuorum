@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (today)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 day ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 day ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 days ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (1 month ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (2 days ago)
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (3 days ago)
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (1 week ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 week ago)
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript (2 weeks ago)
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2324. Upgrade third party dependencies to fix CVE alerts](https://github.com/apache/ratis-thirdparty/pull/69) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (2 days ago)
-- [[CORE][DOC] Fix typos and grammatical issues in Ray Core documentation ](https://github.com/ray-project/ray/pull/56279) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
-- [[CORE][DOC] Fix grammar, spelling, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56278) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
-- [[CORE][DOC] Fix grammar, typos, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56277) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
-- [[CORE][DOC] Fix documentation typos, grammar, and formatting issues in ray-core directories ](https://github.com/ray-project/ray/pull/56275) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
+- [RATIS-2324. Upgrade third party dependencies to fix CVE alerts](https://github.com/apache/ratis-thirdparty/pull/69) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (3 days ago)
+- [[CORE][DOC] Fix typos and grammatical issues in Ray Core documentation ](https://github.com/ray-project/ray/pull/56279) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
+- [[CORE][DOC] Fix grammar, spelling, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56278) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
+- [[CORE][DOC] Fix grammar, typos, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56277) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
+- [[CORE][DOC] Fix documentation typos, grammar, and formatting issues in ray-core directories ](https://github.com/ray-project/ray/pull/56275) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
