@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2328 Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (today)
 - [RATIS-2326 Do not check test/target/** license header when releasing](https://github.com/apache/ratis-thirdparty/pull/70) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (3 days ago)
 - [RATIS-2324. Upgrade third party dependencies to fix CVE alerts](https://github.com/apache/ratis-thirdparty/pull/69) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (6 days ago)
 - [[CORE][DOC] Fix typos and grammatical issues in Ray Core documentation ](https://github.com/ray-project/ray/pull/56279) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
-- [[CORE][DOC] Fix grammar, spelling, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56278) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
-- [[CORE][DOC] Fix grammar, typos, and formatting issues in Ray Core documentation](https://github.com/ray-project/ray/pull/56277) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
