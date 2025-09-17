@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 days ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (5 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 day ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (3 days ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger](https://github.com/OneSizeFitsQuorum/Code-Server-With-Ray-Distributed-Debugger) - Enable the Ray Distributed Debugger in KubeRay (1 month ago)
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2328 Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
-- [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 day ago)
-- [RATIS-2326 Do not check test/target/** license header when releasing](https://github.com/apache/ratis-thirdparty/pull/70) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (4 days ago)
+- [RATIS-2328 Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (2 days ago)
+- [RATIS-2326 Do not check test/target/** license header when releasing](https://github.com/apache/ratis-thirdparty/pull/70) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (5 days ago)
 - [RATIS-2324. Upgrade third party dependencies to fix CVE alerts](https://github.com/apache/ratis-thirdparty/pull/69) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 week ago)
 - [[CORE][DOC] Fix typos and grammatical issues in Ray Core documentation ](https://github.com/ray-project/ray/pull/56279) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 
