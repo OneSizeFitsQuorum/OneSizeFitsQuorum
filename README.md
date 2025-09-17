@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (today)
 - [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (1 week ago)
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (2 weeks ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (2 weeks ago)
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript (3 weeks ago)
-- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
