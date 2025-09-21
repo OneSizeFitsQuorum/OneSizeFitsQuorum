@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 days ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (4 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
+- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (3 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (5 days ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (today)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (3 days ago)
+- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (1 day ago)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (4 days ago)
 - [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (1 week ago)
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (2 weeks ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (2 weeks ago)
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2328. Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
-- [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (5 days ago)
+- [RATIS-2328. Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
+- [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (6 days ago)
 - [RATIS-2326 Do not check test/target/** license header when releasing](https://github.com/apache/ratis-thirdparty/pull/70) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 week ago)
 - [RATIS-2324. Upgrade third party dependencies to fix CVE alerts](https://github.com/apache/ratis-thirdparty/pull/69) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 week ago)
 - [[CORE][DOC] Fix typos and grammatical issues in Ray Core documentation ](https://github.com/ray-project/ray/pull/56279) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
