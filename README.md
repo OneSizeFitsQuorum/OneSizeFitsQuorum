@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (1 day ago)
-- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (6 days ago)
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (2 days ago)
+- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (1 week ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 week ago)
 - [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (2 weeks ago)
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (3 weeks ago)
