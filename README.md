@@ -14,7 +14,7 @@
 
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 week ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 weeks ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (4 days ago)
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (5 days ago)
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (1 week ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 week ago)
-- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (2 weeks ago)
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (3 weeks ago)
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (3 weeks ago)
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes. (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2339: Fix commit does not belong to any branch on this repository issue when releasing](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [RATIS-2339: Fix commit does not belong to any branch on this repository issue when releasing](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
 - [RATIS-2328. Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (2 weeks ago)
 - [RATIS-2326 Do not check test/target/** license header when releasing](https://github.com/apache/ratis-thirdparty/pull/70) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (2 weeks ago)
-- [RATIS-2324. Upgrade third party dependencies to fix CVE alerts](https://github.com/apache/ratis-thirdparty/pull/69) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (2 weeks ago)
+- [RATIS-2324. Upgrade third party dependencies to fix CVE alerts](https://github.com/apache/ratis-thirdparty/pull/69) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
