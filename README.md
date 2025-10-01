@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (today)
-- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (5 days ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 day ago)
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (6 days ago)
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - A distributed file system (1 week ago)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 week ago)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (2 weeks ago)
 - [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (3 weeks ago)
 
 #### 👯 Check out my recent followers
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
+- [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
 - [RATIS-2328. Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (2 weeks ago)
 - [RATIS-2326 Do not check test/target/** license header when releasing](https://github.com/apache/ratis-thirdparty/pull/70) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (2 weeks ago)
