@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (5 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (6 days ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 weeks ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 weeks ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
@@ -31,7 +31,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 week ago)
 - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (1 week ago)
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system (2 weeks ago)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (2 weeks ago)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (3 weeks ago)
 - [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (4 weeks ago)
 
 #### 👯 Check out my recent followers
