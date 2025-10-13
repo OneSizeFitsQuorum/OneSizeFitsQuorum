@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [xxspell](https://github.com/xxspell)
 - [cangshan-cloud](https://github.com/cangshan-cloud)
 - [RayaCoo](https://github.com/RayaCoo)
 - [ToanPV90](https://github.com/ToanPV90)
-- [rednoseeee](https://github.com/rednoseeee)
 
 #### 🔨 Check out my recent pull requests
 
