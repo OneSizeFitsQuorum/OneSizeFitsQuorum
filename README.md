@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (today)
+- [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository (today)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 day ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (2 weeks ago)
 - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (2 weeks ago)
-- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system (3 weeks ago)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [Tan-JiaLiang](https://github.com/Tan-JiaLiang)
 - [XiaomingX](https://github.com/XiaomingX)
 - [xxspell](https://github.com/xxspell)
 - [cangshan-cloud](https://github.com/cangshan-cloud)
 - [RayaCoo](https://github.com/RayaCoo)
-- [ToanPV90](https://github.com/ToanPV90)
 
 #### 🔨 Check out my recent pull requests
 
