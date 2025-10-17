@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (today)
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (2 days ago)
 - [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository (2 days ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 days ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (2 weeks ago)
-- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
