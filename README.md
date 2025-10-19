@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 day ago)
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (3 days ago)
-- [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository (3 days ago)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (4 days ago)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (2 days ago)
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (4 days ago)
+- [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository (4 days ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (5 days ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (2 weeks ago)
 
 #### 👯 Check out my recent followers
@@ -39,12 +39,12 @@
 - [Anekoique](https://github.com/Anekoique)
 - [Tan-JiaLiang](https://github.com/Tan-JiaLiang)
 - [XiaomingX](https://github.com/XiaomingX)
-- [xxspell](https://github.com/xxspell)
 - [cangshan-cloud](https://github.com/cangshan-cloud)
+- [RayaCoo](https://github.com/RayaCoo)
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
+- [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [RATIS-2328. Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 month ago)
 - [RATIS-2326 Do not check test/target/** license header when releasing](https://github.com/apache/ratis-thirdparty/pull/70) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 month ago)
