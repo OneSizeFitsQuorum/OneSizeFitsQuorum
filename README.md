@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [fearlesslyh](https://github.com/fearlesslyh)
 - [Anekoique](https://github.com/Anekoique)
 - [Tan-JiaLiang](https://github.com/Tan-JiaLiang)
 - [XiaomingX](https://github.com/XiaomingX)
 - [cangshan-cloud](https://github.com/cangshan-cloud)
-- [RayaCoo](https://github.com/RayaCoo)
 
 #### 🔨 Check out my recent pull requests
 
