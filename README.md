@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 month ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 months ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 
 #### 🌱 Check out my recent projects
 
