@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (today)
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes (6 days ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 week ago)
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (1 week ago)
 - [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository (1 week ago)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
