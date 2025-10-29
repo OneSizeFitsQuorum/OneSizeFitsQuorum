@@ -40,7 +40,7 @@
 - [fearlesslyh](https://github.com/fearlesslyh)
 - [Anekoique](https://github.com/Anekoique)
 - [Tan-JiaLiang](https://github.com/Tan-JiaLiang)
-- [XiaomingX](https://github.com/XiaomingX)
+- [cangshan-cloud](https://github.com/cangshan-cloud)
 
 #### 🔨 Check out my recent pull requests
 
