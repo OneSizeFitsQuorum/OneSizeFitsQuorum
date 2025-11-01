@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [xsy745](https://github.com/xsy745)
 - [24stefan](https://github.com/24stefan)
 - [fearlesslyh](https://github.com/fearlesslyh)
 - [Anekoique](https://github.com/Anekoique)
 - [Tan-JiaLiang](https://github.com/Tan-JiaLiang)
-- [cangshan-cloud](https://github.com/cangshan-cloud)
 
 #### 🔨 Check out my recent pull requests
 
