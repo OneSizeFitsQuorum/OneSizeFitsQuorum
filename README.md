@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI (today)
 - [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (1 week ago)
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes (1 week ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (2 weeks ago)
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (2 weeks ago)
-- [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
