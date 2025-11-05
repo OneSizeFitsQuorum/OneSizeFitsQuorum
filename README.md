@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI (today)
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI (1 day ago)
 - [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (1 week ago)
-- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes (1 week ago)
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes (2 weeks ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (2 weeks ago)
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (2 weeks ago)
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[Utils] Make worker connection timeout parameters configurable ](https://github.com/ray-project/ray/pull/58372) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
+- [[Utils] Make worker connection timeout parameters configurable ](https://github.com/ray-project/ray/pull/58372) on [ray-project/ray](https://github.com/ray-project/ray) (2 days ago)
 - [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [RATIS-2328. Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 month ago)
