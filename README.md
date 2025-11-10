@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 days ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (4 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 month ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 months ago)
@@ -28,24 +28,24 @@
 
 #### ⭐ Check out my recent stars
 
-- [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects (2 days ago)
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI (5 days ago)
+- [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects (3 days ago)
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI (6 days ago)
 - [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (1 week ago)
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes (2 weeks ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [hiyasame](https://github.com/hiyasame)
 - [XiaomingX](https://github.com/XiaomingX)
 - [xsy745](https://github.com/xsy745)
 - [24stefan](https://github.com/24stefan)
 - [fearlesslyh](https://github.com/fearlesslyh)
-- [Anekoique](https://github.com/Anekoique)
 
 #### 🔨 Check out my recent pull requests
 
-- [Update size parameter to accept callable for callback.set_size()](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (4 days ago)
-- [[Utils] Make worker connection timeout parameters configurable ](https://github.com/ray-project/ray/pull/58372) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
+- [Update size parameter to accept callable for callback.set_size()](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (5 days ago)
+- [[Utils] Make worker connection timeout parameters configurable ](https://github.com/ray-project/ray/pull/58372) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [RATIS-2328. Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [RATIS-2327. Bump version to 1.0.11-SNAPSHOT after 1.0.10 release](https://github.com/apache/ratis-thirdparty/pull/71) on [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) (1 month ago)
@@ -53,7 +53,7 @@
 #### 📜 Check out my recent blog posts
 
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (2 months ago)
-- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (5 months ago)
+- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (6 months ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (9 months ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (2 years ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (2 years ago)
