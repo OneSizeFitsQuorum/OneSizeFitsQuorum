@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (today)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (1 month ago)
-- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Allow user override of seekable parameter in ArrowFSWrapper methods](https://github.com/fsspec/filesystem_spec/pull/1950) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (today)
 - [RATIS-2357. Update website with Ratis 3.2.1 release](https://github.com/apache/ratis/pull/1313) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
 - [Update size parameter to accept callable for callback.set_size()](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (1 week ago)
 - [[Utils] Make worker connection timeout parameters configurable ](https://github.com/ray-project/ray/pull/58372) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
-- [RATIS-2328. Bump ratis-thirdparty from 1.0.9 to 1.0.10](https://github.com/apache/ratis/pull/1284) on [apache/ratis](https://github.com/apache/ratis) (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
