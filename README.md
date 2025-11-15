@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [henryqingmo](https://github.com/henryqingmo)
 - [zerolbsony](https://github.com/zerolbsony)
 - [hiyasame](https://github.com/hiyasame)
 - [XiaomingX](https://github.com/XiaomingX)
 - [xsy745](https://github.com/xsy745)
-- [24stefan](https://github.com/24stefan)
 
 #### 🔨 Check out my recent pull requests
 
