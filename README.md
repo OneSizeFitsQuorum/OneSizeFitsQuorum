@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [MegaByte875](https://github.com/MegaByte875)
+- [EDWARDOPHER](https://github.com/EDWARDOPHER)
 - [henryqingmo](https://github.com/henryqingmo)
 - [zerolbsony](https://github.com/zerolbsony)
 - [hiyasame](https://github.com/hiyasame)
-- [XiaomingX](https://github.com/XiaomingX)
-- [xsy745](https://github.com/xsy745)
 
 #### 🔨 Check out my recent pull requests
 
