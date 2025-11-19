@@ -28,25 +28,25 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes (today)
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information (2 days ago)
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (1 week ago)
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects (1 week ago)
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI (2 weeks ago)
-- [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [huicod](https://github.com/huicod)
 - [MegaByte875](https://github.com/MegaByte875)
 - [EDWARDOPHER](https://github.com/EDWARDOPHER)
 - [henryqingmo](https://github.com/henryqingmo)
 - [zerolbsony](https://github.com/zerolbsony)
-- [hiyasame](https://github.com/hiyasame)
 
 #### 🔨 Check out my recent pull requests
 
 - [Allow user override of seekable parameter in ArrowFSWrapper methods](https://github.com/fsspec/filesystem_spec/pull/1950) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (5 days ago)
 - [RATIS-2357. Update website with Ratis 3.2.1 release](https://github.com/apache/ratis/pull/1313) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
-- [Update size parameter to accept callable for callback.set_size()](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (2 weeks ago)
+- [Fix get_file failed when enabling child callback to regard size as a attribute](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (2 weeks ago)
 - [[Utils] Make worker connection timeout parameters configurable ](https://github.com/ray-project/ray/pull/58372) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
