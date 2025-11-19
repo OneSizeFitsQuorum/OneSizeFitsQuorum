@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (4 days ago)
+- [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (5 days ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information (1 day ago)
-- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (6 days ago)
+- [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information (2 days ago)
+- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (1 week ago)
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects (1 week ago)
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI (2 weeks ago)
 - [ghilesmeddour/gorilla-time-series-compression](https://github.com/ghilesmeddour/gorilla-time-series-compression) - Python implementation of Gorilla time series compression (3 weeks ago)
@@ -44,9 +44,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Allow user override of seekable parameter in ArrowFSWrapper methods](https://github.com/fsspec/filesystem_spec/pull/1950) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (4 days ago)
-- [RATIS-2357. Update website with Ratis 3.2.1 release](https://github.com/apache/ratis/pull/1313) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
-- [Update size parameter to accept callable for callback.set_size()](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (1 week ago)
+- [Allow user override of seekable parameter in ArrowFSWrapper methods](https://github.com/fsspec/filesystem_spec/pull/1950) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (5 days ago)
+- [RATIS-2357. Update website with Ratis 3.2.1 release](https://github.com/apache/ratis/pull/1313) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
+- [Update size parameter to accept callable for callback.set_size()](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (2 weeks ago)
 - [[Utils] Make worker connection timeout parameters configurable ](https://github.com/ray-project/ray/pull/58372) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
@@ -54,6 +54,6 @@
 
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (3 months ago)
 - [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (6 months ago)
-- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (9 months ago)
+- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (10 months ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (2 years ago)
 - [2023 IoTDB 用户大会分享：如何用 IoTDB 监控工具进行深度系统调优](https://tanxinyu.work/2023-iotdb-submit/) (2 years ago)
