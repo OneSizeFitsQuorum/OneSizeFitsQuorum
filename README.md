@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&amp;Data, part of the Linux Foundation. (today)
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes (1 day ago)
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information (3 days ago)
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (1 week ago)
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects (1 week ago)
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
