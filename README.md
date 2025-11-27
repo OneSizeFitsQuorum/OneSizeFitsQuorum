@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (5 days ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 weeks ago)
+- [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (6 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&amp;Data, part of the Linux Foundation. (6 days ago)
+- [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&amp;Data, part of the Linux Foundation. (1 week ago)
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes (1 week ago)
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information (1 week ago)
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (2 weeks ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [youmikuang](https://github.com/youmikuang)
 - [denis2436](https://github.com/denis2436)
 - [XiaomingX](https://github.com/XiaomingX)
 - [huicod](https://github.com/huicod)
 - [MegaByte875](https://github.com/MegaByte875)
-- [EDWARDOPHER](https://github.com/EDWARDOPHER)
 
 #### 🔨 Check out my recent pull requests
 
@@ -48,7 +48,7 @@
 - [RATIS-2357. Update website with Ratis 3.2.1 release](https://github.com/apache/ratis/pull/1313) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [add .size() to ArrowFile](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (3 weeks ago)
 - [[Utils] Make worker connection timeout parameters configurable ](https://github.com/ray-project/ray/pull/58372) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
-- [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
+- [RATIS-2339. Avoid &#34;commit does not belong to any branch&#34; during release](https://github.com/apache/ratis/pull/1293) on [apache/ratis](https://github.com/apache/ratis) (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
