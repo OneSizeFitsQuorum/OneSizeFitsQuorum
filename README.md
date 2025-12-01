@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (today)
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework (today)
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&amp;Data, part of the Linux Foundation. (1 week ago)
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes (1 week ago)
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information (2 weeks ago)
-- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs&#39; successor. A tool for static analysis to look for bugs in Java code. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
