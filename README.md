@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (today)
-- [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework (today)
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (1 day ago)
+- [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework (1 day ago)
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&amp;Data, part of the Linux Foundation. (1 week ago)
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes (1 week ago)
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information (2 weeks ago)
