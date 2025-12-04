@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (today)
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (3 days ago)
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework (3 days ago)
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&amp;Data, part of the Linux Foundation. (2 weeks ago)
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes (2 weeks ago)
-- [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
