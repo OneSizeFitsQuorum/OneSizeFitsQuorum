@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system (today)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (2 days ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (3 days ago)
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (6 days ago)
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework (6 days ago)
-- [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&amp;Data, part of the Linux Foundation. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
