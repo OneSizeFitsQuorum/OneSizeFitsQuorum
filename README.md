@@ -28,23 +28,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system (today)
-- [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (2 days ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (3 days ago)
-- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (6 days ago)
-- [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework (6 days ago)
+- [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system (1 day ago)
+- [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (3 days ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (4 days ago)
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (1 week ago)
+- [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [kevinhongzl](https://github.com/kevinhongzl)
 - [XiaomingX](https://github.com/XiaomingX)
 - [youmikuang](https://github.com/youmikuang)
 - [denis2436](https://github.com/denis2436)
 - [huicod](https://github.com/huicod)
-- [MegaByte875](https://github.com/MegaByte875)
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (3 days ago)
+- [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
 - [Allow user override of seekable parameter in ArrowFSWrapper methods](https://github.com/fsspec/filesystem_spec/pull/1950) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (3 weeks ago)
 - [RATIS-2357. Update website with Ratis 3.2.1 release](https://github.com/apache/ratis/pull/1313) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [add .size() to ArrowFile](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (1 month ago)
