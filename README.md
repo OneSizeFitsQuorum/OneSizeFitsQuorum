@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (today)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (4 days ago)
 - [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system (5 days ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 week ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 week ago)
-- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (1 week ago)
 
 #### 👯 Check out my recent followers
 
 - [zent1n0](https://github.com/zent1n0)
 - [wuyijin666](https://github.com/wuyijin666)
 - [kevinhongzl](https://github.com/kevinhongzl)
-- [XiaomingX](https://github.com/XiaomingX)
 - [youmikuang](https://github.com/youmikuang)
+- [denis2436](https://github.com/denis2436)
 
 #### 🔨 Check out my recent pull requests
 
