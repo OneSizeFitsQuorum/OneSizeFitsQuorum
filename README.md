@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (today)
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (2 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (6 days ago)
 - [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system (1 week ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 week ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2372. Add weekly CVE vulnerability check workflow for Apache Ratis](https://github.com/apache/ratis/pull/1328) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-2371. Fix LeaderElection/SegmentedRaftLogReader/FileChunkReader CT_CONSTRUCTOR_THROW spotbugs](https://github.com/apache/ratis/pull/1327) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [Allow user override of seekable parameter in ArrowFSWrapper methods](https://github.com/fsspec/filesystem_spec/pull/1950) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (1 month ago)
 - [RATIS-2357. Update website with Ratis 3.2.1 release](https://github.com/apache/ratis/pull/1313) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
-- [add .size() to ArrowFile](https://github.com/fsspec/filesystem_spec/pull/1944) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
