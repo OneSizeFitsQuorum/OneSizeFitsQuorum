@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Lanrenw](https://github.com/Lanrenw)
 - [zent1n0](https://github.com/zent1n0)
 - [wuyijin666](https://github.com/wuyijin666)
 - [kevinhongzl](https://github.com/kevinhongzl)
 - [youmikuang](https://github.com/youmikuang)
-- [denis2436](https://github.com/denis2436)
 
 #### 🔨 Check out my recent pull requests
 
