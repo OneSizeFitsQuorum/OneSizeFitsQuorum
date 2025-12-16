@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (3 weeks ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
-- [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) - Third-party dependencies for Apache Ratis (2 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [emilycodestar](https://github.com/emilycodestar)
 - [Lanrenw](https://github.com/Lanrenw)
 - [zent1n0](https://github.com/zent1n0)
 - [wuyijin666](https://github.com/wuyijin666)
 - [kevinhongzl](https://github.com/kevinhongzl)
-- [youmikuang](https://github.com/youmikuang)
 
 #### 🔨 Check out my recent pull requests
 
