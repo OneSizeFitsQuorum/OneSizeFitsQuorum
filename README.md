@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 day ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 month ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup (today)
-- [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation. (1 week ago)
+- [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup (1 day ago)
+- [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation. (2 weeks ago)
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (2 weeks ago)
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (2 weeks ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (3 weeks ago)
