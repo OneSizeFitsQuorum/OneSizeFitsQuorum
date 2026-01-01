@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 month ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints (today)
-- [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup (2 days ago)
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints (1 day ago)
+- [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup (3 days ago)
 - [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation. (2 weeks ago)
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (2 weeks ago)
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (2 weeks ago)
@@ -46,7 +46,7 @@
 
 - [RATIS-2372. Add weekly CVE vulnerability check workflow for Apache Ratis](https://github.com/apache/ratis/pull/1328) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [RATIS-2371. Fix LeaderElection/SegmentedRaftLogReader/FileChunkReader CT_CONSTRUCTOR_THROW spotbugs](https://github.com/apache/ratis/pull/1327) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
-- [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (3 weeks ago)
+- [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (4 weeks ago)
 - [Allow user override of seekable parameter in ArrowFSWrapper methods](https://github.com/fsspec/filesystem_spec/pull/1950) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (1 month ago)
 - [RATIS-2357. Update website with Ratis 3.2.1 release](https://github.com/apache/ratis/pull/1313) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
