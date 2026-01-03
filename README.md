@@ -38,9 +38,9 @@
 
 - [XiaomingX](https://github.com/XiaomingX)
 - [YPFsam](https://github.com/YPFsam)
-- [frieren-mage](https://github.com/frieren-mage)
 - [buraksocial](https://github.com/buraksocial)
 - [filedonkey](https://github.com/filedonkey)
+- [emilycodestar](https://github.com/emilycodestar)
 
 #### 🔨 Check out my recent pull requests
 
