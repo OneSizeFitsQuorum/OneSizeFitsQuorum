@@ -36,19 +36,19 @@
 
 #### 👯 Check out my recent followers
 
+- [NHLZX](https://github.com/NHLZX)
 - [Amyzhang1206](https://github.com/Amyzhang1206)
 - [YPFsam](https://github.com/YPFsam)
 - [buraksocial](https://github.com/buraksocial)
 - [emilycodestar](https://github.com/emilycodestar)
-- [Lanrenw](https://github.com/Lanrenw)
 
 #### 🔨 Check out my recent pull requests
 
+- [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (2 days ago)
 - [RATIS-2372. Add weekly CVE vulnerability check workflow for Apache Ratis](https://github.com/apache/ratis/pull/1328) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [RATIS-2371. Fix LeaderElection/SegmentedRaftLogReader/FileChunkReader CT_CONSTRUCTOR_THROW spotbugs](https://github.com/apache/ratis/pull/1327) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [Allow user override of seekable parameter in ArrowFSWrapper methods](https://github.com/fsspec/filesystem_spec/pull/1950) on [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
