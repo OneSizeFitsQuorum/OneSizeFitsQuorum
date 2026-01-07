@@ -37,10 +37,10 @@
 #### 👯 Check out my recent followers
 
 - [Amyzhang1206](https://github.com/Amyzhang1206)
-- [XiaomingX](https://github.com/XiaomingX)
 - [YPFsam](https://github.com/YPFsam)
 - [buraksocial](https://github.com/buraksocial)
 - [emilycodestar](https://github.com/emilycodestar)
+- [Lanrenw](https://github.com/Lanrenw)
 
 #### 🔨 Check out my recent pull requests
 
