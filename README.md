@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Tencent/WeDLM](https://github.com/Tencent/WeDLM) - WeDLM: The fastest diffusion language model with standard causal attention and native KV cache compatibility, delivering real speedups over vLLM-optimized baselines. (today)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (5 days ago)
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints (1 week ago)
 - [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup (1 week ago)
 - [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation. (3 weeks ago)
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [exlaw](https://github.com/exlaw)
 - [NHLZX](https://github.com/NHLZX)
 - [Amyzhang1206](https://github.com/Amyzhang1206)
 - [YPFsam](https://github.com/YPFsam)
 - [buraksocial](https://github.com/buraksocial)
-- [emilycodestar](https://github.com/emilycodestar)
 
 #### 🔨 Check out my recent pull requests
 
