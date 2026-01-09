@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 days ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 days ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 month ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (4 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (5 days ago)
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints (1 week ago)
 - [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup (1 week ago)
 - [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation. (3 weeks ago)
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
+- [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
 - [RATIS-2372. Add weekly CVE vulnerability check workflow for Apache Ratis](https://github.com/apache/ratis/pull/1328) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [RATIS-2371. Fix LeaderElection/SegmentedRaftLogReader/FileChunkReader CT_CONSTRUCTOR_THROW spotbugs](https://github.com/apache/ratis/pull/1327) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
@@ -54,6 +54,6 @@
 
 - [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (1 month ago)
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (4 months ago)
-- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (7 months ago)
+- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (8 months ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (11 months ago)
 - [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (2 years ago)
