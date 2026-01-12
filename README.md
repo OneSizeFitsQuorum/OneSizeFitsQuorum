@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 days ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (5 days ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (6 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 month ago)
 
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [Tencent/WeDLM](https://github.com/Tencent/WeDLM) - WeDLM: The fastest diffusion language model with standard causal attention and native KV cache compatibility, delivering real speedups over vLLM-optimized baselines. (2 days ago)
+- [Tencent/WeDLM](https://github.com/Tencent/WeDLM) - WeDLM: The fastest diffusion language model with standard causal attention and native KV cache compatibility, delivering real speedups over vLLM-optimized baselines. (3 days ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints (1 week ago)
-- [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup (1 week ago)
+- [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup (2 weeks ago)
 - [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation. (3 weeks ago)
 
 #### 👯 Check out my recent followers
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (4 days ago)
-- [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
+- [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (5 days ago)
+- [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [RATIS-2372. Add weekly CVE vulnerability check workflow for Apache Ratis](https://github.com/apache/ratis/pull/1328) on [apache/ratis](https://github.com/apache/ratis) (4 weeks ago)
-- [RATIS-2371. Fix LeaderElection/SegmentedRaftLogReader/FileChunkReader CT_CONSTRUCTOR_THROW spotbugs](https://github.com/apache/ratis/pull/1327) on [apache/ratis](https://github.com/apache/ratis) (4 weeks ago)
+- [RATIS-2371. Fix LeaderElection/SegmentedRaftLogReader/FileChunkReader CT_CONSTRUCTOR_THROW spotbugs](https://github.com/apache/ratis/pull/1327) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
 
 #### 📜 Check out my recent blog posts
