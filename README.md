@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/incubator-ponymail-foal](https://github.com/apache/incubator-ponymail-foal) - Apache Pony Mail Foal (Next Generation Suite) (today)
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (today)
 - [Tencent/WeDLM](https://github.com/Tencent/WeDLM) - WeDLM: The fastest diffusion language model with standard causal attention and native KV cache compatibility, delivering real speedups over vLLM-optimized baselines. (4 days ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints (1 week ago)
-- [ray-project/Ray-Forward](https://github.com/ray-project/Ray-Forward) - Some resources about Ray Forward Meetup (2 weeks ago)
-- [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation. (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
