@@ -14,7 +14,7 @@
 
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 week ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 month ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow (2 days ago)
-- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes (2 days ago)
-- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration (2 days ago)
-- [apache/incubator-ponymail-foal](https://github.com/apache/incubator-ponymail-foal) - Apache Pony Mail Foal (Next Generation Suite) (5 days ago)
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (5 days ago)
+- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow (3 days ago)
+- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes (3 days ago)
+- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration (3 days ago)
+- [apache/incubator-ponymail-foal](https://github.com/apache/incubator-ponymail-foal) - Apache Pony Mail Foal (Next Generation Suite) (6 days ago)
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent. (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -45,7 +45,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
-- [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
+- [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [RATIS-2372. Add weekly CVE vulnerability check workflow for Apache Ratis](https://github.com/apache/ratis/pull/1328) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [RATIS-2371. Fix LeaderElection/SegmentedRaftLogReader/FileChunkReader CT_CONSTRUCTOR_THROW spotbugs](https://github.com/apache/ratis/pull/1327) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 - [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
