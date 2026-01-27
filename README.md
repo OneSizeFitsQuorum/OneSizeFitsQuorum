@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [lukasmiller1](https://github.com/lukasmiller1)
 - [exlaw](https://github.com/exlaw)
 - [NHLZX](https://github.com/NHLZX)
 - [Amyzhang1206](https://github.com/Amyzhang1206)
-- [YPFsam](https://github.com/YPFsam)
 
 #### 🔨 Check out my recent pull requests
 
