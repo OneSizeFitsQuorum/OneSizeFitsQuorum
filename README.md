@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [danieljofficial](https://github.com/danieljofficial)
 - [hulaoan](https://github.com/hulaoan)
 - [JdaDong](https://github.com/JdaDong)
 - [XiaomingX](https://github.com/XiaomingX)
 - [lukasmiller1](https://github.com/lukasmiller1)
-- [exlaw](https://github.com/exlaw)
 
 #### 🔨 Check out my recent pull requests
 
