@@ -12,10 +12,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 months ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (2 months ago)
 
 #### 🌱 Check out my recent projects
@@ -52,8 +52,8 @@
 
 #### 📜 Check out my recent blog posts
 
+- [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (2 days ago)
 - [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (2 months ago)
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (6 months ago)
 - [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (9 months ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (1 year ago)
-- [2023 年终总结：从清华 Apache IoTDB 组到创业公司天谋科技](https://tanxinyu.work/2023-annual-summary/) (2 years ago)
