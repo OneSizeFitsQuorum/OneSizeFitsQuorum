@@ -15,7 +15,7 @@
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (3 months ago)
 
 #### 🌱 Check out my recent projects
@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (today)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (2 days ago)
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (1 day ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (3 days ago)
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (2 weeks ago)
-- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are committed to automating these high-value generic R&amp;D processes through R&amp;D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report (2 weeks ago)
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are committed to automating these high-value generic R&amp;D processes through R&amp;D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report (3 weeks ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [zhaosina](https://github.com/zhaosina)
 - [JeromeYJ](https://github.com/JeromeYJ)
 - [yyj6666667](https://github.com/yyj6666667)
 - [danieljofficial](https://github.com/danieljofficial)
 - [hulaoan](https://github.com/hulaoan)
-- [JdaDong](https://github.com/JdaDong)
 
 #### 🔨 Check out my recent pull requests
 
