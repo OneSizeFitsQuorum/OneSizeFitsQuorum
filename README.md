@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (today)
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (today)
 - [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (2 days ago)
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (4 days ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (6 days ago)
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
