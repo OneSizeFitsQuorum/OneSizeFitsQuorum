@@ -28,16 +28,16 @@
 
 #### ⭐ Check out my recent stars
 
-- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (today)
-- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (today)
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (2 days ago)
-- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (4 days ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (6 days ago)
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (1 day ago)
+- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (1 day ago)
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (3 days ago)
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (5 days ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 
 #### 👯 Check out my recent followers
 
-- [fcm2018](https://github.com/fcm2018)
 - [zhaosina](https://github.com/zhaosina)
+- [fcm2018](https://github.com/fcm2018)
 - [JeromeYJ](https://github.com/JeromeYJ)
 - [yyj6666667](https://github.com/yyj6666667)
 - [danieljofficial](https://github.com/danieljofficial)
