@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [spigcoder](https://github.com/spigcoder)
 - [zhaosina](https://github.com/zhaosina)
 - [fcm2018](https://github.com/fcm2018)
 - [JeromeYJ](https://github.com/JeromeYJ)
 - [yyj6666667](https://github.com/yyj6666667)
-- [danieljofficial](https://github.com/danieljofficial)
 
 #### 🔨 Check out my recent pull requests
 
