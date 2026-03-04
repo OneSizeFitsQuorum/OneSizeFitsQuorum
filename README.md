@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [garyagasa/CS189_2025Fall_GA_Template](https://github.com/garyagasa/CS189_2025Fall_GA_Template) - Student Resources for CS 189 (Template) (today)
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (2 days ago)
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (2 days ago)
 - [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (4 days ago)
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (6 days ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [cxljs](https://github.com/cxljs)
 - [spigcoder](https://github.com/spigcoder)
 - [zhaosina](https://github.com/zhaosina)
 - [fcm2018](https://github.com/fcm2018)
 - [JeromeYJ](https://github.com/JeromeYJ)
-- [yyj6666667](https://github.com/yyj6666667)
 
 #### 🔨 Check out my recent pull requests
 
