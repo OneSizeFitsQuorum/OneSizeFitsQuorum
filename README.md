@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (1 day ago)
-- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (1 day ago)
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (3 days ago)
-- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (5 days ago)
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (2 days ago)
+- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (2 days ago)
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (4 days ago)
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (6 days ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -48,7 +48,7 @@
 - [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
 - [RATIS-2372. Add weekly CVE vulnerability check workflow for Apache Ratis](https://github.com/apache/ratis/pull/1328) on [apache/ratis](https://github.com/apache/ratis) (2 months ago)
 - [RATIS-2371. Fix LeaderElection/SegmentedRaftLogReader/FileChunkReader CT_CONSTRUCTOR_THROW spotbugs](https://github.com/apache/ratis/pull/1327) on [apache/ratis](https://github.com/apache/ratis) (2 months ago)
-- [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
+- [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (3 months ago)
 
 #### 📜 Check out my recent blog posts
 
