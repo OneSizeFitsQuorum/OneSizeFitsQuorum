@@ -28,24 +28,24 @@
 
 #### ⭐ Check out my recent stars
 
-- [garyagasa/CS189_2025Fall_GA_Template](https://github.com/garyagasa/CS189_2025Fall_GA_Template) - Student Resources for CS 189 (Template) (1 day ago)
-- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (3 days ago)
-- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (3 days ago)
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (5 days ago)
+- [garyagasa/CS189_2025Fall_GA_Template](https://github.com/garyagasa/CS189_2025Fall_GA_Template) - Student Resources for CS 189 (Template) (2 days ago)
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (4 days ago)
+- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (4 days ago)
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (6 days ago)
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (1 week ago)
 
 #### 👯 Check out my recent followers
 
 - [cxljs](https://github.com/cxljs)
 - [spigcoder](https://github.com/spigcoder)
-- [zhaosina](https://github.com/zhaosina)
 - [fcm2018](https://github.com/fcm2018)
 - [JeromeYJ](https://github.com/JeromeYJ)
+- [yyj6666667](https://github.com/yyj6666667)
 
 #### 🔨 Check out my recent pull requests
 
 - [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
-- [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
+- [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (2 months ago)
 - [RATIS-2372. Add weekly CVE vulnerability check workflow for Apache Ratis](https://github.com/apache/ratis/pull/1328) on [apache/ratis](https://github.com/apache/ratis) (2 months ago)
 - [RATIS-2371. Fix LeaderElection/SegmentedRaftLogReader/FileChunkReader CT_CONSTRUCTOR_THROW spotbugs](https://github.com/apache/ratis/pull/1327) on [apache/ratis](https://github.com/apache/ratis) (2 months ago)
 - [Fix folderManager NPE issue in WALNode when starting iotdb in a disk-full state](https://github.com/apache/iotdb/pull/16869) on [apache/iotdb](https://github.com/apache/iotdb) (3 months ago)
@@ -53,7 +53,7 @@
 #### 📜 Check out my recent blog posts
 
 - [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (3 weeks ago)
-- [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (2 months ago)
+- [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (3 months ago)
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (6 months ago)
 - [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (9 months ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (1 year ago)
