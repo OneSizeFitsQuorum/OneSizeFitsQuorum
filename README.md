@@ -32,7 +32,7 @@
 - [garyagasa/CS189_2025Fall_GA_Template](https://github.com/garyagasa/CS189_2025Fall_GA_Template) - Student Resources for CS 189 (Template) (3 days ago)
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (5 days ago)
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (5 days ago)
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (1 week ago)
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Machine Learning Systems (1 week ago)
 
 #### 👯 Check out my recent followers
 
