@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 month ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (3 months ago)
 
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [garyagasa/CS189_2025Fall_GA_Template](https://github.com/garyagasa/CS189_2025Fall_GA_Template) - Student Resources for CS 189 (Template) (2 days ago)
-- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (4 days ago)
-- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (4 days ago)
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (6 days ago)
+- [garyagasa/CS189_2025Fall_GA_Template](https://github.com/garyagasa/CS189_2025Fall_GA_Template) - Student Resources for CS 189 (Template) (3 days ago)
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (5 days ago)
+- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure (5 days ago)
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems (1 week ago)
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python. (1 week ago)
 
 #### 👯 Check out my recent followers
