@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2429. ratis-bom module fails to deploy due to missing distributionManagement configuration](https://github.com/apache/ratis/pull/1371) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-2424. Fix javadoc locale configuration for JDK 8 compatibility](https://github.com/apache/ratis/pull/1366) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [RATIS-2423. Javadoc should be generated in English regardless of build locale](https://github.com/apache/ratis/pull/1365) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
 - [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 - [[Doc]Clarify ray.shutdown() behavior for local vs remote clusters](https://github.com/ray-project/ray/pull/59845) on [ray-project/ray](https://github.com/ray-project/ray) (2 months ago)
-- [RATIS-2372. Add weekly CVE vulnerability check workflow for Apache Ratis](https://github.com/apache/ratis/pull/1328) on [apache/ratis](https://github.com/apache/ratis) (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
