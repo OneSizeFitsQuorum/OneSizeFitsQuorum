@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [RATIS-2437. make_rc.sh version check prevents releasing subsequent RCs](https://github.com/apache/ratis/pull/1376) on [apache/ratis](https://github.com/apache/ratis) (today)
 - [RATIS-2435. ratis-bom POM is not signed during release staging](https://github.com/apache/ratis/pull/1374) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [RATIS-2429. ratis-bom module fails to deploy due to missing distributionManagement configuration](https://github.com/apache/ratis/pull/1371) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
 - [RATIS-2424. Fix javadoc locale configuration for JDK 8 compatibility](https://github.com/apache/ratis/pull/1366) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
 - [RATIS-2423. Javadoc should be generated in English regardless of build locale](https://github.com/apache/ratis/pull/1365) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
-- [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
