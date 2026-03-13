@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 months ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 months ago)
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (today)
-- [aliyun/alibabacloud-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud-jindodata (3 days ago)
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器，多数据源行情 &#43; 实时新闻 &#43; Gemini 决策仪表盘 &#43; 多渠道推送，零成本，纯白嫖，定时运行 (3 days ago)
-- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector (5 days ago)
+- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (1 day ago)
+- [aliyun/alibabacloud-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud-jindodata (4 days ago)
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器，多数据源行情 &#43; 实时新闻 &#43; Gemini 决策仪表盘 &#43; 多渠道推送，零成本，纯白嫖，定时运行 (4 days ago)
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector (6 days ago)
 - [garyagasa/CS189_2025Fall_GA_Template](https://github.com/garyagasa/CS189_2025Fall_GA_Template) - Student Resources for CS 189 (Template) (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2435. ratis-bom POM is not signed during release staging](https://github.com/apache/ratis/pull/1374) on [apache/ratis](https://github.com/apache/ratis) (today)
-- [RATIS-2429. ratis-bom module fails to deploy due to missing distributionManagement configuration](https://github.com/apache/ratis/pull/1371) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
-- [RATIS-2424. Fix javadoc locale configuration for JDK 8 compatibility](https://github.com/apache/ratis/pull/1366) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
-- [RATIS-2423. Javadoc should be generated in English regardless of build locale](https://github.com/apache/ratis/pull/1365) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [RATIS-2435. ratis-bom POM is not signed during release staging](https://github.com/apache/ratis/pull/1374) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
+- [RATIS-2429. ratis-bom module fails to deploy due to missing distributionManagement configuration](https://github.com/apache/ratis/pull/1371) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
+- [RATIS-2424. Fix javadoc locale configuration for JDK 8 compatibility](https://github.com/apache/ratis/pull/1366) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [RATIS-2423. Javadoc should be generated in English regardless of build locale](https://github.com/apache/ratis/pull/1365) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [Apply community-reviewed improvements from Ratis PR #1328 to vulnerability-check workflow](https://github.com/apache/iotdb/pull/16995) on [apache/iotdb](https://github.com/apache/iotdb) (2 months ago)
 
 #### 📜 Check out my recent blog posts
