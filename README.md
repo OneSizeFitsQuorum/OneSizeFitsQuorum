@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (today)
 - [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (2 days ago)
 - [aliyun/alibabacloud-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud-jindodata (5 days ago)
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器，多数据源行情 &#43; 实时新闻 &#43; Gemini 决策仪表盘 &#43; 多渠道推送，零成本，纯白嫖，定时运行 (5 days ago)
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector (1 week ago)
-- [garyagasa/CS189_2025Fall_GA_Template](https://github.com/garyagasa/CS189_2025Fall_GA_Template) - Student Resources for CS 189 (Template) (1 week ago)
 
 #### 👯 Check out my recent followers
 
