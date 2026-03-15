@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [diveback-squirrel](https://github.com/diveback-squirrel)
 - [JeromeYJ](https://github.com/JeromeYJ)
 - [cxljs](https://github.com/cxljs)
 - [spigcoder](https://github.com/spigcoder)
 - [fcm2018](https://github.com/fcm2018)
-- [yyj6666667](https://github.com/yyj6666667)
 
 #### 🔨 Check out my recent pull requests
 
