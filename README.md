@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (today)
 - [langpingxue/atlassian-skills](https://github.com/langpingxue/atlassian-skills) - A Claude Code skill for integrating AI with Jira, Confluence, and Bitbucket. Automate Atlassian workflows using Jira Skills, Confluence Skills and Bitbucket Skills. Supports Cloud &amp; Data Center. (today)
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira) (today)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (2 days ago)
 - [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (4 days ago)
-- [aliyun/alibabacloud-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud-jindodata (1 week ago)
 
 #### 👯 Check out my recent followers
 
