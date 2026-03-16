@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [langpingxue/atlassian-skills](https://github.com/langpingxue/atlassian-skills) - A Claude Code skill for integrating AI with Jira, Confluence, and Bitbucket. Automate Atlassian workflows using Jira Skills, Confluence Skills and Bitbucket Skills. Supports Cloud &amp; Data Center. (today)
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira) (today)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (2 days ago)
 - [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (4 days ago)
 - [aliyun/alibabacloud-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud-jindodata (1 week ago)
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器，多数据源行情 &#43; 实时新闻 &#43; LLM决策仪表盘 &#43; 多渠道推送，零成本，纯白嫖，定时运行 (1 week ago)
-- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [diveback-squirrel](https://github.com/diveback-squirrel)
 - [JeromeYJ](https://github.com/JeromeYJ)
 - [cxljs](https://github.com/cxljs)
 - [spigcoder](https://github.com/spigcoder)
-- [fcm2018](https://github.com/fcm2018)
 
 #### 🔨 Check out my recent pull requests
 
