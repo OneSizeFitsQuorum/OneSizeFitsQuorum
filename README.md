@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [leah1966](https://github.com/leah1966)
 - [XiaomingX](https://github.com/XiaomingX)
 - [diveback-squirrel](https://github.com/diveback-squirrel)
 - [JeromeYJ](https://github.com/JeromeYJ)
 - [cxljs](https://github.com/cxljs)
-- [spigcoder](https://github.com/spigcoder)
 
 #### 🔨 Check out my recent pull requests
 
