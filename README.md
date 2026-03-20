@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code (today)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (4 days ago)
 - [langpingxue/atlassian-skills](https://github.com/langpingxue/atlassian-skills) - A Claude Code skill for integrating AI with Jira, Confluence, and Bitbucket. Automate Atlassian workflows using Jira Skills, Confluence Skills and Bitbucket Skills. Supports Cloud &amp; Data Center. (4 days ago)
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira) (4 days ago)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (6 days ago)
-- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (1 week ago)
 
 #### 👯 Check out my recent followers
 
