@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [Mellanox/k8s-rdma-shared-dev-plugin](https://github.com/Mellanox/k8s-rdma-shared-dev-plugin) -  (4 days ago)
+- [Mellanox/k8s-rdma-shared-dev-plugin](https://github.com/Mellanox/k8s-rdma-shared-dev-plugin) -  (5 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool (1 week ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (1 week ago)
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (today)
+- [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [fix: Use chunked I/O in HdfsArtifactRepository to prevent OOM on large files](https://github.com/mlflow/mlflow/pull/21941) on [mlflow/mlflow](https://github.com/mlflow/mlflow) (1 week ago)
 - [RATIS-2437. make_rc.sh version check prevents releasing subsequent RCs](https://github.com/apache/ratis/pull/1376) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [RATIS-2435. ratis-bom POM is not signed during release staging](https://github.com/apache/ratis/pull/1374) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
@@ -53,7 +53,7 @@
 #### 📜 Check out my recent blog posts
 
 - [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (1 month ago)
-- [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (3 months ago)
+- [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (4 months ago)
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (7 months ago)
 - [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (10 months ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (1 year ago)
