@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Bump ratis-thirdparty-misc to 1.0.11 and ratis to 3.2.2](https://github.com/apache/iotdb/pull/17432) on [apache/iotdb](https://github.com/apache/iotdb) (today)
 - [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (2 days ago)
 - [fix: Use chunked I/O in HdfsArtifactRepository to prevent OOM on large files](https://github.com/mlflow/mlflow/pull/21941) on [mlflow/mlflow](https://github.com/mlflow/mlflow) (2 weeks ago)
 - [RATIS-2437. make_rc.sh version check prevents releasing subsequent RCs](https://github.com/apache/ratis/pull/1376) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [RATIS-2435. ratis-bom POM is not signed during release staging](https://github.com/apache/ratis/pull/1374) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
-- [RATIS-2429. ratis-bom module fails to deploy due to missing distributionManagement configuration](https://github.com/apache/ratis/pull/1371) on [apache/ratis](https://github.com/apache/ratis) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
