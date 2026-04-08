@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (today)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
+- [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (1 day ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 months ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (4 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; Gemini CLI. (today)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (1 day ago)
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. (2 days ago)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; Gemini CLI. (1 day ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (2 days ago)
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. (3 days ago)
 - [Mellanox/k8s-rdma-shared-dev-plugin](https://github.com/Mellanox/k8s-rdma-shared-dev-plugin) -  (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 
@@ -44,8 +44,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Bump ratis-thirdparty-misc to 1.0.11 and ratis to 3.2.2](https://github.com/apache/iotdb/pull/17432) on [apache/iotdb](https://github.com/apache/iotdb) (1 day ago)
-- [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (3 days ago)
+- [Bump ratis-thirdparty-misc to 1.0.11 and ratis to 3.2.2](https://github.com/apache/iotdb/pull/17432) on [apache/iotdb](https://github.com/apache/iotdb) (2 days ago)
+- [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
 - [fix: Use chunked I/O in HdfsArtifactRepository to prevent OOM on large files](https://github.com/mlflow/mlflow/pull/21941) on [mlflow/mlflow](https://github.com/mlflow/mlflow) (2 weeks ago)
 - [RATIS-2437. make_rc.sh version check prevents releasing subsequent RCs](https://github.com/apache/ratis/pull/1376) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [RATIS-2435. ratis-bom POM is not signed during release staging](https://github.com/apache/ratis/pull/1374) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
