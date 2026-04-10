@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/ambari](https://github.com/apache/ambari) - Apache Ambari simplifies provisioning, managing, and monitoring of Apache Hadoop clusters. (today)
 - [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web) - ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI, based on CC Switch. (1 day ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 days ago)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; Gemini CLI. (3 days ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (4 days ago)
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [HEHE-77](https://github.com/HEHE-77)
 - [leah1966](https://github.com/leah1966)
 - [diveback-squirrel](https://github.com/diveback-squirrel)
 - [JeromeYJ](https://github.com/JeromeYJ)
 - [cxljs](https://github.com/cxljs)
-- [spigcoder](https://github.com/spigcoder)
 
 #### 🔨 Check out my recent pull requests
 
