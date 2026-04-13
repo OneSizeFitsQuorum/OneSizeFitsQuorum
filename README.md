@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [rook/kubectl-rook-ceph](https://github.com/rook/kubectl-rook-ceph) - Krew plugin to run kubectl commands with rook-ceph (today)
 - [apache/ambari](https://github.com/apache/ambari) - Apache Ambari simplifies provisioning, managing, and monitoring of Apache Hadoop clusters. (3 days ago)
 - [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web) - ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI, based on CC Switch. (4 days ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (5 days ago)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; Gemini CLI. (6 days ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [RocMarshal](https://github.com/RocMarshal)
 - [HEHE-77](https://github.com/HEHE-77)
 - [leah1966](https://github.com/leah1966)
 - [diveback-squirrel](https://github.com/diveback-squirrel)
 - [JeromeYJ](https://github.com/JeromeYJ)
-- [cxljs](https://github.com/cxljs)
 
 #### 🔨 Check out my recent pull requests
 
