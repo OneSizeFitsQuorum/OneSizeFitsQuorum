@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
-- [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (today)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 day ago)
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (2 days ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
+- [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (1 day ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 days ago)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (3 days ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add musl build and CentOS 8.5 Docker verification scripts](https://github.com/OneSizeFitsQuorum/cc-switch-web/pull/1) on [OneSizeFitsQuorum/cc-switch-web](https://github.com/OneSizeFitsQuorum/cc-switch-web) (6 days ago)
+- [feat: add musl build and CentOS 8.5 Docker verification scripts](https://github.com/OneSizeFitsQuorum/cc-switch-web/pull/1) on [OneSizeFitsQuorum/cc-switch-web](https://github.com/OneSizeFitsQuorum/cc-switch-web) (1 week ago)
 - [Bump ratis-thirdparty-misc to 1.0.11 and ratis to 3.2.2](https://github.com/apache/iotdb/pull/17432) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [fix: Use chunked I/O in HdfsArtifactRepository to prevent OOM on large files](https://github.com/mlflow/mlflow/pull/21941) on [mlflow/mlflow](https://github.com/mlflow/mlflow) (3 weeks ago)
