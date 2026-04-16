@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (today)
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (today)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (1 day ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 days ago)
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (3 days ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,11 +44,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add musl build and CentOS 8.5 Docker verification scripts](https://github.com/OneSizeFitsQuorum/cc-switch-web/pull/1) on [OneSizeFitsQuorum/cc-switch-web](https://github.com/OneSizeFitsQuorum/cc-switch-web) (1 week ago)
 - [Bump ratis-thirdparty-misc to 1.0.11 and ratis to 3.2.2](https://github.com/apache/iotdb/pull/17432) on [apache/iotdb](https://github.com/apache/iotdb) (1 week ago)
 - [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [fix: Use chunked I/O in HdfsArtifactRepository to prevent OOM on large files](https://github.com/mlflow/mlflow/pull/21941) on [mlflow/mlflow](https://github.com/mlflow/mlflow) (3 weeks ago)
 - [RATIS-2437. make_rc.sh version check prevents releasing subsequent RCs](https://github.com/apache/ratis/pull/1376) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
+- [RATIS-2435. ratis-bom POM is not signed during release staging](https://github.com/apache/ratis/pull/1374) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
