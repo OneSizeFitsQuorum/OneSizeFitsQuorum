@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (3 days ago)
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (3 days ago)
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (5 days ago)
-- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (5 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (4 days ago)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (4 days ago)
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 (6 days ago)
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (6 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [hybridRouting: add followup fixes for production readiness](https://github.com/cilium/cilium/pull/45519) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [hybridRouting: add followup fixes for production readiness](https://github.com/cilium/cilium/pull/45519) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
 - [Bump ratis-thirdparty-misc to 1.0.11 and ratis to 3.2.2](https://github.com/apache/iotdb/pull/17432) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
 - [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
-- [fix: Use chunked I/O in HdfsArtifactRepository to prevent OOM on large files](https://github.com/mlflow/mlflow/pull/21941) on [mlflow/mlflow](https://github.com/mlflow/mlflow) (4 weeks ago)
+- [fix: Use chunked I/O in HdfsArtifactRepository to prevent OOM on large files](https://github.com/mlflow/mlflow/pull/21941) on [mlflow/mlflow](https://github.com/mlflow/mlflow) (1 month ago)
 - [RATIS-2437. make_rc.sh version check prevents releasing subsequent RCs](https://github.com/apache/ratis/pull/1376) on [apache/ratis](https://github.com/apache/ratis) (1 month ago)
 
 #### 📜 Check out my recent blog posts
