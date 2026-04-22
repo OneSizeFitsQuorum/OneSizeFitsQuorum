@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ephmo](https://github.com/ephmo)
+- [farid220](https://github.com/farid220)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [RocMarshal](https://github.com/RocMarshal)
 - [HEHE-77](https://github.com/HEHE-77)
-- [leah1966](https://github.com/leah1966)
-- [diveback-squirrel](https://github.com/diveback-squirrel)
 
 #### 🔨 Check out my recent pull requests
 
