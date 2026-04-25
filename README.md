@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (today)
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (today)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (6 days ago)
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (6 days ago)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (1 day ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (1 day ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 days ago)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (1 week ago)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[GH-41867][Part-5][eBPF] Skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45539) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
-- [hybridRouting: add followup fixes for production readiness](https://github.com/cilium/cilium/pull/45519) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [[GH-41867][Part-5][eBPF] Skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45539) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
+- [hybridRouting: add followup fixes for production readiness](https://github.com/cilium/cilium/pull/45519) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
 - [Bump ratis-thirdparty-misc to 1.0.11 and ratis to 3.2.2](https://github.com/apache/iotdb/pull/17432) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
+- [RATIS-2496. Update website with Ratis 3.2.2 release](https://github.com/apache/ratis/pull/1424) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 - [fix: Use chunked I/O in HdfsArtifactRepository to prevent OOM on large files](https://github.com/mlflow/mlflow/pull/21941) on [mlflow/mlflow](https://github.com/mlflow/mlflow) (1 month ago)
 
 #### 📜 Check out my recent blog posts
