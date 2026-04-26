@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [datawhalechina/Path2AGI](https://github.com/datawhalechina/Path2AGI) - 从基础学科到通用人工智能 - 跨学科知识图谱 (today)
+- [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. (today)
 - [lidangzzz/goal-driven](https://github.com/lidangzzz/goal-driven) - A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified (today)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (today)
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -  (1 day ago)
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. (1 day ago)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (2 days ago)
 
 #### 👯 Check out my recent followers
 
