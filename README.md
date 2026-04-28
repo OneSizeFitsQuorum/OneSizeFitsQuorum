@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (today)
 - [blader/Claudeception](https://github.com/blader/Claudeception) - A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works. (1 day ago)
 - [datawhalechina/Path2AGI](https://github.com/datawhalechina/Path2AGI) - 从基础学科到通用人工智能 - 跨学科知识图谱 (2 days ago)
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. (2 days ago)
 - [lidangzzz/goal-driven](https://github.com/lidangzzz/goal-driven) - A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified (2 days ago)
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (2 days ago)
 
 #### 👯 Check out my recent followers
 
