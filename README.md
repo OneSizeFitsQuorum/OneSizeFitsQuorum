@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (today)
-- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. (1 day ago)
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (1 day ago)
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. (2 days ago)
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (1 week ago)
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 week ago)
 - [blader/Claudeception](https://github.com/blader/Claudeception) - A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works. (1 week ago)
@@ -55,5 +55,5 @@
 - [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (2 months ago)
 - [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (5 months ago)
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (8 months ago)
-- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (11 months ago)
+- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (1 year ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (1 year ago)
