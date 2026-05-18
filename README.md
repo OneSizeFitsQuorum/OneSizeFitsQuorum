@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (today)
 - [QuantLLM/QuantEvolver](https://github.com/QuantLLM/QuantEvolver) -  (today)
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (1 week ago)
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (1 week ago)
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. (1 week ago)
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
