@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (5 days ago)
-- [QuantLLM/QuantEvolver](https://github.com/QuantLLM/QuantEvolver) -  (5 days ago)
+- [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (6 days ago)
+- [QuantLLM/QuantEvolver](https://github.com/QuantLLM/QuantEvolver) -  (6 days ago)
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (1 week ago)
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (2 weeks ago)
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. (2 weeks ago)
