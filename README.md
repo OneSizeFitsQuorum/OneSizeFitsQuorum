@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [grafana/skills](https://github.com/grafana/skills) -  (today)
+- [grafana/skills](https://github.com/grafana/skills) -  (1 day ago)
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (1 week ago)
 - [QuantLLM/QuantEvolver](https://github.com/QuantLLM/QuantEvolver) -  (1 week ago)
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (2 weeks ago)
