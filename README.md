@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API (today)
-- [grafana/skills](https://github.com/grafana/skills) -  (2 days ago)
+- [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API (1 day ago)
+- [grafana/skills](https://github.com/grafana/skills) -  (3 days ago)
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (1 week ago)
 - [QuantLLM/QuantEvolver](https://github.com/QuantLLM/QuantEvolver) -  (1 week ago)
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [vm57pw7pwj-a11y](https://github.com/vm57pw7pwj-a11y)
 - [DARKANGEL689](https://github.com/DARKANGEL689)
 - [vanessachammas](https://github.com/vanessachammas)
 - [farid220](https://github.com/farid220)
 - [Dvurechensky](https://github.com/Dvurechensky)
-- [RocMarshal](https://github.com/RocMarshal)
 
 #### 🔨 Check out my recent pull requests
 
