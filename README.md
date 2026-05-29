@@ -28,23 +28,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API (1 day ago)
-- [grafana/skills](https://github.com/grafana/skills) -  (3 days ago)
+- [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API (2 days ago)
+- [grafana/skills](https://github.com/grafana/skills) -  (4 days ago)
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (1 week ago)
 - [QuantLLM/QuantEvolver](https://github.com/QuantLLM/QuantEvolver) -  (1 week ago)
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [theharshpat](https://github.com/theharshpat)
 - [ZebinGao](https://github.com/ZebinGao)
 - [vm57pw7pwj-a11y](https://github.com/vm57pw7pwj-a11y)
 - [DARKANGEL689](https://github.com/DARKANGEL689)
 - [vanessachammas](https://github.com/vanessachammas)
-- [farid220](https://github.com/farid220)
 
 #### 🔨 Check out my recent pull requests
 
-- [[41867] Part 5: bpf: nat: skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45670) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
+- [[41867] Part 5: bpf: nat: skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45670) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [[GH-41867][Part-5][eBPF] Skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45539) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [hybridRouting: add followup fixes for production readiness](https://github.com/cilium/cilium/pull/45519) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Bump ratis-thirdparty-misc to 1.0.11 and ratis to 3.2.2](https://github.com/apache/iotdb/pull/17432) on [apache/iotdb](https://github.com/apache/iotdb) (1 month ago)
