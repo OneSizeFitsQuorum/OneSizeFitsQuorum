@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ligen131](https://github.com/ligen131)
 - [theharshpat](https://github.com/theharshpat)
 - [ZebinGao](https://github.com/ZebinGao)
 - [vm57pw7pwj-a11y](https://github.com/vm57pw7pwj-a11y)
 - [DARKANGEL689](https://github.com/DARKANGEL689)
-- [vanessachammas](https://github.com/vanessachammas)
 
 #### 🔨 Check out my recent pull requests
 
