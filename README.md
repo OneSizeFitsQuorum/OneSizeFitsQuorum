@@ -28,23 +28,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API (4 days ago)
-- [grafana/skills](https://github.com/grafana/skills) -  (6 days ago)
-- [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (1 week ago)
-- [QuantLLM/QuantEvolver](https://github.com/QuantLLM/QuantEvolver) -  (1 week ago)
-- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (2 weeks ago)
+- [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API (5 days ago)
+- [grafana/skills](https://github.com/grafana/skills) -  (1 week ago)
+- [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (2 weeks ago)
+- [QuantLLM/QuantEvolver](https://github.com/QuantLLM/QuantEvolver) -  (2 weeks ago)
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [tracyjin321](https://github.com/tracyjin321)
 - [ligen131](https://github.com/ligen131)
 - [theharshpat](https://github.com/theharshpat)
 - [ZebinGao](https://github.com/ZebinGao)
 - [vm57pw7pwj-a11y](https://github.com/vm57pw7pwj-a11y)
-- [DARKANGEL689](https://github.com/DARKANGEL689)
 
 #### 🔨 Check out my recent pull requests
 
-- [[core][observability] Normalize OTel metric labels before Prometheus export](https://github.com/ray-project/ray/pull/63744) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[core][observability] Normalize OTel metric labels before Prometheus export](https://github.com/ray-project/ray/pull/63744) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
 - [[41867] Part 5: bpf: nat: skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45670) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [[GH-41867][Part-5][eBPF] Skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45539) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [hybridRouting: add followup fixes for production readiness](https://github.com/cilium/cilium/pull/45519) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
