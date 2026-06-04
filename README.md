@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (today)
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. (today)
 - [rapidsai/rapidsmpf](https://github.com/rapidsai/rapidsmpf) -  (1 day ago)
 - [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API (1 week ago)
 - [grafana/skills](https://github.com/grafana/skills) -  (1 week ago)
-- [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
