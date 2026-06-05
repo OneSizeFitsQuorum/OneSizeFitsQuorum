@@ -28,19 +28,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (today)
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 day ago)
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. (1 day ago)
 - [rapidsai/rapidsmpf](https://github.com/rapidsai/rapidsmpf) -  (2 days ago)
 - [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API (1 week ago)
-- [grafana/skills](https://github.com/grafana/skills) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [Sensenzhl](https://github.com/Sensenzhl)
 - [tracyjin321](https://github.com/tracyjin321)
 - [ligen131](https://github.com/ligen131)
 - [theharshpat](https://github.com/theharshpat)
 - [ZebinGao](https://github.com/ZebinGao)
-- [vm57pw7pwj-a11y](https://github.com/vm57pw7pwj-a11y)
 
 #### 🔨 Check out my recent pull requests
 
