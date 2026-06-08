@@ -29,7 +29,7 @@
 #### ⭐ Check out my recent stars
 
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (3 days ago)
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (4 days ago)
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (4 days ago)
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. (4 days ago)
 - [rapidsai/rapidsmpf](https://github.com/rapidsai/rapidsmpf) -  (5 days ago)
 - [NotGlop/docker-drag](https://github.com/NotGlop/docker-drag) - Download image from the Docker Hub HTTPS API (1 week ago)
