@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (today)
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (today)
 - [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - Find slow PyTorch training bottlenecks: DataLoader stalls, low GPU utilization, rank stragglers, memory creep, and run regressions. (2 days ago)
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (1 week ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
-- [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. (1 week ago)
-- [rapidsai/rapidsmpf](https://github.com/rapidsai/rapidsmpf) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
