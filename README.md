@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (5 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (6 days ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (today)
-- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (today)
-- [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - Find slow PyTorch training bottlenecks: DataLoader stalls, low GPU utilization, rank stragglers, memory creep, and run regressions. (2 days ago)
+- [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (1 day ago)
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (1 day ago)
+- [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - Find slow PyTorch training bottlenecks: DataLoader stalls, low GPU utilization, rank stragglers, memory creep, and run regressions. (3 days ago)
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (1 week ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
 
