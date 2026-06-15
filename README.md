@@ -31,16 +31,16 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (today)
 - [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (3 days ago)
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (3 days ago)
-- [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - Find slow PyTorch training bottlenecks: DataLoader stalls, low GPU utilization, rank stragglers, memory creep, and run regressions. (5 days ago)
+- [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - A lightweight runtime health check for PyTorch training runs. (5 days ago)
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [X-joint](https://github.com/X-joint)
 - [Sensenzhl](https://github.com/Sensenzhl)
 - [tracyjin321](https://github.com/tracyjin321)
 - [ligen131](https://github.com/ligen131)
 - [theharshpat](https://github.com/theharshpat)
-- [ZebinGao](https://github.com/ZebinGao)
 
 #### 🔨 Check out my recent pull requests
 
