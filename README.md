@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
-- [X-joint](https://github.com/X-joint)
 - [Sensenzhl](https://github.com/Sensenzhl)
 - [tracyjin321](https://github.com/tracyjin321)
 - [ligen131](https://github.com/ligen131)
 - [theharshpat](https://github.com/theharshpat)
+- [ZebinGao](https://github.com/ZebinGao)
 
 #### 🔨 Check out my recent pull requests
 
