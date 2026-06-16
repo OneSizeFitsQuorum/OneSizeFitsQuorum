@@ -14,7 +14,7 @@
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 months ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 months ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 months ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (6 months ago)
 
@@ -28,10 +28,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (today)
-- [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (3 days ago)
-- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (3 days ago)
-- [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - A lightweight runtime health check for PyTorch training runs. (5 days ago)
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (1 day ago)
+- [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (4 days ago)
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (4 days ago)
+- [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - A lightweight runtime health check for PyTorch training runs. (6 days ago)
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (1 week ago)
 
 #### 👯 Check out my recent followers
