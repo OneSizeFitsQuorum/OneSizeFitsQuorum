@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (today)
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (1 day ago)
-- [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (4 days ago)
-- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (4 days ago)
-- [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - A lightweight runtime health check for PyTorch training runs. (6 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (1 day ago)
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (2 days ago)
+- [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (5 days ago)
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (5 days ago)
+- [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - A lightweight runtime health check for PyTorch training runs. (1 week ago)
 
 #### 👯 Check out my recent followers
 
