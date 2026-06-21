@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (2 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (4 days ago)
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (5 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (5 days ago)
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (6 days ago)
 - [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (1 week ago)
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (1 week ago)
 - [traceopt-ai/traceml](https://github.com/traceopt-ai/traceml) - A lightweight runtime health check for PyTorch training runs. (1 week ago)
@@ -44,10 +44,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[Data] Add per-stage training-thread blocking attribution to iter_batches](https://github.com/ray-project/ray/pull/64183) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
-- [[core][observability] Normalize OTel metric labels before Prometheus export](https://github.com/ray-project/ray/pull/63744) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
+- [[Data] Add per-stage training-thread blocking attribution to iter_batches](https://github.com/ray-project/ray/pull/64183) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
+- [[core][observability] Normalize OTel metric labels before Prometheus export](https://github.com/ray-project/ray/pull/63744) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 - [[41867] Part 5: bpf: nat: skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45670) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
-- [[GH-41867][Part-5][eBPF] Skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45539) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
+- [[GH-41867][Part-5][eBPF] Skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45539) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 - [hybridRouting: add followup fixes for production readiness](https://github.com/cilium/cilium/pull/45519) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 
 #### 📜 Check out my recent blog posts
