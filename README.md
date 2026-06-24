@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API (1 day ago)
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API (2 days ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (1 week ago)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (1 week ago)
 - [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 (1 week ago)
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[Data] Add per-stage training-thread blocking attribution to iter_batches](https://github.com/ray-project/ray/pull/64183) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
+- [[Data] Add per-stage training-thread blocking attribution to iter_batches](https://github.com/ray-project/ray/pull/64183) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[core][observability] Normalize OTel metric labels before Prometheus export](https://github.com/ray-project/ray/pull/63744) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 - [[41867] Part 5: bpf: nat: skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45670) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [[GH-41867][Part-5][eBPF] Skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45539) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
