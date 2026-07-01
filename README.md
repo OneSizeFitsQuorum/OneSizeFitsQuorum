@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (1 day ago)
-- [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs. (4 days ago)
-- [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) - GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents (5 days ago)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (2 days ago)
+- [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs. (5 days ago)
+- [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) - GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents (6 days ago)
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API (1 week ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (2 weeks ago)
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[Data] Add per-stage training-thread blocking attribution to iter_batches](https://github.com/ray-project/ray/pull/64183) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
+- [[Data] Add per-stage training-thread blocking attribution to iter_batches](https://github.com/ray-project/ray/pull/64183) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [[core][observability] Normalize OTel metric labels before Prometheus export](https://github.com/ray-project/ray/pull/63744) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
 - [[41867] Part 5: bpf: nat: skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45670) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 - [[GH-41867][Part-5][eBPF] Skip SNAT for same subnet traffic in hybrid overlay mode](https://github.com/cilium/cilium/pull/45539) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
