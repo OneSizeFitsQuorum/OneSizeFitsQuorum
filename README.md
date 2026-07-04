@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (4 days ago)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (5 days ago)
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs. (1 week ago)
 - [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) - GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents (1 week ago)
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API (1 week ago)
@@ -53,7 +53,7 @@
 #### 📜 Check out my recent blog posts
 
 - [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (4 months ago)
-- [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (6 months ago)
+- [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (7 months ago)
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (10 months ago)
 - [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (1 year ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (1 year ago)
