@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [neuyilan](https://github.com/neuyilan)
 - [yew1eb](https://github.com/yew1eb)
 - [irishgordo](https://github.com/irishgordo)
 - [Sensenzhl](https://github.com/Sensenzhl)
 - [tracyjin321](https://github.com/tracyjin321)
-- [ligen131](https://github.com/ligen131)
 
 #### 🔨 Check out my recent pull requests
 
