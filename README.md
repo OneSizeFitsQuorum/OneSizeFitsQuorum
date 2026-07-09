@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Batool110313](https://github.com/Batool110313)
 - [teamnak](https://github.com/teamnak)
 - [IrshadChanna](https://github.com/IrshadChanna)
 - [neuyilan](https://github.com/neuyilan)
 - [yew1eb](https://github.com/yew1eb)
-- [irishgordo](https://github.com/irishgordo)
 
 #### 🔨 Check out my recent pull requests
 
