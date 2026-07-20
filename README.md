@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [400Ping](https://github.com/400Ping)
+- [atharv0o](https://github.com/atharv0o)
 - [ZeoxLiu](https://github.com/ZeoxLiu)
 - [Batool110313](https://github.com/Batool110313)
 - [teamnak](https://github.com/teamnak)
-- [IrshadChanna](https://github.com/IrshadChanna)
-- [neuyilan](https://github.com/neuyilan)
 
 #### 🔨 Check out my recent pull requests
 
