@@ -29,24 +29,24 @@
 #### ⭐ Check out my recent stars
 
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. (1 week ago)
-- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  (1 week ago)
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  (2 weeks ago)
 - [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction. (2 weeks ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (2 weeks ago)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [deval2498](https://github.com/deval2498)
 - [Nai64](https://github.com/Nai64)
 - [400Ping](https://github.com/400Ping)
 - [atharv0o](https://github.com/atharv0o)
 - [ZeoxLiu](https://github.com/ZeoxLiu)
-- [Batool110313](https://github.com/Batool110313)
 
 #### 🔨 Check out my recent pull requests
 
-- [[Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/ray-project/ray/pull/64961) on [ray-project/ray](https://github.com/ray-project/ray) (today)
-- [[Preview][Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/OneSizeFitsQuorum/ray/pull/41) on [OneSizeFitsQuorum/ray](https://github.com/OneSizeFitsQuorum/ray) (today)
-- [[Core] Add elastic Ray task backend for joblib (ray_tasks)](https://github.com/ray-project/ray/pull/64957) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/ray-project/ray/pull/64961) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
+- [[Preview][Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/OneSizeFitsQuorum/ray/pull/41) on [OneSizeFitsQuorum/ray](https://github.com/OneSizeFitsQuorum/ray) (1 day ago)
+- [[Core] Add elastic Ray task backend for joblib (ray_tasks)](https://github.com/ray-project/ray/pull/64957) on [ray-project/ray](https://github.com/ray-project/ray) (1 day ago)
 - [[Data] Add per-stage training-thread blocking attribution to iter_batches](https://github.com/ray-project/ray/pull/64183) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
 - [[core][observability] Normalize OTel metric labels before Prometheus export](https://github.com/ray-project/ray/pull/63744) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
 
