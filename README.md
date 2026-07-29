@@ -47,7 +47,7 @@
 - [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 days ago)
 - [[Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/ray-project/ray/pull/64961) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
 - [[Preview][Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/OneSizeFitsQuorum/ray/pull/41) on [OneSizeFitsQuorum/ray](https://github.com/OneSizeFitsQuorum/ray) (6 days ago)
-- [[joblib] Add opt-in autoscaling to the default &#39;ray&#39; actor pool](https://github.com/ray-project/ray/pull/64957) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
+- [[core][joblib] Add opt-in autoscaling to ray.util.multiprocessing.Pool](https://github.com/ray-project/ray/pull/64957) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
 - [[Data] Add per-stage training-thread blocking attribution to iter_batches](https://github.com/ray-project/ray/pull/64183) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
 
 #### 📜 Check out my recent blog posts
