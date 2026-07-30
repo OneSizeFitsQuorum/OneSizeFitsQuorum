@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) - A calm, evidence-anchored AI reader for research PDFs in Chrome. (today)
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents (1 day ago)
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. (2 weeks ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  (2 weeks ago)
 - [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction. (3 weeks ago)
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
