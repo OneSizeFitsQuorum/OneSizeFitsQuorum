@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (2 days ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 weeks ago)
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (3 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) - A calm, evidence-anchored AI reader for research PDFs in Chrome. (1 day ago)
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents (2 days ago)
+- [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) - A calm, evidence-anchored AI reader for research PDFs in Chrome. (2 days ago)
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents (3 days ago)
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. (2 weeks ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  (3 weeks ago)
 - [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction. (3 weeks ago)
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (4 days ago)
+- [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (5 days ago)
 - [[Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/ray-project/ray/pull/64961) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[Preview][Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/OneSizeFitsQuorum/ray/pull/41) on [OneSizeFitsQuorum/ray](https://github.com/OneSizeFitsQuorum/ray) (1 week ago)
 - [[core][joblib] Add opt-in autoscaling to ray.util.multiprocessing.Pool](https://github.com/ray-project/ray/pull/64957) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
