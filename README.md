@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (4 days ago)
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (5 days ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 weeks ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (3 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (1 day ago)
-- [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) - A calm, evidence-anchored AI reader for research PDFs in Chrome. (3 days ago)
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents (4 days ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (2 days ago)
+- [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) - A calm, evidence-anchored AI reader for research PDFs in Chrome. (4 days ago)
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents (5 days ago)
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. (2 weeks ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI &amp; Use your logged-in browser by AI agent.  (3 weeks ago)
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (6 days ago)
+- [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 week ago)
 - [[Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/ray-project/ray/pull/64961) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[Preview][Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/OneSizeFitsQuorum/ray/pull/41) on [OneSizeFitsQuorum/ray](https://github.com/OneSizeFitsQuorum/ray) (1 week ago)
 - [[core][joblib] Add opt-in autoscaling to ray.util.multiprocessing.Pool](https://github.com/ray-project/ray/pull/64957) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
@@ -53,7 +53,7 @@
 #### 📜 Check out my recent blog posts
 
 - [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (5 months ago)
-- [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (7 months ago)
+- [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (8 months ago)
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (11 months ago)
 - [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (1 year ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (2 years ago)
