@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Ali-hey-0](https://github.com/Ali-hey-0)
 - [justinyeh1995](https://github.com/justinyeh1995)
 - [deval2498](https://github.com/deval2498)
 - [Nai64](https://github.com/Nai64)
 - [400Ping](https://github.com/400Ping)
-- [atharv0o](https://github.com/atharv0o)
 
 #### 🔨 Check out my recent pull requests
 
