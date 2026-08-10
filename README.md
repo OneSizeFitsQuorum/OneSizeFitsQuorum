@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (1 week ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (4 weeks ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 months ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 months ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (4 days ago)
-- [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant (4 days ago)
-- [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - A minimal autonomous code-agent CLI built with Qwen Code (6 days ago)
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (5 days ago)
+- [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant (5 days ago)
+- [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - A minimal autonomous code-agent CLI built with Qwen Code (1 week ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (1 week ago)
 - [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) - A calm, evidence-anchored AI reader for research PDFs in Chrome. (1 week ago)
 
@@ -44,7 +44,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 week ago)
+- [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 weeks ago)
 - [[Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/ray-project/ray/pull/64961) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [[Preview][Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/OneSizeFitsQuorum/ray/pull/41) on [OneSizeFitsQuorum/ray](https://github.com/OneSizeFitsQuorum/ray) (2 weeks ago)
 - [[core][joblib] Add opt-in autoscaling to ray.util.multiprocessing.Pool](https://github.com/ray-project/ray/pull/64957) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
