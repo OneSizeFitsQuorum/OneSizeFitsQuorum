@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (5 days ago)
-- [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant (5 days ago)
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (6 days ago)
+- [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant (6 days ago)
 - [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - A minimal autonomous code-agent CLI built with Qwen Code (1 week ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (1 week ago)
 - [ycycse/lumen-paper](https://github.com/ycycse/lumen-paper) - A calm, evidence-anchored AI reader for research PDFs in Chrome. (1 week ago)
@@ -52,8 +52,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (5 months ago)
+- [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (6 months ago)
 - [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (8 months ago)
-- [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (11 months ago)
+- [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (1 year ago)
 - [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (1 year ago)
 - [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (2 years ago)
