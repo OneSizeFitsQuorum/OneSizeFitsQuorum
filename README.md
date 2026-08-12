@@ -1,13 +1,13 @@
 🎓 Received bachelor's and master's degrees from [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)
 
-💻 Infrastructure Engineer building reliable, scalable and observable distributed systems for the AI era.
+💻 Infrastructure Engineer building reliable, scalable, and observable distributed systems for the AI era.
 
-My current focus includes:
+My current focus areas include:
 - Distributed data infrastructure, including distributed file systems, databases and data platforms
 - Cloud-native infrastructure, including Kubernetes, networking and observability
 - AI infrastructure, including distributed training, data processing and workload orchestration
 - Software engineering for large-scale systems, including performance optimization, reliability engineering and open-source development
-- Agent infrastructure and developer tools for next-generation software engineering
+- AI agent infrastructure and developer tools for next-generation software engineering
 
 🖋 Blog：[tanxinyu.work](https://tanxinyu.work)
 
