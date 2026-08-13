@@ -43,19 +43,19 @@ My current focus areas include:
 
 #### 👯 Check out my recent followers
 
+- [Vikyanite](https://github.com/Vikyanite)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
 - [justinyeh1995](https://github.com/justinyeh1995)
 - [deval2498](https://github.com/deval2498)
-- [Nai64](https://github.com/Nai64)
 
 #### 🔨 Check out my recent pull requests
 
+- [[train] Share PlacementGroupCleaner across Train runs](https://github.com/ray-project/ray/pull/65447) on [ray-project/ray](https://github.com/ray-project/ray) (today)
+- [[docs][core] Document JVM signal conflicts with PyArrow HDFS](https://github.com/ray-project/ray/pull/65445) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 - [[RELEASE] Update website with Ratis 3.3.0 release](https://github.com/apache/ratis/pull/1552) on [apache/ratis](https://github.com/apache/ratis) (1 day ago)
 - [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 weeks ago)
 - [[Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/ray-project/ray/pull/64961) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
-- [[Preview][Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/OneSizeFitsQuorum/ray/pull/41) on [OneSizeFitsQuorum/ray](https://github.com/OneSizeFitsQuorum/ray) (3 weeks ago)
-- [[core][joblib] Add opt-in autoscaling to ray.util.multiprocessing.Pool](https://github.com/ray-project/ray/pull/64957) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
