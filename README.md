@@ -35,10 +35,10 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 days ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (4 days ago)
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (1 week ago)
 - [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant (1 week ago)
-- [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - A minimal autonomous code-agent CLI built with Qwen Code (1 week ago)
+- [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - A minimal autonomous code-agent CLI built with Qwen Code (2 weeks ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (2 weeks ago)
 
 #### 👯 Check out my recent followers
@@ -51,10 +51,10 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [[train] Share PlacementGroupCleaner across Train runs](https://github.com/ray-project/ray/pull/65447) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
-- [[docs][core] Document JVM signal conflicts with PyArrow HDFS](https://github.com/ray-project/ray/pull/65445) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
-- [[RELEASE] Update website with Ratis 3.3.0 release](https://github.com/apache/ratis/pull/1552) on [apache/ratis](https://github.com/apache/ratis) (4 days ago)
-- [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 weeks ago)
+- [[train] Share PlacementGroupCleaner across Train runs](https://github.com/ray-project/ray/pull/65447) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
+- [[docs][core] Document JVM signal conflicts with PyArrow HDFS](https://github.com/ray-project/ray/pull/65445) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
+- [[RELEASE] Update website with Ratis 3.3.0 release](https://github.com/apache/ratis/pull/1552) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (3 weeks ago)
 - [[Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/ray-project/ray/pull/64961) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
