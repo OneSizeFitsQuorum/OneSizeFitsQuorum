@@ -37,7 +37,7 @@ My current focus areas include:
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (6 days ago)
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (2 weeks ago)
-- [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant (2 weeks ago)
+- [apache/maka](https://github.com/apache/maka) - Maka — local-first AI desktop assistant (2 weeks ago)
 - [qwen-code-dev-bot/oh-my-cli](https://github.com/qwen-code-dev-bot/oh-my-cli) - A minimal autonomous code-agent CLI built with Qwen Code (2 weeks ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (2 weeks ago)
 
