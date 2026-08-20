@@ -43,11 +43,11 @@ My current focus areas include:
 
 #### 👯 Check out my recent followers
 
+- [DanielSBoba](https://github.com/DanielSBoba)
 - [Vikyanite](https://github.com/Vikyanite)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
 - [justinyeh1995](https://github.com/justinyeh1995)
-- [deval2498](https://github.com/deval2498)
 
 #### 🔨 Check out my recent pull requests
 
