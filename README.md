@@ -51,11 +51,11 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
+- [[core] Warn about worker gRPC threads on high-CPU nodes](https://github.com/ray-project/ray/pull/65637) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 - [[train] Share PlacementGroupCleaner across Train runs](https://github.com/ray-project/ray/pull/65447) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[docs][core] Document JVM signal conflicts with PyArrow HDFS](https://github.com/ray-project/ray/pull/65445) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[RELEASE] Update website with Ratis 3.3.0 release](https://github.com/apache/ratis/pull/1552) on [apache/ratis](https://github.com/apache/ratis) (1 week ago)
 - [scheduler: add committed eviction transaction metric](https://github.com/volcano-sh/volcano/pull/5754) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (3 weeks ago)
-- [[Data] Avoid concatenating multi-chunk tensor columns during row takes](https://github.com/ray-project/ray/pull/64961) on [ray-project/ray](https://github.com/ray-project/ray) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
