@@ -19,8 +19,8 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 days ago)
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. (2 days ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 days ago)
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. (3 days ago)
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (1 month ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB (4 months ago)
@@ -35,8 +35,8 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (4 days ago)
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (4 days ago)
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (5 days ago)
+- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (5 days ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (2 weeks ago)
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (3 weeks ago)
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. (3 weeks ago)
@@ -51,7 +51,7 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [RATIS-2661. Persist bootstrap configuration for group recovery](https://github.com/apache/ratis/pull/1564) on [apache/ratis](https://github.com/apache/ratis) (5 days ago)
+- [RATIS-2661. Persist bootstrap configuration for group recovery](https://github.com/apache/ratis/pull/1564) on [apache/ratis](https://github.com/apache/ratis) (6 days ago)
 - [[core] Warn about worker gRPC threads on high-CPU nodes](https://github.com/ray-project/ray/pull/65637) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[train] Share PlacementGroupCleaner across Train runs](https://github.com/ray-project/ray/pull/65447) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [[docs][core] Document JVM signal conflicts with PyArrow HDFS](https://github.com/ray-project/ray/pull/65445) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
