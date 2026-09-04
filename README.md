@@ -39,15 +39,15 @@ My current focus areas include:
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (1 week ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 weeks ago)
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (1 month ago)
-- [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. (1 month ago)
+- [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. (1 month ago)
 
 #### 👯 Check out my recent followers
 
+- [panly2003](https://github.com/panly2003)
 - [Becterium](https://github.com/Becterium)
 - [fliingelephant](https://github.com/fliingelephant)
 - [DanielSBoba](https://github.com/DanielSBoba)
 - [Vikyanite](https://github.com/Vikyanite)
-- [matiasinsaurralde](https://github.com/matiasinsaurralde)
 
 #### 🔨 Check out my recent pull requests
 
