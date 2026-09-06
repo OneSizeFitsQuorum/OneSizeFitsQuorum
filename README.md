@@ -43,11 +43,11 @@ My current focus areas include:
 
 #### 👯 Check out my recent followers
 
+- [irenjj](https://github.com/irenjj)
 - [panly2003](https://github.com/panly2003)
 - [Becterium](https://github.com/Becterium)
 - [fliingelephant](https://github.com/fliingelephant)
 - [DanielSBoba](https://github.com/DanielSBoba)
-- [Vikyanite](https://github.com/Vikyanite)
 
 #### 🔨 Check out my recent pull requests
 
