@@ -51,11 +51,11 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
+- [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (today)
+- [[Feature][Volcano] Populate SubGroupPolicy from Ray worker replicas](https://github.com/ray-project/kuberay/pull/5249) on [ray-project/kuberay](https://github.com/ray-project/kuberay) (today)
 - [RATIS-2661. Persist bootstrap configuration for group recovery](https://github.com/apache/ratis/pull/1564) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [[core] Warn about worker gRPC threads on high-CPU nodes](https://github.com/ray-project/ray/pull/65637) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
 - [[train] Share PlacementGroupCleaner across Train runs](https://github.com/ray-project/ray/pull/65447) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
-- [[docs][core] Document JVM signal conflicts with PyArrow HDFS](https://github.com/ray-project/ray/pull/65445) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
-- [[RELEASE] Update website with Ratis 3.3.0 release](https://github.com/apache/ratis/pull/1552) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
