@@ -19,10 +19,10 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 day ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 week ago)
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. (1 week ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. (2 weeks ago)
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (1 month ago)
 
 #### 🌱 Check out my recent projects
@@ -37,7 +37,7 @@ My current focus areas include:
 
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (2 weeks ago)
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (2 weeks ago)
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 weeks ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (4 weeks ago)
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (1 month ago)
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. (1 month ago)
 
@@ -51,15 +51,15 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 days ago)
-- [[Feature][Volcano] Populate SubGroupPolicy from Ray worker replicas](https://github.com/ray-project/kuberay/pull/5249) on [ray-project/kuberay](https://github.com/ray-project/kuberay) (2 days ago)
+- [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (3 days ago)
+- [[Feature][Volcano] Populate SubGroupPolicy from Ray worker replicas](https://github.com/ray-project/kuberay/pull/5249) on [ray-project/kuberay](https://github.com/ray-project/kuberay) (3 days ago)
 - [RATIS-2661. Persist bootstrap configuration for group recovery](https://github.com/apache/ratis/pull/1564) on [apache/ratis](https://github.com/apache/ratis) (2 weeks ago)
 - [[core] Warn about worker gRPC threads on high-CPU nodes](https://github.com/ray-project/ray/pull/65637) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
-- [[train] Share PlacementGroupCleaner across Train runs](https://github.com/ray-project/ray/pull/65447) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
+- [[train] Share PlacementGroupCleaner across Train runs](https://github.com/ray-project/ray/pull/65447) on [ray-project/ray](https://github.com/ray-project/ray) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
-- [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (6 months ago)
+- [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (7 months ago)
 - [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (9 months ago)
 - [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (1 year ago)
 - [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (1 year ago)
