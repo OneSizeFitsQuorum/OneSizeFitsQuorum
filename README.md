@@ -35,11 +35,11 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io (today)
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (2 weeks ago)
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (2 weeks ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (4 weeks ago)
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python (1 month ago)
-- [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. (1 month ago)
 
 #### 👯 Check out my recent followers
 
