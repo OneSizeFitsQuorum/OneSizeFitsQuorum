@@ -35,8 +35,8 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (today)
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io (5 days ago)
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (1 day ago)
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io (6 days ago)
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (3 weeks ago)
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (3 weeks ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 month ago)
@@ -51,7 +51,7 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [[docs][kuberay] Add a Modal SDK sandbox deployment example](https://github.com/ray-project/ray/pull/66089) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
+- [[docs][kuberay] Add a Modal SDK sandbox deployment example](https://github.com/ray-project/ray/pull/66089) on [ray-project/ray](https://github.com/ray-project/ray) (5 days ago)
 - [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 week ago)
 - [[Feature][Volcano] Populate SubGroupPolicy from Ray worker replicas](https://github.com/ray-project/kuberay/pull/5249) on [ray-project/kuberay](https://github.com/ray-project/kuberay) (1 week ago)
 - [RATIS-2661. Persist bootstrap configuration for group recovery](https://github.com/apache/ratis/pull/1564) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
