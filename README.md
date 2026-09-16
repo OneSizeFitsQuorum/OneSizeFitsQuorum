@@ -19,11 +19,11 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (today)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (2 weeks ago)
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. (2 weeks ago)
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (1 month ago)
 
 #### 🌱 Check out my recent projects
 
@@ -35,11 +35,11 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (today)
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (1 day ago)
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io (6 days ago)
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (3 weeks ago)
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (3 weeks ago)
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 month ago)
 
 #### 👯 Check out my recent followers
 
@@ -51,16 +51,16 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
+- [[Data] Optimize chunked takes for variable-shaped tensors](https://github.com/ray-project/ray/pull/66197) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 - [[docs][kuberay] Add a Modal SDK sandbox deployment example](https://github.com/ray-project/ray/pull/66089) on [ray-project/ray](https://github.com/ray-project/ray) (5 days ago)
 - [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 week ago)
 - [[Feature][Volcano] Populate SubGroupPolicy from Ray worker replicas](https://github.com/ray-project/kuberay/pull/5249) on [ray-project/kuberay](https://github.com/ray-project/kuberay) (1 week ago)
 - [RATIS-2661. Persist bootstrap configuration for group recovery](https://github.com/apache/ratis/pull/1564) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
-- [[core] Warn about worker gRPC threads on high-CPU nodes](https://github.com/ray-project/ray/pull/65637) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
-- [2025 年终总结：从时序数据库到 AI Infra 的转身](https://tanxinyu.work/2025-annual-summary/) (7 months ago)
-- [Ray 编译踩坑记：老版本在老系统上的编译之路](https://tanxinyu.work/ray-compile/) (9 months ago)
-- [让 Ray Distributed Debugger 在 Kuberay 下可用](https://tanxinyu.work/code-server-with-ray-distributed-debugger/) (1 year ago)
-- [数据库内核开发 5 年，我从无数坑中学到的 14 个宝贵教训](https://tanxinyu.work/14-lessions-i-learned-in-past-five-years-when-developing-database/) (1 year ago)
-- [2024 年终总结：在清华 IoTDB 创业公司中构建起摩尔定律成长节奏](https://tanxinyu.work/2024-annual-summary/) (2 years ago)
+- [第 0 篇｜背景导引：Ray、Kubernetes、KubeRay 与 Volcano](https://tanxinyu.work/kuberay-volcano-00-reading-guide/) (1 day ago)
+- [第 1 篇｜KubeRay 架构：组件分工与协作](https://tanxinyu.work/kuberay-volcano-01-architecture/) (1 day ago)
+- [第 2 篇｜KubeRay 协调：从 Pod 变化到 Reconcile](https://tanxinyu.work/kuberay-volcano-02-reconcile/) (1 day ago)
+- [第 3 篇｜KubeRay 并发：一个 Operator 如何管理 100 个 RayCluster](https://tanxinyu.work/kuberay-volcano-03-concurrency/) (1 day ago)
+- [第 4 篇｜KubeRay 恢复：Operator 重启后如何继续工作](https://tanxinyu.work/kuberay-volcano-04-recovery/) (1 day ago)
