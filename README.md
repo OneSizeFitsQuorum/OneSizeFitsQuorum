@@ -35,7 +35,7 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (2 days ago)
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (2 days ago)
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (3 days ago)
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io (1 week ago)
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (3 weeks ago)
@@ -51,11 +51,11 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
+- [[Core][runtime_env] Support Kerberos-authenticated HTTPS package downloads](https://github.com/ray-project/ray/pull/66279) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 - [[Data] Optimize chunked takes for variable-shaped tensors](https://github.com/ray-project/ray/pull/66197) on [ray-project/ray](https://github.com/ray-project/ray) (2 days ago)
 - [[docs][kuberay] Add a Modal SDK sandbox deployment example](https://github.com/ray-project/ray/pull/66089) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 week ago)
 - [[Feature][Volcano] Populate SubGroupPolicy from Ray worker replicas](https://github.com/ray-project/kuberay/pull/5249) on [ray-project/kuberay](https://github.com/ray-project/kuberay) (1 week ago)
-- [RATIS-2661. Persist bootstrap configuration for group recovery](https://github.com/apache/ratis/pull/1564) on [apache/ratis](https://github.com/apache/ratis) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
