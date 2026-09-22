@@ -19,7 +19,7 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (6 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
@@ -35,11 +35,11 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  (today)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (6 days ago)
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (1 week ago)
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io (1 week ago)
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (4 weeks ago)
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (4 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -59,8 +59,8 @@ My current focus areas include:
 
 #### 📜 Check out my recent blog posts
 
+- [从源码理解 KubeRay 与 Volcano：系列目录](https://tanxinyu.work/kuberay-volcano/) (1 week ago)
 - [第 0 篇｜背景导引：Ray、Kubernetes、KubeRay 与 Volcano](https://tanxinyu.work/kuberay-volcano-00-reading-guide/) (1 week ago)
 - [第 1 篇｜KubeRay 架构：组件分工与协作](https://tanxinyu.work/kuberay-volcano-01-architecture/) (1 week ago)
 - [第 2 篇｜KubeRay 协调：从 Pod 变化到 Reconcile](https://tanxinyu.work/kuberay-volcano-02-reconcile/) (1 week ago)
 - [第 3 篇｜KubeRay 并发：一个 Operator 如何管理 100 个 RayCluster](https://tanxinyu.work/kuberay-volcano-03-concurrency/) (1 week ago)
-- [第 4 篇｜KubeRay 恢复：Operator 重启后如何继续工作](https://tanxinyu.work/kuberay-volcano-04-recovery/) (1 week ago)
