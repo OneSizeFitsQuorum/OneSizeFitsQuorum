@@ -19,8 +19,8 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (today)
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
@@ -60,7 +60,7 @@ My current focus areas include:
 #### 📜 Check out my recent blog posts
 
 - [从源码理解 KubeRay 与 Volcano：系列目录](https://tanxinyu.work/kuberay-volcano/) (1 week ago)
-- [第 0 篇｜背景导引：Ray、Kubernetes、KubeRay 与 Volcano](https://tanxinyu.work/kuberay-volcano-00-reading-guide/) (1 week ago)
+- [第 0 篇｜从 Ray 到 Kubernetes：KubeRay 与 Volcano 各自解决什么问题](https://tanxinyu.work/kuberay-volcano-00-reading-guide/) (1 week ago)
 - [第 1 篇｜KubeRay 架构：组件分工与协作](https://tanxinyu.work/kuberay-volcano-01-architecture/) (1 week ago)
 - [第 2 篇｜KubeRay 协调：从 Pod 变化到 Reconcile](https://tanxinyu.work/kuberay-volcano-02-reconcile/) (1 week ago)
 - [第 3 篇｜KubeRay 并发：一个 Operator 如何管理 100 个 RayCluster](https://tanxinyu.work/kuberay-volcano-03-concurrency/) (1 week ago)
