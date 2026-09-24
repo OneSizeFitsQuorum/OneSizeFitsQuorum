@@ -19,11 +19,11 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
-- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (today)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 day ago)
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (1 day ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
-- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (3 weeks ago)
+- [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (4 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -35,11 +35,11 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  (1 day ago)
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  (2 days ago)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 week ago)
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (1 week ago)
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io (1 week ago)
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (4 weeks ago)
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io (2 weeks ago)
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (1 month ago)
 
 #### 👯 Check out my recent followers
 
@@ -51,7 +51,7 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [[Core][runtime_env] Support Kerberos-authenticated HTTPS package downloads](https://github.com/ray-project/ray/pull/66279) on [ray-project/ray](https://github.com/ray-project/ray) (5 days ago)
+- [[Core][runtime_env] Support Kerberos-authenticated HTTPS package downloads](https://github.com/ray-project/ray/pull/66279) on [ray-project/ray](https://github.com/ray-project/ray) (6 days ago)
 - [[Data] Optimize chunked takes for variable-shaped tensors](https://github.com/ray-project/ray/pull/66197) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[docs][kuberay] Add a Modal SDK sandbox deployment example](https://github.com/ray-project/ray/pull/66089) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 weeks ago)
