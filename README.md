@@ -19,8 +19,8 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 days ago)
-- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (3 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (4 days ago)
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (4 days ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
@@ -35,9 +35,9 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (today)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (today)
-- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  (4 days ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (1 day ago)
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  (5 days ago)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 week ago)
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (1 week ago)
 
