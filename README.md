@@ -19,10 +19,10 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 days ago)
-- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (5 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 days ago)
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (6 days ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 
 #### 🌱 Check out my recent projects
@@ -35,10 +35,10 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (today)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 days ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (2 days ago)
-- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  (6 days ago)
+- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (1 day ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 days ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (3 days ago)
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  (1 week ago)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -59,8 +59,8 @@ My current focus areas include:
 
 #### 📜 Check out my recent blog posts
 
-- [从源码理解 KubeRay 与 Volcano：系列目录](https://tanxinyu.work/kuberay-volcano/) (1 week ago)
-- [第 0 篇｜从 Ray 到 Kubernetes：KubeRay 与 Volcano 各自解决什么问题](https://tanxinyu.work/kuberay-volcano-00-reading-guide/) (1 week ago)
-- [第 1 篇｜KubeRay 架构：组件分工与协作](https://tanxinyu.work/kuberay-volcano-01-architecture/) (1 week ago)
-- [第 2 篇｜KubeRay 协调：从 Pod 变化到 Reconcile](https://tanxinyu.work/kuberay-volcano-02-reconcile/) (1 week ago)
-- [第 3 篇｜KubeRay 并发：一个 Operator 如何管理 100 个 RayCluster](https://tanxinyu.work/kuberay-volcano-03-concurrency/) (1 week ago)
+- [从源码理解 KubeRay 与 Volcano：系列目录](https://tanxinyu.work/kuberay-volcano/) (2 weeks ago)
+- [第 0 篇｜从 Ray 到 Kubernetes：KubeRay 与 Volcano 各自解决什么问题](https://tanxinyu.work/kuberay-volcano-00-reading-guide/) (2 weeks ago)
+- [第 1 篇｜KubeRay 架构：组件分工与协作](https://tanxinyu.work/kuberay-volcano-01-architecture/) (2 weeks ago)
+- [第 2 篇｜KubeRay 协调：从 Pod 变化到 Reconcile](https://tanxinyu.work/kuberay-volcano-02-reconcile/) (2 weeks ago)
+- [第 3 篇｜KubeRay 并发：一个 Operator 如何管理 100 个 RayCluster](https://tanxinyu.work/kuberay-volcano-03-concurrency/) (2 weeks ago)
