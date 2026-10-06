@@ -43,11 +43,11 @@ My current focus areas include:
 
 #### 👯 Check out my recent followers
 
-- [coffsec](https://github.com/coffsec)
 - [pjdurden](https://github.com/pjdurden)
 - [xyuzh](https://github.com/xyuzh)
 - [liesbethbelmokhtar203-source](https://github.com/liesbethbelmokhtar203-source)
 - [irenjj](https://github.com/irenjj)
+- [panly2003](https://github.com/panly2003)
 
 #### 🔨 Check out my recent pull requests
 
