@@ -19,9 +19,9 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
-- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (1 week ago)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 weeks ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (2 weeks ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 weeks ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
 
@@ -39,7 +39,7 @@ My current focus areas include:
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (1 week ago)
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  (2 weeks ago)
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (2 weeks ago)
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -51,11 +51,11 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [[Data] Expose take_table as an alpha public API](https://github.com/ray-project/ray/pull/66686) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
+- [[Data] Expose take_table as an alpha public API](https://github.com/ray-project/ray/pull/66686) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
 - [[Core][runtime_env] Support Kerberos-authenticated HTTPS package downloads](https://github.com/ray-project/ray/pull/66279) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
-- [[Data] Optimize chunked takes for variable-shaped tensors](https://github.com/ray-project/ray/pull/66197) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
+- [[Data] Optimize chunked takes for variable-shaped tensors](https://github.com/ray-project/ray/pull/66197) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 - [[docs][kuberay] Add a Modal SDK sandbox deployment example](https://github.com/ray-project/ray/pull/66089) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
-- [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (4 weeks ago)
+- [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
