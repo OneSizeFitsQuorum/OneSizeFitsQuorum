@@ -51,11 +51,11 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
+- [[Data] Add parallel window shuffle](https://github.com/ray-project/ray/pull/66934) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 - [[Data] Expose take_table as an alpha public API](https://github.com/ray-project/ray/pull/66686) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[Core][runtime_env] Support Kerberos-authenticated HTTP/HTTPS package downloads](https://github.com/ray-project/ray/pull/66279) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 - [[Data] Optimize chunked takes for variable-shaped tensors](https://github.com/ray-project/ray/pull/66197) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 - [[docs][kuberay] Add a Modal SDK sandbox deployment example](https://github.com/ray-project/ray/pull/66089) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
-- [scheduler: support priority-first gang victim ordering](https://github.com/volcano-sh/volcano/pull/5953) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
