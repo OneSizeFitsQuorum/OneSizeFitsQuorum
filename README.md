@@ -19,7 +19,7 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
 - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (3 weeks ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
@@ -43,11 +43,11 @@ My current focus areas include:
 
 #### 👯 Check out my recent followers
 
+- [jackeyfaker77](https://github.com/jackeyfaker77)
 - [pjdurden](https://github.com/pjdurden)
 - [xyuzh](https://github.com/xyuzh)
 - [liesbethbelmokhtar203-source](https://github.com/liesbethbelmokhtar203-source)
 - [irenjj](https://github.com/irenjj)
-- [panly2003](https://github.com/panly2003)
 
 #### 🔨 Check out my recent pull requests
 
