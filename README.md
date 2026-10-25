@@ -19,7 +19,7 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (5 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (6 days ago)
 - [kuberay-project/kuberay](https://github.com/kuberay-project/kuberay) - A toolkit to run Ray applications on Kubernetes (1 month ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
@@ -35,7 +35,7 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) - Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks. (4 days ago)
+- [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) - Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks. (5 days ago)
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others (2 weeks ago)
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (3 weeks ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (4 weeks ago)
@@ -51,8 +51,8 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [HADOOP-17611. Preserve DistCp file times after chunk concatenation.](https://github.com/apache/hadoop/pull/8858) on [apache/hadoop](https://github.com/apache/hadoop) (1 day ago)
-- [THRIFT-6436: Avoid repeated bytes concatenation in Python readAll](https://github.com/apache/thrift/pull/4028) on [apache/thrift](https://github.com/apache/thrift) (4 days ago)
+- [HADOOP-17611. Preserve DistCp file times after chunk concatenation.](https://github.com/apache/hadoop/pull/8858) on [apache/hadoop](https://github.com/apache/hadoop) (2 days ago)
+- [THRIFT-6436: Avoid repeated bytes concatenation in Python readAll](https://github.com/apache/thrift/pull/4028) on [apache/thrift](https://github.com/apache/thrift) (5 days ago)
 - [[Data] Add parallel window shuffle](https://github.com/ray-project/ray/pull/66934) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [[Data] Expose take_table as an alpha public API](https://github.com/ray-project/ray/pull/66686) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 - [[Core][runtime_env] Support Kerberos-authenticated HTTP/HTTPS package downloads](https://github.com/ray-project/ray/pull/66279) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
