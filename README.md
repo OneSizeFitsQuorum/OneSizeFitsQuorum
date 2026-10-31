@@ -19,7 +19,7 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (2 days ago)
+- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (3 days ago)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [kuberay-project/kuberay](https://github.com/kuberay-project/kuberay) - A toolkit to run Ray applications on Kubernetes (1 month ago)
@@ -35,7 +35,7 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [atlassian-api/atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) - Atlassian Python REST API wrapper. The atlassian-python-api library provides a simple and convenient way to interact with Atlassian products (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python. It is based on the official REST APIs of these products and by community for Atlassian (4 days ago)
+- [atlassian-api/atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) - Atlassian Python REST API wrapper. The atlassian-python-api library provides a simple and convenient way to interact with Atlassian products (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python. It is based on the official REST APIs of these products and by community for Atlassian (5 days ago)
 - [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) - Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks. (1 week ago)
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others (3 weeks ago)
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (1 month ago)
@@ -54,7 +54,7 @@ My current focus areas include:
 - [HADOOP-17611. Preserve DistCp file times after chunk concatenation.](https://github.com/apache/hadoop/pull/8858) on [apache/hadoop](https://github.com/apache/hadoop) (1 week ago)
 - [THRIFT-6436: Avoid repeated bytes concatenation in Python readAll](https://github.com/apache/thrift/pull/4028) on [apache/thrift](https://github.com/apache/thrift) (1 week ago)
 - [[Data] Add parallel shuffle_batches API](https://github.com/ray-project/ray/pull/66934) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
-- [[Data] Expose take_table as an alpha public API](https://github.com/ray-project/ray/pull/66686) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
+- [[Data] Expose take_table as an alpha public API](https://github.com/ray-project/ray/pull/66686) on [ray-project/ray](https://github.com/ray-project/ray) (4 weeks ago)
 - [[Core][runtime_env] Support Kerberos-authenticated HTTP/HTTPS package downloads](https://github.com/ray-project/ray/pull/66279) on [ray-project/ray](https://github.com/ray-project/ray) (1 month ago)
 
 #### 📜 Check out my recent blog posts
