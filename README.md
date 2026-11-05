@@ -19,7 +19,7 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 day ago)
+- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 days ago)
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 week ago)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
@@ -35,10 +35,10 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (2 days ago)
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (3 days ago)
 - [atlassian-api/atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) - Atlassian Python REST API wrapper. The atlassian-python-api library provides a simple and convenient way to interact with Atlassian products (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python. It is based on the official REST APIs of these products and by community for Atlassian (1 week ago)
 - [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) - Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks. (2 weeks ago)
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others (3 weeks ago)
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others (4 weeks ago)
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (1 month ago)
 
 #### 👯 Check out my recent followers
@@ -51,8 +51,8 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [图解 Git tips：36 个常用技巧](https://github.com/OneSizeFitsQuorum/git-tips/pull/3) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (2 days ago)
-- [[Data] Avoid whole-block copies when batching multi-chunk Arrow inputs](https://github.com/ray-project/ray/pull/67672) on [ray-project/ray](https://github.com/ray-project/ray) (2 days ago)
+- [图解 Git tips：36 个常用技巧](https://github.com/OneSizeFitsQuorum/git-tips/pull/3) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (3 days ago)
+- [[Data] Avoid whole-block copies when batching multi-chunk Arrow inputs](https://github.com/ray-project/ray/pull/67672) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
 - [HADOOP-17611. Preserve DistCp file times after chunk concatenation.](https://github.com/apache/hadoop/pull/8858) on [apache/hadoop](https://github.com/apache/hadoop) (1 week ago)
 - [THRIFT-6436: Avoid repeated bytes concatenation in Python readAll](https://github.com/apache/thrift/pull/4028) on [apache/thrift](https://github.com/apache/thrift) (2 weeks ago)
 - [[Data] Add parallel shuffle_batches API](https://github.com/ray-project/ray/pull/66934) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
