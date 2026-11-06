@@ -19,7 +19,7 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 days ago)
+- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (3 days ago)
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 week ago)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
@@ -35,7 +35,7 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (3 days ago)
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (4 days ago)
 - [atlassian-api/atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) - Atlassian Python REST API wrapper. The atlassian-python-api library provides a simple and convenient way to interact with Atlassian products (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python. It is based on the official REST APIs of these products and by community for Atlassian (1 week ago)
 - [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) - Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks. (2 weeks ago)
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others (4 weeks ago)
@@ -51,11 +51,11 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [图解 Git tips：36 个常用技巧](https://github.com/OneSizeFitsQuorum/git-tips/pull/3) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (3 days ago)
-- [[Data] Avoid whole-block copies when batching multi-chunk Arrow inputs](https://github.com/ray-project/ray/pull/67672) on [ray-project/ray](https://github.com/ray-project/ray) (3 days ago)
-- [HADOOP-17611. Preserve DistCp file times after chunk concatenation.](https://github.com/apache/hadoop/pull/8858) on [apache/hadoop](https://github.com/apache/hadoop) (1 week ago)
-- [THRIFT-6436: Avoid repeated bytes concatenation in Python readAll](https://github.com/apache/thrift/pull/4028) on [apache/thrift](https://github.com/apache/thrift) (2 weeks ago)
-- [[Data] Add parallel shuffle_batches API](https://github.com/ray-project/ray/pull/66934) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
+- [subnet: clear hybrid topology when configuration is removed](https://github.com/cilium/cilium/pull/49875) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [datapath: reconcile hybrid routes after topology changes](https://github.com/cilium/cilium/pull/49874) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [图解 Git tips：36 个常用技巧](https://github.com/OneSizeFitsQuorum/git-tips/pull/3) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (4 days ago)
+- [[Data] Avoid whole-block copies when batching multi-chunk Arrow inputs](https://github.com/ray-project/ray/pull/67672) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
+- [HADOOP-17611. Preserve DistCp file times after chunk concatenation.](https://github.com/apache/hadoop/pull/8858) on [apache/hadoop](https://github.com/apache/hadoop) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
