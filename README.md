@@ -19,11 +19,11 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (today)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (3 days ago)
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 week ago)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
-- [kuberay-project/kuberay](https://github.com/kuberay-project/kuberay) - A toolkit to run Ray applications on Kubernetes (1 month ago)
 
 #### 🌱 Check out my recent projects
 
