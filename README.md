@@ -45,9 +45,9 @@ My current focus areas include:
 
 - [liesbethbelmokhtar203-source](https://github.com/liesbethbelmokhtar203-source)
 - [aramisjustin068](https://github.com/aramisjustin068)
-- [aixisstudio](https://github.com/aixisstudio)
 - [0vm](https://github.com/0vm)
 - [vildan-seker](https://github.com/vildan-seker)
+- [Linden1113](https://github.com/Linden1113)
 
 #### 🔨 Check out my recent pull requests
 
