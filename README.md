@@ -20,7 +20,7 @@ My current focus areas include:
 #### 👷 Check out what I'm currently working on
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (today)
-- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (3 days ago)
+- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (4 days ago)
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 week ago)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (2 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
@@ -35,10 +35,10 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (4 days ago)
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (5 days ago)
 - [atlassian-api/atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) - Atlassian Python REST API wrapper. The atlassian-python-api library provides a simple and convenient way to interact with Atlassian products (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python. It is based on the official REST APIs of these products and by community for Atlassian (1 week ago)
 - [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) - Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks. (2 weeks ago)
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others (4 weeks ago)
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others (1 month ago)
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (1 month ago)
 
 #### 👯 Check out my recent followers
@@ -51,10 +51,10 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [subnet: clear hybrid topology when configuration is removed](https://github.com/cilium/cilium/pull/49875) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [datapath: reconcile hybrid routes after topology changes](https://github.com/cilium/cilium/pull/49874) on [cilium/cilium](https://github.com/cilium/cilium) (today)
-- [图解 Git tips：36 个常用技巧](https://github.com/OneSizeFitsQuorum/git-tips/pull/3) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (4 days ago)
-- [[Data] Avoid whole-block copies when batching multi-chunk Arrow inputs](https://github.com/ray-project/ray/pull/67672) on [ray-project/ray](https://github.com/ray-project/ray) (4 days ago)
+- [subnet: clear hybrid topology when configuration is removed](https://github.com/cilium/cilium/pull/49875) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [datapath: reconcile hybrid routes after topology changes](https://github.com/cilium/cilium/pull/49874) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
+- [图解 Git tips：36 个常用技巧](https://github.com/OneSizeFitsQuorum/git-tips/pull/3) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (5 days ago)
+- [[Data] Avoid whole-block copies when batching multi-chunk Arrow inputs](https://github.com/ray-project/ray/pull/67672) on [ray-project/ray](https://github.com/ray-project/ray) (5 days ago)
 - [HADOOP-17611. Preserve DistCp file times after chunk concatenation.](https://github.com/apache/hadoop/pull/8858) on [apache/hadoop](https://github.com/apache/hadoop) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
