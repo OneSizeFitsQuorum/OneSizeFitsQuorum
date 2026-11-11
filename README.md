@@ -19,9 +19,9 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (4 days ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
-- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 week ago)
+- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (2 weeks ago)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (3 weeks ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (3 weeks ago)
 
@@ -51,8 +51,8 @@ My current focus areas include:
 
 #### 🔨 Check out my recent pull requests
 
-- [subnet: clear hybrid topology when configuration is removed](https://github.com/cilium/cilium/pull/49875) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [datapath: reconcile hybrid routes after topology changes](https://github.com/cilium/cilium/pull/49874) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [subnet: clear hybrid topology when configuration is removed](https://github.com/cilium/cilium/pull/49875) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [datapath: reconcile hybrid routes after topology changes](https://github.com/cilium/cilium/pull/49874) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 - [图解 Git tips：36 个常用技巧](https://github.com/OneSizeFitsQuorum/git-tips/pull/3) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (1 week ago)
 - [[Data] Avoid whole-block copies when batching multi-chunk Arrow inputs](https://github.com/ray-project/ray/pull/67672) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
 - [HADOOP-17611. Preserve DistCp file times after chunk concatenation.](https://github.com/apache/hadoop/pull/8858) on [apache/hadoop](https://github.com/apache/hadoop) (2 weeks ago)
