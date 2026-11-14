@@ -19,7 +19,7 @@ My current focus areas include:
 
 #### 👷 Check out what I'm currently working on
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (6 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 week ago)
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (2 weeks ago)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (3 weeks ago)
@@ -35,7 +35,7 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (3 days ago)
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (1 week ago)
 - [atlassian-api/atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) - Atlassian Python REST API wrapper. The atlassian-python-api library provides a simple and convenient way to interact with Atlassian products (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python. It is based on the official REST APIs of these products and by community for Atlassian (2 weeks ago)
 - [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) - Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks. (3 weeks ago)
@@ -59,8 +59,8 @@ My current focus areas include:
 
 #### 📜 Check out my recent blog posts
 
-- [从源码理解 KubeRay 与 Volcano：系列目录](https://tanxinyu.work/kuberay-volcano/) (1 month ago)
-- [第 0 篇｜从 Ray 到 Kubernetes：KubeRay 与 Volcano 各自解决什么问题](https://tanxinyu.work/kuberay-volcano-00-reading-guide/) (1 month ago)
-- [第 1 篇｜KubeRay 架构：组件分工与协作](https://tanxinyu.work/kuberay-volcano-01-architecture/) (1 month ago)
-- [第 2 篇｜KubeRay 协调：从 Pod 变化到 Reconcile](https://tanxinyu.work/kuberay-volcano-02-reconcile/) (1 month ago)
-- [第 3 篇｜KubeRay 并发：一个 Operator 如何管理 100 个 RayCluster](https://tanxinyu.work/kuberay-volcano-03-concurrency/) (1 month ago)
+- [从源码理解 KubeRay 与 Volcano：系列目录](https://tanxinyu.work/kuberay-volcano/) (2 months ago)
+- [第 0 篇｜从 Ray 到 Kubernetes：KubeRay 与 Volcano 各自解决什么问题](https://tanxinyu.work/kuberay-volcano-00-reading-guide/) (2 months ago)
+- [第 1 篇｜KubeRay 架构：组件分工与协作](https://tanxinyu.work/kuberay-volcano-01-architecture/) (2 months ago)
+- [第 2 篇｜KubeRay 协调：从 Pod 变化到 Reconcile](https://tanxinyu.work/kuberay-volcano-02-reconcile/) (2 months ago)
+- [第 3 篇｜KubeRay 并发：一个 Operator 如何管理 100 个 RayCluster](https://tanxinyu.work/kuberay-volcano-03-concurrency/) (2 months ago)
