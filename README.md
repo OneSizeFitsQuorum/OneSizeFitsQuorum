@@ -43,11 +43,11 @@ My current focus areas include:
 
 #### 👯 Check out my recent followers
 
+- [lhzds](https://github.com/lhzds)
 - [vildan-seker](https://github.com/vildan-seker)
 - [Linden1113](https://github.com/Linden1113)
 - [jackeyfaker77](https://github.com/jackeyfaker77)
 - [pjdurden](https://github.com/pjdurden)
-- [xyuzh](https://github.com/xyuzh)
 
 #### 🔨 Check out my recent pull requests
 
