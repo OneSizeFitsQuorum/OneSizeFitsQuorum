@@ -43,19 +43,19 @@ My current focus areas include:
 
 #### 👯 Check out my recent followers
 
+- [qian0817](https://github.com/qian0817)
 - [lhzds](https://github.com/lhzds)
 - [vildan-seker](https://github.com/vildan-seker)
 - [Linden1113](https://github.com/Linden1113)
 - [jackeyfaker77](https://github.com/jackeyfaker77)
-- [pjdurden](https://github.com/pjdurden)
 
 #### 🔨 Check out my recent pull requests
 
+- [[Data] Support multiple consumers per streaming split](https://github.com/ray-project/ray/pull/68340) on [ray-project/ray](https://github.com/ray-project/ray) (today)
 - [subnet: clear hybrid topology when configuration is removed](https://github.com/cilium/cilium/pull/49875) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [datapath: reconcile hybrid routes after topology changes](https://github.com/cilium/cilium/pull/49874) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 - [图解 Git tips：36 个常用技巧](https://github.com/OneSizeFitsQuorum/git-tips/pull/3) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (2 weeks ago)
 - [[Data] Avoid whole-block copies when batching multi-chunk Arrow inputs](https://github.com/ray-project/ray/pull/67672) on [ray-project/ray](https://github.com/ray-project/ray) (2 weeks ago)
-- [HADOOP-17611. Preserve DistCp file times after chunk concatenation.](https://github.com/apache/hadoop/pull/8858) on [apache/hadoop](https://github.com/apache/hadoop) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
