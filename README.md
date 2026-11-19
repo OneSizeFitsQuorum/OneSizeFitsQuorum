@@ -22,7 +22,7 @@ My current focus areas include:
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 week ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 weeks ago)
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (3 weeks ago)
-- [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (4 weeks ago)
+- [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (1 month ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 month ago)
 
 #### 🌱 Check out my recent projects
@@ -35,8 +35,8 @@ My current focus areas include:
 
 #### ⭐ Check out my recent stars
 
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (2 days ago)
-- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - Agent Plugins — An open standard for packaging agent extensions as distributable plugins (2 days ago)
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (3 days ago)
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - Agent Plugins — An open standard for packaging agent extensions as distributable plugins (3 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 week ago)
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame. (2 weeks ago)
 - [atlassian-api/atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) - Atlassian Python REST API wrapper. The atlassian-python-api library provides a simple and convenient way to interact with Atlassian products (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python. It is based on the official REST APIs of these products and by community for Atlassian (3 weeks ago)
