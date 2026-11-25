@@ -43,11 +43,11 @@ My current focus areas include:
 
 #### 👯 Check out my recent followers
 
+- [kpopdev](https://github.com/kpopdev)
 - [qian0817](https://github.com/qian0817)
 - [lhzds](https://github.com/lhzds)
 - [vildan-seker](https://github.com/vildan-seker)
 - [Linden1113](https://github.com/Linden1113)
-- [jackeyfaker77](https://github.com/jackeyfaker77)
 
 #### 🔨 Check out my recent pull requests
 
