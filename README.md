@@ -22,7 +22,7 @@ My current focus areas include:
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 weeks ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 weeks ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (3 weeks ago)
-- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (4 weeks ago)
+- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 month ago)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift (1 month ago)
 
 #### 🌱 Check out my recent projects
@@ -52,8 +52,8 @@ My current focus areas include:
 #### 🔨 Check out my recent pull requests
 
 - [[Data] Support multiple consumers per streaming split](https://github.com/ray-project/ray/pull/68340) on [ray-project/ray](https://github.com/ray-project/ray) (1 week ago)
-- [subnet: clear hybrid topology when configuration is removed](https://github.com/cilium/cilium/pull/49875) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [datapath: reconcile hybrid routes after topology changes](https://github.com/cilium/cilium/pull/49874) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
+- [subnet: clear hybrid topology when configuration is removed](https://github.com/cilium/cilium/pull/49875) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
+- [datapath: reconcile hybrid routes after topology changes](https://github.com/cilium/cilium/pull/49874) on [cilium/cilium](https://github.com/cilium/cilium) (3 weeks ago)
 - [图解 Git tips：36 个常用技巧](https://github.com/OneSizeFitsQuorum/git-tips/pull/3) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (3 weeks ago)
 - [[Data] Avoid whole-block copies when batching multi-chunk Arrow inputs](https://github.com/ray-project/ray/pull/67672) on [ray-project/ray](https://github.com/ray-project/ray) (3 weeks ago)
 
